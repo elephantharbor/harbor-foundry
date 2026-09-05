@@ -4,9 +4,9 @@
   "description": "Software venture creation.",
   "mission": "Find weak or dated incumbent software markets, validate opportunities to replace them, and build substantial new software businesses where evidence warrants it.",
   "status": "Building",
-  "statusDetail": "One operating venture and one active validation sprint. Hunt pipeline currently cold after EMPTY screens.",
+  "statusDetail": "One operating venture and one active validation sprint. Hunt pipeline currently cold after No candidates (EMPTY) screens.",
   "owner": "Calder (Harbor Foundry - CEO)",
-  "lastUpdated": "2026-09-05T11:51:00-05:00",
+  "lastUpdated": "2026-09-05T12:08:18-05:00",
   "headlineMetrics": [
     {
       "label": "Operating ventures",
@@ -21,7 +21,7 @@
     {
       "label": "Prospects under research",
       "value": "0",
-      "hint": "Hunt pipeline cold after EMPTY screens Sep 3–4"
+      "hint": "Hunt pipeline cold after No candidates (EMPTY) screens Sep 3–4"
     },
     {
       "label": "Awaiting approval",
@@ -30,12 +30,12 @@
     }
   ],
   "currentObjective": "Find dated paid software customers dislike, validate a modern replacement, and build only where evidence warrants.",
-  "currentStatusBrief": "Hunt pipeline is cold after two EMPTY screens. Setaside is live on Etsy ($24 self-employed books) with $0 sales so far. Bullhorn → Latch sprint is in build under Wren (prototype owns search → candidate → job → submit); interviews deferred — not a build gate. No Proceed/Retarget/Kill yet.",
+  "currentStatusBrief": "Hunt pipeline is cold after two No candidates (EMPTY) screens. Setaside is live on Etsy ($24 self-employed books) with $0 sales so far. Bullhorn → Latch sprint is in build under Wren (prototype owns search → candidate → job → submit); interviews deferred — not a build gate. No Proceed/Retarget/Kill yet.",
   "latestLesson": {
     "experience": "Screens keep dying when the incumbent already has a vendor-owned modern successor or leftover overlays (Eagle→Propello; Concur NextGen class).",
     "evidence": "EMPTY hunt outcomes after occupancy looked promising.",
     "learning": "Occupancy alone is not a kill — but a foothold that cannot become the desk system of record is.",
-    "change": "Scout/challenge keep destination-SoR potential as a hard filter, not just “people hate this product.”"
+    "change": "Scout/challenge keep destination system of record (SoR) potential as a hard filter, not just “people hate this product.”"
   },
   "needsHumanAction": false,
   "humanAction": null,

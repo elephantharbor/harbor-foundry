@@ -127,9 +127,13 @@
 
     const items = (s.pipelineItems || [])
       .map((it) => {
+        const extraBadge = it.badge
+          ? `<span class="badge badge-empty">${esc(it.badge)}</span>`
+          : "";
         return `<div class="item-card">
           <div class="head">
             <h3 class="title">${esc(it.name)}</h3>
+            ${extraBadge}
             ${statusBadge(it.status)}
             <span class="badge badge-empty">${esc(it.stage)}</span>
           </div>
@@ -152,10 +156,12 @@
     const empties = (rej.emptyScreens || [])
       .map((e) => {
         const chips = (e.names || []).map((n) => `<span class="chip">${esc(n)}</span>`).join("");
+        const pass = e.label || e.id || "";
         return `<div class="item-card">
           <div class="head">
-            <h3 class="title">${esc(e.label)}</h3>
+            <h3 class="title">No candidates</h3>
             <span class="badge badge-empty">EMPTY</span>
+            <span class="muted">${esc(pass)}</span>
           </div>
           <div class="chip-list">${chips}</div>
           <p class="plain" style="margin-top:8px">${esc(e.why)}</p>
@@ -187,7 +193,7 @@
         </div>
         ${concur}
       </div>
-      <h2 class="section-title" style="margin-top:16px">EMPTY screens</h2>
+      <h2 class="section-title" style="margin-top:16px">No candidates <span class="dim">(EMPTY)</span></h2>
       ${empties}
       <div class="card">
         <h2>Institutional summary</h2>

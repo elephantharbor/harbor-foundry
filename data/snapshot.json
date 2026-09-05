@@ -1,6 +1,6 @@
 {
   "mission": "Find dated paid software customers dislike, validate a modern replacement destination, and build independent ventures only where evidence warrants substantial durable economic value.",
-  "lastUpdated": "2026-09-05T11:51:00-05:00",
+  "lastUpdated": "2026-09-05T12:08:18-05:00",
   "cycle": "Cycle 3",
   "metrics": {
     "researching": 0,
@@ -13,7 +13,7 @@
   },
   "needsHumanAttention": [],
   "currentObjective": "Build and operate independent ventures that create substantial durable economic value — validate by building, kill weak theses fast, only sprint what Thomas greenlights.",
-  "currentStatus": "Hunt pipeline is cold after two EMPTY screens (Sep 3–4). Setaside is the only live product — Etsy listing active at $24, $0 sales so far (Sable). Latch (Bullhorn staffing ATS) is in a Thomas-approved validation sprint under Wren: prototype owns search → candidate → job → submit as the start of a new system of record; interviews deferred; no Proceed / Retarget / Kill yet. Nothing awaiting Thomas approval.",
+  "currentStatus": "Hunt pipeline is cold after two No candidates (EMPTY) screens (Sep 3–4). Setaside is the only live product — Etsy listing active at $24, $0 sales so far (Sable). Latch (Bullhorn staffing ATS) is in a Thomas-approved validation sprint under Wren: prototype owns search → candidate → job → submit as the start of a new system of record; interviews deferred; no Proceed / Retarget / Kill yet. Nothing awaiting Thomas approval.",
   "pipelineStages": [
     {
       "id": "scout",
@@ -87,7 +87,8 @@
       "status": "Waiting on evidence",
       "summary": "Unstaffed nomination from the 2026-09-02 lock. Not Active or Sprint until a Thomas-approved memo. Do not recrawl until staffed.",
       "owner": "Calder",
-      "updated": "2026-09-02"
+      "updated": "2026-09-02",
+      "badge": "unstaffed nomination"
     },
     {
       "id": "primavera-p6",
@@ -97,7 +98,8 @@
       "status": "Waiting on evidence",
       "summary": "Unstaffed nomination from the 2026-09-02 lock. Not Active or Sprint until a Thomas-approved memo. Do not recrawl until staffed.",
       "owner": "Calder",
-      "updated": "2026-09-02"
+      "updated": "2026-09-02",
+      "badge": "unstaffed nomination"
     }
   ],
   "ventures": [
@@ -146,7 +148,7 @@
       "wedge": "Staffing recruiters still live in Bullhorn for candidates, jobs, and submissions, but daily search→submit feels slow and interrupted. Latch tests whether a fast modern desk that owns the submission record can become the start of a replacement staffing system of record — not a helper that writes back into Bullhorn.",
       "incumbent": "Bullhorn (staffing ATS + CRM)",
       "approved": "Thomas 2026-09-03 (in principle, with binding adjustments)",
-      "productShape": "Prototype: search → open candidate → match job → submit; submissions owned in Latch as the beginning of a new SoR — not a Bullhorn plugin / Marketplace parser / writeback overlay.",
+      "productShape": "Prototype: search → open candidate → match job → submit; submissions owned in Latch as the beginning of a new system of record (SoR) — not a Bullhorn plugin / Marketplace parser / writeback overlay.",
       "interviews": "Deferred. Not a gate for further build. No outreach until a later rail.",
       "decision": "No Proceed / Retarget / Kill yet. Calder still requires real evidence later.",
       "cap": "$0 where practical; dummy data only; no Bullhorn login.",
@@ -165,7 +167,7 @@
       },
       {
         "name": "WebPT",
-        "reason": "SOAP 2.0 Daily Notes shipped Aug 2025; leftover is billing/RCM, not clinical SoR. No PHI."
+        "reason": "SOAP 2.0 Daily Notes shipped Aug 2025; leftover is billing/RCM, not clinical system of record (SoR). No PHI."
       },
       {
         "name": "ADP Workforce Now",
@@ -181,13 +183,31 @@
       {
         "id": "2026-09-03b",
         "label": "EMPTY 03b",
-        "names": ["Munis", "Cetec", "CounterPoint", "Crunchtime", "Aljex", "Procare", "PestPac", "HawkSoft"],
+        "names": [
+          "Munis",
+          "Cetec",
+          "CounterPoint",
+          "Crunchtime",
+          "Aljex",
+          "Procare",
+          "PestPac",
+          "HawkSoft"
+        ],
         "why": "RFP reach, liked product, vendor-own modern replacement, or destination closed. Prefer empty over leftover overlay."
       },
       {
         "id": "2026-09-04",
         "label": "EMPTY 04",
-        "names": ["Jonas", "MarketSharp", "Fishbowl", "BisTrack", "simPRO", "e-Builder", "PlanSwift", "McCormick"],
+        "names": [
+          "Jonas",
+          "MarketSharp",
+          "Fishbowl",
+          "BisTrack",
+          "simPRO",
+          "e-Builder",
+          "PlanSwift",
+          "McCormick"
+        ],
         "why": "Liked/weak dislike, same-destination collapse, leftover estimating, or RFP capital-owner. Prefer EMPTY over weak nominations."
       }
     ],
@@ -199,7 +219,7 @@
       "title": "Bullhorn → Latch (staffed sprint)",
       "evidence": "Challenge red-team named risks (not a veto): Amplify Search & Match already occupies AI search on Pro/Max; Starter/Core leftover is Boolean/speed, not a missing search product; a Marketplace parser or CSV writeback into Bullhorn has no path to a staffing system of record. Occupancy of other staffing ATS is demand, not a kill.",
       "interpretation": "Credible enough for a $0 validation sprint if the prototype is a new system of record — not a Marketplace overlay. Calder did not treat Challenge as a veto.",
-      "decision": "Thomas approved a validation sprint with adjustments; Wren owns Latch (search → candidate → job → submit as the beginning of a new SoR). Interviews deferred; build continues at $0. No Proceed / Retarget / Kill yet — Challenge file remains risk input for later, not a close."
+      "decision": "Thomas approved a validation sprint with adjustments; Wren owns Latch (search → candidate → job → submit as the beginning of a new system of record (SoR)). Interviews deferred; build continues at $0. No Proceed / Retarget / Kill yet — Challenge file remains risk input for later, not a close."
     },
     {
       "id": "concur-closed",
@@ -241,7 +261,7 @@
     {
       "id": "occupancy-vs-sor",
       "experience": "Occupancy looked like a kill; footholds looked like openings.",
-      "evidence": "EMPTY and closed screens where vendor successors or overlays blocked a Harbor SoR (Eagle→Propello, Concur NextGen class).",
+      "evidence": "EMPTY and closed screens where vendor successors or overlays blocked a Harbor system of record (SoR) (Eagle→Propello, Concur NextGen class).",
       "learning": "Occupancy is demand evidence, not a kill. A foothold that cannot become the desk system of record is not a Harbor opening.",
       "change": "Destination-SoR potential is a hard filter before leftover features."
     },
@@ -264,11 +284,31 @@
       "$0 default — Prototype locally; no outreach / identity / paid rails without escalate."
     ],
     "team": [
-      { "role": "Harbor Foundry CEO", "name": "Calder", "owns": "Allocation, kill/graduate, investment memos, approval-gate interpretation." },
-      { "role": "Harbor Scout", "name": "Nico", "owns": "Originates sprint candidates; institutional reuse; EMPTY when honest." },
-      { "role": "Harbor Challenge", "name": "Ellis", "owns": "Independent red team — not a veto." },
-      { "role": "Harbor Sprint", "name": "Wren", "owns": "Validation build (Latch now); Cycle 3 dashboard implementation." },
-      { "role": "Setaside Lead", "name": "Sable", "owns": "Only live product (Etsy Setaside)." }
+      {
+        "role": "Harbor Foundry CEO",
+        "name": "Calder",
+        "owns": "Allocation, kill/graduate, investment memos, approval-gate interpretation."
+      },
+      {
+        "role": "Harbor Scout",
+        "name": "Nico",
+        "owns": "Originates sprint candidates; institutional reuse; EMPTY when honest."
+      },
+      {
+        "role": "Harbor Challenge",
+        "name": "Ellis",
+        "owns": "Independent red team — not a veto."
+      },
+      {
+        "role": "Harbor Sprint",
+        "name": "Wren",
+        "owns": "Validation build (Latch now); Cycle 3 dashboard implementation."
+      },
+      {
+        "role": "Setaside Lead",
+        "name": "Sable",
+        "owns": "Only live product (Etsy Setaside)."
+      }
     ],
     "provenance": "Truth bound to ops INSTITUTIONAL, discovery-sprint-lock, sprint-bullhorn-approved, scout ranked EMPTY files, challenge red-teams, STRATEGY, LEDGER, Setaside product notes, and Cycle 3 challenge/dashboard blocks. Public-safe only — no secrets, no private customer IDs, no invented sales or decisions."
   },
