@@ -1,0 +1,283 @@
+{
+  "mission": "Find dated paid software customers dislike, validate a modern replacement destination, and build independent ventures only where evidence warrants substantial durable economic value.",
+  "lastUpdated": "2026-09-05T11:51:00-05:00",
+  "cycle": "Cycle 3",
+  "metrics": {
+    "researching": 0,
+    "underChallenge": 0,
+    "awaitingApproval": 0,
+    "activeSprints": 1,
+    "building": 0,
+    "operatingVentures": 1,
+    "setasideSales": "$0"
+  },
+  "needsHumanAttention": [],
+  "currentObjective": "Build and operate independent ventures that create substantial durable economic value — validate by building, kill weak theses fast, only sprint what Thomas greenlights.",
+  "currentStatus": "Hunt pipeline is cold after two EMPTY screens (Sep 3–4). Setaside is the only live product — Etsy listing active at $24, $0 sales so far (Sable). Latch (Bullhorn staffing ATS) is in a Thomas-approved validation sprint under Wren: prototype owns search → candidate → job → submit as the start of a new system of record; interviews deferred; no Proceed / Retarget / Kill yet. Nothing awaiting Thomas approval.",
+  "pipelineStages": [
+    {
+      "id": "scout",
+      "name": "Scout",
+      "owner": "Nico",
+      "description": "Cheap screen, then deepen a short list of sprint candidates from disliked paid software toward a Harbor destination.",
+      "humanGate": false
+    },
+    {
+      "id": "challenge",
+      "name": "Challenge",
+      "owner": "Ellis",
+      "description": "Independent red-team of risks and falsifying experiments. Not a veto.",
+      "humanGate": false
+    },
+    {
+      "id": "memo",
+      "name": "Investment memo",
+      "owner": "Calder",
+      "description": "Kill weak theses or write a concise memo for a validation sprint.",
+      "humanGate": false
+    },
+    {
+      "id": "awaitingApproval",
+      "name": "Awaiting Human Approval",
+      "owner": "Thomas",
+      "description": "Thomas must explicitly approve the memo before sprint staffing, meaningful engineering, or material operating resources.",
+      "humanGate": true
+    },
+    {
+      "id": "sprint",
+      "name": "Validation sprint",
+      "owner": "Wren",
+      "description": "Prototype, landing, demo; interviews only when a later rail allows.",
+      "humanGate": false
+    },
+    {
+      "id": "operating",
+      "name": "Operating",
+      "owner": "Venture lead",
+      "description": "Live product under an independent brand. Evidence of demand decides what happens next.",
+      "humanGate": false
+    }
+  ],
+  "pipelineItems": [
+    {
+      "id": "latch",
+      "name": "Latch",
+      "incumbent": "Bullhorn",
+      "stage": "sprint",
+      "status": "Building",
+      "summary": "Validation sprint — search → open candidate → match job → submit, owned in Latch as the beginning of a new staffing system of record (not a Bullhorn plugin).",
+      "owner": "Wren",
+      "updated": "2026-09-03"
+    },
+    {
+      "id": "setaside",
+      "name": "Setaside",
+      "incumbent": null,
+      "stage": "operating",
+      "status": "Operating",
+      "summary": "Only live operating product. Etsy digital download — 2026 self-employed bookkeeping spreadsheet at $24. $0 sales so far.",
+      "owner": "Sable",
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "ukg-wfc",
+      "name": "UKG Workforce Central",
+      "incumbent": "UKG Workforce Central",
+      "stage": "memo",
+      "status": "Waiting on evidence",
+      "summary": "Unstaffed nomination from the 2026-09-02 lock. Not Active or Sprint until a Thomas-approved memo. Do not recrawl until staffed.",
+      "owner": "Calder",
+      "updated": "2026-09-02"
+    },
+    {
+      "id": "primavera-p6",
+      "name": "Oracle Primavera P6",
+      "incumbent": "Oracle Primavera P6",
+      "stage": "memo",
+      "status": "Waiting on evidence",
+      "summary": "Unstaffed nomination from the 2026-09-02 lock. Not Active or Sprint until a Thomas-approved memo. Do not recrawl until staffed.",
+      "owner": "Calder",
+      "updated": "2026-09-02"
+    }
+  ],
+  "ventures": [
+    {
+      "id": "setaside",
+      "name": "Setaside",
+      "brand": "Setaside Designs",
+      "etsyShop": "SetasideDesign",
+      "status": "Operating",
+      "owner": "Sable",
+      "wedge": "One digital product for self-employed bookkeeping — 2026 spreadsheet covering 1099 / Schedule C / quarterly estimated tax, sold as Excel + Google Sheets.",
+      "tagline": "2026 books for the self-employed.",
+      "listing": {
+        "url": "https://www.etsy.com/listing/4564421940/2026-self-employed-bookkeeping",
+        "state": "Active",
+        "price": "$24",
+        "stock": 999,
+        "category": "Bookkeeping Templates (Digital)"
+      },
+      "cash": {
+        "orders": 0,
+        "sales": "$0",
+        "reviews": 0,
+        "lastVerified": "2026-09-04"
+      },
+      "books": {
+        "in": "$0",
+        "out": "$29.20",
+        "remaining": "$270.80"
+      },
+      "traffic": {
+        "shopStatsSep1to4": "5–6 visits, 0 orders, $0, 0 favorites",
+        "listingLast30Days": "13 views, 0 orders, $0, 0 favorites",
+        "dashboardLast7DaysAsOfSep4": "13 views / 11 visits / 0 orders / $0"
+      },
+      "posture": "Single SKU until first sale. No new listings without ranking evidence. No spend. Party-decor Highlight taxonomy-locked — leave it.",
+      "next": "Wait on first realized order. Escalate only if listing goes inactive, a buyer messages, or spend/identity is needed (Calder).",
+      "notes": "Customer-facing copy never uses Elephant Harbor. Gumroad remains owned-checkout backup once rails exist. Do not invent healthier numbers."
+    },
+    {
+      "id": "latch",
+      "name": "Latch",
+      "brand": "Latch",
+      "status": "Building",
+      "owner": "Wren",
+      "wedge": "Staffing recruiters still live in Bullhorn for candidates, jobs, and submissions, but daily search→submit feels slow and interrupted. Latch tests whether a fast modern desk that owns the submission record can become the start of a replacement staffing system of record — not a helper that writes back into Bullhorn.",
+      "incumbent": "Bullhorn (staffing ATS + CRM)",
+      "approved": "Thomas 2026-09-03 (in principle, with binding adjustments)",
+      "productShape": "Prototype: search → open candidate → match job → submit; submissions owned in Latch as the beginning of a new SoR — not a Bullhorn plugin / Marketplace parser / writeback overlay.",
+      "interviews": "Deferred. Not a gate for further build. No outreach until a later rail.",
+      "decision": "No Proceed / Retarget / Kill yet. Calder still requires real evidence later.",
+      "cap": "$0 where practical; dummy data only; no Bullhorn login.",
+      "next": "Keep building the prototype. Interviews stay deferred. Decision later on evidence — do not invent conversations or a Proceed/Retarget/Kill."
+    }
+  ],
+  "rejections": {
+    "closed20260903": [
+      {
+        "name": "Epicor Eagle",
+        "reason": "Propello cloud successor already ships; Eagle POS/Tablet cover special orders. Leftover overlay fail — do not recycle as contractor-lookup overlay."
+      },
+      {
+        "name": "Oracle Taleo",
+        "reason": "Fusion Recruiting Cloud already replaced Flex/legacy; sunset/migration path, not a Harbor ATS."
+      },
+      {
+        "name": "WebPT",
+        "reason": "SOAP 2.0 Daily Notes shipped Aug 2025; leftover is billing/RCM, not clinical SoR. No PHI."
+      },
+      {
+        "name": "ADP Workforce Now",
+        "reason": "Onboarding/ESS already in product on tiers; lock-in is tax filing, not a punch/time wedge."
+      }
+    ],
+    "concur": {
+      "name": "SAP Concur T&E",
+      "closed": "2026-09-02",
+      "reason": "Closed. SAP is shipping NextGen / new report UI; Harbor is not running a T&E replacement against that vendor modernization. Do not recycle."
+    },
+    "emptyScreens": [
+      {
+        "id": "2026-09-03b",
+        "label": "EMPTY 03b",
+        "names": ["Munis", "Cetec", "CounterPoint", "Crunchtime", "Aljex", "Procare", "PestPac", "HawkSoft"],
+        "why": "RFP reach, liked product, vendor-own modern replacement, or destination closed. Prefer empty over leftover overlay."
+      },
+      {
+        "id": "2026-09-04",
+        "label": "EMPTY 04",
+        "names": ["Jonas", "MarketSharp", "Fishbowl", "BisTrack", "simPRO", "e-Builder", "PlanSwift", "McCormick"],
+        "why": "Liked/weak dislike, same-destination collapse, leftover estimating, or RFP capital-owner. Prefer EMPTY over weak nominations."
+      }
+    ],
+    "institutionalSummary": "Stay dead: Afterfee; cash-hacks; Allowpath, Pipekeep, Quoin, Cartback, Nestfilm. Earlier leftover-pain / platform / Harbor-path closes remain Closed. Unstaffed (not watches): UKG Workforce Central, Oracle Primavera P6 — no Sprint until Thomas-approved memo. Screen filter learned 2026-09-03: if the vendor already ships its own modern replacement, the dated incumbent is a migration path, not a Harbor opening."
+  },
+  "evidenceDecisions": [
+    {
+      "id": "bullhorn-latch",
+      "title": "Bullhorn → Latch (staffed sprint)",
+      "evidence": "Challenge red-team named risks (not a veto): Amplify Search & Match already occupies AI search on Pro/Max; Starter/Core leftover is Boolean/speed, not a missing search product; a Marketplace parser or CSV writeback into Bullhorn has no path to a staffing system of record. Occupancy of other staffing ATS is demand, not a kill.",
+      "interpretation": "Credible enough for a $0 validation sprint if the prototype is a new system of record — not a Marketplace overlay. Calder did not treat Challenge as a veto.",
+      "decision": "Thomas approved a validation sprint with adjustments; Wren owns Latch (search → candidate → job → submit as the beginning of a new SoR). Interviews deferred; build continues at $0. No Proceed / Retarget / Kill yet — Challenge file remains risk input for later, not a close."
+    },
+    {
+      "id": "concur-closed",
+      "title": "Concur (closed class)",
+      "evidence": "Challenge aimed the then-staffed receipt-to-report prototype: wrong leftover may be Travel/policy/SI, not submit; card-first tools may have deleted the expense report; Concur already ships capture (ExpenseIt), so a camera-only demo is occupied leftover. Vendor also shipping NextGen / new report UI.",
+      "interpretation": "A Harbor T&E replacement against SAP’s own UI modernization is the wrong bet — not an occupancy kill of Ramp/Expensify, and not a Challenge veto of an open nomination.",
+      "decision": "Calder closed Concur as a sprint (2026-09-02). Do not recycle Concur."
+    },
+    {
+      "id": "empty-screens",
+      "title": "EMPTY screens (foothold ≠ destination SoR)",
+      "evidence": "When Scout returns EMPTY, Challenge does not invent a packet. Recurring reject class: leftover foothold that never becomes Harbor’s system of record — sheet/lookup/CSV overlays; vendor-own modern successors already shipping (e.g. Propello, Fusion, FieldRoutes); Harbor-path walls (RFP, kids’ data, closed same-destination markets).",
+      "interpretation": "Occupancy alone is not a kill. Empty is the honest result when no nomination clears destination-first.",
+      "decision": "Prefer EMPTY over weak overlay nominations. No invented sprint packets from empty hunts."
+    }
+  ],
+  "lessons": [
+    {
+      "id": "memo-gate",
+      "experience": "Validation work started before an explicit human go-ahead.",
+      "evidence": "Process lock 2026-09-02 made sprint staffing depend on a concise investment memo.",
+      "learning": "No dedicated validation sprint, meaningful engineering, or material spend until Thomas approves a memo.",
+      "change": "Memo gate is standing rule. Scout and Challenge still run without Thomas."
+    },
+    {
+      "id": "challenge-not-veto",
+      "experience": "Red-team felt like it could block a sprint on its own.",
+      "evidence": "Bullhorn path: Challenge named Amplify / Boolean / Marketplace risks; Calder still brought a memo; Thomas staffed Latch.",
+      "learning": "Challenge names risks and falsifying experiments; it is not a veto.",
+      "change": "Ellis red-teams; Calder decides; Ellis does not hold go/no-go."
+    },
+    {
+      "id": "continue-retired",
+      "experience": "Watch / Continue lists accumulated leftover pain without a destination.",
+      "evidence": "Status vocab collapsed to Active / Sprint / Closed (dashboard: Operating / Building / Researching / Waiting on evidence / Waiting on human action / Paused).",
+      "learning": "Leftover pain without a system-of-record path is Closed, not a watch list.",
+      "change": "Continue and Watch stay retired. Closed names reopen only on genuinely new evidence."
+    },
+    {
+      "id": "occupancy-vs-sor",
+      "experience": "Occupancy looked like a kill; footholds looked like openings.",
+      "evidence": "EMPTY and closed screens where vendor successors or overlays blocked a Harbor SoR (Eagle→Propello, Concur NextGen class).",
+      "learning": "Occupancy is demand evidence, not a kill. A foothold that cannot become the desk system of record is not a Harbor opening.",
+      "change": "Destination-SoR potential is a hard filter before leftover features."
+    },
+    {
+      "id": "no-fake-loads",
+      "experience": "Pressure to fill pipeline and dashboards with weak nominations or fake health.",
+      "evidence": "EMPTY ranked files 2026-09-03b and 2026-09-04; Setaside $0 sales shown honestly.",
+      "learning": "Prefer EMPTY over weak overlays. Do not invent sales, interviews, or Proceed/Retarget/Kill.",
+      "change": "Public tiles bind to verified rows only; unknowns stay unknown."
+    }
+  ],
+  "docs": {
+    "howItWorks": [
+      "Mission — Substantial durable economic value inside the observation window; cash matters, but so do durable bets.",
+      "Method — Vulnerability-first discovery: disliked paid software → destination platform → entry wedge → cheap screen → deepen → challenge → memo → Thomas gate → build to learn.",
+      "Statuses — Operating / Building / Researching / Waiting on evidence / Waiting on human action / Paused (pipeline statuses Active / Sprint / Closed underneath). Continue and Watch are dead.",
+      "Human gate — Thomas approves sprint memos; Scout and Challenge kill weak ideas without him.",
+      "Ventures — Independent brands (Setaside is Setaside; Latch is Latch). Elephant Harbor stays parent/background.",
+      "Kill discipline — Closed names stay closed; reopen only on new evidence. Afterfee stays dead.",
+      "$0 default — Prototype locally; no outreach / identity / paid rails without escalate."
+    ],
+    "team": [
+      { "role": "Harbor Foundry CEO", "name": "Calder", "owns": "Allocation, kill/graduate, investment memos, approval-gate interpretation." },
+      { "role": "Harbor Scout", "name": "Nico", "owns": "Originates sprint candidates; institutional reuse; EMPTY when honest." },
+      { "role": "Harbor Challenge", "name": "Ellis", "owns": "Independent red team — not a veto." },
+      { "role": "Harbor Sprint", "name": "Wren", "owns": "Validation build (Latch now); Cycle 3 dashboard implementation." },
+      { "role": "Setaside Lead", "name": "Sable", "owns": "Only live product (Etsy Setaside)." }
+    ],
+    "provenance": "Truth bound to ops INSTITUTIONAL, discovery-sprint-lock, sprint-bullhorn-approved, scout ranked EMPTY files, challenge red-teams, STRATEGY, LEDGER, Setaside product notes, and Cycle 3 challenge/dashboard blocks. Public-safe only — no secrets, no private customer IDs, no invented sales or decisions."
+  },
+  "approvalHistory": [
+    {
+      "date": "2026-09-03",
+      "subject": "Bullhorn → Latch validation sprint",
+      "approver": "Thomas",
+      "summary": "Approved in principle with binding adjustments (fast cohesive UX; Starter/Core and Pro/Max; conversations later; Proceed/Retarget/Kill on evidence). Afternoon amendment: interviews deferred; keep building Latch at $0."
+    }
+  ]
+}

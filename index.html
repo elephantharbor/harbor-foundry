@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Harbor Foundry — Operating dashboard</title>
+  <meta name="description" content="Harbor Foundry operating dashboard — venture pipeline, evidence, and lessons." />
+  <link rel="stylesheet" href="static/styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="mark">HF</span>
+      <div>
+        <h1>Harbor Foundry</h1>
+        <p class="sub">Operating dashboard · Cycle 3</p>
+      </div>
+    </div>
+    <div class="top-meta">
+      <span class="badge badge-foundry">FOUNDRY</span>
+      <span class="muted" id="last-updated">—</span>
+    </div>
+  </header>
+
+  <nav class="wayhome" aria-label="Way home">
+    <a href="https://elephantharbor.github.io/">Elephant Harbor / Portfolio</a>
+    <span class="sep" aria-hidden="true">/</span>
+    <a href="https://elephantharbor.github.io/harbor-capital-desk/">Capital</a>
+    <a href="https://elephantharbor.github.io/#presence">Presence</a>
+    <a class="active" href="./" aria-current="page">Foundry</a>
+  </nav>
+
+  <nav class="nav" id="nav" aria-label="Primary views">
+    <button type="button" data-view="overview" class="active">Overview</button>
+    <button type="button" data-view="pipeline">Pipeline</button>
+    <button type="button" data-view="ventures">Ventures</button>
+    <button type="button" data-view="evidence">Evidence &amp; Decisions</button>
+    <button type="button" data-view="lessons">Lessons</button>
+    <button type="button" data-view="docs">Docs</button>
+  </nav>
+
+  <main id="app">
+    <p class="loading">Loading snapshot…</p>
+  </main>
+
+  <footer class="foot">
+    <span>Public-safe operating view · No secrets · Source: Foundry ops truth · Dedicated repo harbor-foundry</span>
+  </footer>
+
+  <script src="static/app.js"></script>
+</body>
+</html>

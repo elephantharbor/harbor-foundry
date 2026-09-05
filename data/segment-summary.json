@@ -1,0 +1,50 @@
+{
+  "segmentId": "foundry",
+  "segmentName": "Harbor Foundry",
+  "description": "Software venture creation.",
+  "mission": "Find weak or dated incumbent software markets, validate opportunities to replace them, and build substantial new software businesses where evidence warrants it.",
+  "status": "Building",
+  "statusDetail": "One operating venture and one active validation sprint. Hunt pipeline currently cold after EMPTY screens.",
+  "owner": "Calder (Harbor Foundry - CEO)",
+  "lastUpdated": "2026-09-05T11:51:00-05:00",
+  "headlineMetrics": [
+    {
+      "label": "Operating ventures",
+      "value": "1",
+      "hint": "Setaside Designs on Etsy — live, $0 sales so far"
+    },
+    {
+      "label": "Active validation sprints",
+      "value": "1",
+      "hint": "Bullhorn → Latch (Thomas-approved; interviews deferred)"
+    },
+    {
+      "label": "Prospects under research",
+      "value": "0",
+      "hint": "Hunt pipeline cold after EMPTY screens Sep 3–4"
+    },
+    {
+      "label": "Awaiting approval",
+      "value": "0",
+      "hint": "No investment memos pending Thomas"
+    }
+  ],
+  "currentObjective": "Find dated paid software customers dislike, validate a modern replacement, and build only where evidence warrants.",
+  "currentStatusBrief": "Hunt pipeline is cold after two EMPTY screens. Setaside is live on Etsy ($24 self-employed books) with $0 sales so far. Bullhorn → Latch sprint is in build under Wren (prototype owns search → candidate → job → submit); interviews deferred — not a build gate. No Proceed/Retarget/Kill yet.",
+  "latestLesson": {
+    "experience": "Screens keep dying when the incumbent already has a vendor-owned modern successor or leftover overlays (Eagle→Propello; Concur NextGen class).",
+    "evidence": "EMPTY hunt outcomes after occupancy looked promising.",
+    "learning": "Occupancy alone is not a kill — but a foothold that cannot become the desk system of record is.",
+    "change": "Scout/challenge keep destination-SoR potential as a hard filter, not just “people hate this product.”"
+  },
+  "needsHumanAction": false,
+  "humanAction": null,
+  "dashboardUrl": "https://elephantharbor.github.io/harbor-foundry/",
+  "dashboardState": "live",
+  "publicLinks": [
+    {
+      "label": "Foundry operating dashboard",
+      "url": "https://elephantharbor.github.io/harbor-foundry/"
+    }
+  ]
+}
