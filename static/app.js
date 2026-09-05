@@ -87,7 +87,7 @@
         <div class="kpi"><div class="label">Active sprints</div><div class="val">${esc(m.activeSprints)}</div><div class="hint">Staffed validation</div></div>
         <div class="kpi"><div class="label">Operating ventures</div><div class="val">${esc(m.operatingVentures)}</div><div class="hint">Live products</div></div>
         <div class="kpi"><div class="label">Setaside sales</div><div class="val">${esc(m.setasideSales)}</div><div class="hint">Cash received</div></div>
-        <div class="kpi"><div class="label">Building (count)</div><div class="val">${esc(m.building)}</div><div class="hint">Separate from sprint staff</div></div>
+        <div class="kpi"><div class="label">Non-sprint builds</div><div class="val">${esc(m.building)}</div><div class="hint">Builds outside active validation sprints</div></div>
       </div>
       <div class="grid grid-2">
         <div class="card">
