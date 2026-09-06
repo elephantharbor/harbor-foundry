@@ -57,16 +57,15 @@
 
   
   function renderNextUp(nextUp) {
-    const items = (nextUp && nextUp.items) || [];
+    const items = ((nextUp && nextUp.items) || []).slice(0, 3);
     if (!items.length) {
-      return `<div class="card"><h2>Next up</h2><div class="empty">Nothing scheduled</div></div>`;
+      return `<div class="next-up empty" style="margin-top:10px"><div class="next-up-title">Next up</div><p class="next-up-empty">Nothing scheduled.</p></div>`;
     }
-    const rows = items.slice(0, 3).map((it) => {
-      let when = esc(it.scheduleLabel || "");
+    const lis = items.map((it) => {
+      let when = "—";
       if (it.nextRunAt) {
         try {
-          const d = new Date(it.nextRunAt);
-          when = d.toLocaleString("en-US", {
+          when = new Date(it.nextRunAt).toLocaleString("en-US", {
             timeZone: "America/Chicago",
             weekday: "short",
             month: "short",
@@ -75,12 +74,18 @@
             minute: "2-digit",
             timeZoneName: "short",
           });
-        } catch (_) {}
+        } catch (_) {
+          when = String(it.nextRunAt);
+        }
       }
-      const owner = it.owner ? `<div class="dim" style="font-size:11px">${esc(it.owner)}</div>` : "";
-      return `<div class="row" style="margin:8px 0"><div class="k">${esc(it.title)}</div><div class="v">${esc(when)}${owner}</div></div>`;
+      const meta = [it.scheduleLabel, it.owner].filter(Boolean).map(esc).join(" · ");
+      return `<li>
+          <div class="nu-title">${esc(it.title || "—")}</div>
+          <div class="nu-when">${esc(when)}</div>
+          ${meta ? `<div class="nu-meta">${meta}</div>` : ""}
+        </li>`;
     }).join("");
-    return `<div class="card"><h2>Next up</h2><p class="dim" style="margin:0 0 8px;font-size:11px">Next scheduled Foundry routines (America/Chicago).</p>${rows}</div>`;
+    return `<div class="next-up" style="margin-top:10px"><div class="next-up-title">Next up</div><p class="next-up-help">America/Chicago · refreshes after each routine run</p><ol>${lis}</ol></div>`;
   }
 
 function renderOverview(s) {
