@@ -6,7 +6,7 @@
   "status": "Building",
   "statusDetail": "One operating venture and one active validation sprint. Hunt pipeline currently cold after No candidates (EMPTY) screens.",
   "owner": "Calder (Harbor Foundry - CEO)",
-  "lastUpdated": "2026-09-05T12:08:18-05:00",
+  "lastUpdated": "2026-09-06T14:31:20-05:00",
   "headlineMetrics": [
     {
       "label": "Operating ventures",
@@ -47,5 +47,28 @@
       "url": "https://elephantharbor.github.io/harbor-foundry/"
     }
   ],
-  "freshnessNote": "Manual Foundry ops feed. Refresh owner: Calder (CEO) / Fernando (Ops). lastUpdated = last Foundry publish of this summary."
+  "freshnessNote": "Manual Foundry ops feed. Refresh owner: Calder (CEO) / Fernando (Ops). lastUpdated = last Foundry publish of this summary.",
+  "nextUp": {
+    "items": [
+      {
+        "title": "Foundry operations pre-brief",
+        "nextRunAt": "2026-09-07T07:30:00-05:00",
+        "scheduleLabel": "Weekdays 7:30 AM CT",
+        "owner": "Fernando (Harbor Foundry - Ops)"
+      },
+      {
+        "title": "Foundry morning brief",
+        "nextRunAt": "2026-09-07T08:00:00-05:00",
+        "scheduleLabel": "Weekdays 8:00 AM CT",
+        "owner": "Calder (Harbor Foundry - CEO)"
+      },
+      {
+        "title": "Scout weekday hunt",
+        "nextRunAt": "2026-09-07T08:09:00-05:00",
+        "scheduleLabel": "Weekdays 8:09 AM CT",
+        "owner": "Calder \u2192 Nico (Harbor Foundry - Scout)"
+      }
+    ],
+    "lastUpdated": "2026-09-06T14:31:20-05:00"
+  }
 }

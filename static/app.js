@@ -55,7 +55,35 @@
     });
   }
 
-  function renderOverview(s) {
+  
+  function renderNextUp(nextUp) {
+    const items = (nextUp && nextUp.items) || [];
+    if (!items.length) {
+      return `<div class="card"><h2>Next up</h2><div class="empty">Nothing scheduled</div></div>`;
+    }
+    const rows = items.slice(0, 3).map((it) => {
+      let when = esc(it.scheduleLabel || "");
+      if (it.nextRunAt) {
+        try {
+          const d = new Date(it.nextRunAt);
+          when = d.toLocaleString("en-US", {
+            timeZone: "America/Chicago",
+            weekday: "short",
+            month: "short",
+            day: "numeric",
+            hour: "numeric",
+            minute: "2-digit",
+            timeZoneName: "short",
+          });
+        } catch (_) {}
+      }
+      const owner = it.owner ? `<div class="dim" style="font-size:11px">${esc(it.owner)}</div>` : "";
+      return `<div class="row" style="margin:8px 0"><div class="k">${esc(it.title)}</div><div class="v">${esc(when)}${owner}</div></div>`;
+    }).join("");
+    return `<div class="card"><h2>Next up</h2><p class="dim" style="margin:0 0 8px;font-size:11px">Next scheduled Foundry routines (America/Chicago).</p>${rows}</div>`;
+  }
+
+function renderOverview(s) {
     const m = s.metrics || {};
     const attention = s.needsHumanAttention || [];
     let attentionHtml;
@@ -89,6 +117,7 @@
         <div class="kpi"><div class="label">Setaside sales</div><div class="val">${esc(m.setasideSales)}</div><div class="hint">Cash received</div></div>
         <div class="kpi"><div class="label">Non-sprint builds</div><div class="val">${esc(m.building)}</div><div class="hint">Builds outside active validation sprints</div></div>
       </div>
+      ${renderNextUp(s.nextUp)}
       <div class="grid grid-2">
         <div class="card">
           <h2>Current objective</h2>
