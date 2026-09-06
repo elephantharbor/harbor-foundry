@@ -6,7 +6,7 @@
   "status": "Building",
   "statusDetail": "One operating venture and one active validation sprint. Hunt pipeline currently cold after No candidates (EMPTY) screens.",
   "owner": "Calder (Harbor Foundry - CEO)",
-  "lastUpdated": "2026-09-06T14:31:20-05:00",
+  "lastUpdated": "2026-09-06T14:35:28-05:00",
   "headlineMetrics": [
     {
       "label": "Operating ventures",
@@ -69,6 +69,6 @@
         "owner": "Calder \u2192 Nico (Harbor Foundry - Scout)"
       }
     ],
-    "lastUpdated": "2026-09-06T14:31:20-05:00"
+    "lastUpdated": "2026-09-06T14:35:28-05:00"
   }
 }
