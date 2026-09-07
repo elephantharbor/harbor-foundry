@@ -4,9 +4,9 @@
   "description": "Software venture creation.",
   "mission": "Find weak or dated incumbent software markets, validate opportunities to replace them, and build substantial new software businesses where evidence warrants it.",
   "status": "Building",
-  "statusDetail": "One operating venture (Setaside). Latch validation sprint temporarily paused by Thomas \u2014 not Closed/Kill. Hunt pipeline cold.",
+  "statusDetail": "One operating venture (Setaside). Latch validation sprint temporarily paused by Thomas \u2014 not Closed/Kill. Hunt pipeline cold after EMPTY screens Sep 3\u20134 and Monday Sep 7.",
   "owner": "Calder (Harbor Foundry - CEO)",
-  "lastUpdated": "2026-09-07T08:18:54-05:00",
+  "lastUpdated": "2026-09-07T08:46:00-05:00",
   "headlineMetrics": [
     {
       "label": "Operating ventures",
@@ -21,7 +21,7 @@
     {
       "label": "Prospects under research",
       "value": "0",
-      "hint": "Hunt pipeline cold after No candidates (EMPTY) screens Sep 3\u20134"
+      "hint": "Hunt pipeline cold after No candidates (EMPTY) screens Sep 3\u20134 and Monday Sep 7"
     },
     {
       "label": "Awaiting approval",
@@ -30,7 +30,7 @@
     }
   ],
   "currentObjective": "Find dated paid software customers dislike, validate a modern replacement, and build only where evidence warrants.",
-  "currentStatusBrief": "Latch (Bullhorn sprint) is temporarily Paused by Thomas \u2014 Wren seated but idle until Calder resumes. Setaside is the only live product (Etsy $24, $0 sales). Hunt pipeline cold after EMPTY screens Sep 3\u20134. No Proceed/Retarget/Kill yet.",
+  "currentStatusBrief": "Latch (Bullhorn sprint) is temporarily Paused by Thomas \u2014 Wren seated but idle until Calder resumes. Setaside is the only live product (Etsy $24, $0 sales). Hunt pipeline cold after EMPTY screens Sep 3\u20134 and Monday Sep 7 (eight new drops). No Proceed/Retarget/Kill yet.",
   "latestLesson": {
     "experience": "Screens keep dying when the incumbent already has a vendor-owned modern successor or leftover overlays (Eagle\u2192Propello; Concur NextGen class).",
     "evidence": "EMPTY hunt outcomes after occupancy looked promising.",
@@ -69,6 +69,6 @@
         "owner": "Calder \u2192 Nico (Harbor Foundry - Scout)"
       }
     ],
-    "lastUpdated": "2026-09-07T08:30:33-05:00"
+    "lastUpdated": "2026-09-07T09:01:54-05:00"
   }
 }
