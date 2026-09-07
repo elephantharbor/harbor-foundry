@@ -4,24 +4,24 @@
   "description": "Software venture creation.",
   "mission": "Find weak or dated incumbent software markets, validate opportunities to replace them, and build substantial new software businesses where evidence warrants it.",
   "status": "Building",
-  "statusDetail": "One operating venture and one active validation sprint. Hunt pipeline currently cold after No candidates (EMPTY) screens.",
+  "statusDetail": "One operating venture (Setaside). Latch validation sprint temporarily paused by Thomas — not Closed/Kill. Hunt pipeline cold.",
   "owner": "Calder (Harbor Foundry - CEO)",
-  "lastUpdated": "2026-09-07T08:15:54-05:00",
+  "lastUpdated": "2026-09-07T08:18:54-05:00",
   "headlineMetrics": [
     {
       "label": "Operating ventures",
       "value": "1",
-      "hint": "Setaside Designs on Etsy \u2014 live, $0 sales so far"
+      "hint": "Setaside Designs on Etsy — live, $0 sales so far"
     },
     {
       "label": "Active validation sprints",
-      "value": "1",
-      "hint": "Bullhorn \u2192 Latch (Thomas-approved; interviews deferred)"
+      "value": "0",
+      "hint": "Latch temporarily paused by Thomas (not Closed/Kill)"
     },
     {
       "label": "Prospects under research",
       "value": "0",
-      "hint": "Hunt pipeline cold after No candidates (EMPTY) screens Sep 3\u20134"
+      "hint": "Hunt pipeline cold after No candidates (EMPTY) screens Sep 3–4"
     },
     {
       "label": "Awaiting approval",
@@ -30,12 +30,12 @@
     }
   ],
   "currentObjective": "Find dated paid software customers dislike, validate a modern replacement, and build only where evidence warrants.",
-  "currentStatusBrief": "Hunt pipeline is cold after two No candidates (EMPTY) screens. Setaside is live on Etsy ($24 self-employed books) with $0 sales so far. Bullhorn \u2192 Latch sprint is in build under Wren (prototype owns search \u2192 candidate \u2192 job \u2192 submit); interviews deferred \u2014 not a build gate. No Proceed/Retarget/Kill yet.",
+  "currentStatusBrief": "Latch (Bullhorn sprint) is temporarily Paused by Thomas — Wren seated but idle until Calder resumes. Setaside is the only live product (Etsy $24, $0 sales). Hunt pipeline cold after EMPTY screens Sep 3–4. No Proceed/Retarget/Kill yet.",
   "latestLesson": {
-    "experience": "Screens keep dying when the incumbent already has a vendor-owned modern successor or leftover overlays (Eagle\u2192Propello; Concur NextGen class).",
+    "experience": "Screens keep dying when the incumbent already has a vendor-owned modern successor or leftover overlays (Eagle→Propello; Concur NextGen class).",
     "evidence": "EMPTY hunt outcomes after occupancy looked promising.",
-    "learning": "Occupancy alone is not a kill \u2014 but a foothold that cannot become the desk system of record is.",
-    "change": "Scout/challenge keep destination system of record (SoR) potential as a hard filter, not just \u201cpeople hate this product.\u201d"
+    "learning": "Occupancy alone is not a kill — but a foothold that cannot become the desk system of record is.",
+    "change": "Scout/challenge keep destination system of record (SoR) potential as a hard filter, not just “people hate this product.”"
   },
   "needsHumanAction": false,
   "humanAction": null,
@@ -66,7 +66,7 @@
         "title": "Scout weekday hunt",
         "nextRunAt": "2026-09-07T08:09:00-05:00",
         "scheduleLabel": "Weekdays 8:09 AM CT",
-        "owner": "Calder \u2192 Nico (Harbor Foundry - Scout)"
+        "owner": "Calder → Nico (Harbor Foundry - Scout)"
       }
     ],
     "lastUpdated": "2026-09-06T14:35:28-05:00"
