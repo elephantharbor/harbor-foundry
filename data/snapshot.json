@@ -1,6 +1,6 @@
 {
   "mission": "Find dated paid software customers dislike, validate a modern replacement destination, and build independent ventures only where evidence warrants substantial durable economic value.",
-  "lastUpdated": "2026-09-07T08:46:00-05:00",
+  "lastUpdated": "2026-09-09T16:57:16-05:00",
   "cycle": "Cycle 3",
   "metrics": {
     "researching": 0,
@@ -13,7 +13,7 @@
   },
   "needsHumanAttention": [],
   "currentObjective": "Build and operate independent ventures that create substantial durable economic value \u2014 validate by building, kill weak theses fast, only sprint what Thomas greenlights.",
-  "currentStatus": "Hunt pipeline remains cold after Monday 2026-09-07 EMPTY screen (eight new drops). Setaside operating at $24, $0 sales (Sable). Latch (Bullhorn) validation sprint remains temporarily paused by Thomas \u2014 Wren holds; assets preserved; not Kill. UKG WFC and Primavera P6 remain unstaffed nominations. Afterfee stays dead.",
+  "currentStatus": "Hunt pipeline remains cold after Wednesday 2026-09-09 EMPTY screen (eight new drops). Setaside operating at $24, $0 sales (Sable). Latch (Bullhorn) validation sprint remains temporarily paused by Thomas \u2014 Wren holds; assets preserved; not Kill. UKG WFC and Primavera P6 remain unstaffed nominations. Afterfee stays dead.",
   "pipelineStages": [
     {
       "id": "scout",
@@ -234,9 +234,24 @@
           "Made2Manage"
         ],
         "why": "Liked/weak dislike, PHI/DRP Harbor-path, vendor-own modern replacement, or closed JobBOSS/Cetec manufacturing destination. Prefer EMPTY over weak nominations."
+      },
+      {
+        "id": "2026-09-09",
+        "label": "EMPTY 09",
+        "names": [
+          "Cyrious Control",
+          "DockMaster",
+          "Tabs3",
+          "Coupa",
+          "CargoWise",
+          "Ekos",
+          "Deacom",
+          "Point of Rental"
+        ],
+        "why": "Vendor-own modern successor (CoreBridge, CargoWise Next, Clarity 2.0), liked/weak dislike, thin chorus, closed legal/freight/manufacturing/rental destination, or enterprise Harbor-path. Prefer EMPTY over weak nominations."
       }
     ],
-    "institutionalSummary": "Stay dead: Afterfee; cash-hacks; Allowpath, Pipekeep, Quoin, Cartback, Nestfilm. Earlier leftover-pain / platform / Harbor-path closes remain Closed. Unstaffed (not watches): UKG Workforce Central, Oracle Primavera P6 \u2014 no Sprint until Thomas-approved memo. Screen filter learned 2026-09-03: if the vendor already ships its own modern replacement, the dated incumbent is a migration path, not a Harbor opening."
+    "institutionalSummary": "Stay dead: Afterfee; cash-hacks; Allowpath, Pipekeep, Quoin, Cartback, Nestfilm. Earlier leftover-pain / platform / Harbor-path closes remain Closed, including EMPTY screens through 2026-09-09. Unstaffed (not watches): UKG Workforce Central, Oracle Primavera P6 \u2014 no Sprint until Thomas-approved memo. Screen filter learned 2026-09-03: if the vendor already ships its own modern replacement, the dated incumbent is a migration path, not a Harbor opening."
   },
   "evidenceDecisions": [
     {
@@ -267,35 +282,40 @@
       "experience": "Validation work started before an explicit human go-ahead.",
       "evidence": "Process lock 2026-09-02 made sprint staffing depend on a concise investment memo.",
       "learning": "No dedicated validation sprint, meaningful engineering, or material spend until Thomas approves a memo.",
-      "change": "Memo gate is standing rule. Scout and Challenge still run without Thomas."
+      "change": "Memo gate is standing rule. Scout and Challenge still run without Thomas.",
+      "originationDate": "2026-09-02"
     },
     {
       "id": "challenge-not-veto",
       "experience": "Red-team felt like it could block a sprint on its own.",
       "evidence": "Bullhorn path: Challenge named Amplify / Boolean / Marketplace risks; Calder still brought a memo; Thomas staffed Latch.",
       "learning": "Challenge names risks and falsifying experiments; it is not a veto.",
-      "change": "Ellis red-teams; Calder decides; Ellis does not hold go/no-go."
+      "change": "Ellis red-teams; Calder decides; Ellis does not hold go/no-go.",
+      "originationDate": "2026-09-03"
     },
     {
       "id": "continue-retired",
       "experience": "Watch / Continue lists accumulated leftover pain without a destination.",
       "evidence": "Status vocab collapsed to Active / Sprint / Closed (dashboard: Operating / Building / Researching / Waiting on evidence / Waiting on human action / Paused).",
       "learning": "Leftover pain without a system-of-record path is Closed, not a watch list.",
-      "change": "Continue and Watch stay retired. Closed names reopen only on genuinely new evidence."
+      "change": "Continue and Watch stay retired. Closed names reopen only on genuinely new evidence.",
+      "originationDate": "2026-09-01"
     },
     {
       "id": "occupancy-vs-sor",
       "experience": "Occupancy looked like a kill; footholds looked like openings.",
       "evidence": "EMPTY and closed screens where vendor successors or overlays blocked a Harbor system of record (SoR) (Eagle\u2192Propello, Concur NextGen class).",
       "learning": "Occupancy is demand evidence, not a kill. A foothold that cannot become the desk system of record is not a Harbor opening.",
-      "change": "Destination-SoR potential is a hard filter before leftover features."
+      "change": "Destination-SoR potential is a hard filter before leftover features.",
+      "originationDate": "2026-09-02"
     },
     {
       "id": "no-fake-loads",
       "experience": "Pressure to fill pipeline and dashboards with weak nominations or fake health.",
       "evidence": "EMPTY ranked files 2026-09-03b and 2026-09-04; Setaside $0 sales shown honestly.",
       "learning": "Prefer EMPTY over weak overlays. Do not invent sales, interviews, or Proceed/Retarget/Kill.",
-      "change": "Public tiles bind to verified rows only; unknowns stay unknown."
+      "change": "Public tiles bind to verified rows only; unknowns stay unknown.",
+      "originationDate": "2026-09-04"
     }
   ],
   "docs": {
@@ -373,6 +393,45 @@
         "nextRunAt": "2026-09-10T08:00:00-05:00",
         "scheduleLabel": "Weekdays 8:00 AM CT",
         "owner": "Calder (Harbor Foundry - CEO)"
+      }
+    ]
+  },
+  "sessionLog": {
+    "areaId": "foundry",
+    "areaName": "Harbor Foundry",
+    "lastUpdated": "2026-09-09T16:57:16-05:00",
+    "entries": [
+      {
+        "at": "2026-09-09T08:26:00-05:00",
+        "actor": "Nico (Harbor Foundry - Scout)",
+        "summary": "Weekday Scout hunt returned EMPTY (eight drops). Prefer EMPTY over weak overlays. No sprint candidates.",
+        "deskChanges": "INSTITUTIONAL closed names updated; Foundry pipeline stays cold; Latch still paused.",
+        "lessonId": "no-fake-loads"
+      },
+      {
+        "at": "2026-09-09T08:23:00-05:00",
+        "actor": "Calder (Harbor Foundry - CEO)",
+        "summary": "Foundry morning brief: nothing material since Monday Latch pause. Setaside still $0 sales.",
+        "deskChanges": "Next Up refreshed (shop health, ops pre-brief, morning brief)."
+      },
+      {
+        "at": "2026-09-07T08:48:00-05:00",
+        "actor": "Nico (Harbor Foundry - Scout)",
+        "summary": "Monday platform hunt EMPTY (eight drops including Soft-Pak, PioneerRx, CCC ONE class).",
+        "deskChanges": "INSTITUTIONAL + Foundry snapshot updated; no staffing.",
+        "lessonId": "no-fake-loads"
+      },
+      {
+        "at": "2026-09-07T08:15:00-05:00",
+        "actor": "Calder (Harbor Foundry - CEO)",
+        "summary": "Thomas temporarily paused the Latch (Bullhorn) validation sprint. Wren holds; prototype kept. Not Kill.",
+        "deskChanges": "Latch status Paused; active sprints 0; Notion booked Paused."
+      },
+      {
+        "at": "2026-09-06T14:31:00-05:00",
+        "actor": "Calder (Harbor Foundry - CEO)",
+        "summary": "Published Foundry Next Up after Thomas approved the shared maintenance standard.",
+        "deskChanges": "Added Next Up on overview; data/next-up/foundry.json; refresh-after-run on routines."
       }
     ]
   }

@@ -1,0 +1,39 @@
+{
+  "areaId": "foundry",
+  "areaName": "Harbor Foundry",
+  "lastUpdated": "2026-09-09T16:57:16-05:00",
+  "entries": [
+    {
+      "at": "2026-09-09T08:26:00-05:00",
+      "actor": "Nico (Harbor Foundry - Scout)",
+      "summary": "Weekday Scout hunt returned EMPTY (eight drops). Prefer EMPTY over weak overlays. No sprint candidates.",
+      "deskChanges": "INSTITUTIONAL closed names updated; Foundry pipeline stays cold; Latch still paused.",
+      "lessonId": "no-fake-loads"
+    },
+    {
+      "at": "2026-09-09T08:23:00-05:00",
+      "actor": "Calder (Harbor Foundry - CEO)",
+      "summary": "Foundry morning brief: nothing material since Monday Latch pause. Setaside still $0 sales.",
+      "deskChanges": "Next Up refreshed (shop health, ops pre-brief, morning brief)."
+    },
+    {
+      "at": "2026-09-07T08:48:00-05:00",
+      "actor": "Nico (Harbor Foundry - Scout)",
+      "summary": "Monday platform hunt EMPTY (eight drops including Soft-Pak, PioneerRx, CCC ONE class).",
+      "deskChanges": "INSTITUTIONAL + Foundry snapshot updated; no staffing.",
+      "lessonId": "no-fake-loads"
+    },
+    {
+      "at": "2026-09-07T08:15:00-05:00",
+      "actor": "Calder (Harbor Foundry - CEO)",
+      "summary": "Thomas temporarily paused the Latch (Bullhorn) validation sprint. Wren holds; prototype kept. Not Kill.",
+      "deskChanges": "Latch status Paused; active sprints 0; Notion booked Paused."
+    },
+    {
+      "at": "2026-09-06T14:31:00-05:00",
+      "actor": "Calder (Harbor Foundry - CEO)",
+      "summary": "Published Foundry Next Up after Thomas approved the shared maintenance standard.",
+      "deskChanges": "Added Next Up on overview; data/next-up/foundry.json; refresh-after-run on routines."
+    }
+  ]
+}

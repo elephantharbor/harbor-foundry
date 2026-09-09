@@ -312,20 +312,68 @@ function renderOverview(s) {
 
   function renderLessons(s) {
     const cards = (s.lessons || [])
-      .map(
-        (l) => `<div class="lesson">
+      .map((l) => {
+        const when = l.originationDate
+          ? `<div class="dim" style="font-size:11px;margin-bottom:6px">Originated ${esc(l.originationDate)}</div>`
+          : "";
+        return `<div class="lesson">
+        ${when}
         <div class="conclusion">${esc(l.learning)}</div>
         <div class="row"><div class="k">Experience</div><div class="v">${esc(l.experience)}</div></div>
         <div class="row"><div class="k">Evidence</div><div class="v">${esc(l.evidence)}</div></div>
         <div class="row"><div class="k">Learning</div><div class="v">${esc(l.learning)}</div></div>
         <div class="row"><div class="k">Change</div><div class="v">${esc(l.change)}</div></div>
-      </div>`
-      )
+      </div>`;
+      })
       .join("");
     return `
       <h2 class="section-title">Lessons</h2>
-      <p class="dim" style="margin:0 0 10px;font-size:12px">Experience → Evidence → Learning → Change. Decision-relevant only.</p>
+      <p class="dim" style="margin:0 0 10px;font-size:12px">Experience → Evidence → Learning → Change. Every lesson shows when it originated. Decision-relevant only — do not invent.</p>
       <div class="stack">${cards}</div>
+    `;
+  }
+
+  function renderSessionLog(s) {
+    const log = s.sessionLog || {};
+    const entries = log.entries || [];
+    if (!entries.length) {
+      return `
+      <h2 class="section-title">Session log</h2>
+      <div class="empty">No sessions logged yet.</div>`;
+    }
+    const rows = entries
+      .map((e) => {
+        let when = esc(e.at || "");
+        try {
+          when = new Date(e.at).toLocaleString("en-US", {
+            timeZone: "America/Chicago",
+            weekday: "short",
+            month: "short",
+            day: "numeric",
+            year: "numeric",
+            hour: "numeric",
+            minute: "2-digit",
+            timeZoneName: "short",
+          });
+        } catch (_) {}
+        const desk = e.deskChanges
+          ? `<div class="row"><div class="k">Desk</div><div class="v">${esc(e.deskChanges)}</div></div>`
+          : "";
+        const lesson = e.lessonId
+          ? `<div class="dim" style="font-size:11px;margin-top:4px">Related lesson: ${esc(e.lessonId)}</div>`
+          : "";
+        return `<div class="card" style="margin-bottom:10px">
+        <div class="dim" style="font-size:11px">${esc(when)} · ${esc(e.actor || "")}</div>
+        <div style="margin-top:6px">${esc(e.summary || "")}</div>
+        ${desk}
+        ${lesson}
+      </div>`;
+      })
+      .join("");
+    return `
+      <h2 class="section-title">Session log</h2>
+      <p class="dim" style="margin:0 0 10px;font-size:12px">Human-readable record of Foundry sessions (America/Chicago). Newest first.</p>
+      <div class="stack">${rows}</div>
     `;
   }
 
@@ -365,6 +413,7 @@ function renderOverview(s) {
     ventures: renderVentures,
     evidence: renderEvidence,
     lessons: renderLessons,
+    log: renderSessionLog,
     docs: renderDocs,
   };
 
