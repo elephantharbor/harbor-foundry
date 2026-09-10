@@ -382,47 +382,14 @@ function renderOverview(s) {
   }
 
   function renderSessionLog(s) {
-    const log = s.sessionLog || {};
-    const entries = log.entries || [];
-    if (!entries.length) {
-      return `
-      <h2 class="section-title">Session log</h2>
-      <div class="empty">No sessions logged yet.</div>`;
+    const log = s.sessionLog || { entries: [] };
+    if (window.EH && EH.renderSessionLog) {
+      return EH.renderSessionLog(log, {
+        title: "Session Log",
+        help: "Append-only, newest first. Plain English for Thomas — when, who, what was done, what changed on the desk.",
+      });
     }
-    const rows = entries
-      .map((e) => {
-        let when = esc(e.at || "");
-        try {
-          when = new Date(e.at).toLocaleString("en-US", {
-            timeZone: "America/Chicago",
-            weekday: "short",
-            month: "short",
-            day: "numeric",
-            year: "numeric",
-            hour: "numeric",
-            minute: "2-digit",
-            timeZoneName: "short",
-          });
-        } catch (_) {}
-        const desk = e.deskChanges
-          ? `<div class="row"><div class="k">Desk</div><div class="v">${esc(e.deskChanges)}</div></div>`
-          : "";
-        const lesson = e.lessonId
-          ? `<div class="dim" style="font-size:11px;margin-top:4px">Related lesson: ${esc(e.lessonId)}</div>`
-          : "";
-        return `<div class="card" style="margin-bottom:10px">
-        <div class="dim" style="font-size:11px">${esc(when)} · ${esc(e.actor || "")}</div>
-        <div style="margin-top:6px">${esc(e.summary || "")}</div>
-        ${desk}
-        ${lesson}
-      </div>`;
-      })
-      .join("");
-    return `
-      <h2 class="section-title">Session log</h2>
-      <p class="dim" style="margin:0 0 10px;font-size:12px">Human-readable record of Foundry sessions (America/Chicago). Newest first.</p>
-      <div class="stack">${rows}</div>
-    `;
+    return `<h2 class="section-title">Session Log</h2><p class="muted">Shared log helper unavailable.</p>`;
   }
 
   function renderDocs(s) {
