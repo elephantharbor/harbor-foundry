@@ -89,6 +89,16 @@
   }
 
 function renderOverview(s) {
+    const trialHost = `<div id="trial-clock" class="trial-clock-host"></div>`;
+    window.EH && EH.loadTrialClock && EH.loadTrialClock("https://elephantharbor.github.io/data/trial-clock.json")
+      .then((tc) => {
+        const el = document.getElementById("trial-clock");
+        if (el) el.outerHTML = EH.renderTrialClock(tc);
+      })
+      .catch(() => {
+        const el = document.getElementById("trial-clock");
+        if (el) el.outerHTML = EH.renderTrialClock(null);
+      });
     const m = s.metrics || {};
     const attention = s.needsHumanAttention || [];
     let attentionHtml;
@@ -108,6 +118,8 @@ function renderOverview(s) {
       .join("");
 
     return `
+      ${trialHost}
+
       <h2 class="section-title">Overview</h2>
       <div class="card">
         <h2>Mission</h2>
@@ -311,25 +323,18 @@ function renderOverview(s) {
   }
 
   function renderLessons(s) {
+    const escFn = typeof esc === "function" ? esc : (x) => String(x ?? "").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
     const cards = (s.lessons || [])
-      .map((l) => {
-        const when = l.originationDate
-          ? `<div class="dim" style="font-size:11px;margin-bottom:6px">Originated ${esc(l.originationDate)}</div>`
-          : "";
-        return `<div class="lesson">
-        ${when}
-        <div class="conclusion">${esc(l.learning)}</div>
-        <div class="row"><div class="k">Experience</div><div class="v">${esc(l.experience)}</div></div>
-        <div class="row"><div class="k">Evidence</div><div class="v">${esc(l.evidence)}</div></div>
-        <div class="row"><div class="k">Learning</div><div class="v">${esc(l.learning)}</div></div>
-        <div class="row"><div class="k">Change</div><div class="v">${esc(l.change)}</div></div>
-      </div>`;
-      })
+      .map((l) =>
+        window.EH && EH.renderLessonCard
+          ? EH.renderLessonCard(l, escFn)
+          : `<div class="lesson"><div class="conclusion">${escFn(l.learning || l.what_we_learned || "")}</div></div>`
+      )
       .join("");
     return `
       <h2 class="section-title">Lessons</h2>
-      <p class="dim" style="margin:0 0 10px;font-size:12px">Experience → Evidence → Learning → Change. Every lesson shows when it originated. Decision-relevant only — do not invent.</p>
-      <div class="stack">${cards}</div>
+      <p class="dim" style="margin:0 0 10px;font-size:12px">Capital layout · Observation → Decision → Outcome → Lesson → System change. Origination date required.</p>
+      <div class="stack">${cards || `<div class="empty"><strong>No lessons yet</strong></div>`}</div>
     `;
   }
 

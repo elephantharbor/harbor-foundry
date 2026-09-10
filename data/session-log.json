@@ -1,8 +1,15 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-09T16:57:16-05:00",
+  "lastUpdated": "2026-09-10T08:50:00-05:00",
   "entries": [
+    {
+      "at": "2026-09-10T08:50:00-05:00",
+      "actor": "Nico (Harbor Foundry - Scout)",
+      "summary": "Thursday platform hunt EMPTY (eight drops: Mitchell 1 Manager SE, PrintSmith Vision, FieldEdge, ComputerEase, Davisware Global Edge, Amicus Attorney, JD Edwards EnterpriseOne, iCIMS). Prefer EMPTY over weak overlays. No sprint candidates.",
+      "deskChanges": "INSTITUTIONAL closed 2026-09-10 EMPTY funnel; Foundry pipeline stays cold; Latch still paused; UKG WFC and P6 unstaffed untouched.",
+      "lessonId": "no-fake-loads"
+    },
     {
       "at": "2026-09-09T08:26:00-05:00",
       "actor": "Nico (Harbor Foundry - Scout)",
