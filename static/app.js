@@ -56,7 +56,20 @@
   }
 
   
-  function renderNextUp(nextUp) {
+  
+  function renderRecentHunt(h) {
+    if (!h) return "";
+    const n = h.candidateCount != null ? h.candidateCount : (h.candidates || []).length;
+    const status = h.status || h.outcome || "";
+    return `<div class="card">
+      <h2>Latest Scout hunt</h2>
+      <p class="dim" style="margin:0 0 8px;font-size:11px">${esc(h.date || "")} · ${esc(status)} · ${esc(String(n))} screened</p>
+      <p class="plain">${esc(h.synopsis || "")}</p>
+      <p class="dim" style="margin-top:8px;font-size:12px">Full per-product synopsis is on the Pipeline tab.</p>
+    </div>`;
+  }
+
+function renderNextUp(nextUp) {
     const items = ((nextUp && nextUp.items) || []).slice(0, 3);
     if (!items.length) {
       return `<div class="next-up empty" style="margin-top:10px"><div class="next-up-title">Next up</div><p class="next-up-empty">Nothing scheduled.</p></div>`;
@@ -135,6 +148,7 @@ function renderOverview(s) {
         <div class="kpi"><div class="label">Non-sprint builds</div><div class="val">${esc(m.building)}</div><div class="hint">Builds outside active validation sprints</div></div>
       </div>
       ${renderNextUp(s.nextUp)}
+      ${renderRecentHunt(s.recentHunt)}
       <div class="grid grid-2">
         <div class="card">
           <h2>Current objective</h2>
@@ -201,16 +215,45 @@ function renderOverview(s) {
       .join("");
     const empties = (rej.emptyScreens || [])
       .map((e) => {
-        const chips = (e.names || []).map((n) => `<span class="chip">${esc(n)}</span>`).join("");
         const pass = e.label || e.id || "";
+        const date = e.date ? `<span class="muted">${esc(e.date)}</span>` : `<span class="muted">${esc(pass)}</span>`;
+        const syn = e.synopsis
+          ? `<p class="plain" style="margin-top:8px">${esc(e.synopsis)}</p>`
+          : "";
+        const cands = e.candidates || [];
+        let body;
+        if (cands.length) {
+          const rows = cands
+            .map(
+              (c) => `<tr>
+              <td><strong>${esc(c.name)}</strong></td>
+              <td>${esc(c.what || "")}</td>
+              <td>${esc(c.why || "")}</td>
+              <td>${esc(c.status || "Dropped")}</td>
+            </tr>`
+            )
+            .join("");
+          body = `<div class="table-wrap" style="margin-top:8px">
+            <table class="data">
+              <thead><tr><th>Product</th><th>What it is</th><th>Why on screen / why dropped</th><th>Status</th></tr></thead>
+              <tbody>${rows}</tbody>
+            </table>
+          </div>`;
+        } else {
+          const chips = (e.names || []).map((n) => `<span class="chip">${esc(n)}</span>`).join("");
+          body = `<div class="chip-list">${chips}</div>
+          <p class="plain" style="margin-top:8px">${esc(e.why || "")}</p>`;
+        }
+        const outcome = e.outcome || "EMPTY";
         return `<div class="item-card">
           <div class="head">
-            <h3 class="title">No candidates</h3>
-            <span class="badge badge-empty">EMPTY</span>
-            <span class="muted">${esc(pass)}</span>
+            <h3 class="title">Hunt synopsis</h3>
+            <span class="badge badge-empty">${esc(outcome)}</span>
+            ${date}
           </div>
-          <div class="chip-list">${chips}</div>
-          <p class="plain" style="margin-top:8px">${esc(e.why)}</p>
+          ${syn}
+          ${body}
+          ${e.why && cands.length ? `<p class="dim" style="margin-top:8px;font-size:12px">${esc(e.why)}</p>` : ""}
         </div>`;
       })
       .join("");

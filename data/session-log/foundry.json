@@ -1,8 +1,21 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-09T16:57:16-05:00",
+  "lastUpdated": "2026-09-10T14:58:26-05:00",
   "entries": [
+    {
+      "at": "2026-09-10T14:58:26-05:00",
+      "actor": "Calder (Harbor Foundry - CEO)",
+      "summary": "Thomas directive via Wells: after every daily Foundry run, keep all desk tabs current; each Scout hunt must leave a human-readable candidate synopsis on the desk (who/what, why screened, status). Backfilled per-candidate synopses for Sep 7, 9, and 10 EMPTY hunts on Pipeline.",
+      "deskChanges": "Pipeline EMPTY cards now show per-candidate synopsis; recentHunt on snapshot; Scout/Ops cascade for standing rule."
+    },
+    {
+      "at": "2026-09-10T08:50:00-05:00",
+      "actor": "Nico (Harbor Foundry - Scout)",
+      "summary": "Thursday platform hunt EMPTY (eight drops: Mitchell 1 Manager SE, PrintSmith Vision, FieldEdge, ComputerEase, Davisware Global Edge, Amicus Attorney, JD Edwards EnterpriseOne, iCIMS). Prefer EMPTY over weak overlays. No sprint candidates.",
+      "deskChanges": "INSTITUTIONAL closed 2026-09-10 EMPTY funnel; Foundry pipeline stays cold; Latch still paused; UKG WFC and P6 unstaffed untouched.",
+      "lessonId": "no-fake-loads"
+    },
     {
       "at": "2026-09-09T08:26:00-05:00",
       "actor": "Nico (Harbor Foundry - Scout)",

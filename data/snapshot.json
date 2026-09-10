@@ -1,6 +1,6 @@
 {
   "mission": "Find dated paid software customers dislike, validate a modern replacement destination, and build independent ventures only where evidence warrants substantial durable economic value.",
-  "lastUpdated": "2026-09-10T08:50:00-05:00",
+  "lastUpdated": "2026-09-10T14:58:26-05:00",
   "cycle": "Cycle 3",
   "metrics": {
     "researching": 0,
@@ -191,19 +191,211 @@
     },
     "emptyScreens": [
       {
-        "id": "2026-09-03b",
-        "label": "EMPTY 03b",
+        "id": "2026-09-10",
+        "label": "EMPTY 10",
         "names": [
-          "Munis",
-          "Cetec",
-          "CounterPoint",
-          "Crunchtime",
-          "Aljex",
-          "Procare",
-          "PestPac",
-          "HawkSoft"
+          "Mitchell 1 Manager SE",
+          "PrintSmith Vision",
+          "FieldEdge",
+          "ComputerEase",
+          "Davisware Global Edge",
+          "Amicus Attorney",
+          "JD Edwards EnterpriseOne",
+          "iCIMS"
         ],
-        "why": "RFP reach, liked product, vendor-own modern replacement, or destination closed. Prefer empty over leftover overlay."
+        "why": "Vendor-own modern successor (Nubium, Fusion Cloud), liked/weak dislike, thin chorus, closed print/ServiceTitan/construction-accounting/legal/ATS destination, or enterprise Harbor-path. Prefer EMPTY over weak nominations.",
+        "date": "2026-09-10",
+        "outcome": "EMPTY",
+        "status": "No sprint candidates",
+        "candidates": [
+          {
+            "name": "Mitchell 1 Manager SE",
+            "what": "Auto repair shop management (estimate \u2192 repair order \u2192 invoice)",
+            "why": "Soft/majority like (~4.0\u20134.1); modern auto shop tools already occupy the cloud SMS class",
+            "status": "Dropped \u2014 not deepened"
+          },
+          {
+            "name": "PrintSmith Vision",
+            "what": "Quick-print / franchise print shop MIS",
+            "why": "Vendor ships Nubium as the modern cloud path; same print MIS destination as closed Pace",
+            "status": "Dropped \u2014 vendor successor / closed class"
+          },
+          {
+            "name": "FieldEdge",
+            "what": "HVAC / plumbing / electrical field service",
+            "why": "Majority like (~4.2); destination collapses into closed ServiceTitan class",
+            "status": "Dropped \u2014 liked / closed destination"
+          },
+          {
+            "name": "ComputerEase",
+            "what": "Construction accounting / job cost (Deltek)",
+            "why": "Majority like (~4.2); collapses into closed Sage CRE / Vista construction accounting",
+            "status": "Dropped \u2014 liked / closed destination"
+          },
+          {
+            "name": "Davisware Global Edge",
+            "what": "Commercial HVAC / food-equipment service ERP",
+            "why": "Thin review body; destination collapses into closed ServiceTitan commercial FSM",
+            "status": "Dropped \u2014 thin chorus / closed destination"
+          },
+          {
+            "name": "Amicus Attorney",
+            "what": "Legal practice management (CARET)",
+            "why": "Vintage hate is real; destination collapses into closed Clio / CosmoLex / Tabs3 legal class",
+            "status": "Dropped \u2014 closed legal class"
+          },
+          {
+            "name": "JD Edwards EnterpriseOne",
+            "what": "Manufacturing / distribution ERP (Oracle)",
+            "why": "Oracle Fusion Cloud ERP is the marketed successor \u2014 migration path, not a Harbor opening",
+            "status": "Dropped \u2014 vendor successor"
+          },
+          {
+            "name": "iCIMS",
+            "what": "Enterprise applicant tracking / talent acquisition",
+            "why": "Majority like (~4.1\u20134.2); soft enterprise gripes; Taleo-adjacent ATS Harbor-path",
+            "status": "Dropped \u2014 liked / closed ATS class"
+          }
+        ],
+        "synopsis": "2026-09-10 hunt screened 8 products. Outcome: EMPTY \u2014 no sprint candidates. Each name below shows what it is, why it was on the screen, and why it was dropped."
+      },
+      {
+        "id": "2026-09-09",
+        "label": "EMPTY 09",
+        "names": [
+          "Cyrious Control",
+          "DockMaster",
+          "Tabs3",
+          "Coupa",
+          "CargoWise",
+          "Ekos",
+          "Deacom",
+          "Point of Rental"
+        ],
+        "why": "Vendor-own modern successor (CoreBridge, CargoWise Next, Clarity 2.0), liked/weak dislike, thin chorus, closed legal/freight/manufacturing/rental destination, or enterprise Harbor-path. Prefer EMPTY over weak nominations.",
+        "date": "2026-09-09",
+        "outcome": "EMPTY",
+        "status": "No sprint candidates",
+        "candidates": [
+          {
+            "name": "Cyrious Control",
+            "what": "Sign / print shop MIS",
+            "why": "CoreBridge is the vendor modern successor",
+            "status": "Dropped \u2014 vendor successor"
+          },
+          {
+            "name": "DockMaster",
+            "what": "Marina / marine operations software",
+            "why": "Thin dislike body \u2014 not a multi-source hate-while-paying chorus",
+            "status": "Dropped \u2014 thin chorus"
+          },
+          {
+            "name": "Tabs3",
+            "what": "Legal practice / billing",
+            "why": "Majority like; destination collapses into closed Clio / CosmoLex legal class",
+            "status": "Dropped \u2014 liked / closed class"
+          },
+          {
+            "name": "Coupa",
+            "what": "Enterprise procurement / spend",
+            "why": "Clarity 2.0 modernization + enterprise Harbor-path",
+            "status": "Dropped \u2014 vendor modernization / enterprise"
+          },
+          {
+            "name": "CargoWise",
+            "what": "Freight forwarding / logistics",
+            "why": "CargoWise Next is the vendor modern path \u2014 first filter",
+            "status": "Dropped \u2014 vendor successor"
+          },
+          {
+            "name": "Ekos",
+            "what": "Craft beverage production",
+            "why": "Majority like \u2014 not a dislike-while-paying chorus",
+            "status": "Dropped \u2014 liked"
+          },
+          {
+            "name": "Deacom",
+            "what": "Process manufacturing ERP",
+            "why": "Same closed manufacturing destination class as JobBOSS / Cetec",
+            "status": "Dropped \u2014 closed manufacturing class"
+          },
+          {
+            "name": "Point of Rental",
+            "what": "Equipment rental management",
+            "why": "Same closed Wynne rental destination class",
+            "status": "Dropped \u2014 closed rental class"
+          }
+        ],
+        "synopsis": "2026-09-09 hunt screened 8 products. Outcome: EMPTY \u2014 no sprint candidates. Each name below shows what it is, why it was on the screen, and why it was dropped."
+      },
+      {
+        "id": "2026-09-07",
+        "label": "EMPTY 07",
+        "names": [
+          "Soft-Pak",
+          "PioneerRx",
+          "CCC ONE",
+          "eClinicalWorks",
+          "ChiroTouch",
+          "E2 Shop System",
+          "ePS Pace",
+          "Made2Manage"
+        ],
+        "why": "Liked/weak dislike, PHI/DRP Harbor-path, vendor-own modern replacement, or closed JobBOSS/Cetec manufacturing destination. Prefer EMPTY over weak nominations.",
+        "date": "2026-09-07",
+        "outcome": "EMPTY",
+        "status": "No sprint candidates",
+        "candidates": [
+          {
+            "name": "Soft-Pak",
+            "what": "Waste / hauling operations",
+            "why": "No multi-source dislike chorus; municipal RFP reach",
+            "status": "Dropped"
+          },
+          {
+            "name": "PioneerRx",
+            "what": "Pharmacy management",
+            "why": "Liked product; PHI / regulated Harbor-path wall",
+            "status": "Dropped \u2014 liked / PHI"
+          },
+          {
+            "name": "CCC ONE",
+            "what": "Auto insurance claims / estimating",
+            "why": "Liked; product is modern; DRP lock-in is not a Harbor SoR opening",
+            "status": "Dropped \u2014 liked / modern"
+          },
+          {
+            "name": "eClinicalWorks",
+            "what": "Ambulatory EHR",
+            "why": "Dislike is real; clinical PHI wall blocks Harbor path",
+            "status": "Dropped \u2014 PHI wall"
+          },
+          {
+            "name": "ChiroTouch",
+            "what": "Chiropractic practice software",
+            "why": "Cloud successor shipping; PHI wall",
+            "status": "Dropped \u2014 vendor successor / PHI"
+          },
+          {
+            "name": "E2 Shop System",
+            "what": "Job shop manufacturing",
+            "why": "JobBOSS\u00b2 successor path; closed JobBOSS/Cetec manufacturing class",
+            "status": "Dropped \u2014 closed manufacturing class"
+          },
+          {
+            "name": "ePS Pace",
+            "what": "Print MIS",
+            "why": "Majority like (~3.7); print destination weak for Harbor",
+            "status": "Dropped \u2014 liked"
+          },
+          {
+            "name": "Made2Manage",
+            "what": "Manufacturing ERP",
+            "why": "Closed JobBOSS/Cetec manufacturing destination class",
+            "status": "Dropped \u2014 closed manufacturing class"
+          }
+        ],
+        "synopsis": "2026-09-07 hunt screened 8 products. Outcome: EMPTY \u2014 no sprint candidates. Each name below shows what it is, why it was on the screen, and why it was dropped."
       },
       {
         "id": "2026-09-04",
@@ -221,49 +413,19 @@
         "why": "Liked/weak dislike, same-destination collapse, leftover estimating, or RFP capital-owner. Prefer EMPTY over weak nominations."
       },
       {
-        "id": "2026-09-07",
-        "label": "EMPTY 07",
+        "id": "2026-09-03b",
+        "label": "EMPTY 03b",
         "names": [
-          "Soft-Pak",
-          "PioneerRx",
-          "CCC ONE",
-          "eClinicalWorks",
-          "ChiroTouch",
-          "E2 Shop System",
-          "ePS Pace",
-          "Made2Manage"
+          "Munis",
+          "Cetec",
+          "CounterPoint",
+          "Crunchtime",
+          "Aljex",
+          "Procare",
+          "PestPac",
+          "HawkSoft"
         ],
-        "why": "Liked/weak dislike, PHI/DRP Harbor-path, vendor-own modern replacement, or closed JobBOSS/Cetec manufacturing destination. Prefer EMPTY over weak nominations."
-      },
-      {
-        "id": "2026-09-09",
-        "label": "EMPTY 09",
-        "names": [
-          "Cyrious Control",
-          "DockMaster",
-          "Tabs3",
-          "Coupa",
-          "CargoWise",
-          "Ekos",
-          "Deacom",
-          "Point of Rental"
-        ],
-        "why": "Vendor-own modern successor (CoreBridge, CargoWise Next, Clarity 2.0), liked/weak dislike, thin chorus, closed legal/freight/manufacturing/rental destination, or enterprise Harbor-path. Prefer EMPTY over weak nominations."
-      },
-      {
-        "id": "2026-09-10",
-        "label": "EMPTY 10",
-        "names": [
-          "Mitchell 1 Manager SE",
-          "PrintSmith Vision",
-          "FieldEdge",
-          "ComputerEase",
-          "Davisware Global Edge",
-          "Amicus Attorney",
-          "JD Edwards EnterpriseOne",
-          "iCIMS"
-        ],
-        "why": "Vendor-own modern successor (Nubium, Fusion Cloud), liked/weak dislike, thin chorus, closed print/ServiceTitan/construction-accounting/legal/ATS destination, or enterprise Harbor-path. Prefer EMPTY over weak nominations."
+        "why": "RFP reach, liked product, vendor-own modern replacement, or destination closed. Prefer empty over leftover overlay."
       }
     ],
     "institutionalSummary": "Stay dead: Afterfee; cash-hacks; Allowpath, Pipekeep, Quoin, Cartback, Nestfilm. Earlier leftover-pain / platform / Harbor-path closes remain Closed, including EMPTY screens through 2026-09-10. Unstaffed (not watches): UKG Workforce Central, Oracle Primavera P6 \u2014 no Sprint until Thomas-approved memo. Screen filter learned 2026-09-03: if the vendor already ships its own modern replacement, the dated incumbent is a migration path, not a Harbor opening."
@@ -414,8 +576,14 @@
   "sessionLog": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-10T08:50:00-05:00",
+    "lastUpdated": "2026-09-10T14:58:26-05:00",
     "entries": [
+      {
+        "at": "2026-09-10T14:58:26-05:00",
+        "actor": "Calder (Harbor Foundry - CEO)",
+        "summary": "Thomas directive via Wells: after every daily Foundry run, keep all desk tabs current; each Scout hunt must leave a human-readable candidate synopsis on the desk (who/what, why screened, status). Backfilled per-candidate synopses for Sep 7, 9, and 10 EMPTY hunts on Pipeline.",
+        "deskChanges": "Pipeline EMPTY cards now show per-candidate synopsis; recentHunt on snapshot; Scout/Ops cascade for standing rule."
+      },
       {
         "at": "2026-09-10T08:50:00-05:00",
         "actor": "Nico (Harbor Foundry - Scout)",
@@ -454,6 +622,63 @@
         "actor": "Calder (Harbor Foundry - CEO)",
         "summary": "Published Foundry Next Up after Thomas approved the shared maintenance standard.",
         "deskChanges": "Added Next Up on overview; data/next-up/foundry.json; refresh-after-run on routines."
+      }
+    ]
+  },
+  "recentHunt": {
+    "date": "2026-09-10",
+    "outcome": "EMPTY",
+    "status": "No sprint candidates",
+    "synopsis": "2026-09-10 hunt screened 8 products. Outcome: EMPTY \u2014 no sprint candidates. Each name below shows what it is, why it was on the screen, and why it was dropped.",
+    "candidateCount": 8,
+    "candidates": [
+      {
+        "name": "Mitchell 1 Manager SE",
+        "what": "Auto repair shop management (estimate \u2192 repair order \u2192 invoice)",
+        "why": "Soft/majority like (~4.0\u20134.1); modern auto shop tools already occupy the cloud SMS class",
+        "status": "Dropped \u2014 not deepened"
+      },
+      {
+        "name": "PrintSmith Vision",
+        "what": "Quick-print / franchise print shop MIS",
+        "why": "Vendor ships Nubium as the modern cloud path; same print MIS destination as closed Pace",
+        "status": "Dropped \u2014 vendor successor / closed class"
+      },
+      {
+        "name": "FieldEdge",
+        "what": "HVAC / plumbing / electrical field service",
+        "why": "Majority like (~4.2); destination collapses into closed ServiceTitan class",
+        "status": "Dropped \u2014 liked / closed destination"
+      },
+      {
+        "name": "ComputerEase",
+        "what": "Construction accounting / job cost (Deltek)",
+        "why": "Majority like (~4.2); collapses into closed Sage CRE / Vista construction accounting",
+        "status": "Dropped \u2014 liked / closed destination"
+      },
+      {
+        "name": "Davisware Global Edge",
+        "what": "Commercial HVAC / food-equipment service ERP",
+        "why": "Thin review body; destination collapses into closed ServiceTitan commercial FSM",
+        "status": "Dropped \u2014 thin chorus / closed destination"
+      },
+      {
+        "name": "Amicus Attorney",
+        "what": "Legal practice management (CARET)",
+        "why": "Vintage hate is real; destination collapses into closed Clio / CosmoLex / Tabs3 legal class",
+        "status": "Dropped \u2014 closed legal class"
+      },
+      {
+        "name": "JD Edwards EnterpriseOne",
+        "what": "Manufacturing / distribution ERP (Oracle)",
+        "why": "Oracle Fusion Cloud ERP is the marketed successor \u2014 migration path, not a Harbor opening",
+        "status": "Dropped \u2014 vendor successor"
+      },
+      {
+        "name": "iCIMS",
+        "what": "Enterprise applicant tracking / talent acquisition",
+        "why": "Majority like (~4.1\u20134.2); soft enterprise gripes; Taleo-adjacent ATS Harbor-path",
+        "status": "Dropped \u2014 liked / closed ATS class"
       }
     ]
   }
