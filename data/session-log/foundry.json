@@ -1,8 +1,14 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-10T14:58:26-05:00",
+  "lastUpdated": "2026-09-11T08:07:00-05:00",
   "entries": [
+    {
+      "at": "2026-09-11T08:07:00-05:00",
+      "actor": "Calder (Harbor Foundry - CEO)",
+      "summary": "Foundry morning brief: nothing material since Thu desk update. Latch still paused; Setaside $0; pipeline cold after EMPTY screens; $0 spend.",
+      "deskChanges": "Next Up refreshed (Scout hunt today 8:09, shop health 9:00, ops pre-brief Mon 7:30 CT)."
+    },
     {
       "at": "2026-09-10T14:58:26-05:00",
       "actor": "Calder (Harbor Foundry - CEO)",
