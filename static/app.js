@@ -59,34 +59,18 @@
   
   
   function renderActiveVentures(av) {
-    const items = (av && av.items) || [];
-    if (!items.length) {
-      const why = (av && (av.emptyReason || av.emptyWhy)) || "No approved sprints or operating ventures in motion.";
-      return `<div class="card"><h2>Active ventures</h2><div class="empty">${esc(why)}</div></div>`;
+    if (window.EH && EH.renderActiveVentures) {
+      const doc = Array.isArray(av)
+        ? { items: av, emptyReason: "No active Foundry ventures." }
+        : av || { items: [], emptyReason: "No active Foundry ventures." };
+      // strip outer section title duplication — Foundry overview already has section context
+      return EH.renderActiveVentures(doc, { title: "Active ventures" });
     }
-    const rows = items
-      .map((it) => {
-        const link = it.detailLink
-          ? `<div class="row"><div class="k">Detail</div><div class="v"><a href="${esc(it.detailLink)}" target="_blank" rel="noopener noreferrer">Open</a></div></div>`
-          : "";
-        return `<div class="item-card" style="margin-top:8px">
-          <div class="head">
-            <h3 class="title">${esc(it.title)}</h3>
-            ${statusBadge(it.status)}
-          </div>
-          <p class="plain">${esc(it.description || "")}</p>
-          <div class="meta-grid">
-            <div class="k">Owner</div><div class="v">${esc(it.owner || "")}</div>
-            <div class="k">Exposure</div><div class="v">${esc(it.exposure || "")}</div>
-            <div class="k">Performance</div><div class="v">${esc(it.performance || "")}</div>
-            <div class="k">Next</div><div class="v">${esc(it.nextMilestone || "")}</div>
-          </div>
-          ${link}
-        </div>`;
-      })
-      .join("");
-    const note = av && av.note ? `<p class="dim" style="margin:0 0 8px;font-size:11px">${esc(av.note)}</p>` : "";
-    return `<div class="card"><h2>Active ventures</h2>${note}${rows}</div>`;
+    const list = Array.isArray(av) ? av : (av && av.items) || [];
+    if (!list.length) {
+      return `<div class="empty"><strong>No active ventures</strong>Nothing material in motion.</div>`;
+    }
+    return `<div class="stack">${list.map((v) => `<div class="card"><h2>${esc(v.title || v.name)}</h2><p class="plain">${esc(v.description || v.wedge || "")}</p></div>`).join("")}</div>`;
   }
 
 function renderRecentHunt(h) {
