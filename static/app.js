@@ -57,7 +57,39 @@
 
   
   
-  function renderRecentHunt(h) {
+  
+  function renderActiveVentures(av) {
+    const items = (av && av.items) || [];
+    if (!items.length) {
+      const why = (av && av.emptyWhy) || "No approved sprints or operating ventures in motion.";
+      return `<div class="card"><h2>Active ventures</h2><div class="empty">${esc(why)}</div></div>`;
+    }
+    const rows = items
+      .map((it) => {
+        const link = it.detailLink
+          ? `<div class="row"><div class="k">Detail</div><div class="v"><a href="${esc(it.detailLink)}" target="_blank" rel="noopener noreferrer">Open</a></div></div>`
+          : "";
+        return `<div class="item-card" style="margin-top:8px">
+          <div class="head">
+            <h3 class="title">${esc(it.title)}</h3>
+            ${statusBadge(it.status)}
+          </div>
+          <p class="plain">${esc(it.description || "")}</p>
+          <div class="meta-grid">
+            <div class="k">Owner</div><div class="v">${esc(it.owner || "")}</div>
+            <div class="k">Exposure</div><div class="v">${esc(it.exposure || "")}</div>
+            <div class="k">Performance</div><div class="v">${esc(it.performance || "")}</div>
+            <div class="k">Next</div><div class="v">${esc(it.nextMilestone || "")}</div>
+          </div>
+          ${link}
+        </div>`;
+      })
+      .join("");
+    const note = av && av.note ? `<p class="dim" style="margin:0 0 8px;font-size:11px">${esc(av.note)}</p>` : "";
+    return `<div class="card"><h2>Active ventures</h2>${note}${rows}</div>`;
+  }
+
+function renderRecentHunt(h) {
     if (!h) return "";
     const n = h.candidateCount != null ? h.candidateCount : (h.candidates || []).length;
     const status = h.status || h.outcome || "";
@@ -148,6 +180,7 @@ function renderOverview(s) {
         <div class="kpi"><div class="label">Non-sprint builds</div><div class="val">${esc(m.building)}</div><div class="hint">Builds outside active validation sprints</div></div>
       </div>
       ${renderNextUp(s.nextUp)}
+      ${renderActiveVentures(s.activeVentures)}
       ${renderRecentHunt(s.recentHunt)}
       <div class="grid grid-2">
         <div class="card">

@@ -1,8 +1,21 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-11T08:07:00-05:00",
+  "lastUpdated": "2026-09-11T10:19:52-05:00",
   "entries": [
+    {
+      "at": "2026-09-11T10:19:52-05:00",
+      "actor": "Calder (Harbor Foundry - CEO)",
+      "summary": "Published Foundry Active Ventures feed: Setaside (Operating) and Latch (Paused approved sprint). Scout candidates excluded.",
+      "deskChanges": "Added data/active-ventures.json + snapshot.activeVentures; Overview card; portfolio mirror path."
+    },
+    {
+      "at": "2026-09-11T08:42:00-05:00",
+      "actor": "Nico (Harbor Foundry - Scout)",
+      "summary": "Friday multi-lane throughput hunt EMPTY (16 drops across neglected vertical, AI-automatable process, review-site pain, job/RFP). Deepened 0. Prefer EMPTY over weak overlays. No sprint candidates.",
+      "deskChanges": "INSTITUTIONAL closed 2026-09-11 EMPTY multi-lane funnel; Foundry pipeline stays cold; Latch still paused; UKG WFC and P6 unstaffed untouched; emptyScreens+recentHunt include lanes[].",
+      "lessonId": "no-fake-loads"
+    },
     {
       "at": "2026-09-11T08:07:00-05:00",
       "actor": "Calder (Harbor Foundry - CEO)",

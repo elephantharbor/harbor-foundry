@@ -1,0 +1,40 @@
+{
+  "areaId": "foundry",
+  "areaName": "Harbor Foundry",
+  "lastUpdated": "2026-09-11T10:19:52-05:00",
+  "empty": false,
+  "emptyWhy": null,
+  "items": [
+    {
+      "id": "setaside",
+      "title": "Setaside Designs",
+      "segment": "foundry",
+      "submarket": "Operating product",
+      "description": "Self-employed bookkeeping spreadsheet for 2026 (1099 / Schedule C / quarterly estimates), sold on Etsy as Excel + Google Sheets.",
+      "status": "Operating",
+      "startDate": "2026-08-28",
+      "owner": "Sable (Harbor Foundry - Setaside)",
+      "exposure": "$24 listing \u00b7 $0 sales \u00b7 Setaside-direct fees ~$29.20 \u00b7 no new spend",
+      "performance": "0 orders \u00b7 listing live \u00b7 thin traffic (last verified early Sep)",
+      "nextMilestone": "First realized sale \u2014 then decide whether to keep single-SKU posture",
+      "detailLink": "https://www.etsy.com/listing/4564421940/2026-self-employed-bookkeeping",
+      "lastUpdated": "2026-09-11T10:19:52-05:00"
+    },
+    {
+      "id": "latch",
+      "title": "Latch (Bullhorn validation sprint)",
+      "segment": "foundry",
+      "submarket": "Validation sprint",
+      "description": "Approved $0 prototype to test a modern staffing desk (search \u2192 candidate \u2192 job \u2192 submit) as the start of a new system of record \u2014 not a Bullhorn plugin.",
+      "status": "Paused",
+      "startDate": "2026-09-03",
+      "owner": "Wren (Harbor Foundry - Sprint)",
+      "exposure": "$0 build path \u00b7 prototype assets retained \u00b7 no outreach",
+      "performance": "Prototype existed before pause; interviews deferred; no Proceed/Retarget/Kill yet",
+      "nextMilestone": "Thomas/Calder explicit resume \u2014 or keep paused / decide Kill later with evidence",
+      "detailLink": "https://elephantharbor.github.io/harbor-foundry/#ventures",
+      "lastUpdated": "2026-09-11T10:19:52-05:00"
+    }
+  ],
+  "note": "Active = operating ventures and approved sprints only. Scout candidates and unstaffed nominations (UKG Workforce Central, Primavera P6) are not listed here."
+}
