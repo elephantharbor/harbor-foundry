@@ -61,7 +61,7 @@
   function renderActiveVentures(av) {
     const items = (av && av.items) || [];
     if (!items.length) {
-      const why = (av && av.emptyWhy) || "No approved sprints or operating ventures in motion.";
+      const why = (av && (av.emptyReason || av.emptyWhy)) || "No approved sprints or operating ventures in motion.";
       return `<div class="card"><h2>Active ventures</h2><div class="empty">${esc(why)}</div></div>`;
     }
     const rows = items

@@ -1,9 +1,8 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-11T10:19:52-05:00",
+  "lastUpdated": "2026-09-11T10:24:42-05:00",
   "empty": false,
-  "emptyWhy": null,
   "items": [
     {
       "id": "setaside",
@@ -36,5 +35,6 @@
       "lastUpdated": "2026-09-11T10:19:52-05:00"
     }
   ],
-  "note": "Active = operating ventures and approved sprints only. Scout candidates and unstaffed nominations (UKG Workforce Central, Primavera P6) are not listed here."
+  "note": "Active = operating ventures and approved sprints only. Scout candidates and unstaffed nominations (UKG Workforce Central, Primavera P6) are not listed here.",
+  "emptyReason": null
 }
