@@ -4,14 +4,14 @@
   "description": "Software venture creation.",
   "mission": "Find weak or dated incumbent software markets, validate opportunities to replace them, and build substantial new software businesses where evidence warrants it.",
   "status": "Building",
-  "statusDetail": "One operating venture (Setaside). Latch validation sprint temporarily paused by Thomas \u2014 not Closed/Kill. Hunt pipeline cold after EMPTY screens including Thu 2026-09-10.",
+  "statusDetail": "One operating venture (Setaside). Latch validation sprint temporarily paused by Thomas — not Closed/Kill. Hunt pipeline cold after EMPTY screens including Thu 2026-09-10.",
   "owner": "Calder (Harbor Foundry - CEO)",
   "lastUpdated": "2026-09-10T08:50:00-05:00",
   "headlineMetrics": [
     {
       "label": "Operating ventures",
       "value": "1",
-      "hint": "Setaside Designs on Etsy \u2014 live, $0 sales so far"
+      "hint": "Setaside Designs on Etsy — live, $0 sales so far"
     },
     {
       "label": "Active validation sprints",
@@ -30,12 +30,12 @@
     }
   ],
   "currentObjective": "Find dated paid software customers dislike, validate a modern replacement, and build only where evidence warrants.",
-  "currentStatusBrief": "Latch (Bullhorn sprint) is temporarily Paused by Thomas \u2014 Wren seated but idle until Calder resumes. Setaside is the only live product (Etsy $24, $0 sales). Hunt pipeline cold after EMPTY screens through Thu 2026-09-10. No Proceed/Retarget/Kill yet.",
+  "currentStatusBrief": "Latch (Bullhorn sprint) is temporarily Paused by Thomas — Wren seated but idle until Calder resumes. Setaside is the only live product (Etsy $24, $0 sales). Hunt pipeline cold after EMPTY screens through Thu 2026-09-10. No Proceed/Retarget/Kill yet.",
   "latestLesson": {
-    "experience": "Screens keep dying when the incumbent already has a vendor-owned modern successor or leftover overlays (Eagle\u2192Propello; Concur NextGen class).",
+    "experience": "Screens keep dying when the incumbent already has a vendor-owned modern successor or leftover overlays (Eagle→Propello; Concur NextGen class).",
     "evidence": "EMPTY hunt outcomes after occupancy looked promising.",
-    "learning": "Occupancy alone is not a kill \u2014 but a foothold that cannot become the desk system of record is.",
-    "change": "Scout/challenge keep destination system of record (SoR) potential as a hard filter, not just \u201cpeople hate this product.\u201d"
+    "learning": "Occupancy alone is not a kill — but a foothold that cannot become the desk system of record is.",
+    "change": "Scout/challenge keep destination system of record (SoR) potential as a hard filter, not just “people hate this product.”"
   },
   "needsHumanAction": false,
   "humanAction": null,
@@ -51,25 +51,25 @@
   "nextUp": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-10T08:50:00-05:00",
+    "lastUpdated": "2026-09-11T07:40:00-05:00",
     "items": [
-      {
-        "title": "Setaside shop health check",
-        "nextRunAt": "2026-09-10T09:00:00-05:00",
-        "scheduleLabel": "Weekdays 9:00 AM CT",
-        "owner": "Sable (Harbor Foundry - Setaside)"
-      },
-      {
-        "title": "Foundry operations pre-brief",
-        "nextRunAt": "2026-09-11T07:30:00-05:00",
-        "scheduleLabel": "Weekdays 7:30 AM CT",
-        "owner": "Fernando (Harbor Foundry - Ops)"
-      },
       {
         "title": "Foundry morning brief",
         "nextRunAt": "2026-09-11T08:00:00-05:00",
         "scheduleLabel": "Weekdays 8:00 AM CT",
         "owner": "Calder (Harbor Foundry - CEO)"
+      },
+      {
+        "title": "Scout weekday hunt",
+        "nextRunAt": "2026-09-11T08:09:00-05:00",
+        "scheduleLabel": "Weekdays 8:09 AM CT",
+        "owner": "Calder → Nico (Harbor Foundry - Scout)"
+      },
+      {
+        "title": "Setaside shop health check",
+        "nextRunAt": "2026-09-11T09:00:00-05:00",
+        "scheduleLabel": "Weekdays 9:00 AM CT",
+        "owner": "Sable (Harbor Foundry - Setaside)"
       }
     ]
   }

@@ -12,8 +12,8 @@
     "setasideSales": "$0"
   },
   "needsHumanAttention": [],
-  "currentObjective": "Build and operate independent ventures that create substantial durable economic value \u2014 validate by building, kill weak theses fast, only sprint what Thomas greenlights.",
-  "currentStatus": "Hunt pipeline remains cold after Thursday 2026-09-10 EMPTY screen (eight new drops). Setaside operating at $24, $0 sales (Sable). Latch (Bullhorn) validation sprint remains temporarily paused by Thomas \u2014 Wren holds; assets preserved; not Kill. UKG WFC and Primavera P6 remain unstaffed nominations. Afterfee stays dead.",
+  "currentObjective": "Build and operate independent ventures that create substantial durable economic value — validate by building, kill weak theses fast, only sprint what Thomas greenlights.",
+  "currentStatus": "Hunt pipeline remains cold after Thursday 2026-09-10 EMPTY screen (eight new drops). Setaside operating at $24, $0 sales (Sable). Latch (Bullhorn) validation sprint remains temporarily paused by Thomas — Wren holds; assets preserved; not Kill. UKG WFC and Primavera P6 remain unstaffed nominations. Afterfee stays dead.",
   "pipelineStages": [
     {
       "id": "scout",
@@ -40,7 +40,7 @@
       "id": "unstaffed",
       "name": "Unstaffed nomination",
       "owner": "Calder",
-      "description": "Parked nomination \u2014 not Active or Sprint until a Thomas-approved memo. Not awaiting human approval.",
+      "description": "Parked nomination — not Active or Sprint until a Thomas-approved memo. Not awaiting human approval.",
       "humanGate": false
     },
     {
@@ -82,7 +82,7 @@
       "incumbent": null,
       "stage": "operating",
       "status": "Operating",
-      "summary": "Only live operating product. Etsy digital download \u2014 2026 self-employed bookkeeping spreadsheet at $24. $0 sales so far.",
+      "summary": "Only live operating product. Etsy digital download — 2026 self-employed bookkeeping spreadsheet at $24. $0 sales so far.",
       "owner": "Sable",
       "updated": "2026-09-04"
     },
@@ -117,7 +117,7 @@
       "etsyShop": "SetasideDesign",
       "status": "Operating",
       "owner": "Sable",
-      "wedge": "One digital product for self-employed bookkeeping \u2014 2026 spreadsheet covering 1099 / Schedule C / quarterly estimated tax, sold as Excel + Google Sheets.",
+      "wedge": "One digital product for self-employed bookkeeping — 2026 spreadsheet covering 1099 / Schedule C / quarterly estimated tax, sold as Excel + Google Sheets.",
       "tagline": "2026 books for the self-employed.",
       "listing": {
         "url": "https://www.etsy.com/listing/4564421940/2026-self-employed-bookkeeping",
@@ -136,15 +136,15 @@
         "in": "$0",
         "out": "$29.20",
         "remaining": "$261.79",
-        "remainingNote": "Harbor experiment budget remaining after Tello \u2014 not Setaside-direct $270.80 framing.",
+        "remainingNote": "Harbor experiment budget remaining after Tello — not Setaside-direct $270.80 framing.",
         "setasideDirectRemaining": "$270.80"
       },
       "traffic": {
-        "shopStatsSep1to4": "5\u20136 visits, 0 orders, $0, 0 favorites",
+        "shopStatsSep1to4": "5–6 visits, 0 orders, $0, 0 favorites",
         "listingLast30Days": "13 views, 0 orders, $0, 0 favorites",
         "dashboardLast7DaysAsOfSep4": "13 views / 11 visits / 0 orders / $0"
       },
-      "posture": "Single SKU until first sale. No new listings without ranking evidence. No spend. Party-decor Highlight taxonomy-locked \u2014 leave it.",
+      "posture": "Single SKU until first sale. No new listings without ranking evidence. No spend. Party-decor Highlight taxonomy-locked — leave it.",
       "next": "Wait on first realized order. Escalate only if listing goes inactive, a buyer messages, or spend/identity is needed (Calder).",
       "notes": "Customer-facing copy never uses Elephant Harbor. Gumroad remains owned-checkout backup once rails exist. Do not invent healthier numbers."
     },
@@ -154,10 +154,10 @@
       "brand": "Latch",
       "status": "Paused",
       "owner": "Wren",
-      "wedge": "Staffing recruiters still live in Bullhorn for candidates, jobs, and submissions, but daily search\u2192submit feels slow and interrupted. Latch tests whether a fast modern desk that owns the submission record can become the start of a replacement staffing system of record \u2014 not a helper that writes back into Bullhorn.",
+      "wedge": "Staffing recruiters still live in Bullhorn for candidates, jobs, and submissions, but daily search→submit feels slow and interrupted. Latch tests whether a fast modern desk that owns the submission record can become the start of a replacement staffing system of record — not a helper that writes back into Bullhorn.",
       "incumbent": "Bullhorn (staffing ATS + CRM)",
       "approved": "Thomas 2026-09-03 (in principle, with binding adjustments)",
-      "productShape": "Prototype: search \u2192 open candidate \u2192 match job \u2192 submit; submissions owned in Latch as the beginning of a new system of record (SoR) \u2014 not a Bullhorn plugin / Marketplace parser / writeback overlay.",
+      "productShape": "Prototype: search → open candidate → match job → submit; submissions owned in Latch as the beginning of a new system of record (SoR) — not a Bullhorn plugin / Marketplace parser / writeback overlay.",
       "interviews": "Deferred. Not a gate for further build. No outreach until a later rail.",
       "decision": "No Proceed / Retarget / Kill yet. Calder still requires real evidence later.",
       "cap": "$0 where practical; dummy data only; no Bullhorn login.",
@@ -169,7 +169,7 @@
     "closed20260903": [
       {
         "name": "Epicor Eagle",
-        "reason": "Propello cloud successor already ships; Eagle POS/Tablet cover special orders. Leftover overlay fail \u2014 do not recycle as contractor-lookup overlay."
+        "reason": "Propello cloud successor already ships; Eagle POS/Tablet cover special orders. Leftover overlay fail — do not recycle as contractor-lookup overlay."
       },
       {
         "name": "Oracle Taleo",
@@ -210,54 +210,54 @@
         "candidates": [
           {
             "name": "Mitchell 1 Manager SE",
-            "what": "Auto repair shop management (estimate \u2192 repair order \u2192 invoice)",
-            "why": "Soft/majority like (~4.0\u20134.1); modern auto shop tools already occupy the cloud SMS class",
-            "status": "Dropped \u2014 not deepened"
+            "what": "Auto repair shop management (estimate → repair order → invoice)",
+            "why": "Soft/majority like (~4.0–4.1); modern auto shop tools already occupy the cloud SMS class",
+            "status": "Dropped — not deepened"
           },
           {
             "name": "PrintSmith Vision",
             "what": "Quick-print / franchise print shop MIS",
             "why": "Vendor ships Nubium as the modern cloud path; same print MIS destination as closed Pace",
-            "status": "Dropped \u2014 vendor successor / closed class"
+            "status": "Dropped — vendor successor / closed class"
           },
           {
             "name": "FieldEdge",
             "what": "HVAC / plumbing / electrical field service",
             "why": "Majority like (~4.2); destination collapses into closed ServiceTitan class",
-            "status": "Dropped \u2014 liked / closed destination"
+            "status": "Dropped — liked / closed destination"
           },
           {
             "name": "ComputerEase",
             "what": "Construction accounting / job cost (Deltek)",
             "why": "Majority like (~4.2); collapses into closed Sage CRE / Vista construction accounting",
-            "status": "Dropped \u2014 liked / closed destination"
+            "status": "Dropped — liked / closed destination"
           },
           {
             "name": "Davisware Global Edge",
             "what": "Commercial HVAC / food-equipment service ERP",
             "why": "Thin review body; destination collapses into closed ServiceTitan commercial FSM",
-            "status": "Dropped \u2014 thin chorus / closed destination"
+            "status": "Dropped — thin chorus / closed destination"
           },
           {
             "name": "Amicus Attorney",
             "what": "Legal practice management (CARET)",
             "why": "Vintage hate is real; destination collapses into closed Clio / CosmoLex / Tabs3 legal class",
-            "status": "Dropped \u2014 closed legal class"
+            "status": "Dropped — closed legal class"
           },
           {
             "name": "JD Edwards EnterpriseOne",
             "what": "Manufacturing / distribution ERP (Oracle)",
-            "why": "Oracle Fusion Cloud ERP is the marketed successor \u2014 migration path, not a Harbor opening",
-            "status": "Dropped \u2014 vendor successor"
+            "why": "Oracle Fusion Cloud ERP is the marketed successor — migration path, not a Harbor opening",
+            "status": "Dropped — vendor successor"
           },
           {
             "name": "iCIMS",
             "what": "Enterprise applicant tracking / talent acquisition",
-            "why": "Majority like (~4.1\u20134.2); soft enterprise gripes; Taleo-adjacent ATS Harbor-path",
-            "status": "Dropped \u2014 liked / closed ATS class"
+            "why": "Majority like (~4.1–4.2); soft enterprise gripes; Taleo-adjacent ATS Harbor-path",
+            "status": "Dropped — liked / closed ATS class"
           }
         ],
-        "synopsis": "2026-09-10 hunt screened 8 products. Outcome: EMPTY \u2014 no sprint candidates. Each name below shows what it is, why it was on the screen, and why it was dropped."
+        "synopsis": "2026-09-10 hunt screened 8 products. Outcome: EMPTY — no sprint candidates. Each name below shows what it is, why it was on the screen, and why it was dropped."
       },
       {
         "id": "2026-09-09",
@@ -281,52 +281,52 @@
             "name": "Cyrious Control",
             "what": "Sign / print shop MIS",
             "why": "CoreBridge is the vendor modern successor",
-            "status": "Dropped \u2014 vendor successor"
+            "status": "Dropped — vendor successor"
           },
           {
             "name": "DockMaster",
             "what": "Marina / marine operations software",
-            "why": "Thin dislike body \u2014 not a multi-source hate-while-paying chorus",
-            "status": "Dropped \u2014 thin chorus"
+            "why": "Thin dislike body — not a multi-source hate-while-paying chorus",
+            "status": "Dropped — thin chorus"
           },
           {
             "name": "Tabs3",
             "what": "Legal practice / billing",
             "why": "Majority like; destination collapses into closed Clio / CosmoLex legal class",
-            "status": "Dropped \u2014 liked / closed class"
+            "status": "Dropped — liked / closed class"
           },
           {
             "name": "Coupa",
             "what": "Enterprise procurement / spend",
             "why": "Clarity 2.0 modernization + enterprise Harbor-path",
-            "status": "Dropped \u2014 vendor modernization / enterprise"
+            "status": "Dropped — vendor modernization / enterprise"
           },
           {
             "name": "CargoWise",
             "what": "Freight forwarding / logistics",
-            "why": "CargoWise Next is the vendor modern path \u2014 first filter",
-            "status": "Dropped \u2014 vendor successor"
+            "why": "CargoWise Next is the vendor modern path — first filter",
+            "status": "Dropped — vendor successor"
           },
           {
             "name": "Ekos",
             "what": "Craft beverage production",
-            "why": "Majority like \u2014 not a dislike-while-paying chorus",
-            "status": "Dropped \u2014 liked"
+            "why": "Majority like — not a dislike-while-paying chorus",
+            "status": "Dropped — liked"
           },
           {
             "name": "Deacom",
             "what": "Process manufacturing ERP",
             "why": "Same closed manufacturing destination class as JobBOSS / Cetec",
-            "status": "Dropped \u2014 closed manufacturing class"
+            "status": "Dropped — closed manufacturing class"
           },
           {
             "name": "Point of Rental",
             "what": "Equipment rental management",
             "why": "Same closed Wynne rental destination class",
-            "status": "Dropped \u2014 closed rental class"
+            "status": "Dropped — closed rental class"
           }
         ],
-        "synopsis": "2026-09-09 hunt screened 8 products. Outcome: EMPTY \u2014 no sprint candidates. Each name below shows what it is, why it was on the screen, and why it was dropped."
+        "synopsis": "2026-09-09 hunt screened 8 products. Outcome: EMPTY — no sprint candidates. Each name below shows what it is, why it was on the screen, and why it was dropped."
       },
       {
         "id": "2026-09-07",
@@ -356,46 +356,46 @@
             "name": "PioneerRx",
             "what": "Pharmacy management",
             "why": "Liked product; PHI / regulated Harbor-path wall",
-            "status": "Dropped \u2014 liked / PHI"
+            "status": "Dropped — liked / PHI"
           },
           {
             "name": "CCC ONE",
             "what": "Auto insurance claims / estimating",
             "why": "Liked; product is modern; DRP lock-in is not a Harbor SoR opening",
-            "status": "Dropped \u2014 liked / modern"
+            "status": "Dropped — liked / modern"
           },
           {
             "name": "eClinicalWorks",
             "what": "Ambulatory EHR",
             "why": "Dislike is real; clinical PHI wall blocks Harbor path",
-            "status": "Dropped \u2014 PHI wall"
+            "status": "Dropped — PHI wall"
           },
           {
             "name": "ChiroTouch",
             "what": "Chiropractic practice software",
             "why": "Cloud successor shipping; PHI wall",
-            "status": "Dropped \u2014 vendor successor / PHI"
+            "status": "Dropped — vendor successor / PHI"
           },
           {
             "name": "E2 Shop System",
             "what": "Job shop manufacturing",
-            "why": "JobBOSS\u00b2 successor path; closed JobBOSS/Cetec manufacturing class",
-            "status": "Dropped \u2014 closed manufacturing class"
+            "why": "JobBOSS² successor path; closed JobBOSS/Cetec manufacturing class",
+            "status": "Dropped — closed manufacturing class"
           },
           {
             "name": "ePS Pace",
             "what": "Print MIS",
             "why": "Majority like (~3.7); print destination weak for Harbor",
-            "status": "Dropped \u2014 liked"
+            "status": "Dropped — liked"
           },
           {
             "name": "Made2Manage",
             "what": "Manufacturing ERP",
             "why": "Closed JobBOSS/Cetec manufacturing destination class",
-            "status": "Dropped \u2014 closed manufacturing class"
+            "status": "Dropped — closed manufacturing class"
           }
         ],
-        "synopsis": "2026-09-07 hunt screened 8 products. Outcome: EMPTY \u2014 no sprint candidates. Each name below shows what it is, why it was on the screen, and why it was dropped."
+        "synopsis": "2026-09-07 hunt screened 8 products. Outcome: EMPTY — no sprint candidates. Each name below shows what it is, why it was on the screen, and why it was dropped."
       },
       {
         "id": "2026-09-04",
@@ -428,27 +428,27 @@
         "why": "RFP reach, liked product, vendor-own modern replacement, or destination closed. Prefer empty over leftover overlay."
       }
     ],
-    "institutionalSummary": "Stay dead: Afterfee; cash-hacks; Allowpath, Pipekeep, Quoin, Cartback, Nestfilm. Earlier leftover-pain / platform / Harbor-path closes remain Closed, including EMPTY screens through 2026-09-10. Unstaffed (not watches): UKG Workforce Central, Oracle Primavera P6 \u2014 no Sprint until Thomas-approved memo. Screen filter learned 2026-09-03: if the vendor already ships its own modern replacement, the dated incumbent is a migration path, not a Harbor opening."
+    "institutionalSummary": "Stay dead: Afterfee; cash-hacks; Allowpath, Pipekeep, Quoin, Cartback, Nestfilm. Earlier leftover-pain / platform / Harbor-path closes remain Closed, including EMPTY screens through 2026-09-10. Unstaffed (not watches): UKG Workforce Central, Oracle Primavera P6 — no Sprint until Thomas-approved memo. Screen filter learned 2026-09-03: if the vendor already ships its own modern replacement, the dated incumbent is a migration path, not a Harbor opening."
   },
   "evidenceDecisions": [
     {
       "id": "bullhorn-latch",
-      "title": "Bullhorn \u2192 Latch (staffed sprint)",
+      "title": "Bullhorn → Latch (staffed sprint)",
       "evidence": "Challenge red-team named risks (not a veto): Amplify Search & Match already occupies AI search on Pro/Max; Starter/Core leftover is Boolean/speed, not a missing search product; a Marketplace parser or CSV writeback into Bullhorn has no path to a staffing system of record. Occupancy of other staffing ATS is demand, not a kill.",
-      "interpretation": "Credible enough for a $0 validation sprint if the prototype is a new system of record \u2014 not a Marketplace overlay. Calder did not treat Challenge as a veto.",
-      "decision": "Thomas approved a validation sprint with adjustments; Wren owns Latch (search \u2192 candidate \u2192 job \u2192 submit as the beginning of a new system of record (SoR)). Interviews deferred; build continues at $0. No Proceed / Retarget / Kill yet \u2014 Challenge file remains risk input for later, not a close."
+      "interpretation": "Credible enough for a $0 validation sprint if the prototype is a new system of record — not a Marketplace overlay. Calder did not treat Challenge as a veto.",
+      "decision": "Thomas approved a validation sprint with adjustments; Wren owns Latch (search → candidate → job → submit as the beginning of a new system of record (SoR)). Interviews deferred; build continues at $0. No Proceed / Retarget / Kill yet — Challenge file remains risk input for later, not a close."
     },
     {
       "id": "concur-closed",
       "title": "Concur (closed class)",
       "evidence": "Challenge aimed the then-staffed receipt-to-report prototype: wrong leftover may be Travel/policy/SI, not submit; card-first tools may have deleted the expense report; Concur already ships capture (ExpenseIt), so a camera-only demo is occupied leftover. Vendor also shipping NextGen / new report UI.",
-      "interpretation": "A Harbor T&E replacement against SAP\u2019s own UI modernization is the wrong bet \u2014 not an occupancy kill of Ramp/Expensify, and not a Challenge veto of an open nomination.",
+      "interpretation": "A Harbor T&E replacement against SAP’s own UI modernization is the wrong bet — not an occupancy kill of Ramp/Expensify, and not a Challenge veto of an open nomination.",
       "decision": "Calder closed Concur as a sprint (2026-09-02). Do not recycle Concur."
     },
     {
       "id": "empty-screens",
-      "title": "EMPTY screens (foothold \u2260 destination SoR)",
-      "evidence": "When Scout returns EMPTY, Challenge does not invent a packet. Recurring reject class: leftover foothold that never becomes Harbor\u2019s system of record \u2014 sheet/lookup/CSV overlays; vendor-own modern successors already shipping (e.g. Propello, Fusion, FieldRoutes); Harbor-path walls (RFP, kids\u2019 data, closed same-destination markets).",
+      "title": "EMPTY screens (foothold ≠ destination SoR)",
+      "evidence": "When Scout returns EMPTY, Challenge does not invent a packet. Recurring reject class: leftover foothold that never becomes Harbor’s system of record — sheet/lookup/CSV overlays; vendor-own modern successors already shipping (e.g. Propello, Fusion, FieldRoutes); Harbor-path walls (RFP, kids’ data, closed same-destination markets).",
       "interpretation": "Occupancy alone is not a kill. Empty is the honest result when no nomination clears destination-first.",
       "decision": "Prefer EMPTY over weak overlay nominations. No invented sprint packets from empty hunts."
     }
@@ -481,7 +481,7 @@
     {
       "id": "occupancy-vs-sor",
       "experience": "Occupancy looked like a kill; footholds looked like openings.",
-      "evidence": "EMPTY and closed screens where vendor successors or overlays blocked a Harbor system of record (SoR) (Eagle\u2192Propello, Concur NextGen class).",
+      "evidence": "EMPTY and closed screens where vendor successors or overlays blocked a Harbor system of record (SoR) (Eagle→Propello, Concur NextGen class).",
       "learning": "Occupancy is demand evidence, not a kill. A foothold that cannot become the desk system of record is not a Harbor opening.",
       "change": "Destination-SoR potential is a hard filter before leftover features.",
       "originationDate": "2026-09-02"
@@ -497,13 +497,13 @@
   ],
   "docs": {
     "howItWorks": [
-      "Mission \u2014 Substantial durable economic value inside the observation window; cash matters, but so do durable bets.",
-      "Method \u2014 Vulnerability-first discovery: disliked paid software \u2192 destination platform \u2192 entry wedge \u2192 cheap screen \u2192 deepen \u2192 challenge \u2192 memo \u2192 Thomas gate \u2192 build to learn.",
-      "Statuses \u2014 Operating / Building / Researching / Waiting on evidence / Waiting on human action / Paused (pipeline statuses Active / Sprint / Closed underneath). Continue and Watch are dead.",
-      "Human gate \u2014 Thomas approves sprint memos; Scout and Challenge kill weak ideas without him.",
-      "Ventures \u2014 Independent brands (Setaside is Setaside; Latch is Latch). Elephant Harbor stays parent/background.",
-      "Kill discipline \u2014 Closed names stay closed; reopen only on new evidence. Afterfee stays dead.",
-      "$0 default \u2014 Prototype locally; no outreach / identity / paid rails without escalate."
+      "Mission — Substantial durable economic value inside the observation window; cash matters, but so do durable bets.",
+      "Method — Vulnerability-first discovery: disliked paid software → destination platform → entry wedge → cheap screen → deepen → challenge → memo → Thomas gate → build to learn.",
+      "Statuses — Operating / Building / Researching / Waiting on evidence / Waiting on human action / Paused (pipeline statuses Active / Sprint / Closed underneath). Continue and Watch are dead.",
+      "Human gate — Thomas approves sprint memos; Scout and Challenge kill weak ideas without him.",
+      "Ventures — Independent brands (Setaside is Setaside; Latch is Latch). Elephant Harbor stays parent/background.",
+      "Kill discipline — Closed names stay closed; reopen only on new evidence. Afterfee stays dead.",
+      "$0 default — Prototype locally; no outreach / identity / paid rails without escalate."
     ],
     "team": [
       {
@@ -519,7 +519,7 @@
       {
         "role": "Harbor Challenge",
         "name": "Ellis",
-        "owns": "Independent red team \u2014 not a veto."
+        "owns": "Independent red team — not a veto."
       },
       {
         "role": "Harbor Sprint",
@@ -532,18 +532,18 @@
         "owns": "Only live product (Etsy Setaside)."
       }
     ],
-    "provenance": "Truth bound to ops INSTITUTIONAL, discovery-sprint-lock, sprint-bullhorn-approved, scout ranked EMPTY files, challenge red-teams, STRATEGY, LEDGER, Setaside product notes, and Cycle 3 challenge/dashboard blocks. Public-safe only \u2014 no secrets, no private customer IDs, no invented sales or decisions."
+    "provenance": "Truth bound to ops INSTITUTIONAL, discovery-sprint-lock, sprint-bullhorn-approved, scout ranked EMPTY files, challenge red-teams, STRATEGY, LEDGER, Setaside product notes, and Cycle 3 challenge/dashboard blocks. Public-safe only — no secrets, no private customer IDs, no invented sales or decisions."
   },
   "approvalHistory": [
     {
       "date": "2026-09-03",
-      "subject": "Bullhorn \u2192 Latch validation sprint",
+      "subject": "Bullhorn → Latch validation sprint",
       "approver": "Thomas",
       "summary": "Approved in principle with binding adjustments (fast cohesive UX; Starter/Core and Pro/Max; conversations later; Proceed/Retarget/Kill on evidence). Afternoon amendment: interviews deferred; keep building Latch at $0."
     },
     {
       "date": "2026-09-07",
-      "subject": "Latch (Bullhorn) sprint \u2014 temporary pause",
+      "subject": "Latch (Bullhorn) sprint — temporary pause",
       "approver": "Thomas",
       "summary": "Pause Latch validation sprint temporarily. Wren stop new work; keep prototype/assets. Not Closed/Kill. Resume on explicit restart."
     }
@@ -551,25 +551,25 @@
   "nextUp": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-10T08:50:00-05:00",
+    "lastUpdated": "2026-09-11T07:40:00-05:00",
     "items": [
-      {
-        "title": "Setaside shop health check",
-        "nextRunAt": "2026-09-10T09:00:00-05:00",
-        "scheduleLabel": "Weekdays 9:00 AM CT",
-        "owner": "Sable (Harbor Foundry - Setaside)"
-      },
-      {
-        "title": "Foundry operations pre-brief",
-        "nextRunAt": "2026-09-11T07:30:00-05:00",
-        "scheduleLabel": "Weekdays 7:30 AM CT",
-        "owner": "Fernando (Harbor Foundry - Ops)"
-      },
       {
         "title": "Foundry morning brief",
         "nextRunAt": "2026-09-11T08:00:00-05:00",
         "scheduleLabel": "Weekdays 8:00 AM CT",
         "owner": "Calder (Harbor Foundry - CEO)"
+      },
+      {
+        "title": "Scout weekday hunt",
+        "nextRunAt": "2026-09-11T08:09:00-05:00",
+        "scheduleLabel": "Weekdays 8:09 AM CT",
+        "owner": "Calder → Nico (Harbor Foundry - Scout)"
+      },
+      {
+        "title": "Setaside shop health check",
+        "nextRunAt": "2026-09-11T09:00:00-05:00",
+        "scheduleLabel": "Weekdays 9:00 AM CT",
+        "owner": "Sable (Harbor Foundry - Setaside)"
       }
     ]
   },
@@ -629,56 +629,56 @@
     "date": "2026-09-10",
     "outcome": "EMPTY",
     "status": "No sprint candidates",
-    "synopsis": "2026-09-10 hunt screened 8 products. Outcome: EMPTY \u2014 no sprint candidates. Each name below shows what it is, why it was on the screen, and why it was dropped.",
+    "synopsis": "2026-09-10 hunt screened 8 products. Outcome: EMPTY — no sprint candidates. Each name below shows what it is, why it was on the screen, and why it was dropped.",
     "candidateCount": 8,
     "candidates": [
       {
         "name": "Mitchell 1 Manager SE",
-        "what": "Auto repair shop management (estimate \u2192 repair order \u2192 invoice)",
-        "why": "Soft/majority like (~4.0\u20134.1); modern auto shop tools already occupy the cloud SMS class",
-        "status": "Dropped \u2014 not deepened"
+        "what": "Auto repair shop management (estimate → repair order → invoice)",
+        "why": "Soft/majority like (~4.0–4.1); modern auto shop tools already occupy the cloud SMS class",
+        "status": "Dropped — not deepened"
       },
       {
         "name": "PrintSmith Vision",
         "what": "Quick-print / franchise print shop MIS",
         "why": "Vendor ships Nubium as the modern cloud path; same print MIS destination as closed Pace",
-        "status": "Dropped \u2014 vendor successor / closed class"
+        "status": "Dropped — vendor successor / closed class"
       },
       {
         "name": "FieldEdge",
         "what": "HVAC / plumbing / electrical field service",
         "why": "Majority like (~4.2); destination collapses into closed ServiceTitan class",
-        "status": "Dropped \u2014 liked / closed destination"
+        "status": "Dropped — liked / closed destination"
       },
       {
         "name": "ComputerEase",
         "what": "Construction accounting / job cost (Deltek)",
         "why": "Majority like (~4.2); collapses into closed Sage CRE / Vista construction accounting",
-        "status": "Dropped \u2014 liked / closed destination"
+        "status": "Dropped — liked / closed destination"
       },
       {
         "name": "Davisware Global Edge",
         "what": "Commercial HVAC / food-equipment service ERP",
         "why": "Thin review body; destination collapses into closed ServiceTitan commercial FSM",
-        "status": "Dropped \u2014 thin chorus / closed destination"
+        "status": "Dropped — thin chorus / closed destination"
       },
       {
         "name": "Amicus Attorney",
         "what": "Legal practice management (CARET)",
         "why": "Vintage hate is real; destination collapses into closed Clio / CosmoLex / Tabs3 legal class",
-        "status": "Dropped \u2014 closed legal class"
+        "status": "Dropped — closed legal class"
       },
       {
         "name": "JD Edwards EnterpriseOne",
         "what": "Manufacturing / distribution ERP (Oracle)",
-        "why": "Oracle Fusion Cloud ERP is the marketed successor \u2014 migration path, not a Harbor opening",
-        "status": "Dropped \u2014 vendor successor"
+        "why": "Oracle Fusion Cloud ERP is the marketed successor — migration path, not a Harbor opening",
+        "status": "Dropped — vendor successor"
       },
       {
         "name": "iCIMS",
         "what": "Enterprise applicant tracking / talent acquisition",
-        "why": "Majority like (~4.1\u20134.2); soft enterprise gripes; Taleo-adjacent ATS Harbor-path",
-        "status": "Dropped \u2014 liked / closed ATS class"
+        "why": "Majority like (~4.1–4.2); soft enterprise gripes; Taleo-adjacent ATS Harbor-path",
+        "status": "Dropped — liked / closed ATS class"
       }
     ]
   }
