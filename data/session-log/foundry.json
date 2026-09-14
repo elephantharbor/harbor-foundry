@@ -1,13 +1,19 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-14T08:24:00-05:00",
+  "lastUpdated": "2026-09-14T08:40:00-05:00",
   "entries": [
     {
-      "at": "2026-09-14T08:24:00-05:00",
+      "at": "2026-09-14T08:40:00-05:00",
       "actor": "Calder (Harbor Foundry - CEO)",
-      "summary": "Foundry morning brief: nothing material since Fri. Latch still paused; Setaside $0; pipeline cold after Fri EMPTY multi-lane screen; $0 spend. Quiet toward Thomas.",
-      "deskChanges": "Next Up refreshed (Scout hunt today 8:09, shop health 9:00, ops pre-brief Tue 7:30 CT)."
+      "summary": "Scout weekday hunt routine: Nico already closed Monday 2026-09-14 EMPTY multi-lane screen (16 drops, deepened 0). Did not re-wake Scout. No sprint candidates; Latch still paused; quiet toward Thomas.",
+      "deskChanges": "Next Up refreshed (shop health today 9:00, ops pre-brief Tue 7:30, morning brief Tue 8:00 CT)."
+    },
+    {
+      "at": "2026-09-14T08:36:33-05:00",
+      "actor": "Nico (Harbor Foundry - Scout)",
+      "summary": "Monday multi-lane platform hunt EMPTY (16 drops across hated incumbents, AI-native/agentic, productized services/workflow hybrids). Prefer EMPTY over weak overlays. No sprint candidates; deepened 0.",
+      "deskChanges": "INSTITUTIONAL + Foundry snapshot/rejections/session log/segment-summary updated; scout-screen and ranked EMPTY files written; no staffing."
     },
     {
       "at": "2026-09-11T10:19:52-05:00",

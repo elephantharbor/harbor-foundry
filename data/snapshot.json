@@ -1,6 +1,6 @@
 {
   "mission": "Find dated paid software customers dislike, validate a modern replacement destination, and build independent ventures only where evidence warrants substantial durable economic value.",
-  "lastUpdated": "2026-09-11T10:24:42-05:00",
+  "lastUpdated": "2026-09-14T08:40:00-05:00",
   "cycle": "Cycle 3",
   "metrics": {
     "researching": 0,
@@ -13,7 +13,7 @@
   },
   "needsHumanAttention": [],
   "currentObjective": "Build and operate independent ventures that create substantial durable economic value \u2014 validate by building, kill weak theses fast, only sprint what Thomas greenlights.",
-  "currentStatus": "Hunt pipeline remains cold after Friday 2026-09-11 EMPTY multi-lane screen (sixteen new drops; deepened 0). Setaside operating at $24, $0 sales (Sable). Latch (Bullhorn) validation sprint remains temporarily paused by Thomas \u2014 Wren holds; assets preserved; not Kill. UKG WFC and Primavera P6 remain unstaffed nominations. Afterfee stays dead.",
+  "currentStatus": "Hunt pipeline remains cold after Monday 2026-09-14 EMPTY multi-lane screen (sixteen new drops across hated incumbents / AI-native / productized-services; deepened 0). Setaside operating (Sable). Latch (Bullhorn) validation sprint remains temporarily paused by Thomas \u2014 Wren holds; assets preserved; not Kill. UKG WFC and Primavera P6 remain unstaffed nominations. Afterfee stays dead.",
   "pipelineStages": [
     {
       "id": "scout",
@@ -190,6 +190,136 @@
       "reason": "Closed. SAP is shipping NextGen / new report UI; Harbor is not running a T&E replacement against that vendor modernization. Do not recycle."
     },
     "emptyScreens": [
+      {
+        "id": "2026-09-14",
+        "label": "EMPTY 14",
+        "date": "2026-09-14",
+        "outcome": "EMPTY",
+        "status": "No sprint candidates",
+        "synopsis": "2026-09-14 Monday multi-lane hunt screened 16 names across hated incumbents, AI-native/agentic, and productized services/workflow hybrids. Outcome: EMPTY \u2014 no sprint candidates (deepened 0). Each name below shows what it is, lane, why screened, and why dropped.",
+        "why": "Vendor-own successor or EOL migration (Sage 500, FACTS, Eyefinity Encompass, Retail Pro Prism), liked/soft dislike (Cin7, DaySmart, Eclipse, Workamajig), closed distribution/rental/construction adjacency, ERP/ATS/claims overlay footholds (AP agents, AR cash app, recruiting layer, subrogation), modern occupancy already shipping (warranty platforms), or sidecar leftover same class as closed COI/commission recon (CPG deductions, lien waivers). Prefer EMPTY over weak nominations.",
+        "lanes": [
+          "hated incumbents",
+          "AI-native / agentic",
+          "productized services / workflow hybrids"
+        ],
+        "names": [
+          "Epicor Eclipse",
+          "Sage 500 ERP",
+          "Cin7 Core",
+          "Windward System Five",
+          "Retail Pro 9 / Prism",
+          "Workamajig",
+          "DaySmart Pet",
+          "Eyefinity OfficeMate",
+          "Infor Distribution FACTS",
+          "OEM warranty claim admin",
+          "CPG deduction recovery",
+          "AP BPO / AI AP agents",
+          "AR cash application AI",
+          "Lien-waiver chasing",
+          "Recruiting interview coordination",
+          "Insurance subrogation desk"
+        ],
+        "candidates": [
+          {
+            "name": "Epicor Eclipse",
+            "what": "Lane A \u2014 electrical / HVAC / plumbing / PVF wholesale distribution ERP",
+            "why": "Soft ~85% recommend; Prophet 21 / Acumatica-NetSuite distribution adjacency",
+            "status": "Dropped \u2014 soft dislike / closed adjacency"
+          },
+          {
+            "name": "Sage 500 ERP",
+            "what": "Lane A \u2014 mid-market accounting / distribution / discrete manufacturing ERP",
+            "why": "Sage Intacct / X3 / 100 are the marketed migration paths \u2014 first-filter successor",
+            "status": "Dropped \u2014 vendor successor"
+          },
+          {
+            "name": "Cin7 Core",
+            "what": "Lane A \u2014 multichannel inventory / light ERP (ex Dear)",
+            "why": "Majority like ~4.2\u20134.3; price-hike / support minority does not clear",
+            "status": "Dropped \u2014 liked"
+          },
+          {
+            "name": "Windward System Five",
+            "what": "Lane A \u2014 retail / rental / inventory POS+ERP",
+            "why": "Soft ~3.7\u20133.8 ease; closed Point of Rental / Wynne rental adjacency",
+            "status": "Dropped \u2014 soft dislike / closed destination"
+          },
+          {
+            "name": "Retail Pro 9 / Prism",
+            "what": "Lane A \u2014 specialty retail POS + inventory",
+            "why": "Prism is vendor modernization; Square/Lightspeed occupy migrate-off",
+            "status": "Dropped \u2014 soft / successor"
+          },
+          {
+            "name": "Workamajig",
+            "what": "Lane A/G \u2014 advertising / creative agency ops SoR",
+            "why": "Soft ~3.8 mixed; Scoro / Function Point occupy modern agency OS",
+            "status": "Dropped \u2014 soft dislike"
+          },
+          {
+            "name": "DaySmart Pet",
+            "what": "Lane A \u2014 pet grooming / salon ops (ex 123Pet)",
+            "why": "Liked ~4.3; MoeGo occupies modern grooming",
+            "status": "Dropped \u2014 liked"
+          },
+          {
+            "name": "Eyefinity OfficeMate",
+            "what": "Lane A \u2014 optometry practice management + EHR",
+            "why": "Encompass cloud successor + PHI / clinical Harbor-path wall",
+            "status": "Dropped \u2014 vendor successor / Harbor-path"
+          },
+          {
+            "name": "Infor Distribution FACTS",
+            "what": "Lane A \u2014 legacy wholesale distribution ERP (discontinued)",
+            "why": "CloudSuite Distribution / SX.e is Infor's successor path",
+            "status": "Dropped \u2014 vendor successor"
+          },
+          {
+            "name": "OEM warranty claim admin",
+            "what": "Lane G \u2014 manufacturer warranty registration / claims still on Excel + email",
+            "why": "WarrantyHub / iWarranty / NextGen already ship mid-market warranty SoR",
+            "status": "Dropped \u2014 modern occupancy"
+          },
+          {
+            "name": "CPG deduction recovery",
+            "what": "Lane G \u2014 trade deduction recovery via Excel + contingency firms",
+            "why": "Recovery sidecar / AR leftover overlay \u2014 same class as closed commission recon",
+            "status": "Dropped \u2014 leftover overlay"
+          },
+          {
+            "name": "AP BPO / AI AP agents",
+            "what": "Lane F/G \u2014 outsourced AP coding or AI agents writing back to ERP/GL",
+            "why": "Explicit ERP overlay; not Harbor SoR (NetSuite close adjacency)",
+            "status": "Dropped \u2014 overlay foothold"
+          },
+          {
+            "name": "AR cash application AI",
+            "what": "Lane F \u2014 remittance matching / cash app agents on existing ERP",
+            "why": "Crowded AI cash-app overlays (Monk/Upflow/Rex class); not Harbor SoR",
+            "status": "Dropped \u2014 overlay foothold"
+          },
+          {
+            "name": "Lien-waiver chasing",
+            "what": "Lane G \u2014 GC lien-waiver collection via Excel + email",
+            "why": "LienDone/Levelset/GCPay occupy; collapses into closed Sage CRE / Procore class",
+            "status": "Dropped \u2014 leftover overlay / closed destination"
+          },
+          {
+            "name": "Recruiting interview coordination",
+            "what": "Lane F \u2014 panel scheduling layer (GoodTime / Majhi OS class) on ATS",
+            "why": "Explicit ATS overlay; Bullhorn paused; enterprise ATS Harbor-path closed",
+            "status": "Dropped \u2014 overlay / paused adjacency"
+          },
+          {
+            "name": "Insurance subrogation desk",
+            "what": "Lane F/G \u2014 P&C subrogation recovery on Excel + outsourced firms",
+            "why": "Overlay on Guidewire/Duck Creek claims SoR; carrier Harbor-path",
+            "status": "Dropped \u2014 overlay / Harbor-path"
+          }
+        ]
+      },
       {
         "id": "2026-09-11",
         "label": "EMPTY 11",
@@ -682,14 +812,8 @@
   "nextUp": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-14T08:24:00-05:00",
+    "lastUpdated": "2026-09-14T08:40:00-05:00",
     "items": [
-      {
-        "title": "Scout weekday hunt",
-        "nextRunAt": "2026-09-14T08:09:00-05:00",
-        "scheduleLabel": "Weekdays 8:09 AM CT",
-        "owner": "Calder \u2192 Nico (Harbor Foundry - Scout)"
-      },
       {
         "title": "Setaside shop health check",
         "nextRunAt": "2026-09-14T09:00:00-05:00",
@@ -701,19 +825,31 @@
         "nextRunAt": "2026-09-15T07:30:00-05:00",
         "scheduleLabel": "Weekdays 7:30 AM CT",
         "owner": "Fernando (Harbor Foundry - Ops)"
+      },
+      {
+        "title": "Foundry morning brief",
+        "nextRunAt": "2026-09-15T08:00:00-05:00",
+        "scheduleLabel": "Weekdays 8:00 AM CT",
+        "owner": "Calder (Harbor Foundry - CEO)"
       }
     ]
   },
   "sessionLog": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-14T08:24:00-05:00",
+    "lastUpdated": "2026-09-14T08:40:00-05:00",
     "entries": [
       {
-        "at": "2026-09-14T08:24:00-05:00",
+        "at": "2026-09-14T08:40:00-05:00",
         "actor": "Calder (Harbor Foundry - CEO)",
-        "summary": "Foundry morning brief: nothing material since Fri. Latch still paused; Setaside $0; pipeline cold after Fri EMPTY multi-lane screen; $0 spend. Quiet toward Thomas.",
-        "deskChanges": "Next Up refreshed (Scout hunt today 8:09, shop health 9:00, ops pre-brief Tue 7:30 CT)."
+        "summary": "Scout weekday hunt routine: Nico already closed Monday 2026-09-14 EMPTY multi-lane screen (16 drops, deepened 0). Did not re-wake Scout. No sprint candidates; Latch still paused; quiet toward Thomas.",
+        "deskChanges": "Next Up refreshed (shop health today 9:00, ops pre-brief Tue 7:30, morning brief Tue 8:00 CT)."
+      },
+      {
+        "at": "2026-09-14T08:36:33-05:00",
+        "actor": "Nico (Harbor Foundry - Scout)",
+        "summary": "Monday multi-lane platform hunt EMPTY (16 drops across hated incumbents, AI-native/agentic, productized services/workflow hybrids). Prefer EMPTY over weak overlays. No sprint candidates; deepened 0.",
+        "deskChanges": "INSTITUTIONAL + Foundry snapshot/rejections/session log/segment-summary updated; scout-screen and ranked EMPTY files written; no staffing."
       },
       {
         "at": "2026-09-11T10:19:52-05:00",
@@ -782,113 +918,112 @@
     ]
   },
   "recentHunt": {
-    "date": "2026-09-11",
+    "date": "2026-09-14",
     "outcome": "EMPTY",
     "status": "No sprint candidates",
-    "synopsis": "2026-09-11 multi-lane hunt screened 16 names across neglected vertical, AI-automatable process, review-site pain, and job/RFP replace-X. Outcome: EMPTY \u2014 no sprint candidates (deepened 0). Each name below shows what it is, lane, why screened, and why dropped.",
+    "synopsis": "2026-09-14 Monday multi-lane hunt screened 16 names across hated incumbents, AI-native/agentic, and productized services/workflow hybrids. Outcome: EMPTY \u2014 no sprint candidates (deepened 0). Each name below shows what it is, lane, why screened, and why dropped.",
     "candidateCount": 16,
     "lanes": [
-      "neglected vertical",
-      "AI-automatable process",
-      "review-site pain",
-      "job/RFP replace-X"
+      "hated incumbents",
+      "AI-native / agentic",
+      "productized services / workflow hybrids"
     ],
     "candidates": [
       {
-        "name": "IntelliDealer",
-        "what": "Lane B \u2014 heavy equipment / commercial truck dealer DMS",
-        "why": "Thin Reddit support hate; DIS Quantum occupies migrate-off; CDK-adjacent Harbor-path",
-        "status": "Dropped \u2014 thin chorus / closed adjacency"
+        "name": "Epicor Eclipse",
+        "what": "Lane A \u2014 electrical / HVAC / plumbing / PVF wholesale distribution ERP",
+        "why": "Soft ~85% recommend; Prophet 21 / Acumatica-NetSuite distribution adjacency",
+        "status": "Dropped \u2014 soft dislike / closed adjacency"
       },
       {
-        "name": "MarkSystems",
-        "what": "Lane B \u2014 production homebuilder ERP (Constellation / ECI)",
-        "why": "Constellation NX is the marketed cloud successor \u2014 first-filter migration path",
+        "name": "Sage 500 ERP",
+        "what": "Lane A \u2014 mid-market accounting / distribution / discrete manufacturing ERP",
+        "why": "Sage Intacct / X3 / 100 are the marketed migration paths \u2014 first-filter successor",
         "status": "Dropped \u2014 vendor successor"
       },
       {
-        "name": "Towbook",
-        "what": "Lane B/E \u2014 towing / roadside / impound dispatch",
-        "why": "Soft/mixed ~3.9 Trustpilot; TRAXERO already occupies modern tow ops",
+        "name": "Cin7 Core",
+        "what": "Lane A \u2014 multichannel inventory / light ERP (ex Dear)",
+        "why": "Majority like ~4.2\u20134.3; price-hike / support minority does not clear",
+        "status": "Dropped \u2014 liked"
+      },
+      {
+        "name": "Windward System Five",
+        "what": "Lane A \u2014 retail / rental / inventory POS+ERP",
+        "why": "Soft ~3.7\u20133.8 ease; closed Point of Rental / Wynne rental adjacency",
+        "status": "Dropped \u2014 soft dislike / closed destination"
+      },
+      {
+        "name": "Retail Pro 9 / Prism",
+        "what": "Lane A \u2014 specialty retail POS + inventory",
+        "why": "Prism is vendor modernization; Square/Lightspeed occupy migrate-off",
+        "status": "Dropped \u2014 soft / successor"
+      },
+      {
+        "name": "Workamajig",
+        "what": "Lane A/G \u2014 advertising / creative agency ops SoR",
+        "why": "Soft ~3.8 mixed; Scoro / Function Point occupy modern agency OS",
         "status": "Dropped \u2014 soft dislike"
       },
       {
-        "name": "FranConnect",
-        "what": "Lane B/E \u2014 franchise lifecycle / royalty ops",
-        "why": "Majority like ~4.3; dated-UI / cost notes are soft, not hate-while-paying",
+        "name": "DaySmart Pet",
+        "what": "Lane A \u2014 pet grooming / salon ops (ex 123Pet)",
+        "why": "Liked ~4.3; MoeGo occupies modern grooming",
         "status": "Dropped \u2014 liked"
       },
       {
-        "name": "CleanCloud",
-        "what": "Lane B/E \u2014 dry cleaning / laundry POS + pickup delivery",
-        "why": "Strongly liked ~4.7; support/bug minority does not clear",
-        "status": "Dropped \u2014 liked"
+        "name": "Eyefinity OfficeMate",
+        "what": "Lane A \u2014 optometry practice management + EHR",
+        "why": "Encompass cloud successor + PHI / clinical Harbor-path wall",
+        "status": "Dropped \u2014 vendor successor / Harbor-path"
       },
       {
-        "name": "Aspire",
-        "what": "Lane B \u2014 commercial landscaping ops / job cost",
-        "why": "Liked ~4.5\u20134.6; destination collapses toward closed ServiceTitan FSM",
-        "status": "Dropped \u2014 liked / closed destination"
+        "name": "Infor Distribution FACTS",
+        "what": "Lane A \u2014 legacy wholesale distribution ERP (discontinued)",
+        "why": "CloudSuite Distribution / SX.e is Infor's successor path",
+        "status": "Dropped \u2014 vendor successor"
       },
       {
-        "name": "ServiceTrade",
-        "what": "Lane B \u2014 commercial HVAC / fire / mechanical service",
-        "why": "Liked ~4.6 commercial FSM; ServiceTitan/Davisware adjacency",
-        "status": "Dropped \u2014 liked / closed destination"
+        "name": "OEM warranty claim admin",
+        "what": "Lane G \u2014 manufacturer warranty registration / claims still on Excel + email",
+        "why": "WarrantyHub / iWarranty / NextGen already ship mid-market warranty SoR",
+        "status": "Dropped \u2014 modern occupancy"
       },
       {
-        "name": "PlotBox",
-        "what": "Lane B \u2014 cemetery / crematory / combo deathcare ops",
-        "why": "Liked ~4.7; learning-curve soft, not hate",
-        "status": "Dropped \u2014 liked"
-      },
-      {
-        "name": "Passare",
-        "what": "Lane B \u2014 funeral home case / arrangement SoR",
-        "why": "Liked ~4.5\u20134.6; FrontRunner/SRS Harbor-path class already dropped",
-        "status": "Dropped \u2014 liked / closed adjacency"
-      },
-      {
-        "name": "e-automate",
-        "what": "Lane B/E \u2014 office equipment / managed-print dealer ERP",
-        "why": "Soft price-lock / dated-UI notes; TrustRadius majority like",
-        "status": "Dropped \u2014 soft dislike"
-      },
-      {
-        "name": "Adobe Captivate",
-        "what": "Lane E \u2014 e-learning course authoring",
-        "why": "Real low-ease review pain; leftover authoring with no Harbor SoR path",
-        "status": "Dropped \u2014 leftover / no SoR"
-      },
-      {
-        "name": "Carrier commission statement recon",
-        "what": "Lane D \u2014 agency Excel/OCR vs AMS commission reconciliation process",
-        "why": "Applied Epic/AMS360 closed; AgencyBloc occupies L&H; leftover overlay",
-        "status": "Dropped \u2014 closed class / leftover overlay"
-      },
-      {
-        "name": "COI chasing (myCOI / CertFocus class)",
-        "what": "Lane D \u2014 certificate-of-insurance tracking / productized verification",
-        "why": "Crowded AI/productized sidecars; compliance sidecar is not destination SoR",
-        "status": "Dropped \u2014 leftover overlay / no SoR"
-      },
-      {
-        "name": "Franchise royalty CSV / POS dumps",
-        "what": "Lane D \u2014 franchisor royalty reporting from POS exports / spreadsheets",
-        "why": "FranConnect occupies; thin leftover overlay with no Harbor SoR path",
+        "name": "CPG deduction recovery",
+        "what": "Lane G \u2014 trade deduction recovery via Excel + contingency firms",
+        "why": "Recovery sidecar / AR leftover overlay \u2014 same class as closed commission recon",
         "status": "Dropped \u2014 leftover overlay"
       },
       {
-        "name": "Provider credentialing / symplr",
-        "what": "Lane D \u2014 hospital/payer credentialing & privileging process",
-        "why": "PHI / hospital Harbor-path; CVO productized services already occupy",
-        "status": "Dropped \u2014 Harbor-path"
+        "name": "AP BPO / AI AP agents",
+        "what": "Lane F/G \u2014 outsourced AP coding or AI agents writing back to ERP/GL",
+        "why": "Explicit ERP overlay; not Harbor SoR (NetSuite close adjacency)",
+        "status": "Dropped \u2014 overlay foothold"
       },
       {
-        "name": "Microsoft Project Online RFP class",
-        "what": "Lane C \u2014 public-sector Project Online replacement RFPs (e.g. Manitoba POR)",
-        "why": "Gov / capital RFP Harbor-path; enterprise PPM crowded",
-        "status": "Dropped \u2014 Harbor-path"
+        "name": "AR cash application AI",
+        "what": "Lane F \u2014 remittance matching / cash app agents on existing ERP",
+        "why": "Crowded AI cash-app overlays (Monk/Upflow/Rex class); not Harbor SoR",
+        "status": "Dropped \u2014 overlay foothold"
+      },
+      {
+        "name": "Lien-waiver chasing",
+        "what": "Lane G \u2014 GC lien-waiver collection via Excel + email",
+        "why": "LienDone/Levelset/GCPay occupy; collapses into closed Sage CRE / Procore class",
+        "status": "Dropped \u2014 leftover overlay / closed destination"
+      },
+      {
+        "name": "Recruiting interview coordination",
+        "what": "Lane F \u2014 panel scheduling layer (GoodTime / Majhi OS class) on ATS",
+        "why": "Explicit ATS overlay; Bullhorn paused; enterprise ATS Harbor-path closed",
+        "status": "Dropped \u2014 overlay / paused adjacency"
+      },
+      {
+        "name": "Insurance subrogation desk",
+        "what": "Lane F/G \u2014 P&C subrogation recovery on Excel + outsourced firms",
+        "why": "Overlay on Guidewire/Duck Creek claims SoR; carrier Harbor-path",
+        "status": "Dropped \u2014 overlay / Harbor-path"
       }
     ]
   },
