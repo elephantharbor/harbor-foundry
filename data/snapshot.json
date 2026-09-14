@@ -682,14 +682,8 @@
   "nextUp": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-14T07:39:00-05:00",
+    "lastUpdated": "2026-09-14T08:24:00-05:00",
     "items": [
-      {
-        "title": "Foundry morning brief",
-        "nextRunAt": "2026-09-14T08:00:00-05:00",
-        "scheduleLabel": "Weekdays 8:00 AM CT",
-        "owner": "Calder (Harbor Foundry - CEO)"
-      },
       {
         "title": "Scout weekday hunt",
         "nextRunAt": "2026-09-14T08:09:00-05:00",
@@ -701,14 +695,26 @@
         "nextRunAt": "2026-09-14T09:00:00-05:00",
         "scheduleLabel": "Weekdays 9:00 AM CT",
         "owner": "Sable (Harbor Foundry - Setaside)"
+      },
+      {
+        "title": "Foundry operations pre-brief",
+        "nextRunAt": "2026-09-15T07:30:00-05:00",
+        "scheduleLabel": "Weekdays 7:30 AM CT",
+        "owner": "Fernando (Harbor Foundry - Ops)"
       }
     ]
   },
   "sessionLog": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-11T10:19:52-05:00",
+    "lastUpdated": "2026-09-14T08:24:00-05:00",
     "entries": [
+      {
+        "at": "2026-09-14T08:24:00-05:00",
+        "actor": "Calder (Harbor Foundry - CEO)",
+        "summary": "Foundry morning brief: nothing material since Fri. Latch still paused; Setaside $0; pipeline cold after Fri EMPTY multi-lane screen; $0 spend. Quiet toward Thomas.",
+        "deskChanges": "Next Up refreshed (Scout hunt today 8:09, shop health 9:00, ops pre-brief Tue 7:30 CT)."
+      },
       {
         "at": "2026-09-11T10:19:52-05:00",
         "actor": "Calder (Harbor Foundry - CEO)",
