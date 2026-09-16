@@ -1,6 +1,6 @@
 {
   "mission": "Find dated paid software customers dislike, validate a modern replacement destination, and build independent ventures only where evidence warrants substantial durable economic value.",
-  "lastUpdated": "2026-09-16T17:27:32-05:00",
+  "lastUpdated": "2026-09-16T17:27:51-05:00",
   "cycle": "Cycle 3",
   "metrics": {
     "researching": 0,
@@ -15,7 +15,7 @@
   },
   "needsHumanAttention": [],
   "currentObjective": "Continue SurveyOps Cheap Test learning (crowding vs KudurruStone/Job Book); keep Scout multi-lane. No Wren staff / no memo yet. Latch stays paused.",
-  "currentStatus": "OS v2 Cheap Test cohort closed: SurveyOps ACT (continue Cheap Test); Lightspeed DMS REJECT; Ajera REJECT. Setaside Operating. Latch Paused. Afterfee dead. $0.",
+  "currentStatus": "SurveyOps remains on Cheap Test (ACT) \u2014 next learning is crowding vs KudurruStone/Job Book; no Wren, no memo. Lightspeed DMS and Deltek Ajera Cheap Tests Closed REJECT. Setaside operating at $24, $0 sales (Sable). Latch (Bullhorn) remains paused. Keep multi-lane Scout. $0.",
   "pipelineStages": [
     {
       "id": "scout",
@@ -86,33 +86,36 @@
       "updated": "2026-09-16",
       "recommendation": "ACT",
       "resultDoc": "ops/cheaptest-result-surveyops-2026-09-16.md",
-      "decision": "ACT"
+      "decision": "ACT",
+      "note": "Continue Cheap Test: crowding vs KudurruStone/Job Book. No Wren, no memo, no fake-door without Thomas."
     },
     {
       "id": "lightspeed-dms",
       "name": "Lightspeed DMS (marine/powersports)",
       "incumbent": "Lightspeed DMS",
       "stage": "closed",
-      "status": "REJECT \u2014 Closed",
+      "status": "Closed",
       "summary": "Cheap Test REJECT: OEM/history lock; RO-first Harbor path collapses to overlay vs Blackpurl/BiT/DX1. Do not re-open without OEM-path thesis.",
       "owner": "Nico",
       "updated": "2026-09-16",
       "recommendation": "REJECT",
       "resultDoc": "ops/cheaptest-result-lightspeed-dms-2026-09-16.md",
-      "decision": "REJECT"
+      "decision": "REJECT",
+      "note": "Closed 2026-09-16. Do not re-open without OEM-path thesis."
     },
     {
       "id": "ajera",
       "name": "Deltek Ajera (A/E)",
       "incumbent": "Deltek Ajera",
       "stage": "closed",
-      "status": "REJECT \u2014 Closed",
+      "status": "Closed",
       "summary": "Cheap Test REJECT: soft leftover; migrate path is QB+Monograph/Factor, not Harbor books SoR.",
       "owner": "Nico",
       "updated": "2026-09-16",
       "recommendation": "REJECT",
       "resultDoc": "ops/cheaptest-result-ajera-2026-09-16.md",
-      "decision": "REJECT"
+      "decision": "REJECT",
+      "note": "Closed 2026-09-16. Prefer EMPTY."
     },
     {
       "id": "latch",
@@ -1033,13 +1036,35 @@
   ],
   "lessons": [
     {
+      "id": "qb-pm-collapse",
+      "originationDate": "2026-09-16",
+      "experience": "Ajera Cheap Test residual UI pain did not equal appetite for a Harbor books SoR.",
+      "evidence": "cheaptest-result-ajera-2026-09-16.md \u2014 soft ~3.6 leftover; migrate stories are QB + Monograph/Factor, not replacement accounting SoR; time\u2192invoice without books = helper.",
+      "learning": "When mid-market professional-services migrate path is modern PM beside QuickBooks (not new books SoR), Soft leftover \u2260 Harbor opening \u2014 REJECT.",
+      "change": "Scout/Challenge: score orphan vs soft leftover; kill A/E and similar if matrix shows QB+PM collapse and no books-SoR appetite.",
+      "status": "Confirmed",
+      "requiredBehavioralChange": "Before Cheap Test on project-accounting incumbents, check migrate stories for QB+PM collapse; do not nominate Harbor books SoR when that pattern dominates.",
+      "owner": "Nico / Ellis / Calder"
+    },
+    {
+      "id": "oem-wall-dms",
+      "originationDate": "2026-09-16",
+      "experience": "Lightspeed DMS Cheap Test looked like residual dealer UX pain but OEM + history lock dominated migrate stories.",
+      "evidence": "cheaptest-result-lightspeed-dms-2026-09-16.md \u2014 soft/mixed ratings; switch motives often learning-curve; cloud DMS competitors already own migrate-off; RO-first without OEM pedigree collapses to overlay.",
+      "learning": "Dealer/OEM-stack SoRs: if OEM integration/history lock dominates every switch story, a Harbor wedge on service RO alone is an overlay \u2014 REJECT early.",
+      "change": "Scout screen filter: marine/powersports/auto DMS with OEM pedigree wall \u2192 prefer EMPTY unless an explicit OEM-path thesis exists. Do not re-open Lightspeed without that thesis.",
+      "status": "Confirmed",
+      "requiredBehavioralChange": "Drop OEM-locked DMS candidates at screen unless OEM-path thesis is named; do not advance RO-only overlays to Cheap Test.",
+      "owner": "Nico / Calder"
+    },
+    {
       "id": "zero-output-process",
       "originationDate": "2026-09-16",
       "experience": "Multi-lane Scout repeatedly returned examined\u21920 advanced (EMPTY deepen) while the bar was still \u201cready for a full engineering sprint.\u201d",
-      "evidence": "EMPTY screens 2026-09-07 through 2026-09-16 under high raw volume; zero Cheap Test or sprint advances; Latch paused separately by Thomas.",
+      "evidence": "EMPTY screens 2026-09-07 through 2026-09-16 under high raw volume; zero Cheap Test or sprint advances; Latch paused separately by Thomas. Cohort 2026-09-16b: under Cheap Test bar, 3 advanced \u2192 1 ACT + 2 REJECT with learned kills.",
       "learning": "Repeated examined\u21920 advanced is process evidence. Default next step is Cheap Test when there is enough evidence for an inexpensive learning step \u2014 not only full-sprint readiness.",
-      "change": "Platform funnel + Challenge skills and Scout routine rewritten for OS v2: advance to Cheap Test; Challenge kills only demonstrably weak ideas; open questions become cheap tests. Desk pipeline adds Cheap Test stage.",
-      "status": "Testing",
+      "change": "Platform funnel + Challenge skills and Scout routine rewritten for OS v2: advance to Cheap Test; Challenge kills only demonstrably weak ideas; open questions become cheap tests. Desk pipeline adds Cheap Test stage. First cohort closed the loop; reject reasons institutionalized (oem-wall-dms, qb-pm-collapse).",
+      "status": "Confirmed",
       "requiredBehavioralChange": "Scout nominates Cheap Tests; Ellis does not kill on open questions; Calder decides TEST SMALL without waiting for sprint-proof.",
       "owner": "Calder (Harbor Foundry - CEO)"
     },
@@ -1165,8 +1190,22 @@
   "sessionLog": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-16T17:27:32-05:00",
+    "lastUpdated": "2026-09-16T17:27:51-05:00",
     "entries": [
+      {
+        "at": "2026-09-16T17:27:51-05:00",
+        "actor": "Calder (Harbor Foundry - CEO)",
+        "summary": "Institutionalized Cheap Test reject lessons: OEM wall for DMS (oem-wall-dms); soft leftover QB+PM collapse (qb-pm-collapse). Reinforced zero-output-process as Confirmed.",
+        "deskChanges": "lessons array updated; Scout filters to apply next hunt.",
+        "lessonId": "oem-wall-dms"
+      },
+      {
+        "at": "2026-09-16T18:30:00-05:00",
+        "actor": "Nico (Harbor Foundry - Scout)",
+        "summary": "Calder locked Cheap Test cohort: SurveyOps ACT (continue crowding vs KudurruStone/Job Book); Lightspeed DMS REJECT Closed; Ajera REJECT Closed.",
+        "deskChanges": "Pipeline: SurveyOps stays Cheap Test; Lightspeed and Ajera Closed. No Wren, no Active/Sprint. Latch paused.",
+        "lessonId": "no-fake-loads"
+      },
       {
         "at": "2026-09-16T17:27:32-05:00",
         "actor": "Calder (Harbor Foundry - CEO)",
