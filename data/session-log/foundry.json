@@ -1,14 +1,13 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-16T17:45:00-05:00",
+  "lastUpdated": "2026-09-16T17:23:48-05:00",
   "entries": [
     {
-      "at": "2026-09-16T17:45:00-05:00",
-      "actor": "Nico (Harbor Foundry - Scout)",
-      "summary": "Wednesday evening OS v2 Cheap Test hunt: 3 nominees (surveying ops SoR; Lightspeed DMS; Deltek Ajera) from 16-screen across review-site/forums, job-posting, neglected, vertical SoR, data products, underserved, hybrids. Rotated off morning A/D/F/G. Prefer Cheap Tests over reflexive EMPTY. Do not staff. Latch paused.",
-      "deskChanges": "INSTITUTIONAL 2026-09-16b Cheap Test section; scout-screen/ranked/packets 2026-09-16b; Foundry recentHunt nominations-friendly; session log + segment-summary; morning EMPTY files preserved.",
-      "lessonId": "zero-output-process"
+      "at": "2026-09-16T17:23:48-05:00",
+      "actor": "Calder (Harbor Foundry - CEO)",
+      "summary": "Advanced first OS v2 Cheap Test cohort: Surveying firm ops SoR, Lightspeed DMS (marine/powersports), Deltek Ajera (A/E). All TEST SMALL at $0. Nico executes; Ellis red-teams in parallel.",
+      "deskChanges": "pipelineItems add three cheapTest rows; metrics.cheapTestsActive=3; currentStatus updated."
     },
     {
       "at": "2026-09-16T17:15:25-05:00",

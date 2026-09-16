@@ -1,6 +1,6 @@
 {
   "mission": "Find dated paid software customers dislike, validate a modern replacement destination, and build independent ventures only where evidence warrants substantial durable economic value.",
-  "lastUpdated": "2026-09-16T17:45:00-05:00",
+  "lastUpdated": "2026-09-16T17:23:48-05:00",
   "cycle": "Cycle 3",
   "metrics": {
     "researching": 0,
@@ -9,11 +9,12 @@
     "activeSprints": 0,
     "building": 0,
     "operatingVentures": 1,
-    "setasideSales": "$0"
+    "setasideSales": "$0",
+    "cheapTestsActive": 3
   },
   "needsHumanAttention": [],
-  "currentObjective": "OS v2: raise Foundry advancement via Cheap Tests. Multi-lane Scout; Challenge kills only demonstrably weak ideas; memo gate only for major sprints. Latch stays paused. Setaside continues operating.",
-  "currentStatus": "OS v2 Cheap Test hunt 2026-09-16b (evening): Nico brought 3 Cheap Test nominees (surveying ops SoR; Lightspeed DMS marine/powersports; Deltek Ajera A/E) after screening 16 across review-site/forums, job-posting pain, neglected products, vertical SoR gaps, data products, underserved verticals, and hybrids. Morning EMPTY 2026-09-16 untouched. Latch Paused. Setaside Operating at $24 / $0 sales. Afterfee dead. Do not staff.",
+  "currentObjective": "Run three $0 Cheap Tests to learn whether these verticals clear Harbor SoR filters; kill fast if overlay/OEM/QB-collapse. Latch stays paused. Setaside continues.",
+  "currentStatus": "OS v2: three Cheap Tests in flight (TEST SMALL, $0) \u2014 Surveying ops SoR, Lightspeed DMS marine/powersports, Deltek Ajera A/E. Nico executing; Ellis red-teams parallel. Setaside Operating. Latch Paused. Afterfee dead.",
   "pipelineStages": [
     {
       "id": "scout",
@@ -73,6 +74,36 @@
     }
   ],
   "pipelineItems": [
+    {
+      "id": "surveyops",
+      "name": "Surveying firm ops SoR",
+      "incumbent": "Excel/Sheets + CAD (Carlson class)",
+      "stage": "cheapTest",
+      "status": "TEST SMALL",
+      "summary": "Cheap Test approved: $0 Reddit/census + competitor matrix + one-pager on crew-board wedge for survey firms.",
+      "owner": "Nico",
+      "updated": "2026-09-16"
+    },
+    {
+      "id": "lightspeed-dms",
+      "name": "Lightspeed DMS (marine/powersports)",
+      "incumbent": "Lightspeed DMS",
+      "stage": "cheapTest",
+      "status": "TEST SMALL",
+      "summary": "Cheap Test approved: $0 switch-reason extract + DMS matrix; kill if OEM wall / overlay-only.",
+      "owner": "Nico",
+      "updated": "2026-09-16"
+    },
+    {
+      "id": "ajera",
+      "name": "Deltek Ajera (A/E)",
+      "incumbent": "Deltek Ajera",
+      "stage": "cheapTest",
+      "status": "TEST SMALL",
+      "summary": "Cheap Test approved: $0 review score + Monograph/BQE/Factor/Vantagepoint matrix; kill if QB+PM only.",
+      "owner": "Nico",
+      "updated": "2026-09-16"
+    },
     {
       "id": "latch",
       "name": "Latch",
@@ -1117,8 +1148,14 @@
   "sessionLog": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-16T17:15:25-05:00",
+    "lastUpdated": "2026-09-16T17:23:48-05:00",
     "entries": [
+      {
+        "at": "2026-09-16T17:23:48-05:00",
+        "actor": "Calder (Harbor Foundry - CEO)",
+        "summary": "Advanced first OS v2 Cheap Test cohort: Surveying firm ops SoR, Lightspeed DMS (marine/powersports), Deltek Ajera (A/E). All TEST SMALL at $0. Nico executes; Ellis red-teams in parallel.",
+        "deskChanges": "pipelineItems add three cheapTest rows; metrics.cheapTestsActive=3; currentStatus updated."
+      },
       {
         "at": "2026-09-16T17:15:25-05:00",
         "actor": "Calder (Harbor Foundry - CEO)",
