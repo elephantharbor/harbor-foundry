@@ -4,9 +4,9 @@
   "description": "Software venture creation.",
   "mission": "Find weak or dated incumbent software markets, validate opportunities to replace them, and build substantial new software businesses where evidence warrants it.",
   "status": "Building",
-  "statusDetail": "One operating venture (Setaside). Latch paused. Hunt advanced: 3 Cheap Test nominees from evening 2026-09-16b OS v2 hunt (surveying ops; Lightspeed DMS; Ajera). Morning EMPTY preserved.",
+  "statusDetail": "One operating venture (Setaside). Latch paused. Cheap Tests executed 2026-09-16 evening: SurveyOps ACT; Lightspeed DMS REJECT; Ajera REJECT \u2014 all still on Cheap Test stage.",
   "owner": "Calder (Harbor Foundry - CEO)",
-  "lastUpdated": "2026-09-16T17:45:00-05:00",
+  "lastUpdated": "2026-09-16T18:15:00-05:00",
   "headlineMetrics": [
     {
       "label": "Operating ventures",
@@ -21,7 +21,7 @@
     {
       "label": "Prospects under research",
       "value": "3",
-      "hint": "Cheap Test nominees from 2026-09-16b evening hunt \u2014 not sprint-staffed"
+      "hint": "Cheap Test stage: SurveyOps ACT; Lightspeed+Ajera REJECT pending close \u2014 not sprint-staffed"
     },
     {
       "label": "Awaiting approval",
@@ -29,13 +29,13 @@
       "hint": "No investment memos pending Thomas"
     }
   ],
-  "currentObjective": "OS v2: advance Cheap Test nominees; Ellis red-teams; memo gate only for major sprints. Latch paused.",
-  "currentStatusBrief": "Latch Paused. Setaside Operating $24/$0. Nico 2026-09-16b: 3 Cheap Test nominees (surveying ops SoR, Lightspeed DMS, Deltek Ajera) after 16-screen on rotated lanes. Not staffed. Afterfee dead.",
+  "currentObjective": "Ellis red-team SurveyOps ACT path; close Lightspeed + Ajera rejects on desk. Memo gate only for major sprints. Latch paused.",
+  "currentStatusBrief": "Latch Paused. Setaside Operating $24/$0. Nico Cheap Tests: SurveyOps ACT; Lightspeed DMS REJECT; Ajera REJECT. Not staffed. Afterfee dead.",
   "latestLesson": {
-    "experience": "Screens keep dying when the incumbent already has a vendor-owned modern successor or leftover overlays (Eagle\u2192Propello; Concur NextGen class).",
-    "evidence": "EMPTY hunt outcomes after occupancy looked promising.",
-    "learning": "Occupancy alone is not a kill \u2014 but a foothold that cannot become the desk system of record is.",
-    "change": "Scout/challenge keep destination system of record (SoR) potential as a hard filter, not just \u201cpeople hate this product.\u201d"
+    "experience": "Cheap Tests on soft DMS/ERP leftovers die when OEM pedigree or QB+PM companions already own the migrate path.",
+    "evidence": "Lightspeed OEM lock; Ajera\u2192Monograph/Factor+QBO public migrate stories.",
+    "learning": "EMPTY-over-overlays: RO skins and time\u2192invoice helpers are not Harbor SoR. Survey ops beside CAD still clears.",
+    "change": "Advance only SurveyOps; reject Lightspeed and Ajera without staffing."
   },
   "needsHumanAction": false,
   "humanAction": null,
