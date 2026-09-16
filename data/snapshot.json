@@ -1,6 +1,6 @@
 {
   "mission": "Find dated paid software customers dislike, validate a modern replacement destination, and build independent ventures only where evidence warrants substantial durable economic value.",
-  "lastUpdated": "2026-09-16T08:25:00-05:00",
+  "lastUpdated": "2026-09-16T08:50:00-05:00",
   "cycle": "Cycle 3",
   "metrics": {
     "researching": 0,
@@ -13,7 +13,7 @@
   },
   "needsHumanAttention": [],
   "currentObjective": "Build and operate independent ventures that create substantial durable economic value \u2014 validate by building, kill weak theses fast, only sprint what Thomas greenlights.",
-  "currentStatus": "Hunt pipeline remains cold after Tuesday 2026-09-15 EMPTY multi-lane screen (sixteen new drops across job-posting workflow pain / review-site-forums / neglected products / vertical SoR gaps; deepened 0). Setaside operating (Sable). Latch (Bullhorn) validation sprint remains temporarily paused by Thomas \u2014 Wren holds; assets preserved; not Kill. UKG WFC and Primavera P6 remain unstaffed nominations. Afterfee stays dead.",
+  "currentStatus": "Hunt pipeline remains cold after Wednesday 2026-09-16 EMPTY multi-lane screen (sixteen new drops across hated incumbents / AI-automatable processes / AI-native-agentic / productized-services hybrids; deepened 0). Setaside operating (Sable). Latch (Bullhorn) validation sprint remains temporarily paused by Thomas \u2014 Wren holds; assets preserved; not Kill. UKG WFC and Primavera P6 remain unstaffed nominations. Afterfee stays dead.",
   "pipelineStages": [
     {
       "id": "scout",
@@ -190,6 +190,137 @@
       "reason": "Closed. SAP is shipping NextGen / new report UI; Harbor is not running a T&E replacement against that vendor modernization. Do not recycle."
     },
     "emptyScreens": [
+      {
+        "id": "2026-09-16",
+        "label": "EMPTY 16",
+        "date": "2026-09-16",
+        "outcome": "EMPTY",
+        "status": "No sprint candidates",
+        "synopsis": "2026-09-16 Wednesday multi-lane hunt screened 16 names across hated incumbents, AI-automatable processes, AI-native/agentic, and productized services/workflow hybrids. Outcome: EMPTY \u2014 no sprint candidates (deepened 0). Each name below shows what it is, lane, why screened, and why dropped.",
+        "why": "Liked/soft dislike (Redtail, Rent Manager, HotSchedules, SAP B1, Restaurant365, Buildertrend, RealGreen soft, MIP soft), price-not-product hate + Harbor-path (UltraTax/Lacerte), vendor-own successor (Macola\u2192JobBOSS\u00b2/M1/Deacom; Kaseya VSA\u219210/Datto; CaseWare Cloud), closed-class collapse (Rent Manager\u2192AppFolio/Yardi; RealGreen\u2192Aspire; MIP\u2192FE NXT), or overlay/sidecar with no Harbor SoR (certified payroll, HOA packets, OSHA log wedge, Confluence retrieval agent). Prefer EMPTY over weak nominations.",
+        "lanes": [
+          "hated incumbents",
+          "AI-automatable processes",
+          "AI-native / agentic",
+          "productized services / workflow hybrids"
+        ],
+        "names": [
+          "Redtail CRM",
+          "Rent Manager",
+          "HotSchedules (Fourth)",
+          "UltraTax CS / Lacerte",
+          "SAP Business One",
+          "Restaurant365",
+          "Buildertrend",
+          "RealGreen",
+          "Macola (Exact/ECI)",
+          "Kaseya VSA 9",
+          "MIP Fund Accounting",
+          "CaseWare Working Papers",
+          "Certified payroll / prevailing wage",
+          "HOA board packet assembly",
+          "Mid-market OSHA 300 / incident Excel",
+          "Confluence / wiki search agent"
+        ],
+        "candidates": [
+          {
+            "name": "Redtail CRM",
+            "what": "Lane A \u2014 financial-advisor CRM (household \u2192 activity \u2192 compliance)",
+            "why": "Liked ~4.1\u20134.4; dated-UI minority soft; Wealthbox occupies migrate-off",
+            "status": "Dropped \u2014 liked / soft"
+          },
+          {
+            "name": "Rent Manager",
+            "what": "Lane A \u2014 residential / multi-asset property management SoR",
+            "why": "Liked ~4.6; closed AppFolio/Yardi PM class",
+            "status": "Dropped \u2014 liked / closed-class"
+          },
+          {
+            "name": "HotSchedules (Fourth)",
+            "what": "Lane A \u2014 restaurant / hospitality workforce scheduling",
+            "why": "Liked ~4.4 majority; Fourth still invests",
+            "status": "Dropped \u2014 liked"
+          },
+          {
+            "name": "UltraTax CS / Lacerte",
+            "what": "Lane A \u2014 professional tax-prep suites",
+            "why": "Price hate not product orphan; tax Harbor-path; Drake occupies",
+            "status": "Dropped \u2014 Harbor-path / price"
+          },
+          {
+            "name": "SAP Business One",
+            "what": "Lane A \u2014 SMB / lower mid-market ERP",
+            "why": "Liked ~4.3\u20134.4; crowded Acumatica/NetSuite/Intacct occupancy",
+            "status": "Dropped \u2014 liked / soft"
+          },
+          {
+            "name": "Restaurant365",
+            "what": "Lane A \u2014 restaurant accounting + inventory + labor suite",
+            "why": "Soft ~4.1\u20134.5; price/implementation minority",
+            "status": "Dropped \u2014 soft"
+          },
+          {
+            "name": "Buildertrend",
+            "what": "Lane A \u2014 residential builder project + client ops",
+            "why": "Liked ~4.5 / 2400+ Capterra despite price/mobile minority",
+            "status": "Dropped \u2014 liked"
+          },
+          {
+            "name": "RealGreen",
+            "what": "Lane A \u2014 lawn-care / pest recurring-route ops",
+            "why": "Soft ~3.9; Aspire/Arborgold green adjacency closed",
+            "status": "Dropped \u2014 soft / closed-class"
+          },
+          {
+            "name": "Macola (Exact/ECI)",
+            "what": "Lane A \u2014 discrete manufacturing ERP (Progression / Macola 10)",
+            "why": "ECI JobBOSS\u00b2/M1/Deacom successor first-filter; closed JobBOSS class",
+            "status": "Dropped \u2014 vendor successor"
+          },
+          {
+            "name": "Kaseya VSA 9",
+            "what": "Lane A \u2014 MSP remote monitoring & management",
+            "why": "VSA 10 / Datto RMM vendor successor first-filter",
+            "status": "Dropped \u2014 vendor successor"
+          },
+          {
+            "name": "MIP Fund Accounting",
+            "what": "Lane A \u2014 nonprofit / government fund accounting",
+            "why": "Soft ~4.1; Intacct occupies; FE NXT nonprofit books class closed",
+            "status": "Dropped \u2014 soft / closed-class"
+          },
+          {
+            "name": "CaseWare Working Papers",
+            "what": "Lane A/D \u2014 audit engagement / workpaper desk",
+            "why": "CaseWare Cloud successor; Inflo/AuditBoard occupy",
+            "status": "Dropped \u2014 vendor successor"
+          },
+          {
+            "name": "Certified payroll / prevailing wage",
+            "what": "Lane D/G \u2014 Excel + LCPtracker / portal WH-347 assembly",
+            "why": "eBacon/LCPtracker occupancy; payroll compliance sidecar not Harbor SoR",
+            "status": "Dropped \u2014 overlay / sidecar"
+          },
+          {
+            "name": "HOA board packet assembly",
+            "what": "Lane D/G \u2014 Excel + PDF monthly board packet stitch",
+            "why": "AppFolio/CINC/BoardStack occupy; packet leftover class",
+            "status": "Dropped \u2014 occupancy / leftover"
+          },
+          {
+            "name": "Mid-market OSHA 300 / incident Excel",
+            "what": "Lane D/F \u2014 injury log + corrective-action email desk",
+            "why": "Safesite/EHS Insight/KPA occupy mid-market EHS",
+            "status": "Dropped \u2014 occupancy"
+          },
+          {
+            "name": "Confluence / wiki search agent",
+            "what": "Lane F \u2014 AI retrieval layer on paid wiki SoR",
+            "why": "Overlay foothold on wiki SoR; Latch/Setaside lesson",
+            "status": "Dropped \u2014 overlay"
+          }
+        ]
+      },
       {
         "id": "2026-09-15",
         "label": "EMPTY 15",
@@ -943,7 +1074,7 @@
   "nextUp": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-16T08:36:00-05:00",
+    "lastUpdated": "2026-09-16T08:50:00-05:00",
     "items": [
       {
         "title": "Setaside shop health check",
@@ -968,8 +1099,15 @@
   "sessionLog": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-16T08:25:00-05:00",
+    "lastUpdated": "2026-09-16T08:50:00-05:00",
     "entries": [
+      {
+        "at": "2026-09-16T08:50:00-05:00",
+        "actor": "Nico (Harbor Foundry - Scout)",
+        "summary": "Wednesday multi-lane platform hunt EMPTY (16 drops across hated incumbents, AI-automatable processes, AI-native/agentic, productized services/workflow hybrids). Rotated off Tue job-posting / review-site / neglected / vertical-SoR. Prefer EMPTY over weak overlays. No sprint candidates; deepened 0.",
+        "deskChanges": "INSTITUTIONAL + Foundry snapshot/rejections/session log/segment-summary updated; scout-screen and ranked EMPTY files written; no staffing.",
+        "lessonId": "no-fake-loads"
+      },
       {
         "at": "2026-09-16T08:25:00-05:00",
         "actor": "Calder (Harbor Foundry - CEO)",
@@ -1067,113 +1205,113 @@
     ]
   },
   "recentHunt": {
-    "date": "2026-09-15",
+    "date": "2026-09-16",
     "outcome": "EMPTY",
     "status": "No sprint candidates",
-    "synopsis": "2026-09-15 Tuesday multi-lane hunt screened 16 names across job-posting workflow pain, review-site/forums clusters, neglected products, and vertical SoR gaps. Outcome: EMPTY \u2014 no sprint candidates (deepened 0). Each name below shows what it is, lane, why screened, and why dropped.",
+    "synopsis": "2026-09-16 Wednesday multi-lane hunt screened 16 names across hated incumbents, AI-automatable processes, AI-native/agentic, and productized services/workflow hybrids. Outcome: EMPTY \u2014 no sprint candidates (deepened 0). Each name below shows what it is, lane, why screened, and why dropped.",
     "candidateCount": 16,
     "lanes": [
-      "job-posting workflow pain",
-      "review-site / forums clusters",
-      "neglected products",
-      "vertical SoR gaps"
+      "hated incumbents",
+      "AI-automatable processes",
+      "AI-native / agentic",
+      "productized services / workflow hybrids"
     ],
     "candidates": [
       {
-        "name": "RFMS (Cyncly)",
-        "what": "Lane E/B \u2014 flooring dealer ERP (quote \u2192 inventory \u2192 schedule \u2192 books)",
-        "why": "Thin soft SoftwareConnect hate; Cyncly hosted Core + QFloors/MeasureSquare occupancy",
-        "status": "Dropped \u2014 soft / occupancy"
+        "name": "Redtail CRM",
+        "what": "Lane A \u2014 financial-advisor CRM (household \u2192 activity \u2192 compliance)",
+        "why": "Liked ~4.1\u20134.4; dated-UI minority soft; Wealthbox occupies migrate-off",
+        "status": "Dropped \u2014 liked / soft"
       },
       {
-        "name": "RecTrac (Vermont Systems / Xplor)",
-        "what": "Lane E \u2014 municipal parks & recreation registration / facilities ops",
-        "why": "Soft ~3.7 thin body; municipal RFP Harbor-path; Xplor still investing hosted + WebTrac",
-        "status": "Dropped \u2014 Harbor-path / soft"
+        "name": "Rent Manager",
+        "what": "Lane A \u2014 residential / multi-asset property management SoR",
+        "why": "Liked ~4.6; closed AppFolio/Yardi PM class",
+        "status": "Dropped \u2014 liked / closed-class"
       },
       {
-        "name": "ECI RockSolid MAX",
-        "what": "Lane E \u2014 hardware / home-center / LBM POS + inventory",
-        "why": "Soft ~3.9; Paladin liked; Spruce/BisTrack LBM class closed 2026-09-04",
-        "status": "Dropped \u2014 soft / closed adjacency"
-      },
-      {
-        "name": "Service Fusion",
-        "what": "Lane E \u2014 HVAC / plumbing / electrical field service",
-        "why": "Liked ~4.3; Android minority; closed ServiceTitan FSM class",
-        "status": "Dropped \u2014 liked / closed destination"
-      },
-      {
-        "name": "NAPA TRACS",
-        "what": "Lane E \u2014 auto repair shop management (RO \u2192 parts)",
-        "why": "Liked ~4.2; Mitchell 1 / Shop-Ware / Tekmetric occupy or closed class",
-        "status": "Dropped \u2014 liked / closed adjacency"
-      },
-      {
-        "name": "Moraware JobTracker / Systemize",
-        "what": "Lane B/V \u2014 countertop fabricator shop ops",
-        "why": "Soft dated-UI on ~4.1\u20134.4 liked; ActionFlow/SlabWise occupy",
-        "status": "Dropped \u2014 soft dislike"
-      },
-      {
-        "name": "Arborgold",
-        "what": "Lane B \u2014 tree care / lawn / plant-health field ops",
-        "why": "Liked ~4.4; Aspire/ServiceTitan adjacency; SingleOps occupies",
-        "status": "Dropped \u2014 liked / closed adjacency"
-      },
-      {
-        "name": "Campground Master",
-        "what": "Lane B \u2014 RV park / campground reservations (desktop)",
-        "why": "Liked ~4.7; Campspot occupies modern cloud path",
-        "status": "Dropped \u2014 liked / occupancy"
-      },
-      {
-        "name": "Jackrabbit Class",
-        "what": "Lane B \u2014 youth activity / gymnastics / swim school ops",
-        "why": "Liked ~4.6; iClassPro/WellnessLiving occupy; Mindbody leftover adjacency",
+        "name": "HotSchedules (Fourth)",
+        "what": "Lane A \u2014 restaurant / hospitality workforce scheduling",
+        "why": "Liked ~4.4 majority; Fourth still invests",
         "status": "Dropped \u2014 liked"
       },
       {
-        "name": "Inspect Point",
-        "what": "Lane V/E \u2014 fire-protection inspection contractor ops",
-        "why": "Thin ~3.8 public review body; commercial inspect FSM adjacency",
-        "status": "Dropped \u2014 thin body"
+        "name": "UltraTax CS / Lacerte",
+        "what": "Lane A \u2014 professional tax-prep suites",
+        "why": "Price hate not product orphan; tax Harbor-path; Drake occupies",
+        "status": "Dropped \u2014 Harbor-path / price"
       },
       {
-        "name": "KorTerra",
-        "what": "Lane C/E \u2014 underground utility 811 / one-call ticket management",
-        "why": "Reddit hate real; utility Harbor-path; Irth UtiliSphere occupies migrate-off",
-        "status": "Dropped \u2014 Harbor-path / occupancy"
+        "name": "SAP Business One",
+        "what": "Lane A \u2014 SMB / lower mid-market ERP",
+        "why": "Liked ~4.3\u20134.4; crowded Acumatica/NetSuite/Intacct occupancy",
+        "status": "Dropped \u2014 liked / soft"
       },
       {
-        "name": "Energy Force (SSI)",
-        "what": "Lane C/V \u2014 propane / fuel delivery ops",
-        "why": "Thin public reviews; ADD Systems / Cargas occupy; job posts are occupancy of paid SoR",
-        "status": "Dropped \u2014 thin / occupancy"
+        "name": "Restaurant365",
+        "what": "Lane A \u2014 restaurant accounting + inventory + labor suite",
+        "why": "Soft ~4.1\u20134.5; price/implementation minority",
+        "status": "Dropped \u2014 soft"
       },
       {
-        "name": "SmartMoving",
-        "what": "Lane B \u2014 moving-company CRM + dispatch + crew ops",
-        "why": "Liked ~4.9; soft reporting notes do not clear",
+        "name": "Buildertrend",
+        "what": "Lane A \u2014 residential builder project + client ops",
+        "why": "Liked ~4.5 / 2400+ Capterra despite price/mobile minority",
         "status": "Dropped \u2014 liked"
       },
       {
-        "name": "Printavo",
-        "what": "Lane B \u2014 screen-print / embroidery shop management",
-        "why": "Soft/thin ~4.5; shopVOX + closed ePS Pace print-MIS adjacency",
-        "status": "Dropped \u2014 soft / closed adjacency"
+        "name": "RealGreen",
+        "what": "Lane A \u2014 lawn-care / pest recurring-route ops",
+        "why": "Soft ~3.9; Aspire/Arborgold green adjacency closed",
+        "status": "Dropped \u2014 soft / closed-class"
       },
       {
-        "name": "MoveitPro",
-        "what": "Lane E/B \u2014 moving-company ops SoR",
-        "why": "Soft ~4.4; same destination as liked SmartMoving",
-        "status": "Dropped \u2014 soft dislike"
+        "name": "Macola (Exact/ECI)",
+        "what": "Lane A \u2014 discrete manufacturing ERP (Progression / Macola 10)",
+        "why": "ECI JobBOSS\u00b2/M1/Deacom successor first-filter; closed JobBOSS class",
+        "status": "Dropped \u2014 vendor successor"
       },
       {
-        "name": "shopVOX",
-        "what": "Lane E \u2014 sign / print / wrap / embroidery custom-shop ops",
-        "why": "Liked ~4.6 majority despite loud minority; closed print-MIS adjacency",
-        "status": "Dropped \u2014 liked"
+        "name": "Kaseya VSA 9",
+        "what": "Lane A \u2014 MSP remote monitoring & management",
+        "why": "VSA 10 / Datto RMM vendor successor first-filter",
+        "status": "Dropped \u2014 vendor successor"
+      },
+      {
+        "name": "MIP Fund Accounting",
+        "what": "Lane A \u2014 nonprofit / government fund accounting",
+        "why": "Soft ~4.1; Intacct occupies; FE NXT nonprofit books class closed",
+        "status": "Dropped \u2014 soft / closed-class"
+      },
+      {
+        "name": "CaseWare Working Papers",
+        "what": "Lane A/D \u2014 audit engagement / workpaper desk",
+        "why": "CaseWare Cloud successor; Inflo/AuditBoard occupy",
+        "status": "Dropped \u2014 vendor successor"
+      },
+      {
+        "name": "Certified payroll / prevailing wage",
+        "what": "Lane D/G \u2014 Excel + LCPtracker / portal WH-347 assembly",
+        "why": "eBacon/LCPtracker occupancy; payroll compliance sidecar not Harbor SoR",
+        "status": "Dropped \u2014 overlay / sidecar"
+      },
+      {
+        "name": "HOA board packet assembly",
+        "what": "Lane D/G \u2014 Excel + PDF monthly board packet stitch",
+        "why": "AppFolio/CINC/BoardStack occupy; packet leftover class",
+        "status": "Dropped \u2014 occupancy / leftover"
+      },
+      {
+        "name": "Mid-market OSHA 300 / incident Excel",
+        "what": "Lane D/F \u2014 injury log + corrective-action email desk",
+        "why": "Safesite/EHS Insight/KPA occupy mid-market EHS",
+        "status": "Dropped \u2014 occupancy"
+      },
+      {
+        "name": "Confluence / wiki search agent",
+        "what": "Lane F \u2014 AI retrieval layer on paid wiki SoR",
+        "why": "Overlay foothold on wiki SoR; Latch/Setaside lesson",
+        "status": "Dropped \u2014 overlay"
       }
     ]
   },
