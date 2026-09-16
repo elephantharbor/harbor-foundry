@@ -4,9 +4,9 @@
   "description": "Software venture creation.",
   "mission": "Find weak or dated incumbent software markets, validate opportunities to replace them, and build substantial new software businesses where evidence warrants it.",
   "status": "Building",
-  "statusDetail": "One operating venture (Setaside). Latch validation sprint temporarily paused by Thomas \u2014 not Closed/Kill. Hunt pipeline cold after EMPTY screens including Wed 2026-09-16.",
+  "statusDetail": "One operating venture (Setaside). Latch paused. Hunt advanced: 3 Cheap Test nominees from evening 2026-09-16b OS v2 hunt (surveying ops; Lightspeed DMS; Ajera). Morning EMPTY preserved.",
   "owner": "Calder (Harbor Foundry - CEO)",
-  "lastUpdated": "2026-09-16T17:15:25-05:00",
+  "lastUpdated": "2026-09-16T17:45:00-05:00",
   "headlineMetrics": [
     {
       "label": "Operating ventures",
@@ -20,8 +20,8 @@
     },
     {
       "label": "Prospects under research",
-      "value": "0",
-      "hint": "Hunt pipeline cold after No candidates (EMPTY) screens through Wed 2026-09-16"
+      "value": "3",
+      "hint": "Cheap Test nominees from 2026-09-16b evening hunt \u2014 not sprint-staffed"
     },
     {
       "label": "Awaiting approval",
@@ -29,8 +29,8 @@
       "hint": "No investment memos pending Thomas"
     }
   ],
-  "currentObjective": "Find dated paid software customers dislike, validate a modern replacement, and build only where evidence warrants.",
-  "currentStatusBrief": "Latch (Bullhorn sprint) is temporarily Paused by Thomas \u2014 Wren seated but idle until Calder resumes. Setaside is the only live product. Hunt pipeline cold after EMPTY screens through Wed 2026-09-16 (hated incumbents / AI-automatable processes / AI-native-agentic / productized-services hybrids; deepened 0). No Proceed/Retarget/Kill yet.",
+  "currentObjective": "OS v2: advance Cheap Test nominees; Ellis red-teams; memo gate only for major sprints. Latch paused.",
+  "currentStatusBrief": "Latch Paused. Setaside Operating $24/$0. Nico 2026-09-16b: 3 Cheap Test nominees (surveying ops SoR, Lightspeed DMS, Deltek Ajera) after 16-screen on rotated lanes. Not staffed. Afterfee dead.",
   "latestLesson": {
     "experience": "Screens keep dying when the incumbent already has a vendor-owned modern successor or leftover overlays (Eagle\u2192Propello; Concur NextGen class).",
     "evidence": "EMPTY hunt outcomes after occupancy looked promising.",
