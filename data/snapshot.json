@@ -80,14 +80,14 @@
       "name": "Surveying firm ops SoR",
       "incumbent": "Excel/Sheets + CAD (Carlson class)",
       "stage": "cheapTest",
-      "status": "ACT \u2014 continue Cheap Test",
+      "status": "Cheap Test \u2014 ACT",
       "summary": "Cheap Test passed overlay-kill. Residual crew-board/job-status pain beside CAD; thin vertical payers. Stay on Cheap Test \u2014 no Wren, no memo yet. Next: crowding vs KudurruStone/Job Book.",
       "owner": "Nico",
       "updated": "2026-09-16",
       "recommendation": "ACT",
       "resultDoc": "ops/cheaptest-result-surveyops-2026-09-16.md",
       "decision": "ACT",
-      "note": "Continue Cheap Test: crowding vs KudurruStone/Job Book. No Wren, no memo, no fake-door without Thomas."
+      "note": "Continue Cheap Test only: crowding vs KudurruStone/Job Book. Ellis may deepen. No Wren, no memo, no fake-door without Thomas."
     },
     {
       "id": "lightspeed-dms",

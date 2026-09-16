@@ -6,7 +6,7 @@
   "status": "Building",
   "statusDetail": "One operating venture (Setaside). Latch paused. Cheap Tests executed 2026-09-16 evening: SurveyOps ACT; Lightspeed DMS REJECT; Ajera REJECT \u2014 all still on Cheap Test stage.",
   "owner": "Calder (Harbor Foundry - CEO)",
-  "lastUpdated": "2026-09-16T18:15:00-05:00",
+  "lastUpdated": "2026-09-16T18:30:00-05:00",
   "headlineMetrics": [
     {
       "label": "Operating ventures",
@@ -72,5 +72,7 @@
         "owner": "Calder (Harbor Foundry - CEO)"
       }
     ]
-  }
+  },
+  "headline": "",
+  "currentStatus": "SurveyOps remains on Cheap Test (ACT) \u2014 next learning is crowding vs KudurruStone/Job Book; no Wren, no memo. Lightspeed DMS and Deltek Ajera Cheap Tests Closed REJECT. Setaside operating at $24, $0 sales (Sable). Latch (Bullhorn) remains p"
 }
