@@ -1,6 +1,6 @@
 {
   "mission": "Find dated paid software customers dislike, validate a modern replacement destination, and build independent ventures only where evidence warrants substantial durable economic value.",
-  "lastUpdated": "2026-09-16T08:50:00-05:00",
+  "lastUpdated": "2026-09-16T17:15:25-05:00",
   "cycle": "Cycle 3",
   "metrics": {
     "researching": 0,
@@ -12,56 +12,63 @@
     "setasideSales": "$0"
   },
   "needsHumanAttention": [],
-  "currentObjective": "Build and operate independent ventures that create substantial durable economic value \u2014 validate by building, kill weak theses fast, only sprint what Thomas greenlights.",
-  "currentStatus": "Hunt pipeline remains cold after Wednesday 2026-09-16 EMPTY multi-lane screen (sixteen new drops across hated incumbents / AI-automatable processes / AI-native-agentic / productized-services hybrids; deepened 0). Setaside operating (Sable). Latch (Bullhorn) validation sprint remains temporarily paused by Thomas \u2014 Wren holds; assets preserved; not Kill. UKG WFC and Primavera P6 remain unstaffed nominations. Afterfee stays dead.",
+  "currentObjective": "OS v2: raise Foundry advancement via Cheap Tests. Multi-lane Scout; Challenge kills only demonstrably weak ideas; memo gate only for major sprints. Latch stays paused. Setaside continues operating.",
+  "currentStatus": "OS v2 recalibration (2026-09-16): Scout/Challenge threshold shifted from sprint-ready to Cheap Test. Pipeline still has zero Cheap Test nominees until the recalibrated hunt returns \u2014 process change shipping now. Setaside Operating at $24 / $0 sales. Latch Paused (not Kill). Afterfee dead.",
   "pipelineStages": [
     {
       "id": "scout",
       "name": "Scout",
       "owner": "Nico",
-      "description": "Cheap screen, then deepen a short list of sprint candidates from disliked paid software toward a Harbor destination.",
+      "description": "Multi-lane screen (~12\u201320) then deepen \u22645 toward Cheap Test nominees \u2014 not only full-sprint packets.",
       "humanGate": false
     },
     {
       "id": "challenge",
       "name": "Challenge",
       "owner": "Ellis",
-      "description": "Independent red-team of risks and falsifying experiments. Not a veto.",
+      "description": "Red-team: kill demonstrably weak ideas; open questions become cheap tests. Not a veto.",
+      "humanGate": false
+    },
+    {
+      "id": "cheapTest",
+      "name": "Cheap Test",
+      "owner": "Calder",
+      "description": "Inexpensive reversible learning step ($0\u2013low). Enough evidence to learn \u2014 not full engineering proof. OS v2 default next step after Nominate.",
       "humanGate": false
     },
     {
       "id": "memo",
       "name": "Investment memo",
       "owner": "Calder",
-      "description": "Kill weak theses or write a concise memo for a validation sprint.",
+      "description": "Only when evidence warrants a validation sprint / material engineering \u2014 not the default next step.",
       "humanGate": false
     },
     {
       "id": "unstaffed",
       "name": "Unstaffed nomination",
       "owner": "Calder",
-      "description": "Parked nomination \u2014 not Active or Sprint until a Thomas-approved memo. Not awaiting human approval.",
+      "description": "Parked nomination \u2014 not Active or Sprint until a Thomas-approved memo when sprint-scale work is proposed.",
       "humanGate": false
     },
     {
       "id": "awaitingApproval",
       "name": "Awaiting Human Approval",
       "owner": "Thomas",
-      "description": "Thomas must explicitly approve the memo before sprint staffing, meaningful engineering, or material operating resources.",
+      "description": "Thomas must approve the memo before sprint staffing, meaningful engineering, or material operating resources.",
       "humanGate": true
     },
     {
       "id": "sprint",
       "name": "Validation sprint",
       "owner": "Wren",
-      "description": "Prototype, landing, demo; interviews only when a later rail allows.",
+      "description": "Prototype / landing / demo after memo approval. Latch remains paused until explicit resume.",
       "humanGate": false
     },
     {
       "id": "operating",
       "name": "Operating",
       "owner": "Venture lead",
-      "description": "Live product under an independent brand. Evidence of demand decides what happens next.",
+      "description": "Live product under an independent brand.",
       "humanGate": false
     }
   ],
@@ -978,6 +985,17 @@
   ],
   "lessons": [
     {
+      "id": "zero-output-process",
+      "originationDate": "2026-09-16",
+      "experience": "Multi-lane Scout repeatedly returned examined\u21920 advanced (EMPTY deepen) while the bar was still \u201cready for a full engineering sprint.\u201d",
+      "evidence": "EMPTY screens 2026-09-07 through 2026-09-16 under high raw volume; zero Cheap Test or sprint advances; Latch paused separately by Thomas.",
+      "learning": "Repeated examined\u21920 advanced is process evidence. Default next step is Cheap Test when there is enough evidence for an inexpensive learning step \u2014 not only full-sprint readiness.",
+      "change": "Platform funnel + Challenge skills and Scout routine rewritten for OS v2: advance to Cheap Test; Challenge kills only demonstrably weak ideas; open questions become cheap tests. Desk pipeline adds Cheap Test stage.",
+      "status": "Testing",
+      "requiredBehavioralChange": "Scout nominates Cheap Tests; Ellis does not kill on open questions; Calder decides TEST SMALL without waiting for sprint-proof.",
+      "owner": "Calder (Harbor Foundry - CEO)"
+    },
+    {
       "id": "memo-gate",
       "experience": "Validation work started before an explicit human go-ahead.",
       "evidence": "Process lock 2026-09-02 made sprint staffing depend on a concise investment memo.",
@@ -1099,8 +1117,15 @@
   "sessionLog": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-16T08:50:00-05:00",
+    "lastUpdated": "2026-09-16T17:15:25-05:00",
     "entries": [
+      {
+        "at": "2026-09-16T17:15:25-05:00",
+        "actor": "Calder (Harbor Foundry - CEO)",
+        "summary": "Implemented OS v2 Foundry recalibration: Cheap Test stage on pipeline; Scout/Challenge skills + weekday hunt routine rewritten; process lesson zero-output-process (Testing). Latch remains paused. Woke Nico for immediate Cheap-Test-oriented hunt.",
+        "deskChanges": "pipelineStages add Cheap Test; lessons + currentStatus/objective updated; skills platform-funnel and independent-venture-challenge rewritten.",
+        "lessonId": "zero-output-process"
+      },
       {
         "at": "2026-09-16T08:50:00-05:00",
         "actor": "Nico (Harbor Foundry - Scout)",

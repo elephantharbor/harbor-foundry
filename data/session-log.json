@@ -1,8 +1,15 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-16T08:50:00-05:00",
+  "lastUpdated": "2026-09-16T17:15:25-05:00",
   "entries": [
+    {
+      "at": "2026-09-16T17:15:25-05:00",
+      "actor": "Calder (Harbor Foundry - CEO)",
+      "summary": "Implemented OS v2 Foundry recalibration: Cheap Test stage on pipeline; Scout/Challenge skills + weekday hunt routine rewritten; process lesson zero-output-process (Testing). Latch remains paused. Woke Nico for immediate Cheap-Test-oriented hunt.",
+      "deskChanges": "pipelineStages add Cheap Test; lessons + currentStatus/objective updated; skills platform-funnel and independent-venture-challenge rewritten.",
+      "lessonId": "zero-output-process"
+    },
     {
       "at": "2026-09-16T08:50:00-05:00",
       "actor": "Nico (Harbor Foundry - Scout)",
