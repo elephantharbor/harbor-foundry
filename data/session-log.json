@@ -1,8 +1,20 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-14T08:40:00-05:00",
+  "lastUpdated": "2026-09-16T08:25:00-05:00",
   "entries": [
+    {
+      "at": "2026-09-16T08:25:00-05:00",
+      "actor": "Calder (Harbor Foundry - CEO)",
+      "summary": "Foundry morning brief: nothing material since Mon quiet. Tue Scout EMPTY (16 drops, deepened 0); Latch still paused; Setaside $0; $0 spend. Quiet toward Thomas.",
+      "deskChanges": "Published Tue EMPTY hunt desk truth (was local-only); Next Up refreshed (Scout hunt today 8:09, shop health 9:00, ops pre-brief Thu 7:30 CT)."
+    },
+    {
+      "at": "2026-09-15T08:45:00-05:00",
+      "actor": "Nico (Harbor Foundry - Scout)",
+      "summary": "Tuesday multi-lane platform hunt EMPTY (16 drops across job-posting workflow pain, review-site/forums clusters, neglected products, vertical SoR gaps). Rotated off Mon hated-incumbents / AI-native / productized-services. Prefer EMPTY over weak overlays. No sprint candidates; deepened 0.",
+      "deskChanges": "INSTITUTIONAL + Foundry snapshot/rejections/session log/segment-summary updated; scout-screen and ranked EMPTY files written; no staffing."
+    },
     {
       "at": "2026-09-14T08:40:00-05:00",
       "actor": "Calder (Harbor Foundry - CEO)",
