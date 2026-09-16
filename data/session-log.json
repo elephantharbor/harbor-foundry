@@ -1,8 +1,14 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-16T18:15:00-05:00",
+  "lastUpdated": "2026-09-16T17:27:32-05:00",
   "entries": [
+    {
+      "at": "2026-09-16T17:27:32-05:00",
+      "actor": "Calder (Harbor Foundry - CEO)",
+      "summary": "Locked Cheap Test cohort: SurveyOps ACT (continue Cheap Test); Lightspeed DMS REJECT; Deltek Ajera REJECT. No Wren, no memo, Latch paused.",
+      "deskChanges": "pipelineItems decisions updated; cheapTestsActive=1; evidenceDecisions entry added."
+    },
     {
       "at": "2026-09-16T18:15:00-05:00",
       "actor": "Nico (Harbor Foundry - Scout)",

@@ -1,6 +1,6 @@
 {
   "mission": "Find dated paid software customers dislike, validate a modern replacement destination, and build independent ventures only where evidence warrants substantial durable economic value.",
-  "lastUpdated": "2026-09-16T18:15:00-05:00",
+  "lastUpdated": "2026-09-16T17:27:32-05:00",
   "cycle": "Cycle 3",
   "metrics": {
     "researching": 0,
@@ -10,11 +10,12 @@
     "building": 0,
     "operatingVentures": 1,
     "setasideSales": "$0",
-    "cheapTestsActive": 3
+    "cheapTestsActive": 1,
+    "cheapTestsClosed": 2
   },
   "needsHumanAttention": [],
-  "currentObjective": "SurveyOps Cheap Test \u2192 ACT (Ellis red-team next). Lightspeed DMS + Ajera \u2192 REJECT. Latch paused. Setaside continues. No Wren staff.",
-  "currentStatus": "OS v2 Cheap Tests executed ($0): SurveyOps ACT; Lightspeed DMS REJECT (OEM/overlay); Ajera REJECT (QB+PM collapse). All three still on Cheap Test stage pending desk close of rejects. Latch Paused. Setaside Operating. Afterfee dead.",
+  "currentObjective": "Continue SurveyOps Cheap Test learning (crowding vs KudurruStone/Job Book); keep Scout multi-lane. No Wren staff / no memo yet. Latch stays paused.",
+  "currentStatus": "OS v2 Cheap Test cohort closed: SurveyOps ACT (continue Cheap Test); Lightspeed DMS REJECT; Ajera REJECT. Setaside Operating. Latch Paused. Afterfee dead. $0.",
   "pipelineStages": [
     {
       "id": "scout",
@@ -79,36 +80,39 @@
       "name": "Surveying firm ops SoR",
       "incumbent": "Excel/Sheets + CAD (Carlson class)",
       "stage": "cheapTest",
-      "status": "ACT (Cheap Test)",
-      "summary": "Cheap Test done $0: residual crew-board/job-status pain beside CAD; matrix KudurruStone/Deelo/Job Book/Jobber/Monday; overlay-kill PASS. Recommendation ACT \u2014 Ellis red-team; no Wren.",
+      "status": "ACT \u2014 continue Cheap Test",
+      "summary": "Cheap Test passed overlay-kill. Residual crew-board/job-status pain beside CAD; thin vertical payers. Stay on Cheap Test \u2014 no Wren, no memo yet. Next: crowding vs KudurruStone/Job Book.",
       "owner": "Nico",
       "updated": "2026-09-16",
       "recommendation": "ACT",
-      "resultDoc": "ops/cheaptest-result-surveyops-2026-09-16.md"
+      "resultDoc": "ops/cheaptest-result-surveyops-2026-09-16.md",
+      "decision": "ACT"
     },
     {
       "id": "lightspeed-dms",
       "name": "Lightspeed DMS (marine/powersports)",
       "incumbent": "Lightspeed DMS",
-      "stage": "cheapTest",
-      "status": "REJECT (Cheap Test)",
-      "summary": "Cheap Test done $0: OEM/history lock dominates; RO-first collapses to overlay. Recommendation REJECT. Prefer EMPTY.",
+      "stage": "closed",
+      "status": "REJECT \u2014 Closed",
+      "summary": "Cheap Test REJECT: OEM/history lock; RO-first Harbor path collapses to overlay vs Blackpurl/BiT/DX1. Do not re-open without OEM-path thesis.",
       "owner": "Nico",
       "updated": "2026-09-16",
       "recommendation": "REJECT",
-      "resultDoc": "ops/cheaptest-result-lightspeed-dms-2026-09-16.md"
+      "resultDoc": "ops/cheaptest-result-lightspeed-dms-2026-09-16.md",
+      "decision": "REJECT"
     },
     {
       "id": "ajera",
       "name": "Deltek Ajera (A/E)",
       "incumbent": "Deltek Ajera",
-      "stage": "cheapTest",
-      "status": "REJECT (Cheap Test)",
-      "summary": "Cheap Test done $0: soft ~3.6 leftover; migrate = QB+Monograph/Factor. Recommendation REJECT. Prefer EMPTY.",
+      "stage": "closed",
+      "status": "REJECT \u2014 Closed",
+      "summary": "Cheap Test REJECT: soft leftover; migrate path is QB+Monograph/Factor, not Harbor books SoR.",
       "owner": "Nico",
       "updated": "2026-09-16",
       "recommendation": "REJECT",
-      "resultDoc": "ops/cheaptest-result-ajera-2026-09-16.md"
+      "resultDoc": "ops/cheaptest-result-ajera-2026-09-16.md",
+      "decision": "REJECT"
     },
     {
       "id": "latch",
@@ -999,6 +1003,13 @@
   },
   "evidenceDecisions": [
     {
+      "id": "cheaptest-2026-09-16b",
+      "title": "First OS v2 Cheap Test cohort",
+      "evidence": "Three $0 tests executed (SurveyOps, Lightspeed DMS, Ajera). Ellis red-team: all don\u2019t-know-yet beforehand; not a veto.",
+      "interpretation": "SurveyOps clears overlay-kill and shows residual vertical crew-board pain. Lightspeed fails OEM wall. Ajera fails as soft leftover / QB+PM collapse.",
+      "decision": "ACT SurveyOps (stay Cheap Test). REJECT Lightspeed DMS and Ajera. No Wren. No memo. Latch still paused."
+    },
+    {
       "id": "bullhorn-latch",
       "title": "Bullhorn \u2192 Latch (staffed sprint)",
       "evidence": "Challenge red-team named risks (not a veto): Amplify Search & Match already occupies AI search on Pro/Max; Starter/Core leftover is Boolean/speed, not a missing search product; a Marketplace parser or CSV writeback into Bullhorn has no path to a staffing system of record. Occupancy of other staffing ATS is demand, not a kill.",
@@ -1154,8 +1165,14 @@
   "sessionLog": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-16T18:15:00-05:00",
+    "lastUpdated": "2026-09-16T17:27:32-05:00",
     "entries": [
+      {
+        "at": "2026-09-16T17:27:32-05:00",
+        "actor": "Calder (Harbor Foundry - CEO)",
+        "summary": "Locked Cheap Test cohort: SurveyOps ACT (continue Cheap Test); Lightspeed DMS REJECT; Deltek Ajera REJECT. No Wren, no memo, Latch paused.",
+        "deskChanges": "pipelineItems decisions updated; cheapTestsActive=1; evidenceDecisions entry added."
+      },
       {
         "at": "2026-09-16T18:15:00-05:00",
         "actor": "Nico (Harbor Foundry - Scout)",
