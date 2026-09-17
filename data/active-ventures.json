@@ -1,8 +1,9 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-11T10:24:42-05:00",
+  "lastUpdated": "2026-09-17T08:14:02-05:00",
   "empty": false,
+  "emptyReason": null,
   "items": [
     {
       "id": "setaside",
@@ -13,28 +14,56 @@
       "status": "Operating",
       "startDate": "2026-08-28",
       "owner": "Sable (Harbor Foundry - Setaside)",
-      "exposure": "$24 listing \u00b7 $0 sales \u00b7 Setaside-direct fees ~$29.20 \u00b7 no new spend",
-      "performance": "0 orders \u00b7 listing live \u00b7 thin traffic (last verified early Sep)",
-      "nextMilestone": "First realized sale \u2014 then decide whether to keep single-SKU posture",
+      "exposure": "$24 listing \u00b7 $0 sales \u00b7 no new spend",
+      "performance": "0 orders \u00b7 listing live",
+      "nextMilestone": "First realized sale",
       "detailLink": "https://www.etsy.com/listing/4564421940/2026-self-employed-bookkeeping",
-      "lastUpdated": "2026-09-11T10:19:52-05:00"
+      "lastUpdated": "2026-09-17T08:14:02-05:00"
+    },
+    {
+      "id": "surveyops",
+      "title": "SurveyOps (surveying firm ops SoR)",
+      "segment": "foundry",
+      "submarket": "Cheap Test",
+      "description": "Job \u2192 crew schedule \u2192 packet \u2192 invoice ops SoR beside CAD for land-surveying firms. Entry wedge: weekly crew board + job status.",
+      "status": "Cheap Test \u2014 ACT",
+      "startDate": "2026-09-16",
+      "owner": "Nico (Harbor Foundry - Scout)",
+      "exposure": "$0 Cheap Test \u00b7 no Wren \u00b7 no memo yet",
+      "performance": "First Cheap Test passed overlay-kill; residual crew-board pain vs Jobber/Monday",
+      "nextMilestone": "Crowding check vs KudurruStone / Job Book; still Cheap Test only",
+      "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
+      "lastUpdated": "2026-09-17T08:14:02-05:00"
     },
     {
       "id": "latch",
       "title": "Latch (Bullhorn validation sprint)",
       "segment": "foundry",
       "submarket": "Validation sprint",
-      "description": "Approved $0 prototype to test a modern staffing desk (search \u2192 candidate \u2192 job \u2192 submit) as the start of a new system of record \u2014 not a Bullhorn plugin.",
+      "description": "Approved $0 prototype for a modern staffing desk as the start of a new SoR \u2014 not a Bullhorn plugin. Temporarily paused.",
       "status": "Paused",
       "startDate": "2026-09-03",
       "owner": "Wren (Harbor Foundry - Sprint)",
-      "exposure": "$0 build path \u00b7 prototype assets retained \u00b7 no outreach",
-      "performance": "Prototype existed before pause; interviews deferred; no Proceed/Retarget/Kill yet",
-      "nextMilestone": "Thomas/Calder explicit resume \u2014 or keep paused / decide Kill later with evidence",
+      "exposure": "$0 \u00b7 assets retained \u00b7 no outreach",
+      "performance": "Paused by Thomas 2026-09-07 \u2014 not Kill",
+      "nextMilestone": "Explicit Thomas/Calder resume \u2014 or keep paused",
       "detailLink": "https://elephantharbor.github.io/harbor-foundry/#ventures",
-      "lastUpdated": "2026-09-11T10:19:52-05:00"
+      "lastUpdated": "2026-09-17T08:14:02-05:00"
     }
   ],
-  "note": "Active = operating ventures and approved sprints only. Scout candidates and unstaffed nominations (UKG Workforce Central, Primavera P6) are not listed here.",
-  "emptyReason": null
+  "note": "Active = operating ventures, approved sprints, and in-flight Cheap Tests (ACT). REJECT closes (Lightspeed DMS, Ajera) leave this list and stay on Pipeline/INSTITUTIONAL.",
+  "recentlyClosed": [
+    {
+      "id": "lightspeed-dms",
+      "title": "Lightspeed DMS",
+      "closed": "2026-09-16",
+      "reason": "REJECT \u2014 OEM/history lock; RO path collapses to overlay"
+    },
+    {
+      "id": "ajera",
+      "title": "Deltek Ajera",
+      "closed": "2026-09-16",
+      "reason": "REJECT \u2014 soft leftover; QB+PM migrate path"
+    }
+  ]
 }
