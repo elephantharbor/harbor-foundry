@@ -1,8 +1,15 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-17T09:00:28-05:00",
+  "lastUpdated": "2026-09-17T09:05:00-05:00",
   "entries": [
+    {
+      "at": "2026-09-17T09:05:00-05:00",
+      "actor": "Nico (Harbor Foundry - Scout)",
+      "summary": "Calder locked Thu Cheap Test cohort: Fenceops ACT; ShopWorks WATCH (vendor-own-onsite); ServiceCore REJECT Closed; Watertreat-ops REJECT Closed. SurveyOps still ACT.",
+      "deskChanges": "Pipeline statuses aligned; vendor-own-onsite Confirmed as Scout filter. Latch paused.",
+      "lessonId": "no-fake-loads"
+    },
     {
       "at": "2026-09-17T09:00:28-05:00",
       "actor": "Calder (Harbor Foundry - CEO)",

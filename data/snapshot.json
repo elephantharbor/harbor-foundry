@@ -1,6 +1,6 @@
 {
   "mission": "Find dated paid software customers dislike, validate a modern replacement destination, and build independent ventures only where evidence warrants substantial durable economic value.",
-  "lastUpdated": "2026-09-17T09:00:28-05:00",
+  "lastUpdated": "2026-09-17T09:05:00-05:00",
   "cycle": "Cycle 3",
   "metrics": {
     "researching": 0,
@@ -16,7 +16,7 @@
   },
   "needsHumanAttention": [],
   "currentObjective": "Continue SurveyOps + Fenceops Cheap Tests (crowding checks). Keep Scout multi-lane with vendor-successor + overlay filters. No Wren/memo. Latch stays paused.",
-  "currentStatus": "Thu Cheap Test cohort locked: Fenceops ACT (continue Cheap Test); ShopWorks WATCH (vendor-own OnSite); ServiceCore REJECT; Watertreat-ops REJECT. SurveyOps still ACT. Latch Paused. Setaside Operating. $0.",
+  "currentStatus": "Cheap Test live: Fenceops ACT (crowding next) and SurveyOps ACT. ShopWorks WATCH (OnSite). ServiceCore and Watertreat-ops REJECT Closed. Latch paused. Setaside operating. $0.",
   "pipelineStages": [
     {
       "id": "scout",
@@ -95,7 +95,7 @@
       "name": "Fence contractor ops SoR",
       "incumbent": "Excel / Jobber / JobNimbus + thin fence takeoff",
       "stage": "cheapTest",
-      "status": "ACT \u2014 continue Cheap Test",
+      "status": "Cheap Test \u2014 ACT",
       "summary": "Cheap Test passed: Excel-first + fence-native BOM/estimate demand; estimate\u2192crew board clears overlay-kill. Next: crowding vs QuoteIQ/Fence Cloud/FenceTracer. No Wren/memo yet.",
       "owner": "Nico",
       "updated": "2026-09-17",
@@ -103,14 +103,14 @@
       "packetDoc": "ops/scout-cheaptest-fenceops-2026-09-17.md",
       "resultDoc": "ops/cheaptest-result-fenceops-2026-09-17.md",
       "decision": "ACT",
-      "note": "Continue Cheap Test only: crowding vs QuoteIQ/Fence Cloud/FenceTracer. Ellis may deepen. No Wren, no memo."
+      "note": "Continue Cheap Test: crowding vs QuoteIQ/Fence Cloud/FenceTracer. No Wren, no memo."
     },
     {
       "id": "shopworks",
       "name": "ShopWorks (decorated apparel shop SoR)",
       "incumbent": "ShopWorks OnSite",
       "stage": "cheapTest",
-      "status": "WATCH \u2014 vendor-own OnSite",
+      "status": "WATCH",
       "summary": "UX residual real but vendor-own OnSite NXT/14 blocks ACT. Do not staff. Revisit only if OnSite path fails in market evidence.",
       "owner": "Nico",
       "updated": "2026-09-17",
@@ -118,14 +118,14 @@
       "packetDoc": "ops/scout-cheaptest-shopworks-2026-09-17.md",
       "resultDoc": "ops/cheaptest-result-shopworks-2026-09-17.md",
       "decision": "WATCH",
-      "note": "WATCH on Cheap Test. Escalate REJECT Closed if NXT/14 absorbs UX chorus. No Wren, no memo."
+      "note": "Vendor-own OnSite NXT/14. Lesson vendor-own-onsite Confirmed."
     },
     {
       "id": "servicecore",
       "name": "ServiceCore (porta/septic/roll-off route SoR)",
       "incumbent": "ServiceCore",
       "stage": "closed",
-      "status": "REJECT \u2014 Closed",
+      "status": "Closed",
       "summary": "Soft ~4.0 leftover; billing/QB wedge fails overlay-kill. Prefer EMPTY.",
       "owner": "Nico",
       "updated": "2026-09-17",
@@ -133,7 +133,7 @@
       "packetDoc": "ops/scout-cheaptest-servicecore-2026-09-17.md",
       "resultDoc": "ops/cheaptest-result-servicecore-2026-09-17.md",
       "decision": "REJECT",
-      "note": "Closed 2026-09-17. Prefer EMPTY."
+      "note": "Closed 2026-09-17. Do not re-open as QB companion."
     },
     {
       "id": "watertreat-ops",
@@ -1306,8 +1306,15 @@
   "sessionLog": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-17T09:00:28-05:00",
+    "lastUpdated": "2026-09-17T09:05:00-05:00",
     "entries": [
+      {
+        "at": "2026-09-17T09:05:00-05:00",
+        "actor": "Nico (Harbor Foundry - Scout)",
+        "summary": "Calder locked Thu Cheap Test cohort: Fenceops ACT; ShopWorks WATCH (vendor-own-onsite); ServiceCore REJECT Closed; Watertreat-ops REJECT Closed. SurveyOps still ACT.",
+        "deskChanges": "Pipeline statuses aligned; vendor-own-onsite Confirmed as Scout filter. Latch paused.",
+        "lessonId": "no-fake-loads"
+      },
       {
         "at": "2026-09-17T09:00:28-05:00",
         "actor": "Calder (Harbor Foundry - CEO)",
