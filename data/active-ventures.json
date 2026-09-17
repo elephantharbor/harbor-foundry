@@ -1,7 +1,7 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-17T08:58:00-05:00",
+  "lastUpdated": "2026-09-17T09:00:28-05:00",
   "empty": false,
   "emptyReason": null,
   "items": [
@@ -14,98 +14,89 @@
       "status": "Operating",
       "startDate": "2026-08-28",
       "owner": "Sable (Harbor Foundry - Setaside)",
-      "exposure": "$24 listing · $0 sales",
-      "performance": "0 orders · listing live",
-      "nextMilestone": "First realized sale",
+      "exposure": "$24 listing \u00b7 $0 sales",
+      "performance": "0 orders",
+      "nextMilestone": "First sale",
       "detailLink": "https://www.etsy.com/listing/4564421940/2026-self-employed-bookkeeping",
-      "lastUpdated": "2026-09-17T08:58:00-05:00"
+      "lastUpdated": "2026-09-17T09:00:28-05:00"
     },
     {
       "id": "surveyops",
       "title": "SurveyOps",
       "segment": "foundry",
       "submarket": "Cheap Test",
-      "description": "Surveying firm ops SoR beside CAD — crew board + job status wedge.",
-      "status": "Cheap Test — ACT",
+      "description": "Surveying firm ops SoR beside CAD.",
+      "status": "Cheap Test \u2014 ACT",
       "startDate": "2026-09-16",
-      "owner": "Nico (Harbor Foundry - Scout)",
-      "exposure": "$0 · no Wren",
-      "performance": "ACT — continue Cheap Test",
-      "nextMilestone": "Crowding vs KudurruStone / Job Book",
+      "owner": "Nico",
+      "exposure": "$0",
+      "performance": "ACT",
+      "nextMilestone": "Crowding vs KudurruStone/Job Book",
       "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-      "lastUpdated": "2026-09-17T08:58:00-05:00"
-    },
-    {
-      "id": "shopworks",
-      "title": "ShopWorks",
-      "segment": "foundry",
-      "submarket": "Cheap Test",
-      "description": "Decorated-apparel shop SoR — hate-while-paying UX path.",
-      "status": "Cheap Test — WATCH",
-      "startDate": "2026-09-17",
-      "owner": "Nico (Harbor Foundry - Scout)",
-      "exposure": "$0 Cheap Test",
-      "performance": "WATCH — vendor-own NXT/14",
-      "nextMilestone": "NXT/14 UX absorption check",
-      "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-      "lastUpdated": "2026-09-17T08:58:00-05:00"
+      "lastUpdated": "2026-09-17T09:00:28-05:00"
     },
     {
       "id": "fenceops",
       "title": "Fenceops",
       "segment": "foundry",
       "submarket": "Cheap Test",
-      "description": "Fence contractor ops SoR — estimate → crew → invoice.",
-      "status": "Cheap Test — ACT",
+      "description": "Fence contractor ops SoR \u2014 estimate \u2192 crew \u2192 invoice.",
+      "status": "Cheap Test \u2014 ACT",
       "startDate": "2026-09-17",
-      "owner": "Nico (Harbor Foundry - Scout)",
-      "exposure": "$0 Cheap Test",
-      "performance": "ACT — continue Cheap Test",
-      "nextMilestone": "Crowding vs QuoteIQ / Fence Cloud / FenceTracer",
+      "owner": "Nico",
+      "exposure": "$0",
+      "performance": "ACT after Cheap Test",
+      "nextMilestone": "Crowding vs QuoteIQ/Fence Cloud/FenceTracer",
       "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-      "lastUpdated": "2026-09-17T08:58:00-05:00"
+      "lastUpdated": "2026-09-17T09:00:28-05:00"
     },
     {
       "id": "latch",
-      "title": "Latch (Bullhorn validation sprint)",
+      "title": "Latch (Bullhorn)",
       "segment": "foundry",
       "submarket": "Validation sprint",
-      "description": "Approved staffing SoR prototype — temporarily paused.",
+      "description": "Paused approved sprint.",
       "status": "Paused",
       "startDate": "2026-09-03",
-      "owner": "Wren (Harbor Foundry - Sprint)",
-      "exposure": "$0 · assets retained",
-      "performance": "Paused — not Kill",
+      "owner": "Wren",
+      "exposure": "$0",
+      "performance": "Paused",
       "nextMilestone": "Explicit resume",
       "detailLink": "https://elephantharbor.github.io/harbor-foundry/#ventures",
-      "lastUpdated": "2026-09-17T08:58:00-05:00"
+      "lastUpdated": "2026-09-17T09:00:28-05:00"
     }
   ],
-  "note": "Active = operating, paused approved sprint, and in-flight Cheap Tests (ACT/WATCH/TEST SMALL). REJECT closes stay off this list (recentlyClosed).",
+  "note": "Active = Operating, ACT Cheap Tests, paused approved sprint. WATCH/REJECT off this list.",
   "recentlyClosed": [
-    {
-      "id": "watertreat-ops",
-      "title": "Watertreat-ops",
-      "closed": "2026-09-17",
-      "reason": "REJECT — mature vertical occupancy / thin evidence"
-    },
     {
       "id": "servicecore",
       "title": "ServiceCore",
       "closed": "2026-09-17",
-      "reason": "REJECT — overlay AR/QB / soft leftover"
+      "reason": "REJECT \u2014 soft leftover / QB overlay"
+    },
+    {
+      "id": "watertreat-ops",
+      "title": "Watertreat-ops",
+      "closed": "2026-09-17",
+      "reason": "REJECT \u2014 destination occupied / vendor-sourced pain"
+    },
+    {
+      "id": "shopworks",
+      "title": "ShopWorks",
+      "closed": "2026-09-17",
+      "reason": "WATCH \u2014 vendor-own OnSite blocks ACT (not Active)"
     },
     {
       "id": "lightspeed-dms",
       "title": "Lightspeed DMS",
       "closed": "2026-09-16",
-      "reason": "REJECT — OEM wall / overlay"
+      "reason": "REJECT \u2014 OEM wall"
     },
     {
       "id": "ajera",
       "title": "Deltek Ajera",
       "closed": "2026-09-16",
-      "reason": "REJECT — soft leftover / QB+PM"
+      "reason": "REJECT \u2014 QB+PM collapse"
     }
   ]
 }
