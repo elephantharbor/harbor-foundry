@@ -4,9 +4,9 @@
   "description": "Software venture creation.",
   "mission": "Find weak or dated incumbent software markets, validate opportunities to replace them, and build substantial new software businesses where evidence warrants it.",
   "status": "Building",
-  "statusDetail": "One operating venture (Setaside). Latch paused. Five Cheap Tests in flight: SurveyOps ACT + four new TEST SMALL (ShopWorks, fenceops, ServiceCore, watertreat-ops). Lightspeed DMS and Ajera REJECT Closed.",
+  "statusDetail": "One operating venture (Setaside). Latch paused. Cheap Tests: SurveyOps ACT + Fenceops ACT + ShopWorks WATCH. ServiceCore + Watertreat-ops + Lightspeed + Ajera REJECT Closed.",
   "owner": "Calder (Harbor Foundry - CEO)",
-  "lastUpdated": "2026-09-17T08:50:00-05:00",
+  "lastUpdated": "2026-09-17T08:58:00-05:00",
   "headlineMetrics": [
     {
       "label": "Operating ventures",
@@ -20,8 +20,8 @@
     },
     {
       "label": "Prospects under research",
-      "value": "5",
-      "hint": "Cheap Test stage: SurveyOps ACT + 4 TEST SMALL — not sprint-staffed"
+      "value": "3",
+      "hint": "Cheap Test: SurveyOps ACT + Fenceops ACT + ShopWorks WATCH"
     },
     {
       "label": "Awaiting approval",
@@ -29,13 +29,13 @@
       "hint": "No investment memos pending Thomas"
     }
   ],
-  "currentObjective": "Nico executes four new $0 Cheap Tests; continue SurveyOps ACT crowding vs KudurruStone/Job Book; Ellis red-teams parallel. Memo gate only for major sprints. Latch paused.",
-  "currentStatusBrief": "Latch Paused. Setaside Operating $24/$0. Cheap Tests: SurveyOps ACT + ShopWorks/fenceops/ServiceCore/watertreat-ops TEST SMALL. Lightspeed+Ajera REJECT Closed. Not staffed. Afterfee dead.",
+  "currentObjective": "Continue SurveyOps + Fenceops ACT crowding checks; ShopWorks WATCH for OnSite NXT/14. Memo gate only for major sprints. Latch paused.",
+  "currentStatusBrief": "Latch Paused. Setaside Operating $24/$0. Cheap Tests: SurveyOps ACT + Fenceops ACT + ShopWorks WATCH. ServiceCore+Watertreat+Lightspeed+Ajera REJECT Closed. Not staffed. Afterfee dead.",
   "latestLesson": {
-    "experience": "Cheap Tests on soft DMS/ERP leftovers die when OEM pedigree or QB+PM companions already own the migrate path.",
-    "evidence": "Lightspeed OEM lock; Ajera→Monograph/Factor+QBO public migrate stories.",
-    "learning": "EMPTY-over-overlays: RO skins and time→invoice helpers are not Harbor SoR. Survey ops beside CAD still clears.",
-    "change": "Advance only SurveyOps; reject Lightspeed and Ajera without staffing."
+    "experience": "Thu Cheap Tests: vertical Excel gaps can ACT (fenceops); soft route SoR billing leftover fails as AR overlay (ServiceCore); vendor-own UI rewrites block ACT (ShopWorks NXT); mature vertical SoRs + vendor-only Excel claims → REJECT (watertreat).",
+    "evidence": "ops/cheaptest-cohort-2026-09-17-results.md; four result files.",
+    "learning": "Overlay-kill first on billing wedges; vendor-own successor (NXT/14) is a Confirmed ACT block even when thin-quoter falsifier fails; prefer EMPTY when destination already has WaterFlex/Watertight-class tenants.",
+    "change": "Advance Fenceops ACT + ShopWorks WATCH; close ServiceCore and Watertreat; SurveyOps unchanged."
   },
   "needsHumanAction": false,
   "humanAction": null,
@@ -51,7 +51,7 @@
   "nextUp": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-17T08:50:00-05:00",
+    "lastUpdated": "2026-09-17T08:58:00-05:00",
     "items": [
       {
         "title": "Foundry operations pre-brief",
@@ -74,5 +74,5 @@
     ]
   },
   "headline": "",
-  "currentStatus": "OS v2: five Cheap Tests in flight — SurveyOps ACT + four new TEST SMALL (ShopWorks, fence contractor ops, ServiceCore, water-treatment dealer ops). Nico executes; Ellis red-teams. Lightspeed DMS and Deltek Ajera stay REJECT Closed. Setaside Operating at $24, $0 sales (Sable). Latch (Bullhorn) remains paused. Afterfee dead. $0."
+  "currentStatus": "OS v2 Cheap Test results 2026-09-17 morning CT: Fenceops ACT; ShopWorks WATCH; ServiceCore REJECT Closed; Watertreat-ops REJECT Closed. SurveyOps ACT continues. Lightspeed DMS + Ajera stay REJECT Closed. Setaside Operating $24/$0. Latch paused. Afterfee dead. $0."
 }

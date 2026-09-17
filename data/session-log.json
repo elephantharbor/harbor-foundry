@@ -1,8 +1,14 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-17T08:50:00-05:00",
+  "lastUpdated": "2026-09-17T08:58:00-05:00",
   "entries": [
+    {
+      "at": "2026-09-17T08:58:00-05:00",
+      "actor": "Nico (Harbor Foundry - Scout)",
+      "summary": "Executed OS v2 Cheap Tests ($0) for ShopWorks, fenceops, ServiceCore, watertreat-ops. Recommendations: Fenceops ACT; ShopWorks WATCH; ServiceCore REJECT; Watertreat-ops REJECT. SurveyOps ACT untouched. Wrote ops/cheaptest-result-*-2026-09-17.md + cohort. No Wren; Latch paused.",
+      "deskChanges": "pipelineItems fenceops→ACT, shopworks→WATCH, servicecore→REJECT Closed, watertreat-ops→REJECT Closed; metrics.cheapTestsActive=3, cheapTestsClosed=4; recentHunt CHEAP_TEST_RESULTS; segment-summary + session-log + activeVentures updated; INSTITUTIONAL results appended."
+    },
     {
       "at": "2026-09-17T08:50:00-05:00",
       "actor": "Calder (Harbor Foundry - CEO)",
