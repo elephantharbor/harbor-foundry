@@ -1,8 +1,20 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-17T08:14:02-05:00",
+  "lastUpdated": "2026-09-17T08:50:00-05:00",
   "entries": [
+    {
+      "at": "2026-09-17T08:50:00-05:00",
+      "actor": "Calder (Harbor Foundry - CEO)",
+      "summary": "Advanced second OS v2 Cheap Test cohort: ShopWorks, fence ops, ServiceCore, water-treatment dealer ops. All TEST SMALL at $0. Nico executes; Ellis red-teams in parallel (don’t-know-yet). SurveyOps ACT continues; Lightspeed/Ajera stay REJECT Closed; Latch paused. No Wren, no memo.",
+      "deskChanges": "pipelineItems +4 cheapTest TEST SMALL; metrics.cheapTestsActive=5; recentHunt CHEAP_TEST_NOMINATED; evidenceDecisions + calder-lock + challenge ops files; INSTITUTIONAL Calder lock."
+    },
+    {
+      "at": "2026-09-17T08:45:00-05:00",
+      "actor": "Nico (Harbor Foundry - Scout)",
+      "summary": "Thursday OS v2 Cheap Test hunt: screened 16 across W/A/D/V; deepened 4 Cheap Test packets (ShopWorks, fenceops, ServiceCore, watertreat-ops); 12 drops (closed-class, soft/liked, crowded sidecars, same-destination occupancy). SurveyOps not re-nominated. Ranked + screen files written. Do not staff.",
+      "deskChanges": "ops/scout-screen-2026-09-17.md + scout-ranked-cheaptest + four scout-cheaptest packets; INSTITUTIONAL hunt section."
+    },
     {
       "at": "2026-09-17T08:14:02-05:00",
       "actor": "Calder (Harbor Foundry - CEO)",
@@ -33,7 +45,7 @@
       "at": "2026-09-16T18:15:00-05:00",
       "actor": "Nico (Harbor Foundry - Scout)",
       "summary": "Executed OS v2 Cheap Tests ($0) for SurveyOps, Lightspeed DMS, Deltek Ajera. Recommendations: SurveyOps ACT; Lightspeed REJECT; Ajera REJECT. Wrote ops/cheaptest-result-*-2026-09-16.md + cohort brief. No Wren; no outreach; Latch paused.",
-      "deskChanges": "pipelineItems surveyops\u2192ACT, lightspeed-dms\u2192REJECT, ajera\u2192REJECT (all remain stage cheapTest); recentHunt CHEAP_TEST_RESULTS; currentStatus/objective updated; segment-summary + session-log mirrored."
+      "deskChanges": "pipelineItems surveyops→ACT, lightspeed-dms→REJECT, ajera→REJECT (all remain stage cheapTest); recentHunt CHEAP_TEST_RESULTS; currentStatus/objective updated; segment-summary + session-log mirrored."
     },
     {
       "at": "2026-09-16T17:23:48-05:00",

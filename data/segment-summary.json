@@ -4,14 +4,14 @@
   "description": "Software venture creation.",
   "mission": "Find weak or dated incumbent software markets, validate opportunities to replace them, and build substantial new software businesses where evidence warrants it.",
   "status": "Building",
-  "statusDetail": "One operating venture (Setaside). Latch paused. Cheap Tests executed 2026-09-16 evening: SurveyOps ACT; Lightspeed DMS REJECT; Ajera REJECT \u2014 all still on Cheap Test stage.",
+  "statusDetail": "One operating venture (Setaside). Latch paused. Five Cheap Tests in flight: SurveyOps ACT + four new TEST SMALL (ShopWorks, fenceops, ServiceCore, watertreat-ops). Lightspeed DMS and Ajera REJECT Closed.",
   "owner": "Calder (Harbor Foundry - CEO)",
-  "lastUpdated": "2026-09-16T18:30:00-05:00",
+  "lastUpdated": "2026-09-17T08:50:00-05:00",
   "headlineMetrics": [
     {
       "label": "Operating ventures",
       "value": "1",
-      "hint": "Setaside Designs on Etsy \u2014 live, $0 sales so far"
+      "hint": "Setaside Designs on Etsy — live, $0 sales so far"
     },
     {
       "label": "Active validation sprints",
@@ -20,8 +20,8 @@
     },
     {
       "label": "Prospects under research",
-      "value": "3",
-      "hint": "Cheap Test stage: SurveyOps ACT; Lightspeed+Ajera REJECT pending close \u2014 not sprint-staffed"
+      "value": "5",
+      "hint": "Cheap Test stage: SurveyOps ACT + 4 TEST SMALL — not sprint-staffed"
     },
     {
       "label": "Awaiting approval",
@@ -29,12 +29,12 @@
       "hint": "No investment memos pending Thomas"
     }
   ],
-  "currentObjective": "Ellis red-team SurveyOps ACT path; close Lightspeed + Ajera rejects on desk. Memo gate only for major sprints. Latch paused.",
-  "currentStatusBrief": "Latch Paused. Setaside Operating $24/$0. Nico Cheap Tests: SurveyOps ACT; Lightspeed DMS REJECT; Ajera REJECT. Not staffed. Afterfee dead.",
+  "currentObjective": "Nico executes four new $0 Cheap Tests; continue SurveyOps ACT crowding vs KudurruStone/Job Book; Ellis red-teams parallel. Memo gate only for major sprints. Latch paused.",
+  "currentStatusBrief": "Latch Paused. Setaside Operating $24/$0. Cheap Tests: SurveyOps ACT + ShopWorks/fenceops/ServiceCore/watertreat-ops TEST SMALL. Lightspeed+Ajera REJECT Closed. Not staffed. Afterfee dead.",
   "latestLesson": {
     "experience": "Cheap Tests on soft DMS/ERP leftovers die when OEM pedigree or QB+PM companions already own the migrate path.",
-    "evidence": "Lightspeed OEM lock; Ajera\u2192Monograph/Factor+QBO public migrate stories.",
-    "learning": "EMPTY-over-overlays: RO skins and time\u2192invoice helpers are not Harbor SoR. Survey ops beside CAD still clears.",
+    "evidence": "Lightspeed OEM lock; Ajera→Monograph/Factor+QBO public migrate stories.",
+    "learning": "EMPTY-over-overlays: RO skins and time→invoice helpers are not Harbor SoR. Survey ops beside CAD still clears.",
     "change": "Advance only SurveyOps; reject Lightspeed and Ajera without staffing."
   },
   "needsHumanAction": false,
@@ -51,28 +51,28 @@
   "nextUp": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-16T08:50:00-05:00",
+    "lastUpdated": "2026-09-17T08:50:00-05:00",
     "items": [
       {
-        "title": "Setaside shop health check",
-        "nextRunAt": "2026-09-16T09:00:00-05:00",
-        "scheduleLabel": "Weekdays 9:00 AM CT",
-        "owner": "Sable (Harbor Foundry - Setaside)"
-      },
-      {
         "title": "Foundry operations pre-brief",
-        "nextRunAt": "2026-09-17T07:30:00-05:00",
+        "nextRunAt": "2026-09-18T07:30:00-05:00",
         "scheduleLabel": "Weekdays 7:30 AM CT",
         "owner": "Fernando (Harbor Foundry - Ops)"
       },
       {
         "title": "Foundry morning brief",
-        "nextRunAt": "2026-09-17T08:00:00-05:00",
+        "nextRunAt": "2026-09-18T08:00:00-05:00",
         "scheduleLabel": "Weekdays 8:00 AM CT",
         "owner": "Calder (Harbor Foundry - CEO)"
+      },
+      {
+        "title": "Setaside shop health check",
+        "nextRunAt": "2026-09-18T09:00:00-05:00",
+        "scheduleLabel": "Weekdays 9:00 AM CT",
+        "owner": "Sable (Harbor Foundry - Setaside)"
       }
     ]
   },
   "headline": "",
-  "currentStatus": "SurveyOps remains on Cheap Test (ACT) \u2014 next learning is crowding vs KudurruStone/Job Book; no Wren, no memo. Lightspeed DMS and Deltek Ajera Cheap Tests Closed REJECT. Setaside operating at $24, $0 sales (Sable). Latch (Bullhorn) remains p"
+  "currentStatus": "OS v2: five Cheap Tests in flight — SurveyOps ACT + four new TEST SMALL (ShopWorks, fence contractor ops, ServiceCore, water-treatment dealer ops). Nico executes; Ellis red-teams. Lightspeed DMS and Deltek Ajera stay REJECT Closed. Setaside Operating at $24, $0 sales (Sable). Latch (Bullhorn) remains paused. Afterfee dead. $0."
 }
