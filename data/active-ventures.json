@@ -1,7 +1,7 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-17T09:00:28-05:00",
+  "lastUpdated": "2026-09-18T08:54:00-05:00",
   "empty": false,
   "emptyReason": null,
   "items": [
@@ -14,7 +14,7 @@
       "status": "Operating",
       "startDate": "2026-08-28",
       "owner": "Sable (Harbor Foundry - Setaside)",
-      "exposure": "$24 listing \u00b7 $0 sales",
+      "exposure": "$24 listing · $0 sales",
       "performance": "0 orders",
       "nextMilestone": "First sale",
       "detailLink": "https://www.etsy.com/listing/4564421940/2026-self-employed-bookkeeping",
@@ -26,7 +26,7 @@
       "segment": "foundry",
       "submarket": "Cheap Test",
       "description": "Surveying firm ops SoR beside CAD.",
-      "status": "Cheap Test \u2014 ACT",
+      "status": "Cheap Test — ACT",
       "startDate": "2026-09-16",
       "owner": "Nico",
       "exposure": "$0",
@@ -40,8 +40,8 @@
       "title": "Fenceops",
       "segment": "foundry",
       "submarket": "Cheap Test",
-      "description": "Fence contractor ops SoR \u2014 estimate \u2192 crew \u2192 invoice.",
-      "status": "Cheap Test \u2014 ACT",
+      "description": "Fence contractor ops SoR — estimate → crew → invoice.",
+      "status": "Cheap Test — ACT",
       "startDate": "2026-09-17",
       "owner": "Nico",
       "exposure": "$0",
@@ -72,31 +72,31 @@
       "id": "servicecore",
       "title": "ServiceCore",
       "closed": "2026-09-17",
-      "reason": "REJECT \u2014 soft leftover / QB overlay"
+      "reason": "REJECT — soft leftover / QB overlay"
     },
     {
       "id": "watertreat-ops",
       "title": "Watertreat-ops",
       "closed": "2026-09-17",
-      "reason": "REJECT \u2014 destination occupied / vendor-sourced pain"
+      "reason": "REJECT — destination occupied / vendor-sourced pain"
     },
     {
       "id": "shopworks",
       "title": "ShopWorks",
       "closed": "2026-09-17",
-      "reason": "WATCH \u2014 vendor-own OnSite blocks ACT (not Active)"
+      "reason": "WATCH — vendor-own OnSite blocks ACT (not Active)"
     },
     {
       "id": "lightspeed-dms",
       "title": "Lightspeed DMS",
       "closed": "2026-09-16",
-      "reason": "REJECT \u2014 OEM wall"
+      "reason": "REJECT — OEM wall"
     },
     {
       "id": "ajera",
       "title": "Deltek Ajera",
       "closed": "2026-09-16",
-      "reason": "REJECT \u2014 QB+PM collapse"
+      "reason": "REJECT — QB+PM collapse"
     }
   ]
 }
