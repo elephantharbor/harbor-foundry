@@ -1,8 +1,14 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-18T07:50:00-05:00",
+  "lastUpdated": "2026-09-18T08:41:00-05:00",
   "entries": [
+    {
+      "at": "2026-09-18T08:41:00-05:00",
+      "actor": "Calder (Harbor Foundry - CEO)",
+      "summary": "Fri morning brief: material vs Thu AM \u2014 Thu post-brief Cheap Test cohort locked Fenceops ACT / ShopWorks WATCH / ServiceCore+Watertreat REJECT; SurveyOps ACT continues. Sep 18 Scout no ops output yet as of ~8:41 CT. Latch paused; Setaside $24/$0; $0 spend. Advanced Next Up after this run.",
+      "deskChanges": "data/next-up/foundry.json + flat mirror + snapshot.nextUp + session-log; github.io next-up/session-log/segment mirrors. No pipeline/AV truth change today (locked Thu)."
+    },
     {
       "at": "2026-09-18T07:50:00-05:00",
       "actor": "Fernando Harbor Foundry Ops",

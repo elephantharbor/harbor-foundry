@@ -6,7 +6,7 @@
   "status": "Building",
   "statusDetail": "One operating venture (Setaside). Latch paused. Cheap Tests: SurveyOps ACT + Fenceops ACT + ShopWorks WATCH. ServiceCore + Watertreat-ops + Lightspeed + Ajera REJECT Closed.",
   "owner": "Calder (Harbor Foundry - CEO)",
-  "lastUpdated": "2026-09-18T07:50:00-05:00",
+  "lastUpdated": "2026-09-18T08:41:00-05:00",
   "headlineMetrics": [
     {
       "label": "Operating ventures",
@@ -51,14 +51,8 @@
   "nextUp": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-18T07:50:00-05:00",
+    "lastUpdated": "2026-09-18T08:41:00-05:00",
     "items": [
-      {
-        "title": "Foundry morning brief",
-        "nextRunAt": "2026-09-18T08:00:00-05:00",
-        "scheduleLabel": "Weekdays 8:00 AM CT",
-        "owner": "Calder (Harbor Foundry - CEO)"
-      },
       {
         "title": "Setaside shop health check",
         "nextRunAt": "2026-09-18T09:00:00-05:00",
@@ -70,6 +64,12 @@
         "nextRunAt": "2026-09-21T07:30:00-05:00",
         "scheduleLabel": "Weekdays 7:30 AM CT",
         "owner": "Fernando (Harbor Foundry - Ops)"
+      },
+      {
+        "title": "Foundry morning brief",
+        "nextRunAt": "2026-09-21T08:00:00-05:00",
+        "scheduleLabel": "Weekdays 8:00 AM CT",
+        "owner": "Calder (Harbor Foundry - CEO)"
       }
     ]
   },

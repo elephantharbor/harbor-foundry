@@ -1,6 +1,6 @@
 {
   "mission": "Find dated paid software customers dislike, validate a modern replacement destination, and build independent ventures only where evidence warrants substantial durable economic value.",
-  "lastUpdated": "2026-09-18T07:50:00-05:00",
+  "lastUpdated": "2026-09-18T08:41:00-05:00",
   "cycle": "Cycle 3",
   "metrics": {
     "researching": 0,
@@ -1281,14 +1281,8 @@
   "nextUp": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-18T07:50:00-05:00",
+    "lastUpdated": "2026-09-18T08:41:00-05:00",
     "items": [
-      {
-        "title": "Foundry morning brief",
-        "nextRunAt": "2026-09-18T08:00:00-05:00",
-        "scheduleLabel": "Weekdays 8:00 AM CT",
-        "owner": "Calder (Harbor Foundry - CEO)"
-      },
       {
         "title": "Setaside shop health check",
         "nextRunAt": "2026-09-18T09:00:00-05:00",
@@ -1300,14 +1294,26 @@
         "nextRunAt": "2026-09-21T07:30:00-05:00",
         "scheduleLabel": "Weekdays 7:30 AM CT",
         "owner": "Fernando (Harbor Foundry - Ops)"
+      },
+      {
+        "title": "Foundry morning brief",
+        "nextRunAt": "2026-09-21T08:00:00-05:00",
+        "scheduleLabel": "Weekdays 8:00 AM CT",
+        "owner": "Calder (Harbor Foundry - CEO)"
       }
     ]
   },
   "sessionLog": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-18T07:50:00-05:00",
+    "lastUpdated": "2026-09-18T08:41:00-05:00",
     "entries": [
+      {
+        "at": "2026-09-18T08:41:00-05:00",
+        "actor": "Calder (Harbor Foundry - CEO)",
+        "summary": "Fri morning brief: material vs Thu AM \u2014 Thu post-brief Cheap Test cohort locked Fenceops ACT / ShopWorks WATCH / ServiceCore+Watertreat REJECT; SurveyOps ACT continues. Sep 18 Scout no ops output yet as of ~8:41 CT. Latch paused; Setaside $24/$0; $0 spend. Advanced Next Up after this run.",
+        "deskChanges": "data/next-up/foundry.json + flat mirror + snapshot.nextUp + session-log; github.io next-up/session-log/segment mirrors. No pipeline/AV truth change today (locked Thu)."
+      },
       {
         "at": "2026-09-18T07:50:00-05:00",
         "actor": "Fernando Harbor Foundry Ops",
