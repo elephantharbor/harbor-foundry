@@ -4,14 +4,14 @@
   "description": "Software venture creation.",
   "mission": "Find weak or dated incumbent software markets, validate opportunities to replace them, and build substantial new software businesses where evidence warrants it.",
   "status": "Building",
-  "statusDetail": "One operating venture (Setaside). Latch paused. Cheap Tests: SurveyOps ACT + Fenceops ACT + Pavingops ACT + Signshop ACT + ShopWorks WATCH. Deckops + Windowdoor + ServiceCore + Watertreat + Lightspeed DMS + Deltek Ajera REJECT Closed.",
+  "statusDetail": "One operating venture (Setaside). Latch paused. Cheap Tests: SurveyOps ACT + Fenceops ACT + Pavingops ACT + Signshop ACT + concreteops TEST SMALL + snowops TEST SMALL + ShopWorks WATCH. HOLD: glazingops, blindsops. Deckops + Windowdoor + ServiceCore + Watertreat + Lightspeed DMS + Deltek Ajera REJECT Closed.",
   "owner": "Calder (Harbor Foundry - CEO)",
-  "lastUpdated": "2026-09-21T08:50:00-05:00",
+  "lastUpdated": "2026-09-21T09:15:00-05:00",
   "headlineMetrics": [
     {
       "label": "Operating ventures",
       "value": "1",
-      "hint": "Setaside Designs on Etsy — live, $0 sales so far"
+      "hint": "Setaside Designs on Etsy \u2014 live, $0 sales so far"
     },
     {
       "label": "Active validation sprints",
@@ -20,8 +20,8 @@
     },
     {
       "label": "Prospects under research",
-      "value": "5",
-      "hint": "Cheap Test: SurveyOps ACT + Fenceops ACT + Pavingops ACT + Signshop ACT + ShopWorks WATCH"
+      "value": "7",
+      "hint": "4 ACT + 2 TEST SMALL + ShopWorks WATCH (HOLD\u00d72 not counted as active research spend)"
     },
     {
       "label": "Awaiting approval",
@@ -29,13 +29,13 @@
       "hint": "No investment memos pending Thomas"
     }
   ],
-  "currentObjective": "Continue SurveyOps + Fenceops + Pavingops + Signshop ACT crowding checks; ShopWorks WATCH for OnSite NXT/14. Memo gate only for major sprints. Latch paused.",
-  "currentStatusBrief": "Latch Paused. Setaside Operating $24/$0. Cheap Tests: SurveyOps+Fenceops+Pavingops+Signshop ACT, ShopWorks WATCH. Deckops+Windowdoor+ServiceCore+Watertreat+Lightspeed+Ajera REJECT Closed. Not staffed. Afterfee dead.",
+  "currentObjective": "Execute TEST SMALL\u00d72 (concreteops, snowops) at $0; continue SurveyOps+Fenceops+Pavingops+Signshop ACT crowding; ShopWorks WATCH for OnSite NXT/14. HOLD glazingops/blindsops (not Closed). Scout multi-lane. No Wren/memo. Latch paused.",
+  "currentStatusBrief": "Latch Paused. Setaside Operating $24/$0. Cheap Tests: SurveyOps+Fenceops+Pavingops+Signshop ACT; concreteops+snowops TEST SMALL; ShopWorks WATCH; glazingops+blindsops HOLD. Closed REJECT unchanged. Not staffed. Afterfee dead.",
   "latestLesson": {
-    "experience": "Fri cohort lock: Excel-first verticals can ACT when overlay-kill passes (Pavingops, Signshop); FieldRate-class Jobber companions and OpenJanela absorb → REJECT (Deckops, Windowdoor).",
-    "evidence": "ops/INSTITUTIONAL.md §2026-09-21 Calder lock; ops/cheaptest-cohort-2026-09-18-results.md",
-    "learning": "EMPTY-over-overlays kills estimate sidecars that self-pair with Jobber; liked migrate-off (shopVOX) is demand not auto-kill if EstiMate+whiteboard residual remains; OEM-portal adjacent to oem-wall-dms without OEM-path thesis → REJECT.",
-    "change": "Lock Pavingops ACT + Signshop ACT; close Deckops and Windowdoor; SurveyOps/Fenceops/ShopWorks unchanged. No Wren/memo. $0."
+    "experience": "Mon Scout deepened 4 Cheap Test-worthy verticals while 4 ACTs + ShopWorks WATCH were already alive \u2014 advancing all four would crowd execution.",
+    "evidence": "ops/scout-ranked-cheaptest-2026-09-21.md ACT crowding flag; ops/calder-lock-cheaptest-2026-09-21.md TEST SMALL\u00d72 + HOLD\u00d72.",
+    "learning": "Cheap Test bar clearing \u2260 automatic TEST SMALL when ACT capacity is already high; HOLD (not Closed) preserves signal without pretending Closed.",
+    "change": "When Cheap Test ACT count \u22654 (excl. WATCH), default new TEST SMALL to \u22642 per hunt; excess HOLD without fresh re-screen unless new evidence."
   },
   "needsHumanAction": false,
   "humanAction": null,
@@ -51,14 +51,8 @@
   "nextUp": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-21T08:50:00-05:00",
+    "lastUpdated": "2026-09-21T09:15:00-05:00",
     "items": [
-      {
-        "title": "Setaside shop health check",
-        "nextRunAt": "2026-09-22T09:00:00-05:00",
-        "scheduleLabel": "Weekdays 9:00 AM CT",
-        "owner": "Sable (Harbor Foundry - Setaside)"
-      },
       {
         "title": "Foundry operations pre-brief",
         "nextRunAt": "2026-09-22T07:30:00-05:00",
@@ -73,12 +67,18 @@
       },
       {
         "title": "Harbor Scout weekday hunt",
-        "nextRunAt": "2026-09-21T08:09:00-05:00",
+        "nextRunAt": "2026-09-22T08:09:00-05:00",
         "scheduleLabel": "Weekdays 8:09 AM CT",
-        "owner": "Calder → Nico (Harbor Scout)"
+        "owner": "Calder \u2192 Nico (Harbor Scout)"
+      },
+      {
+        "title": "Setaside shop health check",
+        "nextRunAt": "2026-09-22T09:00:00-05:00",
+        "scheduleLabel": "Weekdays 9:00 AM CT",
+        "owner": "Sable (Harbor Foundry - Setaside)"
       }
     ]
   },
-  "headline": "",
-  "currentStatus": "Calder lock 2026-09-21 morning CT (Fri 09-18 Cheap Tests): Pavingops ACT; Signshop ACT; Deckops REJECT Closed; Windowdoor REJECT Closed. SurveyOps ACT + Fenceops ACT continue. ShopWorks WATCH. ServiceCore + Watertreat + Lightspeed DMS + Deltek Ajera stay REJECT Closed. Setaside Operating $24/$0. Latch paused. Afterfee dead. $0."
+  "headline": "TEST SMALL\u00d72 locked (concreteops, snowops); ACT crowding cap applied",
+  "currentStatus": "Calder lock Mon 2026-09-21 Scout: concreteops TEST SMALL; snowops TEST SMALL; glazingops HOLD; blindsops HOLD. Still ACT: SurveyOps + Fenceops + Pavingops + Signshop. WATCH: ShopWorks. REJECT Closed unchanged. Latch paused. Setaside Operating. Afterfee dead. No Wren. No memo. $0. ACT-crowding cap applied (\u22642 TEST SMALL)."
 }

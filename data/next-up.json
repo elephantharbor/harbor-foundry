@@ -1,20 +1,8 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-21T08:50:00-05:00",
+  "lastUpdated": "2026-09-21T09:15:00-05:00",
   "items": [
-    {
-      "title": "Harbor Scout weekday hunt",
-      "nextRunAt": "2026-09-21T08:09:00-05:00",
-      "scheduleLabel": "Weekdays 8:09 AM CT — today after brief",
-      "owner": "Calder → Nico (Harbor Scout)"
-    },
-    {
-      "title": "Setaside shop health check",
-      "nextRunAt": "2026-09-22T09:00:00-05:00",
-      "scheduleLabel": "Weekdays 9:00 AM CT",
-      "owner": "Sable (Harbor Foundry - Setaside)"
-    },
     {
       "title": "Foundry operations pre-brief",
       "nextRunAt": "2026-09-22T07:30:00-05:00",
@@ -26,6 +14,18 @@
       "nextRunAt": "2026-09-22T08:00:00-05:00",
       "scheduleLabel": "Weekdays 8:00 AM CT",
       "owner": "Calder (Harbor Foundry - CEO)"
+    },
+    {
+      "title": "Harbor Scout weekday hunt",
+      "nextRunAt": "2026-09-22T08:09:00-05:00",
+      "scheduleLabel": "Weekdays 8:09 AM CT",
+      "owner": "Calder \u2192 Nico (Harbor Scout)"
+    },
+    {
+      "title": "Setaside shop health check",
+      "nextRunAt": "2026-09-22T09:00:00-05:00",
+      "scheduleLabel": "Weekdays 9:00 AM CT",
+      "owner": "Sable (Harbor Foundry - Setaside)"
     }
   ]
 }
