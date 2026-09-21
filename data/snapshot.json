@@ -1,6 +1,6 @@
 {
   "mission": "Find dated paid software customers dislike, validate a modern replacement destination, and build independent ventures only where evidence warrants substantial durable economic value.",
-  "lastUpdated": "2026-09-18T08:54:00-05:00",
+  "lastUpdated": "2026-09-21T08:45:00-05:00",
   "cycle": "Cycle 3",
   "metrics": {
     "researching": 0,
@@ -10,13 +10,13 @@
     "building": 0,
     "operatingVentures": 1,
     "setasideSales": "$0",
-    "cheapTestsActive": 6,
-    "cheapTestsClosed": 6,
+    "cheapTestsActive": 5,
+    "cheapTestsClosed": 8,
     "cheapTestsWatch": 1
   },
   "needsHumanAttention": [],
-  "currentObjective": "Nico execute Fri TEST SMALL×4 ($0): pavingops, signshop, deckops, windowdoor. Continue SurveyOps + Fenceops ACT crowding; ShopWorks WATCH. No Wren/memo. Latch paused.",
-  "currentStatus": "Fri Scout NOT EMPTY: TEST SMALL×4 locked (pavingops, signshop, deckops, windowdoor). Live ACT: SurveyOps + Fenceops. ShopWorks WATCH. Closed REJECT: ServiceCore/Watertreat/Lightspeed/Ajera. Latch paused. Setaside operating. $0.",
+  "currentObjective": "Continue SurveyOps ACT crowding vs KudurruStone/Job Book; Fenceops ACT crowding vs QuoteIQ/Fence Cloud/FenceTracer; Pavingops ACT crowding vs QuoteIQ/Bitumio/OneCrew/PavementSoft; Signshop ACT crowding vs shopVOX/SignTracker/SIGNEXA; ShopWorks WATCH for OnSite NXT/14. Deckops + Windowdoor REJECT Closed. No Wren / no memo. Latch paused.",
+  "currentStatus": "OS v2 Cheap Test results 2026-09-21 morning CT (Fri 09-18 cohort executed): Pavingops ACT; Signshop ACT; Deckops REJECT Closed; Windowdoor REJECT Closed. SurveyOps ACT + Fenceops ACT continue. ShopWorks WATCH. ServiceCore + Watertreat + Lightspeed DMS + Ajera stay REJECT Closed. Setaside Operating $24/$0. Latch paused. Afterfee dead. $0.",
   "pipelineStages": [
     {
       "id": "scout",
@@ -125,56 +125,60 @@
       "name": "Asphalt / sealcoat paving ops SoR",
       "incumbent": "Excel / Jobber + thin QuoteIQ-class takeoff",
       "stage": "cheapTest",
-      "status": "Cheap Test — TEST SMALL",
-      "summary": "Excel-first sealcoat/paving desks; Jobber lacks tonnage/sealcoat math; thin QuoteIQ/OneCrew/Bitumio occupancy = demand. $0 census + overlay-kill next.",
+      "status": "Cheap Test — ACT",
+      "summary": "Cheap Test passed overlay-kill. Excel-first sealcoat/paving + asphalt-native estimate/ops demand; does not collapse to Jobber. Stay on Cheap Test — no Wren, no memo yet. Next: crowding vs QuoteIQ/Bitumio/OneCrew/PavementSoft.",
       "owner": "Nico",
-      "updated": "2026-09-18",
-      "recommendation": "TEST SMALL",
+      "updated": "2026-09-21",
+      "recommendation": "ACT",
       "packetDoc": "ops/scout-cheaptest-pavingops-2026-09-18.md",
-      "decision": "TEST SMALL",
-      "note": "Ellis don’t-know-yet. No Wren, no memo. $0."
+      "decision": "ACT",
+      "note": "Continue Cheap Test only: crowding vs QuoteIQ/Bitumio/OneCrew/PavementSoft. Ellis may deepen. No Wren, no memo. Fenceops ACT stays separate.",
+      "resultDoc": "ops/cheaptest-result-pavingops-2026-09-18.md"
     },
     {
       "id": "signshop",
       "name": "Sign shop ops SoR",
       "incumbent": "EstiMate + whiteboard / Sheets",
       "stage": "cheapTest",
-      "status": "Cheap Test — TEST SMALL",
-      "summary": "EstiMate hate-while-paying + whiteboard production; shopVOX liked migrate-off = demand. Distinct from ShopWorks apparel and closed print MIS.",
+      "status": "Cheap Test — ACT",
+      "summary": "Cheap Test passed overlay-kill. EstiMate retirement + whiteboard residual; shopVOX liked migrate-off = demand. Stay on Cheap Test — no Wren, no memo yet. Next: crowding vs shopVOX/SignTracker/SIGNEXA. Keep off ShopWorks apparel and closed print MIS.",
       "owner": "Nico",
-      "updated": "2026-09-18",
-      "recommendation": "TEST SMALL",
+      "updated": "2026-09-21",
+      "recommendation": "ACT",
       "packetDoc": "ops/scout-cheaptest-signshop-2026-09-18.md",
-      "decision": "TEST SMALL",
-      "note": "Ellis don’t-know-yet. Overlay-kill vs shopVOX / print MIS. $0."
+      "decision": "ACT",
+      "note": "Continue Cheap Test only: crowding vs shopVOX/SignTracker/SIGNEXA. Escalate REJECT Closed if shopVOX absorbs EstiMate chorus. No Wren, no memo.",
+      "resultDoc": "ops/cheaptest-result-signshop-2026-09-18.md"
     },
     {
       "id": "deckops",
       "name": "Deck builder ops SoR",
       "incumbent": "Excel / Jobber / CAD + thin FieldRate-class",
-      "stage": "cheapTest",
-      "status": "Cheap Test — TEST SMALL",
-      "summary": "Excel-first deck material desks; roofing CRMs wrong-fit; thin public hate (underserved census). Separate from Fenceops ACT.",
+      "stage": "closed",
+      "status": "Closed",
+      "summary": "Cheap Test REJECT: FieldRate-class estimating sidecars pair with Jobber; thin independent hate; EMPTY-over-overlays. Prefer EMPTY. Do not merge Fenceops. Do not reopen AccuLynx/JobNimbus.",
       "owner": "Nico",
-      "updated": "2026-09-18",
-      "recommendation": "TEST SMALL",
+      "updated": "2026-09-21",
+      "recommendation": "REJECT",
       "packetDoc": "ops/scout-cheaptest-deckops-2026-09-18.md",
-      "decision": "TEST SMALL",
-      "note": "Ellis don’t-know-yet. Second-thinnest. $0."
+      "decision": "REJECT",
+      "note": "Closed 2026-09-21. Prefer EMPTY.",
+      "resultDoc": "ops/cheaptest-result-deckops-2026-09-18.md"
     },
     {
       "id": "windowdoor",
       "name": "Window & door dealer ops SoR",
       "incumbent": "Excel + OEM price books / email",
-      "stage": "cheapTest",
-      "status": "Cheap Test — TEST SMALL",
-      "summary": "Dealer config→install Excel gap; OpenJanela/bpmPro thin occupancy. Thinnest body — census learn with vendor-own-success falsifier.",
+      "stage": "closed",
+      "status": "Closed",
+      "summary": "Cheap Test REJECT: OpenJanela/bpmPro absorb migrate path; thin independent body; OEM-portal lock risk. Prefer EMPTY. Do not reopen MarketSharp.",
       "owner": "Nico",
-      "updated": "2026-09-18",
-      "recommendation": "TEST SMALL",
+      "updated": "2026-09-21",
+      "recommendation": "REJECT",
       "packetDoc": "ops/scout-cheaptest-windowdoor-2026-09-18.md",
-      "decision": "TEST SMALL",
-      "note": "Ellis don’t-know-yet. Thinnest of four. $0."
+      "decision": "REJECT",
+      "note": "Closed 2026-09-21. Prefer EMPTY. Do not recycle as OEM portal companion.",
+      "resultDoc": "ops/cheaptest-result-windowdoor-2026-09-18.md"
     },
     {
       "id": "servicecore",
@@ -1123,6 +1127,36 @@
   },
   "evidenceDecisions": [
     {
+      "date": "2026-09-21",
+      "actor": "Nico (Harbor Scout)",
+      "summary": "Executed Fri 2026-09-18 Cheap Tests ($0) on Mon 2026-09-21 CT: Pavingops ACT; Signshop ACT; Deckops REJECT; Windowdoor REJECT. SurveyOps ACT + Fenceops ACT + ShopWorks WATCH untouched. Lightspeed/Ajera/ServiceCore/Watertreat stay Closed.",
+      "decisions": [
+        {
+          "id": "pavingops",
+          "decision": "ACT"
+        },
+        {
+          "id": "signshop",
+          "decision": "ACT"
+        },
+        {
+          "id": "deckops",
+          "decision": "REJECT"
+        },
+        {
+          "id": "windowdoor",
+          "decision": "REJECT"
+        }
+      ],
+      "docs": [
+        "ops/cheaptest-result-pavingops-2026-09-18.md",
+        "ops/cheaptest-result-signshop-2026-09-18.md",
+        "ops/cheaptest-result-deckops-2026-09-18.md",
+        "ops/cheaptest-result-windowdoor-2026-09-18.md",
+        "ops/cheaptest-cohort-2026-09-18-results.md"
+      ]
+    },
+    {
       "id": "cheaptest-2026-09-18",
       "title": "Third OS v2 Cheap Test cohort advance",
       "evidence": "Friday hunt screened 16 across E/C/B/F; deepened 4 Cheap Test packets (pavingops, signshop, deckops, windowdoor). Early C/E examined→0 → same-cycle deepen on F+B Excel-first. Ellis: all don’t-know-yet beforehand; not a veto. SurveyOps+Fenceops ACT / ShopWorks WATCH continue.",
@@ -1344,7 +1378,7 @@
   "nextUp": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-21T08:35:00-05:00",
+    "lastUpdated": "2026-09-21T08:45:00-05:00",
     "items": [
       {
         "title": "Harbor Scout weekday hunt",
@@ -1354,7 +1388,7 @@
       },
       {
         "title": "Setaside shop health check",
-        "nextRunAt": "2026-09-21T09:00:00-05:00",
+        "nextRunAt": "2026-09-22T09:00:00-05:00",
         "scheduleLabel": "Weekdays 9:00 AM CT",
         "owner": "Sable (Harbor Foundry - Setaside)"
       },
@@ -1375,8 +1409,14 @@
   "sessionLog": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-21T08:35:00-05:00",
+    "lastUpdated": "2026-09-21T08:45:00-05:00",
     "entries": [
+      {
+        "at": "2026-09-21T08:45:00-05:00",
+        "actor": "Nico (Harbor Foundry - Scout)",
+        "summary": "Executed OS v2 Cheap Tests ($0) for pavingops, signshop, deckops, windowdoor (Fri packets; Mon CT execution). Recommendations: Pavingops ACT; Signshop ACT; Deckops REJECT; Windowdoor REJECT. SurveyOps ACT + Fenceops ACT + ShopWorks WATCH untouched. Wrote ops/cheaptest-result-*-2026-09-18.md + cohort. No Wren; Latch paused.",
+        "deskChanges": "pipelineItems pavingops→ACT, signshop→ACT, deckops→REJECT Closed, windowdoor→REJECT Closed; metrics.cheapTestsActive=5, cheapTestsClosed=8; recentHunt CHEAP_TEST_RESULTS; segment-summary + session-log + activeVentures updated; INSTITUTIONAL results appended."
+      },
       {
         "at": "2026-09-21T08:35:00-05:00",
         "actor": "Calder (Harbor Foundry - CEO)",
@@ -1594,49 +1634,48 @@
     ]
   },
   "recentHunt": {
-    "date": "2026-09-18",
-    "outcome": "CHEAP_TEST_NOMINATED",
-    "status": "TEST SMALL ×4 — pavingops · signshop · deckops · windowdoor · SurveyOps/Fenceops ACT continue",
-    "synopsis": "2026-09-18 morning CT: Nico Friday multi-lane Scout (E/C/B/F; rotated off Thu W/A/D/V). Raw 16 / deepened 4. Early C/E zero-advanced → same-cycle deepen on F+B Excel-first verticals. Calder locked TEST SMALL all four at $0. Ellis don’t-know-yet (not a veto). SurveyOps ACT + Fenceops ACT + ShopWorks WATCH untouched. Closed REJECT untouched. Latch paused. No Wren. $0.",
+    "date": "2026-09-21",
+    "outcome": "CHEAP_TEST_RESULTS",
+    "status": "Pavingops ACT · Signshop ACT · Deckops REJECT · Windowdoor REJECT · SurveyOps+Fenceops ACT continue · ShopWorks WATCH",
+    "synopsis": "2026-09-21 morning CT: Nico executed Calder-approved $0 Cheap Tests (Fri 09-18 packets) on pavingops, signshop, deckops, windowdoor. Aimed Ellis falsifiers. Applied Confirmed filters (oem-wall-dms, qb-pm-collapse, vendor-own-onsite, vendor-own successor, EMPTY-over-overlays). Results: Pavingops ACT; Signshop ACT; Deckops REJECT Closed (estimate sidecar); Windowdoor REJECT Closed (OpenJanela absorb / OEM-portal). SurveyOps ACT + Fenceops ACT + ShopWorks WATCH not re-tested. Lightspeed/Ajera/ServiceCore/Watertreat stay REJECT Closed. Latch paused. No Wren. $0.",
     "candidateCount": 4,
     "lanes": [
-      "AI-native/agentic",
-      "review-site/forum hated incumbents",
+      "neglected products / hybrids",
       "job-posting workflow pain",
-      "neglected products / hybrids"
+      "review-site/forum hated incumbents"
     ],
     "candidates": [
       {
         "name": "Paving / sealcoat ops",
-        "what": "Excel+Jobber; missing tonnage/sealcoat math",
-        "why": "Jobber gap + QuoteIQ/Bitumio demand; $0 overlay-kill",
-        "status": "Cheap Test — TEST SMALL"
+        "what": "Excel/Jobber + asphalt estimate gap",
+        "why": "Tonnage/sealcoat residual; QuoteIQ/Bitumio demand; overlay-kill pass",
+        "status": "Cheap Test — ACT"
       },
       {
         "name": "Sign shop ops",
-        "what": "EstiMate + whiteboard production",
-        "why": "Hate-while-paying EstiMate; shopVOX occupancy = demand",
-        "status": "Cheap Test — TEST SMALL"
+        "what": "EstiMate + whiteboard → sign SoR",
+        "why": "EstiMate retirement; shopVOX demand; overlay-kill pass; off print MIS/ShopWorks",
+        "status": "Cheap Test — ACT"
       },
       {
         "name": "Deck builder ops",
-        "what": "Excel+Jobber/CAD; thin FieldRate niche",
-        "why": "Underserved census; separate from Fenceops",
-        "status": "Cheap Test — TEST SMALL"
+        "what": "Excel + Jobber + FieldRate-class",
+        "why": "Estimate sidecar pairs with Jobber; thin hate",
+        "status": "REJECT Closed"
       },
       {
-        "name": "Window/door dealer ops",
-        "what": "Excel+OEM books; thin OpenJanela body",
-        "why": "Thinnest census learn; vendor-own-success falsifier",
-        "status": "Cheap Test — TEST SMALL"
+        "name": "Window & door dealer ops",
+        "what": "Excel + OEM books; OpenJanela class",
+        "why": "OpenJanela/bpmPro absorb; OEM-portal wall; thin body",
+        "status": "REJECT Closed"
       }
     ],
-    "resultsBrief": "Noms NOT Closed until results. Packets under ops/scout-cheaptest-*-2026-09-18.md. Ranked: ops/scout-ranked-cheaptest-2026-09-18.md. Lock: ops/calder-lock-cheaptest-2026-09-18.md."
+    "resultsBrief": "Keep alive: SurveyOps ACT + Fenceops ACT + Pavingops ACT + Signshop ACT + ShopWorks WATCH. Close: Deckops, Windowdoor. Cohort: ops/cheaptest-cohort-2026-09-18-results.md"
   },
   "activeVentures": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-18T08:54:00-05:00",
+    "lastUpdated": "2026-09-21T08:45:00-05:00",
     "empty": false,
     "emptyReason": null,
     "items": [
@@ -1653,7 +1692,7 @@
         "performance": "0 orders",
         "nextMilestone": "First sale",
         "detailLink": "https://www.etsy.com/listing/4564421940/2026-self-employed-bookkeeping",
-        "lastUpdated": "2026-09-17T09:00:28-05:00"
+        "lastUpdated": "2026-09-21T08:45:00-05:00"
       },
       {
         "id": "surveyops",
@@ -1668,7 +1707,7 @@
         "performance": "ACT",
         "nextMilestone": "Crowding vs KudurruStone/Job Book",
         "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-        "lastUpdated": "2026-09-17T09:00:28-05:00"
+        "lastUpdated": "2026-09-21T08:45:00-05:00"
       },
       {
         "id": "fenceops",
@@ -1683,7 +1722,37 @@
         "performance": "ACT after Cheap Test",
         "nextMilestone": "Crowding vs QuoteIQ/Fence Cloud/FenceTracer",
         "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-        "lastUpdated": "2026-09-17T09:00:28-05:00"
+        "lastUpdated": "2026-09-21T08:45:00-05:00"
+      },
+      {
+        "id": "pavingops",
+        "title": "Pavingops",
+        "segment": "foundry",
+        "submarket": "Cheap Test",
+        "description": "Asphalt / sealcoat paving ops SoR — quantity → material → crew board.",
+        "status": "Cheap Test — ACT",
+        "startDate": "2026-09-18",
+        "owner": "Nico (Harbor Foundry - Scout)",
+        "exposure": "$0 Cheap Test",
+        "performance": "ACT — continue Cheap Test",
+        "nextMilestone": "Crowding vs QuoteIQ / Bitumio / OneCrew / PavementSoft",
+        "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
+        "lastUpdated": "2026-09-21T08:45:00-05:00"
+      },
+      {
+        "id": "signshop",
+        "title": "Signshop",
+        "segment": "foundry",
+        "submarket": "Cheap Test",
+        "description": "Sign shop ops SoR — estimate → proof → production board.",
+        "status": "Cheap Test — ACT",
+        "startDate": "2026-09-18",
+        "owner": "Nico (Harbor Foundry - Scout)",
+        "exposure": "$0 Cheap Test",
+        "performance": "ACT — continue Cheap Test",
+        "nextMilestone": "Crowding vs shopVOX / SignTracker / SIGNEXA",
+        "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
+        "lastUpdated": "2026-09-21T08:45:00-05:00"
       },
       {
         "id": "latch",
@@ -1698,11 +1767,23 @@
         "performance": "Paused",
         "nextMilestone": "Explicit resume",
         "detailLink": "https://elephantharbor.github.io/harbor-foundry/#ventures",
-        "lastUpdated": "2026-09-17T09:00:28-05:00"
+        "lastUpdated": "2026-09-21T08:45:00-05:00"
       }
     ],
-    "note": "Active = Operating, ACT Cheap Tests, paused approved sprint. WATCH/REJECT off this list.",
+    "note": "Active = operating, paused approved sprint, and in-flight Cheap Tests (ACT/WATCH/TEST SMALL). REJECT closes stay off this list (recentlyClosed). WATCH (ShopWorks) stays on pipeline; listed here only if ACT.",
     "recentlyClosed": [
+      {
+        "id": "windowdoor",
+        "title": "Windowdoor",
+        "closed": "2026-09-21",
+        "reason": "REJECT — OpenJanela absorb / OEM-portal / thin evidence"
+      },
+      {
+        "id": "deckops",
+        "title": "Deckops",
+        "closed": "2026-09-21",
+        "reason": "REJECT — estimate sidecar / Jobber+Excel leftover"
+      },
       {
         "id": "servicecore",
         "title": "ServiceCore",

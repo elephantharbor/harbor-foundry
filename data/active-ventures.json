@@ -1,7 +1,7 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-18T08:54:00-05:00",
+  "lastUpdated": "2026-09-21T08:45:00-05:00",
   "empty": false,
   "emptyReason": null,
   "items": [
@@ -18,7 +18,7 @@
       "performance": "0 orders",
       "nextMilestone": "First sale",
       "detailLink": "https://www.etsy.com/listing/4564421940/2026-self-employed-bookkeeping",
-      "lastUpdated": "2026-09-17T09:00:28-05:00"
+      "lastUpdated": "2026-09-21T08:45:00-05:00"
     },
     {
       "id": "surveyops",
@@ -33,7 +33,7 @@
       "performance": "ACT",
       "nextMilestone": "Crowding vs KudurruStone/Job Book",
       "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-      "lastUpdated": "2026-09-17T09:00:28-05:00"
+      "lastUpdated": "2026-09-21T08:45:00-05:00"
     },
     {
       "id": "fenceops",
@@ -48,7 +48,37 @@
       "performance": "ACT after Cheap Test",
       "nextMilestone": "Crowding vs QuoteIQ/Fence Cloud/FenceTracer",
       "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-      "lastUpdated": "2026-09-17T09:00:28-05:00"
+      "lastUpdated": "2026-09-21T08:45:00-05:00"
+    },
+    {
+      "id": "pavingops",
+      "title": "Pavingops",
+      "segment": "foundry",
+      "submarket": "Cheap Test",
+      "description": "Asphalt / sealcoat paving ops SoR — quantity → material → crew board.",
+      "status": "Cheap Test — ACT",
+      "startDate": "2026-09-18",
+      "owner": "Nico (Harbor Foundry - Scout)",
+      "exposure": "$0 Cheap Test",
+      "performance": "ACT — continue Cheap Test",
+      "nextMilestone": "Crowding vs QuoteIQ / Bitumio / OneCrew / PavementSoft",
+      "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
+      "lastUpdated": "2026-09-21T08:45:00-05:00"
+    },
+    {
+      "id": "signshop",
+      "title": "Signshop",
+      "segment": "foundry",
+      "submarket": "Cheap Test",
+      "description": "Sign shop ops SoR — estimate → proof → production board.",
+      "status": "Cheap Test — ACT",
+      "startDate": "2026-09-18",
+      "owner": "Nico (Harbor Foundry - Scout)",
+      "exposure": "$0 Cheap Test",
+      "performance": "ACT — continue Cheap Test",
+      "nextMilestone": "Crowding vs shopVOX / SignTracker / SIGNEXA",
+      "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
+      "lastUpdated": "2026-09-21T08:45:00-05:00"
     },
     {
       "id": "latch",
@@ -63,11 +93,23 @@
       "performance": "Paused",
       "nextMilestone": "Explicit resume",
       "detailLink": "https://elephantharbor.github.io/harbor-foundry/#ventures",
-      "lastUpdated": "2026-09-17T09:00:28-05:00"
+      "lastUpdated": "2026-09-21T08:45:00-05:00"
     }
   ],
-  "note": "Active = Operating, ACT Cheap Tests, paused approved sprint. WATCH/REJECT off this list.",
+  "note": "Active = operating, paused approved sprint, and in-flight Cheap Tests (ACT/WATCH/TEST SMALL). REJECT closes stay off this list (recentlyClosed). WATCH (ShopWorks) stays on pipeline; listed here only if ACT.",
   "recentlyClosed": [
+    {
+      "id": "windowdoor",
+      "title": "Windowdoor",
+      "closed": "2026-09-21",
+      "reason": "REJECT — OpenJanela absorb / OEM-portal / thin evidence"
+    },
+    {
+      "id": "deckops",
+      "title": "Deckops",
+      "closed": "2026-09-21",
+      "reason": "REJECT — estimate sidecar / Jobber+Excel leftover"
+    },
     {
       "id": "servicecore",
       "title": "ServiceCore",
