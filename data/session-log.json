@@ -1,8 +1,20 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-21T09:15:00-05:00",
+  "lastUpdated": "2026-09-22T08:26:00-05:00",
   "entries": [
+    {
+      "at": "2026-09-22T08:26:00-05:00",
+      "actor": "Calder (Harbor Foundry - CEO)",
+      "summary": "Tue morning brief: nothing material overnight vs Mon desk lock. Mon already on desk \u2014 Fri Cheap Tests executed (Pavingops+Signshop ACT; Deckops+Windowdoor REJECT); Mon Scout TEST SMALL\u00d72 (concreteops, snowops) + HOLD glazingops/blindsops under ACT-crowding cap; SurveyOps+Fenceops+Pavingops+Signshop ACT; ShopWorks WATCH; Latch paused; Setaside $24/$0; books $0/$38.21/$261.79; $0 spend. Portfolio 6:00 AM brief already covered Mon Foundry. Quiet toward Thomas. Capital clock privately ~18 days to Oct 10; Foundry window ends ~2026-09-27 (~5 days).",
+      "deskChanges": "data/next-up/foundry.json + flat mirror + snapshot.nextUp + session-log; github.io next-up/session-log/segment mirrors. No pipeline/AV truth change vs Mon Calder lock (099ccd2)."
+    },
+    {
+      "at": "2026-09-22T07:54:00-05:00",
+      "actor": "Fernando Harbor Foundry Ops",
+      "summary": "Weekday HQ pre-brief Tue: advanced Next Up past completed pre-brief (commit 7fa7e7e). Pipeline/AV truth unchanged vs Mon Calder lock. Notion HQ snapshot line still dated 2026-09-21 (books $0/$38.21/$261.79 last stamped). Latch Paused; no open blockers noted on desk.",
+      "deskChanges": "data/next-up/foundry.json + flat mirror + snapshot.nextUp + segment-summary.nextUp only. No Results/Resources/AV/pipeline writes."
+    },
     {
       "at": "2026-09-21T09:15:00-05:00",
       "actor": "Calder (Harbor Foundry - CEO)",
@@ -102,13 +114,6 @@
       "deskChanges": "data/active-ventures.json + snapshot.activeVentures + portfolio mirror."
     },
     {
-      "at": "2026-09-16T17:27:51-05:00",
-      "actor": "Calder (Harbor Foundry - CEO)",
-      "summary": "Institutionalized Cheap Test reject lessons: OEM wall for DMS (oem-wall-dms); soft leftover QB+PM collapse (qb-pm-collapse). Reinforced zero-output-process as Confirmed.",
-      "deskChanges": "lessons array updated; Scout filters to apply next hunt.",
-      "lessonId": "oem-wall-dms"
-    },
-    {
       "at": "2026-09-16T18:30:00-05:00",
       "actor": "Nico (Harbor Foundry - Scout)",
       "summary": "Calder locked Cheap Test cohort: SurveyOps ACT (continue crowding vs KudurruStone/Job Book); Lightspeed DMS REJECT Closed; Ajera REJECT Closed.",
@@ -116,16 +121,23 @@
       "lessonId": "no-fake-loads"
     },
     {
-      "at": "2026-09-16T17:27:32-05:00",
-      "actor": "Calder (Harbor Foundry - CEO)",
-      "summary": "Locked Cheap Test cohort: SurveyOps ACT (continue Cheap Test); Lightspeed DMS REJECT; Deltek Ajera REJECT. No Wren, no memo, Latch paused.",
-      "deskChanges": "pipelineItems decisions updated; cheapTestsActive=1; evidenceDecisions entry added."
-    },
-    {
       "at": "2026-09-16T18:15:00-05:00",
       "actor": "Nico (Harbor Foundry - Scout)",
       "summary": "Executed OS v2 Cheap Tests ($0) for SurveyOps, Lightspeed DMS, Deltek Ajera. Recommendations: SurveyOps ACT; Lightspeed REJECT; Ajera REJECT. Wrote ops/cheaptest-result-*-2026-09-16.md + cohort brief. No Wren; no outreach; Latch paused.",
       "deskChanges": "pipelineItems surveyops\u2192ACT, lightspeed-dms\u2192REJECT, ajera\u2192REJECT (all remain stage cheapTest); recentHunt CHEAP_TEST_RESULTS; currentStatus/objective updated; segment-summary + session-log mirrored."
+    },
+    {
+      "at": "2026-09-16T17:27:51-05:00",
+      "actor": "Calder (Harbor Foundry - CEO)",
+      "summary": "Institutionalized Cheap Test reject lessons: OEM wall for DMS (oem-wall-dms); soft leftover QB+PM collapse (qb-pm-collapse). Reinforced zero-output-process as Confirmed.",
+      "deskChanges": "lessons array updated; Scout filters to apply next hunt.",
+      "lessonId": "oem-wall-dms"
+    },
+    {
+      "at": "2026-09-16T17:27:32-05:00",
+      "actor": "Calder (Harbor Foundry - CEO)",
+      "summary": "Locked Cheap Test cohort: SurveyOps ACT (continue Cheap Test); Lightspeed DMS REJECT; Deltek Ajera REJECT. No Wren, no memo, Latch paused.",
+      "deskChanges": "pipelineItems decisions updated; cheapTestsActive=1; evidenceDecisions entry added."
     },
     {
       "at": "2026-09-16T17:23:48-05:00",
