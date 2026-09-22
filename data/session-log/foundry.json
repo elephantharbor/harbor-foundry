@@ -1,8 +1,21 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-22T08:26:00-05:00",
+  "lastUpdated": "2026-09-22T09:10:00-05:00",
   "entries": [
+    {
+      "at": "2026-09-22T09:10:00-05:00",
+      "actor": "Calder (Harbor Foundry - CEO)",
+      "summary": "Tue Scout+results lock: Concreteops ACT; Snowops ACT (Mon cohort executed). Tue hunt E/C/B/V screened 16 deepened 4 \u2014 TEST SMALL\u00d72 powdercoatops+upholsteryops; HOLD awningops+sprayfoamops under ACT-crowding cap (6 ACTs). Ellis don\u2019t-know-yet. Latch paused; $0; no Wren; no memo. Quiet toward Thomas.",
+      "deskChanges": "pipeline concreteops+snowops\u2192ACT; +powdercoatops+upholsteryops TEST SMALL; metrics.cheapTestsActive=8; recentHunt CHEAP_TEST_NOMINATED; INSTITUTIONAL+locks; Next Up + session-log; act-crowding-cap reinforced.",
+      "lessonId": "act-crowding-cap"
+    },
+    {
+      "at": "2026-09-22T09:00:00-05:00",
+      "actor": "Nico (Harbor Foundry - Scout)",
+      "summary": "Tuesday OS v2 Cheap Test hunt: screened 16 across E/C/B/V; deepened 4 (powdercoatops, upholsteryops, awningops, sprayfoamops); early E/C zero \u2192 same-cycle deepen B+V. Also executed Mon TEST SMALL \u2192 Concreteops ACT; Snowops ACT recommendations. Do not staff.",
+      "deskChanges": "ops/scout-screen-2026-09-22.md + ranked + four packets; cheaptest-result-concreteops/snowops + cohort; challenge files."
+    },
     {
       "at": "2026-09-22T08:26:00-05:00",
       "actor": "Calder (Harbor Foundry - CEO)",
@@ -240,18 +253,6 @@
       "summary": "Monday platform hunt EMPTY (eight drops including Soft-Pak, PioneerRx, CCC ONE class).",
       "deskChanges": "INSTITUTIONAL + Foundry snapshot updated; no staffing.",
       "lessonId": "no-fake-loads"
-    },
-    {
-      "at": "2026-09-07T08:15:00-05:00",
-      "actor": "Calder (Harbor Foundry - CEO)",
-      "summary": "Thomas temporarily paused the Latch (Bullhorn) validation sprint. Wren holds; prototype kept. Not Kill.",
-      "deskChanges": "Latch status Paused; active sprints 0; Notion booked Paused."
-    },
-    {
-      "at": "2026-09-06T14:31:00-05:00",
-      "actor": "Calder (Harbor Foundry - CEO)",
-      "summary": "Published Foundry Next Up after Thomas approved the shared maintenance standard.",
-      "deskChanges": "Added Next Up on overview; data/next-up/foundry.json; refresh-after-run on routines."
     }
   ]
 }

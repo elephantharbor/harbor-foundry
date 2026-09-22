@@ -1,7 +1,7 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-21T09:15:00-05:00",
+  "lastUpdated": "2026-09-22T09:10:00-05:00",
   "empty": false,
   "emptyReason": null,
   "items": [
@@ -33,7 +33,7 @@
       "performance": "ACT",
       "nextMilestone": "Crowding vs KudurruStone/Job Book",
       "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-      "lastUpdated": "2026-09-21T09:15:00-05:00"
+      "lastUpdated": "2026-09-22T09:10:00-05:00"
     },
     {
       "id": "fenceops",
@@ -48,7 +48,7 @@
       "performance": "ACT",
       "nextMilestone": "Crowding vs QuoteIQ/Fence Cloud/FenceTracer",
       "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-      "lastUpdated": "2026-09-21T09:15:00-05:00"
+      "lastUpdated": "2026-09-22T09:10:00-05:00"
     },
     {
       "id": "pavingops",
@@ -63,7 +63,7 @@
       "performance": "ACT",
       "nextMilestone": "Crowding vs QuoteIQ/Bitumio/OneCrew",
       "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-      "lastUpdated": "2026-09-21T09:15:00-05:00"
+      "lastUpdated": "2026-09-22T09:10:00-05:00"
     },
     {
       "id": "signshop",
@@ -78,7 +78,37 @@
       "performance": "ACT",
       "nextMilestone": "Continue Cheap Test learning; off closed print MIS class",
       "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-      "lastUpdated": "2026-09-21T09:15:00-05:00"
+      "lastUpdated": "2026-09-22T09:10:00-05:00"
+    },
+    {
+      "id": "concreteops",
+      "title": "Concreteops",
+      "segment": "foundry",
+      "submarket": "Cheap Test",
+      "description": "Concrete flatwork ops SoR \u2014 assembly\u2192pour board.",
+      "status": "Cheap Test \u2014 ACT",
+      "startDate": "2026-09-21",
+      "owner": "Nico",
+      "exposure": "$0",
+      "performance": "ACT",
+      "nextMilestone": "Crowding vs ScopeTakeoff/QuoteIQ",
+      "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
+      "lastUpdated": "2026-09-22T09:10:00-05:00"
+    },
+    {
+      "id": "snowops",
+      "title": "Snowops",
+      "segment": "foundry",
+      "submarket": "Cheap Test",
+      "description": "Snow & ice ops SoR \u2014 storm\u2192salt\u2192proof\u2192invoice.",
+      "status": "Cheap Test \u2014 ACT",
+      "startDate": "2026-09-21",
+      "owner": "Nico",
+      "exposure": "$0",
+      "performance": "ACT",
+      "nextMilestone": "Crowding vs Yeti/Plowdesk/LMN",
+      "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
+      "lastUpdated": "2026-09-22T09:10:00-05:00"
     },
     {
       "id": "latch",
@@ -96,7 +126,7 @@
       "lastUpdated": "2026-09-21T09:15:00-05:00"
     }
   ],
-  "note": "Active = Operating, ACT Cheap Tests, paused Latch. WATCH/REJECT off list.",
+  "note": "Active = operating, paused approved sprint, and in-flight Cheap Tests (ACT/WATCH/TEST SMALL). REJECT closes stay off this list (recentlyClosed). WATCH (ShopWorks) stays on pipeline; listed here only if ACT. TEST SMALL powdercoatops/upholsteryops on pipeline only until results.",
   "recentlyClosed": [
     {
       "id": "deckops",

@@ -3,39 +3,23 @@
   "segmentName": "Harbor Foundry",
   "description": "Software venture creation.",
   "mission": "Find weak or dated incumbent software markets, validate opportunities to replace them, and build substantial new software businesses where evidence warrants it.",
-  "status": "Building",
-  "statusDetail": "One operating venture (Setaside). Latch paused. Cheap Tests: SurveyOps ACT + Fenceops ACT + Pavingops ACT + Signshop ACT + concreteops TEST SMALL + snowops TEST SMALL + ShopWorks WATCH. HOLD: glazingops, blindsops. Deckops + Windowdoor + ServiceCore + Watertreat + Lightspeed DMS + Deltek Ajera REJECT Closed.",
+  "status": "Operating",
+  "statusDetail": "6 Cheap Test ACTs + ShopWorks WATCH + TEST SMALL\u00d72 (powdercoat/upholstery); HOLD\u00d74 (glazing/blinds/awning/sprayfoam); Latch paused; Setaside Operating; $0.",
   "owner": "Calder (Harbor Foundry - CEO)",
-  "lastUpdated": "2026-09-21T09:15:00-05:00",
-  "headlineMetrics": [
-    {
-      "label": "Operating ventures",
-      "value": "1",
-      "hint": "Setaside Designs on Etsy \u2014 live, $0 sales so far"
-    },
-    {
-      "label": "Active validation sprints",
-      "value": "0",
-      "hint": "Latch temporarily paused by Thomas (not Closed/Kill)"
-    },
-    {
-      "label": "Prospects under research",
-      "value": "7",
-      "hint": "4 ACT + 2 TEST SMALL + ShopWorks WATCH (HOLD\u00d72 not counted as active research spend)"
-    },
-    {
-      "label": "Awaiting approval",
-      "value": "0",
-      "hint": "No investment memos pending Thomas"
-    }
-  ],
-  "currentObjective": "Execute TEST SMALL\u00d72 (concreteops, snowops) at $0; continue SurveyOps+Fenceops+Pavingops+Signshop ACT crowding; ShopWorks WATCH for OnSite NXT/14. HOLD glazingops/blindsops (not Closed). Scout multi-lane. No Wren/memo. Latch paused.",
-  "currentStatusBrief": "Latch Paused. Setaside Operating $24/$0. Cheap Tests: SurveyOps+Fenceops+Pavingops+Signshop ACT; concreteops+snowops TEST SMALL; ShopWorks WATCH; glazingops+blindsops HOLD. Closed REJECT unchanged. Not staffed. Afterfee dead.",
+  "lastUpdated": "2026-09-22T09:10:00-05:00",
+  "headlineMetrics": {
+    "cheapTestsActive": 8,
+    "cheapTestsWatch": 1,
+    "cheapTestsClosed": 10,
+    "setasideSales": "$0",
+    "spend": "$0"
+  },
+  "currentObjective": "Execute TEST SMALL\u00d72 (powdercoatops, upholsteryops) at $0; continue 6 ACT Cheap Tests (SurveyOps+Fenceops+Pavingops+Signshop+Concreteops+Snowops) crowding; ShopWorks WATCH; HOLD glazingops/blindsops/awningops/sprayfoamops. Scout multi-lane. No Wren/memo. Latch paused.",
+  "currentStatusBrief": "Tue lock: Concreteops+Snowops ACT; powdercoatops+upholsteryops TEST SMALL; awningops+sprayfoamops HOLD. Quiet toward Thomas.",
   "latestLesson": {
-    "experience": "Mon Scout deepened 4 Cheap Test-worthy verticals while 4 ACTs + ShopWorks WATCH were already alive \u2014 advancing all four would crowd execution.",
-    "evidence": "ops/scout-ranked-cheaptest-2026-09-21.md ACT crowding flag; ops/calder-lock-cheaptest-2026-09-21.md TEST SMALL\u00d72 + HOLD\u00d72.",
-    "learning": "Cheap Test bar clearing \u2260 automatic TEST SMALL when ACT capacity is already high; HOLD (not Closed) preserves signal without pretending Closed.",
-    "change": "When Cheap Test ACT count \u22654 (excl. WATCH), default new TEST SMALL to \u22642 per hunt; excess HOLD without fresh re-screen unless new evidence."
+    "id": "act-crowding-cap",
+    "title": "ACT crowding cap (Testing)",
+    "summary": "With \u22654 Cheap Test ACTs, new TEST SMALL \u22642 per hunt; excess HOLD not Closed."
   },
   "needsHumanAction": false,
   "humanAction": null,
@@ -51,25 +35,37 @@
   "nextUp": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-22T08:26:00-05:00",
+    "lastUpdated": "2026-09-22T09:10:00-05:00",
     "items": [
       {
-        "title": "Harbor Scout weekday hunt",
-        "nextRunAt": "2026-09-22T08:09:00-05:00",
-        "scheduleLabel": "Weekdays 8:09 AM CT",
-        "owner": "Calder \u2192 Nico (Harbor Scout)"
+        "title": "Execute TEST SMALL powdercoatops + upholsteryops",
+        "nextRunAt": "2026-09-23T08:09:00-05:00",
+        "scheduleLabel": "Next Scout cycle / same-day if capacity",
+        "owner": "Nico (Harbor Scout)"
       },
       {
-        "title": "Setaside shop health check",
-        "nextRunAt": "2026-09-22T09:00:00-05:00",
-        "scheduleLabel": "Weekdays 9:00 AM CT",
-        "owner": "Sable (Harbor Foundry - Setaside)"
+        "title": "Harbor Scout weekday hunt",
+        "nextRunAt": "2026-09-23T08:09:00-05:00",
+        "scheduleLabel": "Weekdays 8:09 AM CT",
+        "owner": "Calder \u2192 Nico (Harbor Scout)"
       },
       {
         "title": "Foundry operations pre-brief",
         "nextRunAt": "2026-09-23T07:30:00-05:00",
         "scheduleLabel": "Weekdays 7:30 AM CT",
         "owner": "Fernando (Harbor Foundry - Ops)"
+      },
+      {
+        "title": "Foundry morning brief",
+        "nextRunAt": "2026-09-23T08:00:00-05:00",
+        "scheduleLabel": "Weekdays 8:00 AM CT",
+        "owner": "Calder (Harbor Foundry - CEO)"
+      },
+      {
+        "title": "Setaside shop health check",
+        "nextRunAt": "2026-09-23T09:00:00-05:00",
+        "scheduleLabel": "Weekdays 9:00 AM CT",
+        "owner": "Sable (Harbor Foundry - Setaside)"
       }
     ]
   },
