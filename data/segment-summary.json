@@ -6,7 +6,7 @@
   "status": "Operating",
   "statusDetail": "7 Cheap Test ACTs + ShopWorks WATCH; HOLD\u00d74; Wed Scout TEST SMALL\u00d72 cabinetmillops+monumentops pending Calder (crowding); Latch paused; Setaside Operating; $0.",
   "owner": "Calder (Harbor Foundry - CEO)",
-  "lastUpdated": "2026-09-23T09:25:00-05:00",
+  "lastUpdated": "2026-09-23T09:07:09-05:00",
   "headlineMetrics": {
     "cheapTestsActive": 7,
     "cheapTestsWatch": 1,
@@ -35,15 +35,15 @@
   "nextUp": {
     "items": [
       {
-        "title": "Calder lock Wed Scout TEST SMALL\u00d72 (crowding)",
-        "nextRunAt": "2026-09-23T10:30:00-05:00",
-        "scheduleLabel": "Wed AM remaining",
-        "owner": "Calder (Harbor Foundry - CEO)"
+        "title": "Execute TEST SMALL cabinetmillops + monumentops",
+        "nextRunAt": "2026-09-23T09:10:00-05:00",
+        "scheduleLabel": "In flight \u2014 Wed AM",
+        "owner": "Nico (Harbor Foundry - Scout)"
       },
       {
         "title": "Setaside shop health check",
-        "nextRunAt": "2026-09-24T09:00:00-05:00",
-        "scheduleLabel": "Weekdays 9:00 AM CT",
+        "nextRunAt": "2026-09-23T12:00:00-05:00",
+        "scheduleLabel": "Weekday shop check",
         "owner": "Sable (Harbor Foundry - Setaside)"
       },
       {
@@ -52,8 +52,9 @@
         "scheduleLabel": "Weekdays 8:02 AM CT",
         "owner": "Calder (Harbor Foundry - CEO)"
       }
-    ]
+    ],
+    "lastUpdated": "2026-09-23T09:07:09-05:00"
   },
   "headline": "Tue Cheap Tests executed \u2014 powdercoatops ACT / upholsteryops REJECT (Scout rec)",
-  "currentStatus": "Wed 2026-09-23: Nico executed Tue TEST SMALL\u00d72 \u2014 powdercoatops ACT (Scout rec; ACT crowding 6\u21927); upholsteryops REJECT Closed (StitchDesk migrate absorb + thin body / calculator leftover). HOLD awningops/sprayfoamops/glazingops/blindsops. ShopWorks WATCH. Latch paused. Setaside Operating. Afterfee dead. No Wren. No memo. $0. Scout recommendations pending Calder lock."
+  "currentStatus": "Calder lock Wed 2026-09-23: powdercoatops ACT (7th); upholsteryops REJECT Closed. Wed hunt TEST SMALL\u00d72 cabinetmillops + monumentops ($0) at ACT-crowding cap. Still ACT: SurveyOps+Fenceops+Pavingops+Signshop+Concreteops+Snowops+Powdercoatops. WATCH ShopWorks. HOLD\u00d74. Latch Paused. Setaside Operating. $0."
 }

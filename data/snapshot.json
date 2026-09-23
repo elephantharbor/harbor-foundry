@@ -1,6 +1,6 @@
 {
   "mission": "Find dated paid software customers dislike, validate a modern replacement destination, and build independent ventures only where evidence warrants substantial durable economic value.",
-  "lastUpdated": "2026-09-23T09:25:00-05:00",
+  "lastUpdated": "2026-09-23T09:07:09-05:00",
   "cycle": "Cycle 3",
   "metrics": {
     "researching": 0,
@@ -12,11 +12,12 @@
     "setasideSales": "$0",
     "cheapTestsActive": 7,
     "cheapTestsClosed": 11,
-    "cheapTestsWatch": 1
+    "cheapTestsWatch": 1,
+    "cheapTestsPending": 2
   },
   "needsHumanAttention": [],
-  "currentObjective": "Continue 7 ACT Cheap Tests crowding; ShopWorks WATCH; HOLD\u00d74. Wed Scout NOT EMPTY \u2014 TEST SMALL\u00d72 cabinetmillops + monumentops (pending Calder under crowding cap). No Wren/memo. Latch paused. $0.",
-  "currentStatus": "Wed 2026-09-23 Scout hunt: screened 16 across A/D/F/G/W; early A/D/F zero \u2192 deepen G+W. TEST SMALL\u00d72 cabinetmillops + monumentops (ACT crowding 7 \u2192 cap \u22642). 14 drops (Bullhorn/UKG/telematics Harbor-path, AI overlays, powdercoat/JobBOSS/Moraware adjacency). Pending Calder lock. Latch paused. $0. No Wren. No memo.",
+  "currentObjective": "Nico execute Wed TEST SMALL\u00d72 (cabinetmillops, monumentops). Continue ACT Cheap Tests with crowding checks. Scout multi-lane. No Wren/memo. Latch paused.",
+  "currentStatus": "Calder lock Wed 2026-09-23: powdercoatops ACT (7th); upholsteryops REJECT Closed. Wed hunt TEST SMALL\u00d72 cabinetmillops + monumentops ($0) at ACT-crowding cap. Still ACT: SurveyOps+Fenceops+Pavingops+Signshop+Concreteops+Snowops+Powdercoatops. WATCH ShopWorks. HOLD\u00d74. Latch Paused. Setaside Operating. $0.",
   "pipelineStages": [
     {
       "id": "scout",
@@ -76,6 +77,34 @@
     }
   ],
   "pipelineItems": [
+    {
+      "id": "monumentops",
+      "name": "Monumentops",
+      "title": "Monumentops",
+      "what": "Monument dealers Excel/paper\u2192ops SoR (order+proof \u2192 production/set board)",
+      "why": "Vertical pricing (TributeIQ/MB ProBuild); independent reviews thin \u2014 census learn",
+      "status": "TEST SMALL \u2014 execute $0",
+      "stage": "cheapTest",
+      "decision": "TEST SMALL",
+      "summary": "Calder lock Wed: TEST SMALL at ACT-crowding cap (thinner of two). Census TributeIQ/MB ProBuild/StoneSpot. $0. No Wren.",
+      "lane": "G/W",
+      "updated": "2026-09-23",
+      "owner": "Nico"
+    },
+    {
+      "id": "cabinetmillops",
+      "name": "Cabinetmillops",
+      "title": "Cabinetmillops",
+      "what": "Custom cabinet/millwork Excel\u2192shop SoR (accepted job \u2192 centre/day board)",
+      "why": "CAD quoting works; production still Excel/calendar; Cabneo/Jobman/Tractivity demand",
+      "status": "TEST SMALL \u2014 execute $0",
+      "stage": "cheapTest",
+      "decision": "TEST SMALL",
+      "summary": "Calder lock Wed: TEST SMALL at ACT-crowding cap. Census Cabneo/Jobman/Tractivity. $0. No Wren.",
+      "lane": "G/W",
+      "updated": "2026-09-23",
+      "owner": "Nico"
+    },
     {
       "id": "surveyops",
       "name": "Surveying firm ops SoR",
@@ -186,7 +215,7 @@
       "incumbent": "Excel / whiteboard travelers + thin Steelhead/PC360-class",
       "stage": "cheapTest",
       "status": "ACT \u2014 continue Cheap Test",
-      "summary": "Cheap Test passed: Excel/QB/whiteboard travelers; quote\u2192rack board clears overlay-kill; Steelhead/PC360/Logix = demand (reviews still thin). Scout ACT \u2014 pending Calder lock. Crowding 7th ACT.",
+      "summary": "Quote\u2192rack/stage board passes overlay-kill; Excel/QB/whiteboard residual; named powder natives denser than thin claim, reviews still thin. Next: crowding vs Steelhead/Logix/PC360/Tudodesk. No Wren/memo. ACT crowding 7.",
       "owner": "Nico",
       "updated": "2026-09-23",
       "recommendation": "ACT",
@@ -201,7 +230,7 @@
       "incumbent": "Excel yardage+COM / dated Dunham desktop",
       "stage": "closed",
       "status": "REJECT \u2014 Closed",
-      "summary": "StitchDesk Dunham\u2192migrate absorb + Excel yardage leftover + thin independent body; prefer EMPTY. \u2260 ShopWorks.",
+      "summary": "StitchDesk Dunham\u2192migrate absorb + thin independent body / calculator leftover. Prefer EMPTY. \u2260 ShopWorks. Awningops HOLD unchanged.",
       "owner": "Nico",
       "updated": "2026-09-23",
       "recommendation": "REJECT",
@@ -1319,6 +1348,20 @@
   },
   "evidenceDecisions": [
     {
+      "id": "scout-2026-09-23-test-small",
+      "title": "Wed Scout hunt \u2014 TEST SMALL\u00d72 at crowding cap",
+      "evidence": "Raw 16 / deepen 2 across A/D/F/G/W. Early A/D/F\u21920; deepen G+W. Packets cabinetmillops + monumentops.",
+      "interpretation": "Both clear Cheap Test bar (Excel\u2192vertical shop SoR). ACT crowding forces \u22642 new TEST SMALL; no excess deepen this cycle.",
+      "decision": "TEST SMALL cabinetmillops + monumentops ($0). HOLD unchanged\u00d74. Alive ACT\u00d77 + ShopWorks WATCH untouched."
+    },
+    {
+      "id": "cheaptest-2026-09-22-lock",
+      "title": "Tue TEST SMALL lock (executed Wed 23)",
+      "evidence": "Two $0 tests: powdercoatops, upholsteryops. Ellis don\u2019t-know-yet.",
+      "interpretation": "Powdercoatops quote\u2192rack board passes overlay-kill with denser named natives than Scout thin claim. Upholsteryops collapses to StitchDesk migrate absorb + calculator leftover.",
+      "decision": "ACT powdercoatops (Cheap Test; crowding 7). REJECT upholsteryops Closed. No Wren."
+    },
+    {
       "date": "2026-09-21",
       "actor": "Calder (Harbor Foundry - CEO)",
       "summary": "Locked Mon 2026-09-21 Scout Cheap Tests: concreteops TEST SMALL; snowops TEST SMALL; glazingops HOLD; blindsops HOLD (ACT-crowding cap \u22642). SurveyOps+Fenceops+Pavingops+Signshop ACT; ShopWorks WATCH; Latch paused; $0.",
@@ -1664,18 +1707,18 @@
   "nextUp": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-23T09:25:00-05:00",
+    "lastUpdated": "2026-09-23T09:07:09-05:00",
     "items": [
       {
-        "title": "Calder lock Wed Scout TEST SMALL\u00d72 (crowding)",
-        "nextRunAt": "2026-09-23T10:30:00-05:00",
-        "scheduleLabel": "Wed AM remaining",
-        "owner": "Calder (Harbor Foundry - CEO)"
+        "title": "Execute TEST SMALL cabinetmillops + monumentops",
+        "nextRunAt": "2026-09-23T09:10:00-05:00",
+        "scheduleLabel": "In flight \u2014 Wed AM",
+        "owner": "Nico (Harbor Foundry - Scout)"
       },
       {
         "title": "Setaside shop health check",
-        "nextRunAt": "2026-09-24T09:00:00-05:00",
-        "scheduleLabel": "Weekdays 9:00 AM CT",
+        "nextRunAt": "2026-09-23T12:00:00-05:00",
+        "scheduleLabel": "Weekday shop check",
         "owner": "Sable (Harbor Foundry - Setaside)"
       },
       {
@@ -1689,8 +1732,14 @@
   "sessionLog": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-23T09:25:00-05:00",
+    "lastUpdated": "2026-09-23T09:07:09-05:00",
     "entries": [
+      {
+        "at": "2026-09-23T09:07:09-05:00",
+        "actor": "Calder (Harbor Foundry - CEO)",
+        "summary": "Locked Tue TEST SMALL: powdercoatops ACT; upholsteryops REJECT. Locked Wed hunt TEST SMALL\u00d72: cabinetmillops + monumentops ($0) at ACT-crowding cap. Nico execute; Ellis parallel.",
+        "deskChanges": "pipelineItems + metrics + evidenceDecisions + Active Ventures; Session Log."
+      },
       {
         "at": "2026-09-23T09:25:00-05:00",
         "actor": "Nico (Harbor Foundry - Scout)",
@@ -1989,7 +2038,7 @@
   "activeVentures": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-23T09:25:00-05:00",
+    "lastUpdated": "2026-09-23T09:07:09-05:00",
     "empty": false,
     "emptyReason": null,
     "items": [
@@ -2006,7 +2055,7 @@
         "performance": "0 orders",
         "nextMilestone": "First sale",
         "detailLink": "https://www.etsy.com/listing/4564421940/2026-self-employed-bookkeeping",
-        "lastUpdated": "2026-09-21T09:15:00-05:00"
+        "lastUpdated": "2026-09-23T09:07:09-05:00"
       },
       {
         "id": "surveyops",
@@ -2021,7 +2070,7 @@
         "performance": "ACT",
         "nextMilestone": "Crowding vs KudurruStone/Job Book",
         "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-        "lastUpdated": "2026-09-23T09:05:00-05:00"
+        "lastUpdated": "2026-09-23T09:07:09-05:00"
       },
       {
         "id": "fenceops",
@@ -2036,7 +2085,7 @@
         "performance": "ACT",
         "nextMilestone": "Crowding vs QuoteIQ/Fence Cloud/FenceTracer",
         "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-        "lastUpdated": "2026-09-23T09:05:00-05:00"
+        "lastUpdated": "2026-09-23T09:07:09-05:00"
       },
       {
         "id": "pavingops",
@@ -2051,7 +2100,7 @@
         "performance": "ACT",
         "nextMilestone": "Crowding vs QuoteIQ/Bitumio/OneCrew",
         "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-        "lastUpdated": "2026-09-23T09:05:00-05:00"
+        "lastUpdated": "2026-09-23T09:07:09-05:00"
       },
       {
         "id": "signshop",
@@ -2064,31 +2113,31 @@
         "owner": "Nico",
         "exposure": "$0",
         "performance": "ACT",
-        "nextMilestone": "Continue Cheap Test learning; off closed print MIS class",
+        "nextMilestone": "Continue Cheap Test learning",
         "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-        "lastUpdated": "2026-09-23T09:05:00-05:00"
+        "lastUpdated": "2026-09-23T09:07:09-05:00"
       },
       {
         "id": "concreteops",
         "title": "Concreteops",
         "segment": "foundry",
         "submarket": "Cheap Test",
-        "description": "Concrete flatwork ops SoR \u2014 assembly\u2192pour board.",
+        "description": "Concrete contractor Excel/Jobber \u2192 CY/assembly SoR.",
         "status": "Cheap Test \u2014 ACT",
         "startDate": "2026-09-21",
         "owner": "Nico",
         "exposure": "$0",
         "performance": "ACT",
-        "nextMilestone": "Crowding vs ScopeTakeoff/QuoteIQ",
+        "nextMilestone": "Crowding check",
         "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-        "lastUpdated": "2026-09-23T09:05:00-05:00"
+        "lastUpdated": "2026-09-23T09:07:09-05:00"
       },
       {
         "id": "snowops",
         "title": "Snowops",
         "segment": "foundry",
         "submarket": "Cheap Test",
-        "description": "Snow & ice ops SoR \u2014 storm\u2192salt\u2192proof\u2192invoice.",
+        "description": "Storm\u2192salt-log\u2192per-event invoice SoR.",
         "status": "Cheap Test \u2014 ACT",
         "startDate": "2026-09-21",
         "owner": "Nico",
@@ -2096,22 +2145,22 @@
         "performance": "ACT",
         "nextMilestone": "Crowding vs Yeti/Plowdesk/LMN",
         "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-        "lastUpdated": "2026-09-23T09:05:00-05:00"
+        "lastUpdated": "2026-09-23T09:07:09-05:00"
       },
       {
         "id": "powdercoatops",
         "title": "Powdercoatops",
         "segment": "foundry",
         "submarket": "Cheap Test",
-        "description": "Powder coating shop ops SoR \u2014 quote \u2192 rack/stage board.",
+        "description": "Powder coating shop \u2014 quote \u2192 rack/stage board.",
         "status": "Cheap Test \u2014 ACT",
         "startDate": "2026-09-22",
         "owner": "Nico",
         "exposure": "$0",
         "performance": "ACT",
-        "nextMilestone": "Crowding vs Steelhead/Powder Coating Logix/PC360 (Scout ACT \u2014 pending Calder lock)",
+        "nextMilestone": "Crowding vs Steelhead/Logix/PC360/Tudodesk",
         "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-        "lastUpdated": "2026-09-23T09:05:00-05:00"
+        "lastUpdated": "2026-09-23T09:07:09-05:00"
       },
       {
         "id": "latch",
@@ -2126,16 +2175,16 @@
         "performance": "Paused",
         "nextMilestone": "Explicit resume",
         "detailLink": "https://elephantharbor.github.io/harbor-foundry/#ventures",
-        "lastUpdated": "2026-09-21T09:15:00-05:00"
+        "lastUpdated": "2026-09-23T09:07:09-05:00"
       }
     ],
-    "note": "Wed Scout 2026-09-23 nominated TEST SMALL\u00d72 (cabinetmillops, monumentops) \u2014 pending Calder lock. No AV row until Calder advances. Crowding 7 ACTs.",
+    "note": "Active = Operating, ACT Cheap Tests, paused Latch. Pending TEST SMALL and WATCH/REJECT off list.",
     "recentlyClosed": [
       {
         "id": "upholsteryops",
         "title": "Upholsteryops",
         "closed": "2026-09-23",
-        "reason": "REJECT \u2014 StitchDesk migrate absorb / thin body / calculator leftover (Scout rec \u2014 pending Calder lock)"
+        "reason": "REJECT \u2014 StitchDesk migrate absorb / calculator leftover"
       },
       {
         "id": "deckops",
