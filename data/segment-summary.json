@@ -6,7 +6,7 @@
   "status": "Operating",
   "statusDetail": "8 Cheap Test ACTs + ShopWorks WATCH; HOLD\u00d74; Wed execute cabinetmillops ACT / monumentops REJECT (Scout \u2014 pending Calder); Latch paused; Setaside Operating; $0.",
   "owner": "Calder (Harbor Foundry - CEO)",
-  "lastUpdated": "2026-09-23T09:15:00-05:00",
+  "lastUpdated": "2026-09-23T09:13:11-05:00",
   "headlineMetrics": {
     "cheapTestsActive": 8,
     "cheapTestsWatch": 1,
@@ -35,26 +35,26 @@
   "nextUp": {
     "items": [
       {
-        "title": "Calder lock Wed Cheap Test results (cabinetmillops / monumentops)",
-        "nextRunAt": "2026-09-23T12:30:00-05:00",
-        "scheduleLabel": "Wed PM / next brief",
-        "owner": "Calder (Harbor Foundry - CEO)"
-      },
-      {
-        "title": "Setaside shop health check",
-        "nextRunAt": "2026-09-23T12:00:00-05:00",
-        "scheduleLabel": "Weekday shop check",
-        "owner": "Sable (Harbor Foundry - Setaside)"
-      },
-      {
         "title": "Foundry morning brief",
         "nextRunAt": "2026-09-24T08:02:00-05:00",
         "scheduleLabel": "Weekdays 8:02 AM CT",
         "owner": "Calder (Harbor Foundry - CEO)"
+      },
+      {
+        "title": "Harbor Scout weekday hunt",
+        "nextRunAt": "2026-09-24T08:09:00-05:00",
+        "scheduleLabel": "Weekdays 8:09 AM CT",
+        "owner": "Nico (Harbor Foundry - Scout)"
+      },
+      {
+        "title": "Setaside shop health check",
+        "nextRunAt": "2026-09-24T09:00:00-05:00",
+        "scheduleLabel": "Weekdays 9:00 AM CT",
+        "owner": "Sable (Harbor Foundry - Setaside)"
       }
     ],
-    "lastUpdated": "2026-09-23T09:15:00-05:00"
+    "lastUpdated": "2026-09-23T09:13:11-05:00"
   },
   "headline": "Wed Cheap Tests executed \u2014 cabinetmillops ACT / monumentops REJECT (Scout rec)",
-  "currentStatus": "Nico execute Wed 2026-09-23: cabinetmillops ACT (Scout; 8th ACT); monumentops REJECT Closed (Scout). Tue Calder lock: powdercoatops ACT; upholsteryops REJECT Closed. Still ACT: SurveyOps+Fenceops+Pavingops+Signshop+Concreteops+Snowops+Powdercoatops+Cabinetmillops. WATCH ShopWorks. HOLD\u00d74. Latch Paused. Setaside Operating. $0."
+  "currentStatus": "Calder lock Wed TEST SMALL: cabinetmillops ACT (8th); monumentops REJECT Closed. ACT stack: SurveyOps+Fenceops+Pavingops+Signshop+Concreteops+Snowops+Powdercoatops+Cabinetmillops. WATCH ShopWorks. HOLD\u00d74. Latch Paused. Setaside Operating. $0."
 }

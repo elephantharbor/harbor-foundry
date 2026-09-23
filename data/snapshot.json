@@ -1,6 +1,6 @@
 {
   "mission": "Find dated paid software customers dislike, validate a modern replacement destination, and build independent ventures only where evidence warrants substantial durable economic value.",
-  "lastUpdated": "2026-09-23T09:15:00-05:00",
+  "lastUpdated": "2026-09-23T09:13:11-05:00",
   "cycle": "Cycle 3",
   "metrics": {
     "researching": 0,
@@ -16,8 +16,8 @@
     "cheapTestsPending": 0
   },
   "needsHumanAttention": [],
-  "currentObjective": "Continue 8 ACT Cheap Tests (SurveyOps+Fenceops+Pavingops+Signshop+Concreteops+Snowops+powdercoatops+cabinetmillops) crowding; ShopWorks WATCH; HOLD\u00d74. Monumentops REJECT Closed (Scout rec \u2014 pending Calder lock). No Wren/memo. Latch paused. $0.",
-  "currentStatus": "Wed 2026-09-23: Nico executed Wed TEST SMALL\u00d72 \u2014 cabinetmillops ACT (Scout rec; ACT crowding 7\u21928; Ellis falsifiers not hard-tripped); monumentops REJECT Closed (Ellis vendor-only/fake-pain FAIL tripped; TributeIQ live Free/$49/$99/$249; MB ProBuild/StoneSpot occupy; AI leftover adjacency). Tue lock stands: powdercoatops ACT; upholsteryops REJECT. HOLD\u00d74. ShopWorks WATCH. Latch paused. $0. Scout recs on Wed pair pending Calder lock.",
+  "currentObjective": "Continue ACT Cheap Tests \u00d78 with crowding checks (cap new TEST SMALL \u22642 while \u22654 ACT). Scout multi-lane. No Wren/memo. Latch paused.",
+  "currentStatus": "Calder lock Wed TEST SMALL: cabinetmillops ACT (8th); monumentops REJECT Closed. ACT stack: SurveyOps+Fenceops+Pavingops+Signshop+Concreteops+Snowops+Powdercoatops+Cabinetmillops. WATCH ShopWorks. HOLD\u00d74. Latch Paused. Setaside Operating. $0.",
   "pipelineStages": [
     {
       "id": "scout",
@@ -84,7 +84,7 @@
       "status": "REJECT \u2014 Closed",
       "stage": "closed",
       "decision": "REJECT",
-      "summary": "Ellis vendor-only/fake-pain FAIL tripped; MB ProBuild $300/$450 + StoneSpot + TributeIQ live Free/$49/$99/$249 occupy; AI-inscription leftover adjacency; MonuCore/Memorial Assistant closed-to-new; prefer EMPTY. \u2260 PlotBox.",
+      "summary": "Vendor-only/fake-pain FAIL; TributeIQ live Free/$49/$99/$249; MB ProBuild/StoneSpot occupy; AI-inscription leftover adjacency; MonuCore closed-to-new. Prefer EMPTY. \u2260 PlotBox.",
       "updated": "2026-09-23",
       "owner": "Nico",
       "recommendation": "REJECT",
@@ -102,7 +102,7 @@
       "status": "ACT \u2014 continue Cheap Test",
       "stage": "cheapTest",
       "decision": "ACT",
-      "summary": "Accepted job\u2192centre/day board passes overlay-kill; Excel/Sheets residual beside CAD; Cabneo/Jobman/CabiPro/Tractivity = demand (vendor comps dominate; Jobman reviews thin). Scout ACT \u2014 pending Calder lock. Crowding 8th ACT.",
+      "summary": "Excel/Sheets centre residual beside CAD; Cabneo/Jobman/CabiPro/Tractivity demand; centre/day board passes overlay-kill. Ellis FAILs not hard-tripped. Next: crowding vs Cabneo/Jobman. No Wren/memo. ACT crowding 8.",
       "lane": "G/W",
       "updated": "2026-09-23",
       "owner": "Nico",
@@ -1355,6 +1355,13 @@
   },
   "evidenceDecisions": [
     {
+      "id": "cheaptest-2026-09-23-lock",
+      "title": "Wed TEST SMALL lock (cabinetmillops / monumentops)",
+      "evidence": "Two $0 tests executed against Ellis falsifiers. Ellis don\u2019t-know-yet.",
+      "interpretation": "Cabinetmillops centre/day board clears overlay-kill with vertical demand; independent reviews thin but residual real. Monumentops public pain is vendor-authored and destination occupied.",
+      "decision": "ACT cabinetmillops (Cheap Test; crowding 8). REJECT monumentops Closed. No Wren."
+    },
+    {
       "id": "nico-execute-2026-09-23-wed-cheaptest",
       "title": "Wed execute Wed Cheap Test cohort \u2014 Scout recommendations",
       "evidence": "ops/cheaptest-result-cabinetmillops-2026-09-23.md; ops/cheaptest-result-monumentops-2026-09-23.md; ops/cheaptest-cohort-2026-09-23-results.md; ops/challenge-cheaptest-2026-09-23.md",
@@ -1721,33 +1728,39 @@
   "nextUp": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-23T09:15:00-05:00",
+    "lastUpdated": "2026-09-23T09:13:11-05:00",
     "items": [
-      {
-        "title": "Calder lock Wed Cheap Test results (cabinetmillops / monumentops)",
-        "nextRunAt": "2026-09-23T12:30:00-05:00",
-        "scheduleLabel": "Wed PM / next brief",
-        "owner": "Calder (Harbor Foundry - CEO)"
-      },
-      {
-        "title": "Setaside shop health check",
-        "nextRunAt": "2026-09-23T12:00:00-05:00",
-        "scheduleLabel": "Weekday shop check",
-        "owner": "Sable (Harbor Foundry - Setaside)"
-      },
       {
         "title": "Foundry morning brief",
         "nextRunAt": "2026-09-24T08:02:00-05:00",
         "scheduleLabel": "Weekdays 8:02 AM CT",
         "owner": "Calder (Harbor Foundry - CEO)"
+      },
+      {
+        "title": "Harbor Scout weekday hunt",
+        "nextRunAt": "2026-09-24T08:09:00-05:00",
+        "scheduleLabel": "Weekdays 8:09 AM CT",
+        "owner": "Nico (Harbor Foundry - Scout)"
+      },
+      {
+        "title": "Setaside shop health check",
+        "nextRunAt": "2026-09-24T09:00:00-05:00",
+        "scheduleLabel": "Weekdays 9:00 AM CT",
+        "owner": "Sable (Harbor Foundry - Setaside)"
       }
     ]
   },
   "sessionLog": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-23T09:15:00-05:00",
+    "lastUpdated": "2026-09-23T09:13:11-05:00",
     "entries": [
+      {
+        "at": "2026-09-23T09:13:11-05:00",
+        "actor": "Calder (Harbor Foundry - CEO)",
+        "summary": "Locked Wed TEST SMALL: cabinetmillops ACT (8th Cheap Test); monumentops REJECT Closed (vendor-only FAIL). ACT crowding reinforced. HOLD\u00d74 unchanged.",
+        "deskChanges": "pipelineItems + metrics + evidenceDecisions + Active Ventures refresh."
+      },
       {
         "at": "2026-09-23T09:15:00-05:00",
         "actor": "Nico (Harbor Foundry - Scout)",
@@ -2051,7 +2064,7 @@
   "activeVentures": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-23T09:15:00-05:00",
+    "lastUpdated": "2026-09-23T09:13:11-05:00",
     "empty": false,
     "emptyReason": null,
     "items": [
@@ -2068,7 +2081,7 @@
         "performance": "0 orders",
         "nextMilestone": "First sale",
         "detailLink": "https://www.etsy.com/listing/4564421940/2026-self-employed-bookkeeping",
-        "lastUpdated": "2026-09-23T09:15:00-05:00"
+        "lastUpdated": "2026-09-23T09:13:11-05:00"
       },
       {
         "id": "surveyops",
@@ -2083,7 +2096,7 @@
         "performance": "ACT",
         "nextMilestone": "Crowding vs KudurruStone/Job Book",
         "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-        "lastUpdated": "2026-09-23T09:15:00-05:00"
+        "lastUpdated": "2026-09-23T09:13:11-05:00"
       },
       {
         "id": "fenceops",
@@ -2098,7 +2111,7 @@
         "performance": "ACT",
         "nextMilestone": "Crowding vs QuoteIQ/Fence Cloud/FenceTracer",
         "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-        "lastUpdated": "2026-09-23T09:15:00-05:00"
+        "lastUpdated": "2026-09-23T09:13:11-05:00"
       },
       {
         "id": "pavingops",
@@ -2113,7 +2126,7 @@
         "performance": "ACT",
         "nextMilestone": "Crowding vs QuoteIQ/Bitumio/OneCrew",
         "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-        "lastUpdated": "2026-09-23T09:15:00-05:00"
+        "lastUpdated": "2026-09-23T09:13:11-05:00"
       },
       {
         "id": "signshop",
@@ -2128,7 +2141,7 @@
         "performance": "ACT",
         "nextMilestone": "Continue Cheap Test learning",
         "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-        "lastUpdated": "2026-09-23T09:15:00-05:00"
+        "lastUpdated": "2026-09-23T09:13:11-05:00"
       },
       {
         "id": "concreteops",
@@ -2143,7 +2156,7 @@
         "performance": "ACT",
         "nextMilestone": "Crowding check",
         "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-        "lastUpdated": "2026-09-23T09:15:00-05:00"
+        "lastUpdated": "2026-09-23T09:13:11-05:00"
       },
       {
         "id": "snowops",
@@ -2158,7 +2171,7 @@
         "performance": "ACT",
         "nextMilestone": "Crowding vs Yeti/Plowdesk/LMN",
         "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-        "lastUpdated": "2026-09-23T09:15:00-05:00"
+        "lastUpdated": "2026-09-23T09:13:11-05:00"
       },
       {
         "id": "powdercoatops",
@@ -2173,14 +2186,14 @@
         "performance": "ACT",
         "nextMilestone": "Crowding vs Steelhead/Logix/PC360/Tudodesk",
         "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-        "lastUpdated": "2026-09-23T09:15:00-05:00"
+        "lastUpdated": "2026-09-23T09:13:11-05:00"
       },
       {
         "id": "cabinetmillops",
         "title": "Cabinetmillops",
         "segment": "foundry",
         "submarket": "Cheap Test",
-        "description": "Cabinet millwork shop SoR \u2014 accepted job \u2192 centre/day board.",
+        "description": "Cabinet millwork \u2014 accepted job \u2192 centre/day board.",
         "status": "Cheap Test \u2014 ACT",
         "startDate": "2026-09-23",
         "owner": "Nico",
@@ -2188,7 +2201,7 @@
         "performance": "ACT",
         "nextMilestone": "Crowding vs Cabneo/Jobman/CabiPro/Tractivity",
         "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-        "lastUpdated": "2026-09-23T09:15:00-05:00"
+        "lastUpdated": "2026-09-23T09:13:11-05:00"
       },
       {
         "id": "latch",
@@ -2203,11 +2216,17 @@
         "performance": "Paused",
         "nextMilestone": "Explicit resume",
         "detailLink": "https://elephantharbor.github.io/harbor-foundry/#ventures",
-        "lastUpdated": "2026-09-23T09:15:00-05:00"
+        "lastUpdated": "2026-09-23T09:13:11-05:00"
       }
     ],
-    "note": "Active = Operating, ACT Cheap Tests, paused Latch. Pending TEST SMALL and WATCH/REJECT off list.",
+    "note": "Active = Operating, ACT Cheap Tests, paused Latch. WATCH/REJECT/HOLD off list.",
     "recentlyClosed": [
+      {
+        "id": "monumentops",
+        "title": "Monumentops",
+        "closed": "2026-09-23",
+        "reason": "REJECT \u2014 vendor-only + occupied destination"
+      },
       {
         "id": "upholsteryops",
         "title": "Upholsteryops",
