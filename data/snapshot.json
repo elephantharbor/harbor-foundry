@@ -1,6 +1,6 @@
 {
   "mission": "Find dated paid software customers dislike, validate a modern replacement destination, and build independent ventures only where evidence warrants substantial durable economic value.",
-  "lastUpdated": "2026-09-23T09:05:00-05:00",
+  "lastUpdated": "2026-09-23T09:25:00-05:00",
   "cycle": "Cycle 3",
   "metrics": {
     "researching": 0,
@@ -15,8 +15,8 @@
     "cheapTestsWatch": 1
   },
   "needsHumanAttention": [],
-  "currentObjective": "Continue 7 ACT Cheap Tests (SurveyOps+Fenceops+Pavingops+Signshop+Concreteops+Snowops+powdercoatops) crowding; ShopWorks WATCH; HOLD glazingops/blindsops/awningops/sprayfoamops. Wed Scout hunt next. Upholsteryops REJECT Closed (Scout rec \u2014 pending Calder lock). No Wren/memo. Latch paused. $0.",
-  "currentStatus": "Wed 2026-09-23: Nico executed Tue TEST SMALL\u00d72 \u2014 powdercoatops ACT (Scout rec; ACT crowding 6\u21927); upholsteryops REJECT Closed (StitchDesk migrate absorb + thin body / calculator leftover). HOLD awningops/sprayfoamops/glazingops/blindsops. ShopWorks WATCH. Latch paused. Setaside Operating. Afterfee dead. No Wren. No memo. $0. Scout recommendations pending Calder lock.",
+  "currentObjective": "Continue 7 ACT Cheap Tests crowding; ShopWorks WATCH; HOLD\u00d74. Wed Scout NOT EMPTY \u2014 TEST SMALL\u00d72 cabinetmillops + monumentops (pending Calder under crowding cap). No Wren/memo. Latch paused. $0.",
+  "currentStatus": "Wed 2026-09-23 Scout hunt: screened 16 across A/D/F/G/W; early A/D/F zero \u2192 deepen G+W. TEST SMALL\u00d72 cabinetmillops + monumentops (ACT crowding 7 \u2192 cap \u22642). 14 drops (Bullhorn/UKG/telematics Harbor-path, AI overlays, powdercoat/JobBOSS/Moraware adjacency). Pending Calder lock. Latch paused. $0. No Wren. No memo.",
   "pipelineStages": [
     {
       "id": "scout",
@@ -422,6 +422,138 @@
       "reason": "Closed. SAP is shipping NextGen / new report UI; Harbor is not running a T&E replacement against that vendor modernization. Do not recycle."
     },
     "emptyScreens": [
+      {
+        "id": "2026-09-23",
+        "label": "HUNT 23",
+        "date": "2026-09-23",
+        "outcome": "NOT EMPTY \u2014 CHEAP_TEST_NOMINATED",
+        "status": "TEST SMALL\u00d72 pending Calder (crowding cap)",
+        "synopsis": "2026-09-23 Wednesday multi-lane Cheap Test hunt screened 16 names across hated incumbents, AI-automatable processes, AI-native/agentic, productized services/workflow hybrids, and workflow automation. Outcome: NOT EMPTY \u2014 deepened 2; TEST SMALL\u00d72 (cabinetmillops, monumentops) under ACT crowding cap (7 ACTs). Early A/D/F examined\u21920 \u2192 same-cycle deepen G+W. Each name below shows what it is, lane, why screened, and status.",
+        "why": "Two Excel-first vertical SoRs clear Cheap Test bar (cabinet millwork; monument dealer). Fourteen drops: Bullhorn/UKG/ADP/telematics Harbor-path, crowded AI overlays, powdercoat/JobBOSS/Moraware/Inspect Point adjacency, leftover features. Prefer real Cheap Tests over reflexive EMPTY; crowding caps advance at \u22642.",
+        "lanes": [
+          "hated incumbents (fresh)",
+          "AI-automatable processes",
+          "AI-native / agentic",
+          "productized services / workflow hybrids",
+          "workflow automation"
+        ],
+        "names": [
+          "CabinetMillOps",
+          "MonumentOps",
+          "Aviont\u00e9",
+          "iSolved",
+          "Fleet Complete / Powerfleet",
+          "Toast POS fee hate",
+          "AI AP invoice agents",
+          "Construction cert/doc expiry Excel",
+          "Asbestos NESHAP compliance desk",
+          "Meeting-notes \u2192 CRM agent",
+          "Vertical SaaS agent embed",
+          "AI inscription-check alone",
+          "Plating / anodizing finishing",
+          "Fire protection inspection ops",
+          "Moraware countertop reopen",
+          "Tudodesk / generic job shop"
+        ],
+        "candidates": [
+          {
+            "name": "CabinetMillOps",
+            "what": "Lane G/W \u2014 custom cabinet/millwork shop SoR (Excel/calendar after CAD)",
+            "why": "Excel production residual + Jobman/Cabneo/Tractivity occupancy = demand; distinct from JobBOSS Closed",
+            "status": "TEST SMALL \u2014 nominate"
+          },
+          {
+            "name": "MonumentOps",
+            "what": "Lane G/W \u2014 monument/headstone dealer ops SoR (Excel/paper)",
+            "why": "Vertical paid category (TributeIQ/MB ProBuild/StoneSpot); thin independent reviews; \u2260 cemetery SoR",
+            "status": "TEST SMALL \u2014 nominate (thinner)"
+          },
+          {
+            "name": "Aviont\u00e9",
+            "what": "Lane A \u2014 staffing ATS / back-office",
+            "why": "Bullhorn/Latch paused adjacency; BOLD vendor modern path",
+            "status": "Dropped \u2014 Harbor-path / Latch adjacency"
+          },
+          {
+            "name": "iSolved",
+            "what": "Lane A \u2014 HCM / payroll / benefits",
+            "why": "UKG/ADP/Gusto migrate path; payroll lock-in leftover",
+            "status": "Dropped \u2014 Harbor-path"
+          },
+          {
+            "name": "Fleet Complete / Powerfleet",
+            "what": "Lane A \u2014 fleet telematics",
+            "why": "Soft ~3.8; crowded Motive/Samsara telematics",
+            "status": "Dropped \u2014 soft / telematics Harbor-path"
+          },
+          {
+            "name": "Toast POS fee hate",
+            "what": "Lane A \u2014 restaurant POS fees",
+            "why": "Fee leftover on modern POS; restaurant POS class weak",
+            "status": "Dropped \u2014 leftover fees"
+          },
+          {
+            "name": "AI AP invoice agents",
+            "what": "Lane D \u2014 AI AP coding into ERP",
+            "why": "Crowded finance overlay; Closed 09-14 class",
+            "status": "Dropped \u2014 EMPTY-over-overlays"
+          },
+          {
+            "name": "Construction cert/doc expiry Excel",
+            "what": "Lane D \u2014 license/COI expiry tracker",
+            "why": "COI Closed 09-11 sidecar adjacency",
+            "status": "Dropped \u2014 EMPTY-over-overlays"
+          },
+          {
+            "name": "Asbestos NESHAP compliance desk",
+            "what": "Lane D \u2014 abatement notification/manifest Excel",
+            "why": "Ecesis occupy; compliance packet leftover",
+            "status": "Dropped \u2014 EMPTY-over-overlays"
+          },
+          {
+            "name": "Meeting-notes \u2192 CRM agent",
+            "what": "Lane F \u2014 call notes into CRM",
+            "why": "CRM/ATS overlay; not destination SoR",
+            "status": "Dropped \u2014 EMPTY-over-overlays"
+          },
+          {
+            "name": "Vertical SaaS agent embed",
+            "what": "Lane F \u2014 Sidenet/eSapiens-class agent infra",
+            "why": "Picks-and-shovels for other vendors",
+            "status": "Dropped \u2014 Harbor-path seller"
+          },
+          {
+            "name": "AI inscription-check alone",
+            "what": "Lane F \u2014 monument proof spelling AI",
+            "why": "Leftover feature inside TributeIQ SoR",
+            "status": "Dropped \u2014 EMPTY-over-overlays"
+          },
+          {
+            "name": "Plating / anodizing finishing",
+            "what": "Lane G \u2014 plating shop Excel travelers",
+            "why": "powdercoatops ACT sibling (Steelhead same destination)",
+            "status": "Dropped \u2014 ACT adjacency"
+          },
+          {
+            "name": "Fire protection inspection ops",
+            "what": "Lane W \u2014 extinguisher/sprinkler contractor ops",
+            "why": "Inspect Point thin 09-15; 2026 crowded (Flareflow etc.)",
+            "status": "Dropped \u2014 prior thin + crowded"
+          },
+          {
+            "name": "Moraware countertop reopen",
+            "what": "Lane G \u2014 stone fab Systemize/CounterGo",
+            "why": "Soft dated-UI already screened 09-15",
+            "status": "Dropped \u2014 do not reopen"
+          },
+          {
+            "name": "Tudodesk / generic job shop",
+            "what": "Lane G \u2014 CNC/job shop travelers",
+            "why": "Closed JobBOSS/Cetec manufacturing class",
+            "status": "Dropped \u2014 closed manufacturing class"
+          }
+        ]
+      },
       {
         "id": "2026-09-16",
         "label": "EMPTY 16",
@@ -1532,17 +1664,17 @@
   "nextUp": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-23T09:05:00-05:00",
+    "lastUpdated": "2026-09-23T09:25:00-05:00",
     "items": [
       {
-        "title": "Wed Scout Cheap Test hunt (under ACT crowding)",
-        "nextRunAt": "2026-09-23T10:00:00-05:00",
+        "title": "Calder lock Wed Scout TEST SMALL\u00d72 (crowding)",
+        "nextRunAt": "2026-09-23T10:30:00-05:00",
         "scheduleLabel": "Wed AM remaining",
-        "owner": "Nico (Harbor Foundry - Scout)"
+        "owner": "Calder (Harbor Foundry - CEO)"
       },
       {
         "title": "Setaside shop health check",
-        "nextRunAt": "2026-09-23T09:00:00-05:00",
+        "nextRunAt": "2026-09-24T09:00:00-05:00",
         "scheduleLabel": "Weekdays 9:00 AM CT",
         "owner": "Sable (Harbor Foundry - Setaside)"
       },
@@ -1557,8 +1689,14 @@
   "sessionLog": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-23T09:05:00-05:00",
+    "lastUpdated": "2026-09-23T09:25:00-05:00",
     "entries": [
+      {
+        "at": "2026-09-23T09:25:00-05:00",
+        "actor": "Nico (Harbor Foundry - Scout)",
+        "summary": "Wednesday OS v2 Cheap Test hunt: screened 16 across A/D/F/G/W; deepened 2 (cabinetmillops, monumentops); early A/D/F zero \u2192 same-cycle deepen G+W. TEST SMALL\u00d72 under ACT crowding cap (7 ACTs). Do not staff. $0.",
+        "deskChanges": "ops/scout-screen-2026-09-23.md + scout-hunt + two scout-cheaptest packets; INSTITUTIONAL hunt section; emptyScreens HUNT 23; recentHunt CHEAP_TEST_NOMINATED; Next Up + session-log + segment-summary."
+      },
       {
         "at": "2026-09-23T09:05:00-05:00",
         "actor": "Nico (Harbor Foundry - Scout)",
@@ -1832,18 +1970,26 @@
   },
   "recentHunt": {
     "date": "2026-09-23",
-    "type": "CHEAP_TEST_RESULTS",
-    "summary": "Tue TEST SMALL\u00d72 executed: powdercoatops ACT (Scout); upholsteryops REJECT Closed (Scout). Pending Calder lock. ACT crowding 7. HOLD\u00d74 unchanged.",
+    "type": "CHEAP_TEST_NOMINATED",
+    "summary": "Wed OS v2 hunt A/D/F/G/W: raw 16, deepen 2, TEST SMALL\u00d72 cabinetmillops + monumentops under ACT crowding cap (7 ACTs). NOT EMPTY. Pending Calder.",
     "docs": [
-      "ops/cheaptest-result-powdercoatops-2026-09-22.md",
-      "ops/cheaptest-result-upholsteryops-2026-09-22.md",
-      "ops/cheaptest-cohort-2026-09-22-results.md"
+      "ops/scout-screen-2026-09-23.md",
+      "ops/scout-hunt-2026-09-23.md",
+      "ops/scout-cheaptest-cabinetmillops-2026-09-23.md",
+      "ops/scout-cheaptest-monumentops-2026-09-23.md"
+    ],
+    "lanes": [
+      "hated incumbents (fresh)",
+      "AI-automatable processes",
+      "AI-native / agentic",
+      "productized services / workflow hybrids",
+      "workflow automation"
     ]
   },
   "activeVentures": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-23T09:05:00-05:00",
+    "lastUpdated": "2026-09-23T09:25:00-05:00",
     "empty": false,
     "emptyReason": null,
     "items": [
@@ -1983,7 +2129,7 @@
         "lastUpdated": "2026-09-21T09:15:00-05:00"
       }
     ],
-    "note": "Active = operating, paused approved sprint, and in-flight Cheap Tests (ACT/WATCH). REJECT closes stay off this list (recentlyClosed). WATCH (ShopWorks) stays on pipeline; listed here only if ACT. Scout execute 2026-09-23: powdercoatops ACT added; upholsteryops REJECT \u2014 pending Calder lock.",
+    "note": "Wed Scout 2026-09-23 nominated TEST SMALL\u00d72 (cabinetmillops, monumentops) \u2014 pending Calder lock. No AV row until Calder advances. Crowding 7 ACTs.",
     "recentlyClosed": [
       {
         "id": "upholsteryops",

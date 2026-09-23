@@ -1,8 +1,14 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-23T09:05:00-05:00",
+  "lastUpdated": "2026-09-23T09:25:00-05:00",
   "entries": [
+    {
+      "at": "2026-09-23T09:25:00-05:00",
+      "actor": "Nico (Harbor Foundry - Scout)",
+      "summary": "Wednesday OS v2 Cheap Test hunt: screened 16 across A/D/F/G/W; deepened 2 (cabinetmillops, monumentops); early A/D/F zero \u2192 same-cycle deepen G+W. TEST SMALL\u00d72 under ACT crowding cap (7 ACTs). Do not staff. $0.",
+      "deskChanges": "ops/scout-screen-2026-09-23.md + scout-hunt + two scout-cheaptest packets; INSTITUTIONAL hunt section; emptyScreens HUNT 23; recentHunt CHEAP_TEST_NOMINATED; Next Up + session-log + segment-summary."
+    },
     {
       "at": "2026-09-23T09:05:00-05:00",
       "actor": "Nico (Harbor Foundry - Scout)",

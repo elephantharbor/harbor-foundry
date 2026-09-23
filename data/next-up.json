@@ -1,17 +1,17 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-23T09:05:00-05:00",
+  "lastUpdated": "2026-09-23T09:25:00-05:00",
   "items": [
     {
-      "title": "Wed Scout Cheap Test hunt (under ACT crowding)",
-      "nextRunAt": "2026-09-23T10:00:00-05:00",
+      "title": "Calder lock Wed Scout TEST SMALL\u00d72 (crowding)",
+      "nextRunAt": "2026-09-23T10:30:00-05:00",
       "scheduleLabel": "Wed AM remaining",
-      "owner": "Nico (Harbor Foundry - Scout)"
+      "owner": "Calder (Harbor Foundry - CEO)"
     },
     {
       "title": "Setaside shop health check",
-      "nextRunAt": "2026-09-23T09:00:00-05:00",
+      "nextRunAt": "2026-09-24T09:00:00-05:00",
       "scheduleLabel": "Weekdays 9:00 AM CT",
       "owner": "Sable (Harbor Foundry - Setaside)"
     },
