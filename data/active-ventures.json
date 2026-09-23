@@ -1,7 +1,7 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-22T09:10:00-05:00",
+  "lastUpdated": "2026-09-23T09:05:00-05:00",
   "empty": false,
   "emptyReason": null,
   "items": [
@@ -33,7 +33,7 @@
       "performance": "ACT",
       "nextMilestone": "Crowding vs KudurruStone/Job Book",
       "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-      "lastUpdated": "2026-09-22T09:10:00-05:00"
+      "lastUpdated": "2026-09-23T09:05:00-05:00"
     },
     {
       "id": "fenceops",
@@ -48,7 +48,7 @@
       "performance": "ACT",
       "nextMilestone": "Crowding vs QuoteIQ/Fence Cloud/FenceTracer",
       "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-      "lastUpdated": "2026-09-22T09:10:00-05:00"
+      "lastUpdated": "2026-09-23T09:05:00-05:00"
     },
     {
       "id": "pavingops",
@@ -63,7 +63,7 @@
       "performance": "ACT",
       "nextMilestone": "Crowding vs QuoteIQ/Bitumio/OneCrew",
       "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-      "lastUpdated": "2026-09-22T09:10:00-05:00"
+      "lastUpdated": "2026-09-23T09:05:00-05:00"
     },
     {
       "id": "signshop",
@@ -78,7 +78,7 @@
       "performance": "ACT",
       "nextMilestone": "Continue Cheap Test learning; off closed print MIS class",
       "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-      "lastUpdated": "2026-09-22T09:10:00-05:00"
+      "lastUpdated": "2026-09-23T09:05:00-05:00"
     },
     {
       "id": "concreteops",
@@ -93,7 +93,7 @@
       "performance": "ACT",
       "nextMilestone": "Crowding vs ScopeTakeoff/QuoteIQ",
       "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-      "lastUpdated": "2026-09-22T09:10:00-05:00"
+      "lastUpdated": "2026-09-23T09:05:00-05:00"
     },
     {
       "id": "snowops",
@@ -108,7 +108,22 @@
       "performance": "ACT",
       "nextMilestone": "Crowding vs Yeti/Plowdesk/LMN",
       "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-      "lastUpdated": "2026-09-22T09:10:00-05:00"
+      "lastUpdated": "2026-09-23T09:05:00-05:00"
+    },
+    {
+      "id": "powdercoatops",
+      "title": "Powdercoatops",
+      "segment": "foundry",
+      "submarket": "Cheap Test",
+      "description": "Powder coating shop ops SoR \u2014 quote \u2192 rack/stage board.",
+      "status": "Cheap Test \u2014 ACT",
+      "startDate": "2026-09-22",
+      "owner": "Nico",
+      "exposure": "$0",
+      "performance": "ACT",
+      "nextMilestone": "Crowding vs Steelhead/Powder Coating Logix/PC360 (Scout ACT \u2014 pending Calder lock)",
+      "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
+      "lastUpdated": "2026-09-23T09:05:00-05:00"
     },
     {
       "id": "latch",
@@ -126,8 +141,14 @@
       "lastUpdated": "2026-09-21T09:15:00-05:00"
     }
   ],
-  "note": "Active = operating, paused approved sprint, and in-flight Cheap Tests (ACT/WATCH/TEST SMALL). REJECT closes stay off this list (recentlyClosed). WATCH (ShopWorks) stays on pipeline; listed here only if ACT. TEST SMALL powdercoatops/upholsteryops on pipeline only until results.",
+  "note": "Active = operating, paused approved sprint, and in-flight Cheap Tests (ACT/WATCH). REJECT closes stay off this list (recentlyClosed). WATCH (ShopWorks) stays on pipeline; listed here only if ACT. Scout execute 2026-09-23: powdercoatops ACT added; upholsteryops REJECT \u2014 pending Calder lock.",
   "recentlyClosed": [
+    {
+      "id": "upholsteryops",
+      "title": "Upholsteryops",
+      "closed": "2026-09-23",
+      "reason": "REJECT \u2014 StitchDesk migrate absorb / thin body / calculator leftover (Scout rec \u2014 pending Calder lock)"
+    },
     {
       "id": "deckops",
       "title": "Deckops",
