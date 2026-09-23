@@ -1,13 +1,13 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-23T09:07:09-05:00",
+  "lastUpdated": "2026-09-23T09:15:00-05:00",
   "items": [
     {
-      "title": "Execute TEST SMALL cabinetmillops + monumentops",
-      "nextRunAt": "2026-09-23T09:10:00-05:00",
-      "scheduleLabel": "In flight \u2014 Wed AM",
-      "owner": "Nico (Harbor Foundry - Scout)"
+      "title": "Calder lock Wed Cheap Test results (cabinetmillops / monumentops)",
+      "nextRunAt": "2026-09-23T12:30:00-05:00",
+      "scheduleLabel": "Wed PM / next brief",
+      "owner": "Calder (Harbor Foundry - CEO)"
     },
     {
       "title": "Setaside shop health check",

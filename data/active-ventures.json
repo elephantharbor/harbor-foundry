@@ -1,7 +1,7 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-23T09:07:09-05:00",
+  "lastUpdated": "2026-09-23T09:15:00-05:00",
   "empty": false,
   "emptyReason": null,
   "items": [
@@ -18,7 +18,7 @@
       "performance": "0 orders",
       "nextMilestone": "First sale",
       "detailLink": "https://www.etsy.com/listing/4564421940/2026-self-employed-bookkeeping",
-      "lastUpdated": "2026-09-23T09:07:09-05:00"
+      "lastUpdated": "2026-09-23T09:15:00-05:00"
     },
     {
       "id": "surveyops",
@@ -33,7 +33,7 @@
       "performance": "ACT",
       "nextMilestone": "Crowding vs KudurruStone/Job Book",
       "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-      "lastUpdated": "2026-09-23T09:07:09-05:00"
+      "lastUpdated": "2026-09-23T09:15:00-05:00"
     },
     {
       "id": "fenceops",
@@ -48,7 +48,7 @@
       "performance": "ACT",
       "nextMilestone": "Crowding vs QuoteIQ/Fence Cloud/FenceTracer",
       "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-      "lastUpdated": "2026-09-23T09:07:09-05:00"
+      "lastUpdated": "2026-09-23T09:15:00-05:00"
     },
     {
       "id": "pavingops",
@@ -63,7 +63,7 @@
       "performance": "ACT",
       "nextMilestone": "Crowding vs QuoteIQ/Bitumio/OneCrew",
       "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-      "lastUpdated": "2026-09-23T09:07:09-05:00"
+      "lastUpdated": "2026-09-23T09:15:00-05:00"
     },
     {
       "id": "signshop",
@@ -78,7 +78,7 @@
       "performance": "ACT",
       "nextMilestone": "Continue Cheap Test learning",
       "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-      "lastUpdated": "2026-09-23T09:07:09-05:00"
+      "lastUpdated": "2026-09-23T09:15:00-05:00"
     },
     {
       "id": "concreteops",
@@ -93,7 +93,7 @@
       "performance": "ACT",
       "nextMilestone": "Crowding check",
       "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-      "lastUpdated": "2026-09-23T09:07:09-05:00"
+      "lastUpdated": "2026-09-23T09:15:00-05:00"
     },
     {
       "id": "snowops",
@@ -108,7 +108,7 @@
       "performance": "ACT",
       "nextMilestone": "Crowding vs Yeti/Plowdesk/LMN",
       "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-      "lastUpdated": "2026-09-23T09:07:09-05:00"
+      "lastUpdated": "2026-09-23T09:15:00-05:00"
     },
     {
       "id": "powdercoatops",
@@ -123,7 +123,22 @@
       "performance": "ACT",
       "nextMilestone": "Crowding vs Steelhead/Logix/PC360/Tudodesk",
       "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-      "lastUpdated": "2026-09-23T09:07:09-05:00"
+      "lastUpdated": "2026-09-23T09:15:00-05:00"
+    },
+    {
+      "id": "cabinetmillops",
+      "title": "Cabinetmillops",
+      "segment": "foundry",
+      "submarket": "Cheap Test",
+      "description": "Cabinet millwork shop SoR \u2014 accepted job \u2192 centre/day board.",
+      "status": "Cheap Test \u2014 ACT",
+      "startDate": "2026-09-23",
+      "owner": "Nico",
+      "exposure": "$0",
+      "performance": "ACT",
+      "nextMilestone": "Crowding vs Cabneo/Jobman/CabiPro/Tractivity",
+      "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
+      "lastUpdated": "2026-09-23T09:15:00-05:00"
     },
     {
       "id": "latch",
@@ -138,58 +153,7 @@
       "performance": "Paused",
       "nextMilestone": "Explicit resume",
       "detailLink": "https://elephantharbor.github.io/harbor-foundry/#ventures",
-      "lastUpdated": "2026-09-23T09:07:09-05:00"
-    }
-  ],
-  "note": "Active = Operating, ACT Cheap Tests, paused Latch. Pending TEST SMALL and WATCH/REJECT off list.",
-  "recentlyClosed": [
-    {
-      "id": "upholsteryops",
-      "title": "Upholsteryops",
-      "closed": "2026-09-23",
-      "reason": "REJECT \u2014 StitchDesk migrate absorb / calculator leftover"
-    },
-    {
-      "id": "deckops",
-      "title": "Deckops",
-      "closed": "2026-09-21",
-      "reason": "REJECT \u2014 Jobber sidecar / thin hate"
-    },
-    {
-      "id": "windowdoor",
-      "title": "Windowdoor",
-      "closed": "2026-09-21",
-      "reason": "REJECT \u2014 mature migrate / OEM portal"
-    },
-    {
-      "id": "servicecore",
-      "title": "ServiceCore",
-      "closed": "2026-09-17",
-      "reason": "REJECT \u2014 QB overlay"
-    },
-    {
-      "id": "watertreat-ops",
-      "title": "Watertreat-ops",
-      "closed": "2026-09-17",
-      "reason": "REJECT \u2014 destination occupied"
-    },
-    {
-      "id": "shopworks",
-      "title": "ShopWorks",
-      "closed": "2026-09-17",
-      "reason": "WATCH \u2014 vendor-own OnSite"
-    },
-    {
-      "id": "lightspeed-dms",
-      "title": "Lightspeed DMS",
-      "closed": "2026-09-16",
-      "reason": "REJECT \u2014 OEM wall"
-    },
-    {
-      "id": "ajera",
-      "title": "Deltek Ajera",
-      "closed": "2026-09-16",
-      "reason": "REJECT \u2014 QB+PM"
+      "lastUpdated": "2026-09-23T09:15:00-05:00"
     }
   ]
 }
