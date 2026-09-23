@@ -1,7 +1,7 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-23T09:45:00-05:00",
+  "lastUpdated": "2026-09-23T09:24:31-05:00",
   "empty": false,
   "emptyReason": null,
   "items": [
@@ -18,127 +18,7 @@
       "performance": "0 orders",
       "nextMilestone": "First sale",
       "detailLink": "https://www.etsy.com/listing/4564421940/2026-self-employed-bookkeeping",
-      "lastUpdated": "2026-09-23T09:13:11-05:00"
-    },
-    {
-      "id": "surveyops",
-      "title": "SurveyOps",
-      "segment": "foundry",
-      "submarket": "Cheap Test",
-      "description": "Surveying firm ops SoR beside CAD.",
-      "status": "Cheap Test \u2014 REJECT (Scout pending Calder)",
-      "startDate": "2026-09-16",
-      "owner": "Nico",
-      "exposure": "$0",
-      "performance": "REJECT (Scout)",
-      "nextMilestone": "Scout REJECT \u2014 KudurruStone/Job Book own crew board; pending Calder",
-      "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-      "lastUpdated": "2026-09-23T09:45:00-05:00"
-    },
-    {
-      "id": "fenceops",
-      "title": "Fenceops",
-      "segment": "foundry",
-      "submarket": "Cheap Test",
-      "description": "Fence contractor ops \u2014 estimate \u2192 crew \u2192 invoice.",
-      "status": "Cheap Test \u2014 REJECT (Scout pending Calder)",
-      "startDate": "2026-09-17",
-      "owner": "Nico",
-      "exposure": "$0",
-      "performance": "REJECT (Scout)",
-      "nextMilestone": "Scout REJECT \u2014 QuoteIQ/Fence Cloud own LF\u2192crew; pending Calder",
-      "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-      "lastUpdated": "2026-09-23T09:45:00-05:00"
-    },
-    {
-      "id": "pavingops",
-      "title": "Pavingops",
-      "segment": "foundry",
-      "submarket": "Cheap Test",
-      "description": "Sealcoat/paving ops \u2014 quantity \u2192 crew board.",
-      "status": "Cheap Test \u2014 REJECT (Scout pending Calder)",
-      "startDate": "2026-09-18",
-      "owner": "Nico",
-      "exposure": "$0",
-      "performance": "REJECT (Scout)",
-      "nextMilestone": "Scout REJECT \u2014 Bitumio/OneCrew own quantity\u2192crew; pending Calder",
-      "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-      "lastUpdated": "2026-09-23T09:45:00-05:00"
-    },
-    {
-      "id": "signshop",
-      "title": "Signshop",
-      "segment": "foundry",
-      "submarket": "Cheap Test",
-      "description": "Sign shop ops after EstiMate \u2014 estimate \u2192 board.",
-      "status": "Cheap Test \u2014 REJECT (Scout pending Calder)",
-      "startDate": "2026-09-18",
-      "owner": "Nico",
-      "exposure": "$0",
-      "performance": "REJECT (Scout)",
-      "nextMilestone": "Scout REJECT \u2014 shopVOX owns EstiMate residual; pending Calder",
-      "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-      "lastUpdated": "2026-09-23T09:45:00-05:00"
-    },
-    {
-      "id": "concreteops",
-      "title": "Concreteops",
-      "segment": "foundry",
-      "submarket": "Cheap Test",
-      "description": "Concrete contractor Excel/Jobber \u2192 CY/assembly SoR.",
-      "status": "Cheap Test \u2014 REJECT (Scout pending Calder)",
-      "startDate": "2026-09-21",
-      "owner": "Nico",
-      "exposure": "$0",
-      "performance": "REJECT (Scout)",
-      "nextMilestone": "Scout REJECT \u2014 Planning Ops owns pour board; pending Calder",
-      "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-      "lastUpdated": "2026-09-23T09:45:00-05:00"
-    },
-    {
-      "id": "snowops",
-      "title": "Snowops",
-      "segment": "foundry",
-      "submarket": "Cheap Test",
-      "description": "Storm\u2192salt-log\u2192per-event invoice SoR.",
-      "status": "Cheap Test \u2014 REJECT (Scout pending Calder)",
-      "startDate": "2026-09-21",
-      "owner": "Nico",
-      "exposure": "$0",
-      "performance": "REJECT (Scout)",
-      "nextMilestone": "Scout REJECT \u2014 Yeti/Plowdesk/LMN own storm SoR; pending Calder",
-      "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-      "lastUpdated": "2026-09-23T09:45:00-05:00"
-    },
-    {
-      "id": "powdercoatops",
-      "title": "Powdercoatops",
-      "segment": "foundry",
-      "submarket": "Cheap Test",
-      "description": "Powder coating shop \u2014 quote \u2192 rack/stage board.",
-      "status": "Cheap Test \u2014 HOLD (Scout pending Calder)",
-      "startDate": "2026-09-22",
-      "owner": "Nico",
-      "exposure": "$0",
-      "performance": "HOLD (Scout)",
-      "nextMilestone": "Scout HOLD \u2014 Steelhead owns ERP but micro residual unclear; pending Calder",
-      "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-      "lastUpdated": "2026-09-23T09:45:00-05:00"
-    },
-    {
-      "id": "cabinetmillops",
-      "title": "Cabinetmillops",
-      "segment": "foundry",
-      "submarket": "Cheap Test",
-      "description": "Cabinet millwork \u2014 accepted job \u2192 centre/day board.",
-      "status": "Cheap Test \u2014 REJECT (Scout pending Calder)",
-      "startDate": "2026-09-23",
-      "owner": "Nico",
-      "exposure": "$0",
-      "performance": "REJECT (Scout)",
-      "nextMilestone": "Scout REJECT \u2014 Cabneo owns centre/day; pending Calder",
-      "detailLink": "https://elephantharbor.github.io/harbor-foundry/#pipeline",
-      "lastUpdated": "2026-09-23T09:45:00-05:00"
+      "lastUpdated": "2026-09-23T09:24:31-05:00"
     },
     {
       "id": "latch",
@@ -153,11 +33,53 @@
       "performance": "Paused",
       "nextMilestone": "Explicit resume",
       "detailLink": "https://elephantharbor.github.io/harbor-foundry/#ventures",
-      "lastUpdated": "2026-09-23T09:13:11-05:00"
+      "lastUpdated": "2026-09-23T09:24:31-05:00"
     }
   ],
-  "note": "Active = Operating, ACT Cheap Tests, paused Latch. WATCH/REJECT/HOLD off list.",
+  "note": "Active = Operating Setaside + paused Latch. Crowding cleared all ACT Cheap Tests; Powdercoatops HOLD stays off Active Ventures.",
   "recentlyClosed": [
+    {
+      "id": "cabinetmillops",
+      "title": "Cabinetmillops",
+      "closed": "2026-09-23",
+      "reason": "REJECT \u2014 Cabneo owns centre/day board"
+    },
+    {
+      "id": "surveyops",
+      "title": "SurveyOps",
+      "closed": "2026-09-23",
+      "reason": "REJECT \u2014 KudurruStone/Job Book own crew board"
+    },
+    {
+      "id": "signshop",
+      "title": "Signshop",
+      "closed": "2026-09-23",
+      "reason": "REJECT \u2014 shopVOX absorbs EstiMate residual"
+    },
+    {
+      "id": "snowops",
+      "title": "Snowops",
+      "closed": "2026-09-23",
+      "reason": "REJECT \u2014 Yeti/Plowdesk/LMN own storm SoR"
+    },
+    {
+      "id": "fenceops",
+      "title": "Fenceops",
+      "closed": "2026-09-23",
+      "reason": "REJECT \u2014 QuoteIQ/Fence Cloud/FenceTracer"
+    },
+    {
+      "id": "pavingops",
+      "title": "Pavingops",
+      "closed": "2026-09-23",
+      "reason": "REJECT \u2014 Bitumio/OneCrew"
+    },
+    {
+      "id": "concreteops",
+      "title": "Concreteops",
+      "closed": "2026-09-23",
+      "reason": "REJECT \u2014 Planning Ops pour board"
+    },
     {
       "id": "monumentops",
       "title": "Monumentops",
@@ -168,49 +90,7 @@
       "id": "upholsteryops",
       "title": "Upholsteryops",
       "closed": "2026-09-23",
-      "reason": "REJECT \u2014 StitchDesk migrate absorb / calculator leftover"
-    },
-    {
-      "id": "deckops",
-      "title": "Deckops",
-      "closed": "2026-09-21",
-      "reason": "REJECT \u2014 Jobber sidecar / thin hate"
-    },
-    {
-      "id": "windowdoor",
-      "title": "Windowdoor",
-      "closed": "2026-09-21",
-      "reason": "REJECT \u2014 mature migrate / OEM portal"
-    },
-    {
-      "id": "servicecore",
-      "title": "ServiceCore",
-      "closed": "2026-09-17",
-      "reason": "REJECT \u2014 QB overlay"
-    },
-    {
-      "id": "watertreat-ops",
-      "title": "Watertreat-ops",
-      "closed": "2026-09-17",
-      "reason": "REJECT \u2014 destination occupied"
-    },
-    {
-      "id": "shopworks",
-      "title": "ShopWorks",
-      "closed": "2026-09-17",
-      "reason": "WATCH \u2014 vendor-own OnSite"
-    },
-    {
-      "id": "lightspeed-dms",
-      "title": "Lightspeed DMS",
-      "closed": "2026-09-16",
-      "reason": "REJECT \u2014 OEM wall"
-    },
-    {
-      "id": "ajera",
-      "title": "Deltek Ajera",
-      "closed": "2026-09-16",
-      "reason": "REJECT \u2014 QB+PM"
+      "reason": "REJECT \u2014 StitchDesk migrate absorb"
     }
   ]
 }

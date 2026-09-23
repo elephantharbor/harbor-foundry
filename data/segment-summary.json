@@ -6,7 +6,7 @@
   "status": "Operating",
   "statusDetail": "Crowding Scout rec pending Calder: REJECT\u00d77 \u00b7 HOLD Powdercoatops \u00b7 ACT\u00d70; ShopWorks WATCH; HOLD\u00d74; Latch paused; Setaside Operating; $0.",
   "owner": "Calder (Harbor Foundry - CEO)",
-  "lastUpdated": "2026-09-23T09:45:00-05:00",
+  "lastUpdated": "2026-09-23T09:24:31-05:00",
   "headlineMetrics": {
     "cheapTestsActive": 1,
     "cheapTestsWatch": 1,
@@ -35,9 +35,9 @@
   "nextUp": {
     "items": [
       {
-        "title": "Calder lock crowding Scout recs (REJECT\u00d77 / HOLD powdercoatops)",
-        "nextRunAt": "2026-09-23T10:00:00-05:00",
-        "scheduleLabel": "Pending Calder \u2014 crowding focus window",
+        "title": "Decide: reopen Scout hunts after ACT clear",
+        "nextRunAt": "2026-09-23T09:30:00-05:00",
+        "scheduleLabel": "Awaiting Thomas",
         "owner": "Calder (Harbor Foundry - CEO)"
       },
       {
@@ -53,8 +53,8 @@
         "owner": "Sable (Harbor Foundry - Setaside)"
       }
     ],
-    "lastUpdated": "2026-09-23T09:45:00-05:00"
+    "lastUpdated": "2026-09-23T09:24:31-05:00"
   },
   "headline": "Crowding pressure Scout rec \u2014 REJECT\u00d77 / HOLD powdercoatops (pending Calder)",
-  "currentStatus": "Crowding pressure Scout rec (pending Calder): REJECT\u00d77 (Cabinetmillops, SurveyOps, Signshop, Snowops, Fenceops, Pavingops, Concreteops) \u00b7 HOLD\u00d71 Powdercoatops \u00b7 ACT\u00d70. ShopWorks WATCH + HOLD\u00d74 unchanged. Scout hunts paused. Latch Paused. Setaside Operating. $0. No Wren/memo."
+  "currentStatus": "Calder lock crowding pass: REJECT\u00d77 (Cabinetmillops, SurveyOps, Signshop, Snowops, Fenceops, Pavingops, Concreteops). Powdercoatops HOLD (only remaining Cheap Test pressure). ACT=0. ShopWorks WATCH. HOLD\u00d74 prior untouched. Scout hunts still paused. Latch Paused. Setaside Operating. $0."
 }

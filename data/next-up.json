@@ -1,12 +1,12 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-23T09:45:00-05:00",
+  "lastUpdated": "2026-09-23T09:24:31-05:00",
   "items": [
     {
-      "title": "Calder lock crowding Scout recs (REJECT\u00d77 / HOLD powdercoatops)",
-      "nextRunAt": "2026-09-23T10:00:00-05:00",
-      "scheduleLabel": "Pending Calder \u2014 crowding focus window",
+      "title": "Decide: reopen Scout hunts after ACT clear",
+      "nextRunAt": "2026-09-23T09:30:00-05:00",
+      "scheduleLabel": "Awaiting Thomas",
       "owner": "Calder (Harbor Foundry - CEO)"
     },
     {
