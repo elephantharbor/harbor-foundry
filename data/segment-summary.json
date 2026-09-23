@@ -4,22 +4,22 @@
   "description": "Software venture creation.",
   "mission": "Find weak or dated incumbent software markets, validate opportunities to replace them, and build substantial new software businesses where evidence warrants it.",
   "status": "Operating",
-  "statusDetail": "Crowding Scout rec pending Calder: REJECT\u00d77 \u00b7 HOLD Powdercoatops \u00b7 ACT\u00d70; ShopWorks WATCH; HOLD\u00d74; Latch paused; Setaside Operating; $0.",
+  "statusDetail": "Weekday Scout hunts resumed; next routine fire Thu 2026-09-24 at 8:09 AM CT. REJECT Closed\u00d77; Powdercoatops HOLD; ACT=0; ShopWorks WATCH; HOLD\u00d74 prior untouched; Latch paused; Setaside Operating; $0.",
   "owner": "Calder (Harbor Foundry - CEO)",
-  "lastUpdated": "2026-09-23T09:24:31-05:00",
+  "lastUpdated": "2026-09-23T09:47:00-05:00",
   "headlineMetrics": {
-    "cheapTestsActive": 1,
+    "cheapTestsActive": 0,
     "cheapTestsWatch": 1,
-    "cheapTestsClosed": 12,
+    "cheapTestsClosed": 19,
     "setasideSales": "$0",
     "spend": "$0"
   },
-  "currentObjective": "Calder to lock crowding Scout recs. Alive ACT\u21920 if REJECT\u00d77 lock; Powdercoatops HOLD. ShopWorks WATCH; HOLD\u00d74. No Wren/memo. Latch paused. $0.",
-  "currentStatusBrief": "Crowding deepen done \u2014 Scout REJECT\u00d77 / HOLD Powdercoatops / ACT\u00d70. Pending Calder lock. Hunts paused. Quiet toward Thomas.",
+  "currentObjective": "Run Nico's next weekday Scout hunt with crowding kill themes; keep Powdercoatops HOLD/watch only. No Wren or memo; Latch paused; $0.",
+  "currentStatusBrief": "Thomas reopened weekday Scout hunts. Calder resumed the routine; next normal weekday fire is Thu 2026-09-24 at 8:09 AM CT, with no same-day catch-up hunt. ACT=0; Powdercoatops HOLD; Latch paused; Setaside Operating; $0.",
   "latestLesson": {
-    "id": "act-crowding-cap",
-    "title": "ACT crowding cap (Testing)",
-    "summary": "With \u22654 Cheap Test ACTs, new TEST SMALL \u22642 per hunt; excess HOLD not Closed."
+    "id": "occupancy-as-kill-under-crowding",
+    "title": "Named vertical SoR that ships our wedge is a kill under crowding pressure",
+    "summary": "Keep occupancy-as-kill-under-crowding Confirmed; focus-over-funnel-when-crowded also remains Confirmed."
   },
   "needsHumanAction": false,
   "humanAction": null,
@@ -35,9 +35,15 @@
   "nextUp": {
     "items": [
       {
-        "title": "Decide: reopen Scout hunts after ACT clear",
-        "nextRunAt": "2026-09-23T09:30:00-05:00",
-        "scheduleLabel": "Awaiting Thomas",
+        "title": "Nico's next weekday Scout hunt \u2014 apply crowding kill themes",
+        "nextRunAt": "2026-09-24T08:09:00-05:00",
+        "scheduleLabel": "Weekdays 8:09 AM CT (routine resumed)",
+        "owner": "Nico (Harbor Scout)"
+      },
+      {
+        "title": "Powdercoatops HOLD \u2014 watch only; no Wren or memo",
+        "nextRunAt": "2026-09-24T08:09:00-05:00",
+        "scheduleLabel": "With the next weekday Scout hunt",
         "owner": "Calder (Harbor Foundry - CEO)"
       },
       {
@@ -53,8 +59,8 @@
         "owner": "Sable (Harbor Foundry - Setaside)"
       }
     ],
-    "lastUpdated": "2026-09-23T09:24:31-05:00"
+    "lastUpdated": "2026-09-23T09:47:00-05:00"
   },
-  "headline": "Crowding pressure Scout rec \u2014 REJECT\u00d77 / HOLD powdercoatops (pending Calder)",
-  "currentStatus": "Calder lock crowding pass: REJECT\u00d77 (Cabinetmillops, SurveyOps, Signshop, Snowops, Fenceops, Pavingops, Concreteops). Powdercoatops HOLD (only remaining Cheap Test pressure). ACT=0. ShopWorks WATCH. HOLD\u00d74 prior untouched. Scout hunts still paused. Latch Paused. Setaside Operating. $0."
+  "headline": "Weekday Scout hunts resumed \u2014 REJECT\u00d77 / HOLD Powdercoatops / ACT=0",
+  "currentStatus": "Thomas reopened weekday Scout hunts. Calder resumed the routine Harbor Scout hunt; next normal weekday fire is Thu 2026-09-24 at 8:09 AM CT, with no same-day catch-up hunt. REJECT Closed\u00d77 (Cabinetmillops, SurveyOps, Signshop, Snowops, Fenceops, Pavingops, Concreteops). Powdercoatops HOLD (watch only); ACT=0. ShopWorks WATCH. HOLD\u00d74 prior untouched. Latch Paused. Setaside Operating. $0."
 }

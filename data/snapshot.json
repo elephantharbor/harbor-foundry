@@ -1,6 +1,6 @@
 {
   "mission": "Find dated paid software customers dislike, validate a modern replacement destination, and build independent ventures only where evidence warrants substantial durable economic value.",
-  "lastUpdated": "2026-09-23T09:24:31-05:00",
+  "lastUpdated": "2026-09-23T09:47:00-05:00",
   "cycle": "Cycle 3",
   "metrics": {
     "researching": 0,
@@ -17,8 +17,8 @@
     "cheapTestsHold": 5
   },
   "needsHumanAttention": [],
-  "currentObjective": "Decide with Thomas whether to reopen Scout hunts now that ACT stack cleared. Powdercoatops HOLD only. No Wren/memo. Latch paused.",
-  "currentStatus": "Calder lock crowding pass: REJECT\u00d77 (Cabinetmillops, SurveyOps, Signshop, Snowops, Fenceops, Pavingops, Concreteops). Powdercoatops HOLD (only remaining Cheap Test pressure). ACT=0. ShopWorks WATCH. HOLD\u00d74 prior untouched. Scout hunts still paused. Latch Paused. Setaside Operating. $0.",
+  "currentObjective": "Run Nico's next weekday Scout hunt with crowding kill themes; keep Powdercoatops HOLD/watch only. ACT=0. No Wren or memo. Latch paused; $0.",
+  "currentStatus": "Thomas reopened weekday Scout hunts. Calder resumed the routine Harbor Scout hunt; next normal weekday fire is Thu 2026-09-24 at 8:09 AM CT, with no same-day catch-up hunt. REJECT Closed\u00d77 (Cabinetmillops, SurveyOps, Signshop, Snowops, Fenceops, Pavingops, Concreteops). Powdercoatops HOLD (watch only); ACT=0. ShopWorks WATCH. HOLD\u00d74 prior untouched. Latch Paused. Setaside Operating. $0.",
   "pipelineStages": [
     {
       "id": "scout",
@@ -1602,14 +1602,16 @@
       "title": "Named vertical SoR that ships our wedge is a kill under crowding pressure",
       "body": "First ACT may treat modern vertical products as demand proof. On crowding pass, if Cabneo/KudurruStone/shopVOX/Yeti/QuoteIQ+Fence Cloud/Bitumio/Planning Ops already is the Harbor-shaped board, REJECT \u2014 do not keep ACT on residual Excel alone.",
       "originationDate": "2026-09-23",
-      "behavioralChange": "Crowding falsifier: named SoR owns Harbor wedge \u2192 REJECT. Thin independent body alone does not keep ACT (HOLD at most)."
+      "behavioralChange": "Crowding falsifier: named SoR owns Harbor wedge \u2192 REJECT. Thin independent body alone does not keep ACT (HOLD at most).",
+      "status": "Confirmed"
     },
     {
       "id": "focus-over-funnel-when-crowded",
       "title": "When ACT Cheap Tests crowd, pause hunts and pressure the stack",
       "body": "With \u22654\u20138 ACTs open, new weekday Scout hunts mostly create HOLD clutter. Thomas lock: pause hunts; run crowding pressure; keep \u22641\u20132 or REJECT. Resume hunts only on explicit reopen.",
       "originationDate": "2026-09-23",
-      "behavioralChange": "Scout weekday hunt routine paused; Nico runs crowding pass instead of new nominations until Calder reopens hunts."
+      "behavioralChange": "Scout weekday hunt routine paused; Nico runs crowding pass instead of new nominations until Calder reopens hunts.",
+      "status": "Confirmed"
     },
     {
       "id": "act-crowding-cap",
@@ -1764,12 +1766,18 @@
   "nextUp": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-23T09:24:31-05:00",
+    "lastUpdated": "2026-09-23T09:47:00-05:00",
     "items": [
       {
-        "title": "Decide: reopen Scout hunts after ACT clear",
-        "nextRunAt": "2026-09-23T09:30:00-05:00",
-        "scheduleLabel": "Awaiting Thomas",
+        "title": "Nico's next weekday Scout hunt \u2014 apply crowding kill themes",
+        "nextRunAt": "2026-09-24T08:09:00-05:00",
+        "scheduleLabel": "Weekdays 8:09 AM CT (routine resumed)",
+        "owner": "Nico (Harbor Scout)"
+      },
+      {
+        "title": "Powdercoatops HOLD \u2014 watch only; no Wren or memo",
+        "nextRunAt": "2026-09-24T08:09:00-05:00",
+        "scheduleLabel": "With the next weekday Scout hunt",
         "owner": "Calder (Harbor Foundry - CEO)"
       },
       {
@@ -2107,7 +2115,7 @@
   "recentHunt": {
     "date": "2026-09-23",
     "type": "CROWDING_PRESSURE",
-    "summary": "Crowding deepen on 8 ACTs: Scout REJECT\u00d77 \u00b7 HOLD\u00d71 Powdercoatops \u00b7 ACT\u00d70. Pending Calder lock. Kill theme: named vertical SoR owns Harbor wedge.",
+    "summary": "Crowding pressure locked: REJECT\u00d77 \u00b7 HOLD\u00d71 Powdercoatops \u00b7 ACT\u00d70. Thomas reopened weekday Scout hunts; next routine fire is Thu 2026-09-24 at 8:09 AM CT. Apply crowding kill themes; no same-day catch-up hunt.",
     "docs": [
       "ops/crowding-pressure-cohort-2026-09-23.md",
       "ops/INSTITUTIONAL.md"
@@ -2116,7 +2124,7 @@
   "activeVentures": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-23T09:24:31-05:00",
+    "lastUpdated": "2026-09-23T09:47:00-05:00",
     "empty": false,
     "emptyReason": null,
     "items": [
@@ -2133,7 +2141,7 @@
         "performance": "0 orders",
         "nextMilestone": "First sale",
         "detailLink": "https://www.etsy.com/listing/4564421940/2026-self-employed-bookkeeping",
-        "lastUpdated": "2026-09-23T09:24:31-05:00"
+        "lastUpdated": "2026-09-23T09:47:00-05:00"
       },
       {
         "id": "latch",
@@ -2148,7 +2156,7 @@
         "performance": "Paused",
         "nextMilestone": "Explicit resume",
         "detailLink": "https://elephantharbor.github.io/harbor-foundry/#ventures",
-        "lastUpdated": "2026-09-23T09:24:31-05:00"
+        "lastUpdated": "2026-09-23T09:47:00-05:00"
       }
     ],
     "note": "Active = Operating Setaside + paused Latch. Crowding cleared all ACT Cheap Tests; Powdercoatops HOLD stays off Active Ventures.",
@@ -2208,5 +2216,6 @@
         "reason": "REJECT \u2014 StitchDesk migrate absorb"
       }
     ]
-  }
+  },
+  "headline": "Weekday Scout hunts resumed \u2014 REJECT\u00d77 / HOLD Powdercoatops / ACT=0"
 }

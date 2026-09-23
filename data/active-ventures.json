@@ -1,7 +1,7 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-23T09:24:31-05:00",
+  "lastUpdated": "2026-09-23T09:47:00-05:00",
   "empty": false,
   "emptyReason": null,
   "items": [
@@ -18,7 +18,7 @@
       "performance": "0 orders",
       "nextMilestone": "First sale",
       "detailLink": "https://www.etsy.com/listing/4564421940/2026-self-employed-bookkeeping",
-      "lastUpdated": "2026-09-23T09:24:31-05:00"
+      "lastUpdated": "2026-09-23T09:47:00-05:00"
     },
     {
       "id": "latch",
@@ -33,7 +33,7 @@
       "performance": "Paused",
       "nextMilestone": "Explicit resume",
       "detailLink": "https://elephantharbor.github.io/harbor-foundry/#ventures",
-      "lastUpdated": "2026-09-23T09:24:31-05:00"
+      "lastUpdated": "2026-09-23T09:47:00-05:00"
     }
   ],
   "note": "Active = Operating Setaside + paused Latch. Crowding cleared all ACT Cheap Tests; Powdercoatops HOLD stays off Active Ventures.",
