@@ -4,9 +4,9 @@
   "description": "Software venture creation.",
   "mission": "Find weak or dated incumbent software markets, validate opportunities to replace them, and build substantial new software businesses where evidence warrants it.",
   "status": "Operating",
-  "statusDetail": "6 Cheap Test ACTs + ShopWorks WATCH + TEST SMALL×2 (powdercoat/upholstery); HOLD×4 (glazing/blinds/awning/sprayfoam); Latch paused; Setaside Operating; $0.",
+  "statusDetail": "6 Cheap Test ACTs + ShopWorks WATCH + TEST SMALL\u00d72 (powdercoat/upholstery); HOLD\u00d74 (glazing/blinds/awning/sprayfoam); Latch paused; Setaside Operating; $0.",
   "owner": "Calder (Harbor Foundry - CEO)",
-  "lastUpdated": "2026-09-22T09:10:00-05:00",
+  "lastUpdated": "2026-09-23T08:52:32-05:00",
   "headlineMetrics": {
     "cheapTestsActive": 8,
     "cheapTestsWatch": 1,
@@ -14,12 +14,12 @@
     "setasideSales": "$0",
     "spend": "$0"
   },
-  "currentObjective": "Execute TEST SMALL×2 (powdercoatops, upholsteryops) at $0; continue 6 ACT Cheap Tests (SurveyOps+Fenceops+Pavingops+Signshop+Concreteops+Snowops) crowding; ShopWorks WATCH; HOLD glazingops/blindsops/awningops/sprayfoamops. Scout multi-lane. No Wren/memo. Latch paused.",
+  "currentObjective": "Execute TEST SMALL\u00d72 (powdercoatops, upholsteryops) at $0; continue 6 ACT Cheap Tests (SurveyOps+Fenceops+Pavingops+Signshop+Concreteops+Snowops) crowding; ShopWorks WATCH; HOLD glazingops/blindsops/awningops/sprayfoamops. Scout multi-lane. No Wren/memo. Latch paused.",
   "currentStatusBrief": "Tue lock: Concreteops+Snowops ACT; powdercoatops+upholsteryops TEST SMALL; awningops+sprayfoamops HOLD. Quiet toward Thomas.",
   "latestLesson": {
     "id": "act-crowding-cap",
     "title": "ACT crowding cap (Testing)",
-    "summary": "With ≥4 Cheap Test ACTs, new TEST SMALL ≤2 per hunt; excess HOLD not Closed."
+    "summary": "With \u22654 Cheap Test ACTs, new TEST SMALL \u22642 per hunt; excess HOLD not Closed."
   },
   "needsHumanAction": false,
   "humanAction": null,
@@ -33,30 +33,28 @@
   ],
   "freshnessNote": "Manual Foundry ops feed. Refresh owner: Calder (CEO) / Fernando (Ops). lastUpdated = last Foundry publish of this summary.",
   "nextUp": {
-    "areaId": "foundry",
-    "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-23T08:44:00-05:00",
     "items": [
       {
-        "title": "Harbor Scout weekday hunt",
-        "nextRunAt": "2026-09-23T08:09:00-05:00",
-        "scheduleLabel": "Weekdays 8:09 AM CT",
-        "owner": "Calder → Nico (Harbor Scout)"
-      },
-      {
-        "title": "Execute TEST SMALL powdercoatops + upholsteryops",
-        "nextRunAt": "2026-09-23T08:09:00-05:00",
-        "scheduleLabel": "Next Scout cycle / same-day if capacity",
-        "owner": "Nico (Harbor Scout)"
+        "title": "Execute TEST SMALL powdercoatops + upholsteryops (+ Wed Scout hunt)",
+        "nextRunAt": "2026-09-23T08:50:00-05:00",
+        "scheduleLabel": "In flight \u2014 Wed AM",
+        "owner": "Nico (Harbor Foundry - Scout)"
       },
       {
         "title": "Setaside shop health check",
         "nextRunAt": "2026-09-23T09:00:00-05:00",
         "scheduleLabel": "Weekdays 9:00 AM CT",
         "owner": "Sable (Harbor Foundry - Setaside)"
+      },
+      {
+        "title": "Foundry morning brief",
+        "nextRunAt": "2026-09-24T08:02:00-05:00",
+        "scheduleLabel": "Weekdays 8:02 AM CT",
+        "owner": "Calder (Harbor Foundry - CEO)"
       }
-    ]
+    ],
+    "lastUpdated": "2026-09-23T08:52:32-05:00"
   },
-  "headline": "TEST SMALL×2 locked (concreteops, snowops); ACT crowding cap applied",
-  "currentStatus": "Calder lock Mon 2026-09-21 Scout: concreteops TEST SMALL; snowops TEST SMALL; glazingops HOLD; blindsops HOLD. Still ACT: SurveyOps + Fenceops + Pavingops + Signshop. WATCH: ShopWorks. REJECT Closed unchanged. Latch paused. Setaside Operating. Afterfee dead. No Wren. No memo. $0. ACT-crowding cap applied (≤2 TEST SMALL)."
+  "headline": "TEST SMALL\u00d72 locked (concreteops, snowops); ACT crowding cap applied",
+  "currentStatus": "Calder lock Mon 2026-09-21 Scout: concreteops TEST SMALL; snowops TEST SMALL; glazingops HOLD; blindsops HOLD. Still ACT: SurveyOps + Fenceops + Pavingops + Signshop. WATCH: ShopWorks. REJECT Closed unchanged. Latch paused. Setaside Operating. Afterfee dead. No Wren. No memo. $0. ACT-crowding cap applied (\u22642 TEST SMALL)."
 }
