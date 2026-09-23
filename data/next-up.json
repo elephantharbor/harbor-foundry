@@ -1,19 +1,19 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-23T09:13:11-05:00",
+  "lastUpdated": "2026-09-23T09:20:06-05:00",
   "items": [
+    {
+      "title": "Crowding pressure pass on 8 ACT Cheap Tests",
+      "nextRunAt": "2026-09-23T09:20:00-05:00",
+      "scheduleLabel": "In flight \u2014 Thomas focus window",
+      "owner": "Nico (Harbor Foundry - Scout)"
+    },
     {
       "title": "Foundry morning brief",
       "nextRunAt": "2026-09-24T08:02:00-05:00",
       "scheduleLabel": "Weekdays 8:02 AM CT",
       "owner": "Calder (Harbor Foundry - CEO)"
-    },
-    {
-      "title": "Harbor Scout weekday hunt",
-      "nextRunAt": "2026-09-24T08:09:00-05:00",
-      "scheduleLabel": "Weekdays 8:09 AM CT",
-      "owner": "Nico (Harbor Foundry - Scout)"
     },
     {
       "title": "Setaside shop health check",

@@ -1,6 +1,6 @@
 {
   "mission": "Find dated paid software customers dislike, validate a modern replacement destination, and build independent ventures only where evidence warrants substantial durable economic value.",
-  "lastUpdated": "2026-09-23T09:13:11-05:00",
+  "lastUpdated": "2026-09-23T09:20:06-05:00",
   "cycle": "Cycle 3",
   "metrics": {
     "researching": 0,
@@ -16,8 +16,8 @@
     "cheapTestsPending": 0
   },
   "needsHumanAttention": [],
-  "currentObjective": "Continue ACT Cheap Tests \u00d78 with crowding checks (cap new TEST SMALL \u22642 while \u22654 ACT). Scout multi-lane. No Wren/memo. Latch paused.",
-  "currentStatus": "Calder lock Wed TEST SMALL: cabinetmillops ACT (8th); monumentops REJECT Closed. ACT stack: SurveyOps+Fenceops+Pavingops+Signshop+Concreteops+Snowops+Powdercoatops+Cabinetmillops. WATCH ShopWorks. HOLD\u00d74. Latch Paused. Setaside Operating. $0.",
+  "currentObjective": "Crowding pass: narrow eight ACTs toward 1\u20132 keepers or REJECT. Resume Scout hunts only on Calder reopen. No Wren/memo. Latch paused.",
+  "currentStatus": "Thomas lock 2026-09-23: Scout hunts paused. Focus window \u2014 crowding pressure on 8 ACT Cheap Tests (SurveyOps, Fenceops, Pavingops, Signshop, Concreteops, Snowops, Powdercoatops, Cabinetmillops). Nico executing. No new TEST SMALL. Latch Paused. Setaside Operating. $0.",
   "pipelineStages": [
     {
       "id": "scout",
@@ -1355,6 +1355,13 @@
   },
   "evidenceDecisions": [
     {
+      "id": "focus-window-2026-09-23",
+      "title": "Thomas focus window \u2014 pause Scout hunts",
+      "evidence": "Eight ACT Cheap Tests open; Foundry window short (~Sep 27). Crowding already Testing.",
+      "interpretation": "More top-of-funnel dilutes learning. Better use of remaining time is kill/narrow the stack.",
+      "decision": "Pause Harbor Scout weekday hunt routine. Nico crowding pass on eight ACTs. No Wren/memo yet."
+    },
+    {
       "id": "cheaptest-2026-09-23-lock",
       "title": "Wed TEST SMALL lock (cabinetmillops / monumentops)",
       "evidence": "Two $0 tests executed against Ellis falsifiers. Ellis don\u2019t-know-yet.",
@@ -1576,6 +1583,13 @@
   ],
   "lessons": [
     {
+      "id": "focus-over-funnel-when-crowded",
+      "title": "When ACT Cheap Tests crowd, pause hunts and pressure the stack",
+      "body": "With \u22654\u20138 ACTs open, new weekday Scout hunts mostly create HOLD clutter. Thomas lock: pause hunts; run crowding pressure; keep \u22641\u20132 or REJECT. Resume hunts only on explicit reopen.",
+      "originationDate": "2026-09-23",
+      "behavioralChange": "Scout weekday hunt routine paused; Nico runs crowding pass instead of new nominations until Calder reopens hunts."
+    },
+    {
       "id": "act-crowding-cap",
       "originationDate": "2026-09-21",
       "experience": "Mon Scout deepened 4 Cheap Test-worthy verticals while 4 ACTs + ShopWorks WATCH were already alive \u2014 advancing all four would crowd execution.",
@@ -1728,19 +1742,19 @@
   "nextUp": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-23T09:13:11-05:00",
+    "lastUpdated": "2026-09-23T09:20:06-05:00",
     "items": [
+      {
+        "title": "Crowding pressure pass on 8 ACT Cheap Tests",
+        "nextRunAt": "2026-09-23T09:20:00-05:00",
+        "scheduleLabel": "In flight \u2014 Thomas focus window",
+        "owner": "Nico (Harbor Foundry - Scout)"
+      },
       {
         "title": "Foundry morning brief",
         "nextRunAt": "2026-09-24T08:02:00-05:00",
         "scheduleLabel": "Weekdays 8:02 AM CT",
         "owner": "Calder (Harbor Foundry - CEO)"
-      },
-      {
-        "title": "Harbor Scout weekday hunt",
-        "nextRunAt": "2026-09-24T08:09:00-05:00",
-        "scheduleLabel": "Weekdays 8:09 AM CT",
-        "owner": "Nico (Harbor Foundry - Scout)"
       },
       {
         "title": "Setaside shop health check",
@@ -1753,8 +1767,14 @@
   "sessionLog": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-23T09:13:11-05:00",
+    "lastUpdated": "2026-09-23T09:20:06-05:00",
     "entries": [
+      {
+        "at": "2026-09-23T09:20:06-05:00",
+        "actor": "Calder (Harbor Foundry - CEO)",
+        "summary": "Thomas paused weekday Scout hunts. Focus window: Nico crowding-pressure pass on 8 ACT Cheap Tests (narrow to 1\u20132 or kill). Hunt routine paused until Calder reopens.",
+        "deskChanges": "currentStatus/Objective + Next Up (Scout hunt off list) + Session Log."
+      },
       {
         "at": "2026-09-23T09:13:11-05:00",
         "actor": "Calder (Harbor Foundry - CEO)",
