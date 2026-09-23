@@ -4,18 +4,18 @@
   "description": "Software venture creation.",
   "mission": "Find weak or dated incumbent software markets, validate opportunities to replace them, and build substantial new software businesses where evidence warrants it.",
   "status": "Operating",
-  "statusDetail": "8 Cheap Test ACTs + ShopWorks WATCH; HOLD\u00d74; Wed execute cabinetmillops ACT / monumentops REJECT (Scout \u2014 pending Calder); Latch paused; Setaside Operating; $0.",
+  "statusDetail": "Crowding Scout rec pending Calder: REJECT\u00d77 \u00b7 HOLD Powdercoatops \u00b7 ACT\u00d70; ShopWorks WATCH; HOLD\u00d74; Latch paused; Setaside Operating; $0.",
   "owner": "Calder (Harbor Foundry - CEO)",
-  "lastUpdated": "2026-09-23T09:20:06-05:00",
+  "lastUpdated": "2026-09-23T09:45:00-05:00",
   "headlineMetrics": {
-    "cheapTestsActive": 8,
+    "cheapTestsActive": 1,
     "cheapTestsWatch": 1,
     "cheapTestsClosed": 12,
     "setasideSales": "$0",
     "spend": "$0"
   },
-  "currentObjective": "Continue 8 ACT Cheap Tests crowding; ShopWorks WATCH; HOLD\u00d74. Wed execute Scout recs pending Calder lock (cabinetmillops ACT; monumentops REJECT). No Wren/memo. Latch paused. $0.",
-  "currentStatusBrief": "Wed TEST SMALL\u00d72 executed: cabinetmillops ACT (crowding 8); monumentops REJECT Closed (Ellis vendor-only FAIL). Pending Calder lock. Quiet toward Thomas.",
+  "currentObjective": "Calder to lock crowding Scout recs. Alive ACT\u21920 if REJECT\u00d77 lock; Powdercoatops HOLD. ShopWorks WATCH; HOLD\u00d74. No Wren/memo. Latch paused. $0.",
+  "currentStatusBrief": "Crowding deepen done \u2014 Scout REJECT\u00d77 / HOLD Powdercoatops / ACT\u00d70. Pending Calder lock. Hunts paused. Quiet toward Thomas.",
   "latestLesson": {
     "id": "act-crowding-cap",
     "title": "ACT crowding cap (Testing)",
@@ -35,10 +35,10 @@
   "nextUp": {
     "items": [
       {
-        "title": "Crowding pressure pass on 8 ACT Cheap Tests",
-        "nextRunAt": "2026-09-23T09:20:00-05:00",
-        "scheduleLabel": "In flight \u2014 Thomas focus window",
-        "owner": "Nico (Harbor Foundry - Scout)"
+        "title": "Calder lock crowding Scout recs (REJECT\u00d77 / HOLD powdercoatops)",
+        "nextRunAt": "2026-09-23T10:00:00-05:00",
+        "scheduleLabel": "Pending Calder \u2014 crowding focus window",
+        "owner": "Calder (Harbor Foundry - CEO)"
       },
       {
         "title": "Foundry morning brief",
@@ -53,8 +53,8 @@
         "owner": "Sable (Harbor Foundry - Setaside)"
       }
     ],
-    "lastUpdated": "2026-09-23T09:20:06-05:00"
+    "lastUpdated": "2026-09-23T09:45:00-05:00"
   },
-  "headline": "Wed Cheap Tests executed \u2014 cabinetmillops ACT / monumentops REJECT (Scout rec)",
-  "currentStatus": "Thomas lock 2026-09-23: Scout hunts paused. Focus window \u2014 crowding pressure on 8 ACT Cheap Tests (SurveyOps, Fenceops, Pavingops, Signshop, Concreteops, Snowops, Powdercoatops, Cabinetmillops). Nico executing. No new TEST SMALL. Latch Paused. Setaside Operating. $0."
+  "headline": "Crowding pressure Scout rec \u2014 REJECT\u00d77 / HOLD powdercoatops (pending Calder)",
+  "currentStatus": "Crowding pressure Scout rec (pending Calder): REJECT\u00d77 (Cabinetmillops, SurveyOps, Signshop, Snowops, Fenceops, Pavingops, Concreteops) \u00b7 HOLD\u00d71 Powdercoatops \u00b7 ACT\u00d70. ShopWorks WATCH + HOLD\u00d74 unchanged. Scout hunts paused. Latch Paused. Setaside Operating. $0. No Wren/memo."
 }

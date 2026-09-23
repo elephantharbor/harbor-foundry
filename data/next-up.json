@@ -1,13 +1,13 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-23T09:20:06-05:00",
+  "lastUpdated": "2026-09-23T09:45:00-05:00",
   "items": [
     {
-      "title": "Crowding pressure pass on 8 ACT Cheap Tests",
-      "nextRunAt": "2026-09-23T09:20:00-05:00",
-      "scheduleLabel": "In flight \u2014 Thomas focus window",
-      "owner": "Nico (Harbor Foundry - Scout)"
+      "title": "Calder lock crowding Scout recs (REJECT\u00d77 / HOLD powdercoatops)",
+      "nextRunAt": "2026-09-23T10:00:00-05:00",
+      "scheduleLabel": "Pending Calder \u2014 crowding focus window",
+      "owner": "Calder (Harbor Foundry - CEO)"
     },
     {
       "title": "Foundry morning brief",
