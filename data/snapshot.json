@@ -1,6 +1,6 @@
 {
   "mission": "Find dated paid software customers dislike, validate a modern replacement destination, and build independent ventures only where evidence warrants substantial durable economic value.",
-  "lastUpdated": "2026-09-23T09:47:00-05:00",
+  "lastUpdated": "2026-09-24T08:48:00-05:00",
   "cycle": "Cycle 3",
   "metrics": {
     "researching": 0,
@@ -13,12 +13,20 @@
     "cheapTestsActive": 0,
     "cheapTestsClosed": 19,
     "cheapTestsWatch": 1,
-    "cheapTestsPending": 0,
+    "cheapTestsPending": 4,
     "cheapTestsHold": 5
   },
-  "needsHumanAttention": [],
-  "currentObjective": "Run Nico's next weekday Scout hunt with crowding kill themes; keep Powdercoatops HOLD/watch only. ACT=0. No Wren or memo. Latch paused; $0.",
-  "currentStatus": "Thomas reopened weekday Scout hunts. Calder resumed the routine Harbor Scout hunt; next normal weekday fire is Thu 2026-09-24 at 8:09 AM CT, with no same-day catch-up hunt. REJECT Closed\u00d77 (Cabinetmillops, SurveyOps, Signshop, Snowops, Fenceops, Pavingops, Concreteops). Powdercoatops HOLD (watch only); ACT=0. ShopWorks WATCH. HOLD\u00d74 prior untouched. Latch Paused. Setaside Operating. $0.",
+  "needsHumanAttention": [
+    {
+      "id": "calder-lock-thu-test-small",
+      "title": "Calder lock Thu Scout TEST SMALL\u00d74",
+      "detail": "upfitops \u00b7 lowvoltops \u00b7 taxidermyops (vendor-only HARD) \u00b7 backflowops (thinnest). ACT=0. $0. Ellis may red-team.",
+      "owner": "Calder",
+      "updated": "2026-09-24"
+    }
+  ],
+  "currentObjective": "Calder lock Thu Scout TEST SMALL\u00d74 (upfitops \u00b7 lowvoltops \u00b7 taxidermyops \u00b7 backflowops) at $0. ACT=0 \u00b7 Powdercoatops HOLD \u00b7 HOLD\u00d74 \u00b7 ShopWorks WATCH \u00b7 Closed\u00d77 stay Closed. Taxidermyops vendor-only HARD; backflowops thinnest. No Wren/memo. Latch paused. $0.",
+  "currentStatus": "Thu 2026-09-24 Scout (E/C/B/V): raw 16, deepen 4, NOT EMPTY. TEST SMALL\u00d74 pending Calder \u2014 upfitops, lowvoltops, taxidermyops (vendor-only HARD), backflowops (thinnest). Early E/C\u21920 \u2192 deepen B+V. Stack unchanged: ACT=0; Powdercoatops HOLD; HOLD\u00d74; ShopWorks WATCH; Closed\u00d77 + older Closed. Latch paused. Setaside Operating. Afterfee dead. No Wren. No memo. $0.",
   "pipelineStages": [
     {
       "id": "scout",
@@ -78,6 +86,62 @@
     }
   ],
   "pipelineItems": [
+    {
+      "id": "upfitops",
+      "name": "Van / work-truck upfit shop ops SoR",
+      "incumbent": "Excel / whiteboard / ask-Mike + QB",
+      "stage": "cheapTest",
+      "status": "Cheap Test \u2014 TEST SMALL",
+      "summary": "Excel/whiteboard upfit shops; thin 4Upfit/VanData/Fernwork occupancy = demand. Won-quote\u2192bay board + parts-short wedge. $0 census next.",
+      "owner": "Nico",
+      "updated": "2026-09-24",
+      "recommendation": "TEST SMALL",
+      "packetDoc": "ops/scout-cheaptest-upfitops-2026-09-24.md",
+      "decision": "TEST SMALL",
+      "note": "Pending Calder. Thin independent body on 4Upfit/VanData \u2014 flag. \u2260 JobBOSS Closed. \u2260 oem-wall DMS. $0."
+    },
+    {
+      "id": "lowvoltops",
+      "name": "Low-voltage / commercial AV integrator ops SoR",
+      "incumbent": "D-Tools / Jetbuilt / QuoteAV + spreadsheet job health",
+      "stage": "cheapTest",
+      "status": "Cheap Test \u2014 TEST SMALL",
+      "summary": "Independent LV/AV shops: proposal tools win work; install job health stays in messy spreadsheets. Reddit LV ask + Jetbuilt occupancy = demand. Won-job\u2192install board wedge.",
+      "owner": "Nico",
+      "updated": "2026-09-24",
+      "recommendation": "TEST SMALL",
+      "packetDoc": "ops/scout-cheaptest-lowvoltops-2026-09-24.md",
+      "decision": "TEST SMALL",
+      "note": "Pending Calder. Jetbuilt liked ~4.6 occupies quoting \u2014 falsify leftover-only vs ops SoR. \u2260 AccuLynx. $0."
+    },
+    {
+      "id": "taxidermyops",
+      "name": "Taxidermy shop ops SoR",
+      "incumbent": "Binders / paper tickets / Excel / whiteboard",
+      "stage": "cheapTest",
+      "status": "Cheap Test \u2014 TEST SMALL",
+      "summary": "Taxidermy studios on binders/Excel; MountMonitor/MountChief/Final Shot thin occupancy. Intake\u2192stage board wedge. Vendor-only falsifier HARD (monumentops).",
+      "owner": "Nico",
+      "updated": "2026-09-24",
+      "recommendation": "TEST SMALL",
+      "packetDoc": "ops/scout-cheaptest-taxidermyops-2026-09-24.md",
+      "decision": "TEST SMALL",
+      "note": "Pending Calder. Vendor-only/fake-pain HARD \u2014 prefer EMPTY/REJECT if census is vendor-only. \u2260 monumentops Closed. $0."
+    },
+    {
+      "id": "backflowops",
+      "name": "Backflow testing contractor ops SoR",
+      "incumbent": "Excel device lists / soft Syncta + utility portals",
+      "stage": "cheapTest",
+      "status": "Cheap Test \u2014 TEST SMALL",
+      "summary": "Backflow testers: Excel registries + soft Syncta; purveyor portals are not the desk. Device registry\u2192annual schedule board wedge. Thinnest of four.",
+      "owner": "Nico",
+      "updated": "2026-09-24",
+      "recommendation": "TEST SMALL",
+      "packetDoc": "ops/scout-cheaptest-backflowops-2026-09-24.md",
+      "decision": "TEST SMALL",
+      "note": "Pending Calder. Thinnest \u2014 Syncta-patch / utility-portal sidecar falsifiers. \u2260 Soft-Pak municipal Closed. $0."
+    },
     {
       "id": "monumentops",
       "name": "Monumentops",
@@ -459,6 +523,137 @@
       "reason": "Closed. SAP is shipping NextGen / new report UI; Harbor is not running a T&E replacement against that vendor modernization. Do not recycle."
     },
     "emptyScreens": [
+      {
+        "id": "2026-09-24",
+        "label": "HUNT 24",
+        "date": "2026-09-24",
+        "outcome": "NOT EMPTY \u2014 CHEAP_TEST_NOMINATED",
+        "status": "TEST SMALL\u00d74 pending Calder (ACT=0; no crowding cap)",
+        "synopsis": "2026-09-24 Thursday multi-lane Cheap Test hunt (first weekday after Thomas reopen) screened 16 names across review-site/forums, job-posting workflow pain, neglected products, and vertical SoR gaps. Outcome: NOT EMPTY \u2014 deepened 4; TEST SMALL\u00d74 (upfitops, lowvoltops, taxidermyops, backflowops). Early E/C soft leftovers\u21920 \u2192 same-cycle deepen B+V. Each name below shows what it is, lane, why screened, and status.",
+        "why": "Four Excel-first specialty verticals clear Cheap Test bar with reversible $0 learning steps (ACT=0 capacity). Twelve drops: liked FSM leftover, vendor-own successor, Closed/Harbor-path adjacency, occupancy-as-kill named SoRs, QuoteIQ skins, takeoff leftover, oem-wall. Taxidermyops carries vendor-only HARD falsifier; backflowops thinnest.",
+        "lanes": [
+          "review-site / forums hated clusters",
+          "job-posting / workflow pain",
+          "neglected products",
+          "vertical SoR gaps / underserved"
+        ],
+        "names": [
+          "UpfitOps",
+          "LowVoltOps",
+          "TaxidermyOps",
+          "BackflowOps",
+          "Jobber price hate",
+          "FrameReady \u2192 LifeSaver",
+          "Softbase Evolution",
+          "WellMagic reopen",
+          "StairBiz",
+          "Barricade / traffic-control",
+          "Temp fencing rental",
+          "Ornamental iron / railing",
+          "Hydrovac ops",
+          "FastWRAP mech insulation",
+          "Standby generator Ideal/GenaForce",
+          "Party / event rental Goodshuffle"
+        ],
+        "candidates": [
+          {
+            "name": "UpfitOps",
+            "what": "Lane V/B/C \u2014 van/work-truck upfit shop SoR (Excel/whiteboard after quote)",
+            "why": "Upfit Insider Excel residual + thin 4Upfit/VanData/Fernwork occupancy = demand; \u2260 JobBOSS Closed",
+            "status": "TEST SMALL \u2014 nominate"
+          },
+          {
+            "name": "LowVoltOps",
+            "what": "Lane E/V/C \u2014 LV/AV integrator ops SoR (spreadsheet job health beside design tools)",
+            "why": "Reddit LV job-health ask + Jetbuilt/QuoteAV/D-Tools occupancy; falsify leftover-only",
+            "status": "TEST SMALL \u2014 nominate"
+          },
+          {
+            "name": "TaxidermyOps",
+            "what": "Lane V/B \u2014 taxidermy shop SoR (binders/Excel/paper)",
+            "why": "MountMonitor/MountChief thin occupancy; vendor-only falsifier HARD (monumentops)",
+            "status": "TEST SMALL \u2014 nominate (vendor-only HARD)"
+          },
+          {
+            "name": "BackflowOps",
+            "what": "Lane V/E/C \u2014 backflow testing contractor SoR (Excel registry / soft Syncta)",
+            "why": "Syncta soft thin + Excel import residual; utility-portal sidecar falsifier; thinnest",
+            "status": "TEST SMALL \u2014 nominate (thinnest)"
+          },
+          {
+            "name": "Jobber price hate",
+            "what": "Lane E \u2014 liked modern FSM price leftover",
+            "why": "Migrate Workiz/FieldPulse/HCP; ServiceTitan/Jobber FSM class emptied",
+            "status": "Dropped \u2014 liked FSM leftover"
+          },
+          {
+            "name": "FrameReady \u2192 LifeSaver",
+            "what": "Lane E/B \u2014 picture-frame shop forced migrate",
+            "why": "Vendor-own LifeSaver successor + Virtual Framer",
+            "status": "Dropped \u2014 vendor-own successor"
+          },
+          {
+            "name": "Softbase Evolution",
+            "what": "Lane B \u2014 material-handling dealer DMS",
+            "why": "IntelliDealer Closed 09-11 / CDK-adjacent Harbor-path",
+            "status": "Dropped \u2014 Harbor-path"
+          },
+          {
+            "name": "WellMagic reopen",
+            "what": "Lane B \u2014 Access-era water-well",
+            "why": "09-15 ADD/Cargas/FleetPanda/DrillerDB adjacency",
+            "status": "Dropped \u2014 do not reopen"
+          },
+          {
+            "name": "StairBiz",
+            "what": "Lane B \u2014 stair manufacturing desktop",
+            "why": "CAD/CNC manufacturing + vendor-only; JobBOSS Closed adjacency",
+            "status": "Dropped \u2014 manufacturing / vendor-only"
+          },
+          {
+            "name": "Barricade / traffic-control",
+            "what": "Lane V \u2014 barricade rental yard",
+            "why": "ROADS / Assignar TrafficOps occupancy-as-kill",
+            "status": "Dropped \u2014 occupancy-as-kill"
+          },
+          {
+            "name": "Temp fencing rental",
+            "what": "Lane V \u2014 temp-fence rental",
+            "why": "SiteRento / PRO / CloudRent occupancy-as-kill",
+            "status": "Dropped \u2014 occupancy-as-kill"
+          },
+          {
+            "name": "Ornamental iron / railing",
+            "what": "Lane V \u2014 railing fab QuoteIQ landing",
+            "why": "QuoteIQ multi-vertical skin (Fenceops/Pavingops kill family)",
+            "status": "Dropped \u2014 QuoteIQ skin"
+          },
+          {
+            "name": "Hydrovac ops",
+            "what": "Lane V \u2014 vacuum excavator contractor",
+            "why": "Spira / RapidWorks / Aimsio / Tough Commerce occupancy-as-kill",
+            "status": "Dropped \u2014 occupancy-as-kill"
+          },
+          {
+            "name": "FastWRAP mech insulation",
+            "what": "Lane V/C \u2014 mechanical insulation takeoff",
+            "why": "Leftover takeoff/estimating (PlanSwift/EDGE class)",
+            "status": "Dropped \u2014 EMPTY-over-overlays"
+          },
+          {
+            "name": "Standby generator Ideal/GenaForce",
+            "what": "Lane V \u2014 generator install/service",
+            "why": "oem-wall + GenaForce/QuoteIQ/FieldEdge without OEM thesis",
+            "status": "Dropped \u2014 oem-wall / occupied"
+          },
+          {
+            "name": "Party / event rental Goodshuffle",
+            "what": "Lane V \u2014 party rental spreadsheets",
+            "why": "Goodshuffle/TapGoods/ERS + Point of Rental Closed adjacency",
+            "status": "Dropped \u2014 rental class Closed"
+          }
+        ]
+      },
       {
         "id": "2026-09-23",
         "label": "HUNT 23",
@@ -1766,25 +1961,31 @@
   "nextUp": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-24T08:28:00-05:00",
+    "lastUpdated": "2026-09-24T08:48:00-05:00",
     "items": [
       {
-        "title": "Harbor Scout weekday hunt",
-        "nextRunAt": "2026-09-24T08:09:00-05:00",
-        "scheduleLabel": "Weekdays 8:09 AM CT (resumed)",
-        "owner": "Nico (Harbor Scout)"
+        "title": "Calder lock Thu Scout TEST SMALL\u00d74",
+        "nextRunAt": "2026-09-24T10:30:00-05:00",
+        "scheduleLabel": "Thu AM remaining",
+        "owner": "Calder (Harbor Foundry - CEO)"
       },
       {
         "title": "Setaside shop health check",
-        "nextRunAt": "2026-09-24T09:00:00-05:00",
+        "nextRunAt": "2026-09-25T09:00:00-05:00",
         "scheduleLabel": "Weekdays 9:00 AM CT",
         "owner": "Sable (Harbor Foundry - Setaside)"
       },
       {
         "title": "Powdercoatops HOLD \u2014 watch only; no Wren or memo",
-        "nextRunAt": "2026-09-24T08:09:00-05:00",
+        "nextRunAt": "2026-09-25T08:09:00-05:00",
         "scheduleLabel": "With the next weekday Scout hunt",
         "owner": "Calder (Harbor Foundry - CEO)"
+      },
+      {
+        "title": "Harbor Scout weekday hunt",
+        "nextRunAt": "2026-09-25T08:09:00-05:00",
+        "scheduleLabel": "Weekdays 8:09 AM CT (resumed)",
+        "owner": "Nico (Harbor Scout)"
       },
       {
         "title": "Foundry morning brief",
@@ -1797,8 +1998,14 @@
   "sessionLog": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-24T08:28:00-05:00",
+    "lastUpdated": "2026-09-24T08:48:00-05:00",
     "entries": [
+      {
+        "at": "2026-09-24T08:48:00-05:00",
+        "actor": "Nico (Harbor Foundry - Scout)",
+        "summary": "Thursday OS v2 Cheap Test hunt (first weekday after Thomas reopen): screened 16 across E/C/B/V; deepened 4 (upfitops, lowvoltops, taxidermyops, backflowops); early E/C zero \u2192 same-cycle deepen B+V. TEST SMALL\u00d74 pending Calder (ACT=0; no crowding cap). Taxidermyops vendor-only HARD. Do not staff. $0.",
+        "deskChanges": "ops/scout-screen-2026-09-24.md + scout-hunt + ranked + four scout-cheaptest packets; INSTITUTIONAL hunt section; emptyScreens HUNT 24; recentHunt CHEAP_TEST_NOMINATED; pipeline +4 TEST SMALL pending; metrics cheapTestsPending=4; Next Up Calder lock; session log."
+      },
       {
         "at": "2026-09-24T08:28:00-05:00",
         "actor": "Calder (Harbor Foundry - CEO)",
@@ -2131,12 +2338,23 @@
     ]
   },
   "recentHunt": {
-    "date": "2026-09-23",
-    "type": "CROWDING_PRESSURE",
-    "summary": "Crowding pressure locked: REJECT\u00d77 \u00b7 HOLD\u00d71 Powdercoatops \u00b7 ACT\u00d70. Thomas reopened weekday Scout hunts; next routine fire is Thu 2026-09-24 at 8:09 AM CT. Apply crowding kill themes; no same-day catch-up hunt.",
+    "date": "2026-09-24",
+    "type": "CHEAP_TEST_NOMINATED",
+    "summary": "Thu OS v2 hunt E/C/B/V (first after reopen): raw 16, deepen 4, TEST SMALL\u00d74 upfitops + lowvoltops + taxidermyops + backflowops. NOT EMPTY. ACT=0 \u2192 no crowding cap. Pending Calder. Taxidermyops vendor-only HARD.",
     "docs": [
-      "ops/crowding-pressure-cohort-2026-09-23.md",
-      "ops/INSTITUTIONAL.md"
+      "ops/scout-screen-2026-09-24.md",
+      "ops/scout-hunt-2026-09-24.md",
+      "ops/scout-ranked-cheaptest-2026-09-24.md",
+      "ops/scout-cheaptest-upfitops-2026-09-24.md",
+      "ops/scout-cheaptest-lowvoltops-2026-09-24.md",
+      "ops/scout-cheaptest-taxidermyops-2026-09-24.md",
+      "ops/scout-cheaptest-backflowops-2026-09-24.md"
+    ],
+    "lanes": [
+      "review-site / forums hated clusters",
+      "job-posting / workflow pain",
+      "neglected products",
+      "vertical SoR gaps / underserved"
     ]
   },
   "activeVentures": {
