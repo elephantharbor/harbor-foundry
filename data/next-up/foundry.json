@@ -1,14 +1,8 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-24T07:52:00-05:00",
+  "lastUpdated": "2026-09-24T08:28:00-05:00",
   "items": [
-    {
-      "title": "Foundry morning brief",
-      "nextRunAt": "2026-09-24T08:02:00-05:00",
-      "scheduleLabel": "Weekdays 8:02 AM CT",
-      "owner": "Calder (Harbor Foundry - CEO)"
-    },
     {
       "title": "Harbor Scout weekday hunt",
       "nextRunAt": "2026-09-24T08:09:00-05:00",
@@ -20,6 +14,18 @@
       "nextRunAt": "2026-09-24T09:00:00-05:00",
       "scheduleLabel": "Weekdays 9:00 AM CT",
       "owner": "Sable (Harbor Foundry - Setaside)"
+    },
+    {
+      "title": "Powdercoatops HOLD \u2014 watch only; no Wren or memo",
+      "nextRunAt": "2026-09-24T08:09:00-05:00",
+      "scheduleLabel": "With the next weekday Scout hunt",
+      "owner": "Calder (Harbor Foundry - CEO)"
+    },
+    {
+      "title": "Foundry morning brief",
+      "nextRunAt": "2026-09-25T08:02:00-05:00",
+      "scheduleLabel": "Weekdays 8:02 AM CT",
+      "owner": "Calder (Harbor Foundry - CEO)"
     }
   ]
 }
