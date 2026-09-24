@@ -1,16 +1,16 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-24T08:57:35-05:00",
+  "lastUpdated": "2026-09-24T09:03:00-05:00",
   "items": [
     {
-      "title": "Await next Scout weekday \u2014 light crowding watch on upfitops only",
+      "title": "Advance past Calder lock — next Scout weekday; light crowding watch on upfitops only",
       "nextRunAt": "2026-09-25T08:09:00-05:00",
-      "scheduleLabel": "Weekdays 8:09 AM CT (next Fri); no Wren",
+      "scheduleLabel": "Weekdays 8:09 AM CT (next Fri); Calder lock complete; no Wren",
       "owner": "Nico (Harbor Scout) / Calder (watch)"
     },
     {
-      "title": "Powdercoatops HOLD \u2014 watch only; no Wren or memo",
+      "title": "Powdercoatops HOLD — watch only; no Wren or memo",
       "nextRunAt": "2026-09-25T08:09:00-05:00",
       "scheduleLabel": "With the next weekday Scout hunt",
       "owner": "Calder (Harbor Foundry - CEO)"

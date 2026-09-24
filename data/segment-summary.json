@@ -4,9 +4,9 @@
   "description": "Software venture creation.",
   "mission": "Find weak or dated incumbent software markets, validate opportunities to replace them, and build substantial new software businesses where evidence warrants it.",
   "status": "Operating",
-  "statusDetail": "Thu Calder lock confirmed: upfitops ACT Cheap Test only; lowvoltops REJECT Closed; HOLD\u00d72 taxidermy+backflow unchanged; ACT=1; Powdercoatops HOLD; ShopWorks WATCH; HOLD\u00d74 prior; Closed\u00d77 crowding; Latch paused; Setaside Operating; $0.",
+  "statusDetail": "Calder LOCKED Thu 2026-09-24: upfitops ACT Cheap Test only; lowvoltops REJECT Closed; ACT=1; taxidermyops+backflowops HOLD; Powdercoatops HOLD; ShopWorks WATCH; HOLD×4 prior; Closed×7 untouched; Latch paused; Setaside Operating; $0; quiet toward Thomas.",
   "owner": "Calder (Harbor Foundry - CEO)",
-  "lastUpdated": "2026-09-24T08:57:35-05:00",
+  "lastUpdated": "2026-09-24T09:03:00-05:00",
   "headlineMetrics": {
     "cheapTestsActive": 1,
     "cheapTestsClosed": 20,
@@ -16,12 +16,12 @@
     "setasideSales": "$0",
     "spend": "$0"
   },
-  "currentObjective": "Await next Scout weekday; light crowding watch on upfitops only. upfitops is ACT in Cheap Test only (not an Active Venture / Sprint); lowvoltops is REJECT Closed. HOLD taxidermyops+backflowops, Powdercoatops, and HOLD\u00d74 prior. No Wren or memo; Latch paused; $0.",
-  "currentStatusBrief": "Calder confirmed Thu TEST SMALL pair: upfitops ACT in Cheap Test only; lowvoltops REJECT Closed. HOLD\u00d72 unchanged. ACT=1; Active Ventures remain Setaside Operating + Latch Paused. Await next Scout weekday with light upfitops crowding watch; no Wren; $0.",
+  "currentObjective": "Advance past the Calder lock on the Scout execute pair; await the next weekday Scout hunt with a light crowding watch on upfitops only. No Wren, no memo, no outreach; Latch paused; $0.",
+  "currentStatusBrief": "Calder confirmed Thu TEST SMALL pair: upfitops ACT in Cheap Test only; lowvoltops REJECT Closed. HOLD×2 unchanged. ACT=1; Active Ventures remain Setaside Operating + Latch Paused. Await next Scout weekday with light upfitops crowding watch; no Wren; $0.",
   "latestLesson": {
     "id": "occupancy-as-kill-under-crowding",
     "title": "Named vertical SoR that ships our wedge is a kill under crowding pressure",
-    "summary": "lowvoltops confirm: LowVoltageOps + Jetbuilt Install/Stock ship Harbor wedge \u2192 REJECT. upfitops thin claimants \u2260 ownership \u2192 ACT still allowed. Keep Confirmed."
+    "summary": "lowvoltops confirm: LowVoltageOps + Jetbuilt Install/Stock ship Harbor wedge → REJECT. upfitops thin claimants ≠ ownership → ACT still allowed. Keep Confirmed."
   },
   "needsHumanAction": false,
   "humanAction": null,
@@ -37,16 +37,16 @@
   "nextUp": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-24T08:57:35-05:00",
+    "lastUpdated": "2026-09-24T09:03:00-05:00",
     "items": [
       {
-        "title": "Await next Scout weekday \u2014 light crowding watch on upfitops only",
+        "title": "Advance past Calder lock — next Scout weekday; light crowding watch on upfitops only",
         "nextRunAt": "2026-09-25T08:09:00-05:00",
-        "scheduleLabel": "Weekdays 8:09 AM CT (next Fri); no Wren",
+        "scheduleLabel": "Weekdays 8:09 AM CT (next Fri); Calder lock complete; no Wren",
         "owner": "Nico (Harbor Scout) / Calder (watch)"
       },
       {
-        "title": "Powdercoatops HOLD \u2014 watch only; no Wren or memo",
+        "title": "Powdercoatops HOLD — watch only; no Wren or memo",
         "nextRunAt": "2026-09-25T08:09:00-05:00",
         "scheduleLabel": "With the next weekday Scout hunt",
         "owner": "Calder (Harbor Foundry - CEO)"
@@ -65,6 +65,6 @@
       }
     ]
   },
-  "headline": "Calder lock confirmed \u2014 upfitops ACT Cheap Test only; lowvoltops REJECT Closed; HOLD\u00d72 unchanged; next Scout weekday",
-  "currentStatus": "Calder confirmed Thu 2026-09-24 TEST SMALL pair: upfitops ACT (Cheap Test only; Upfit Insider independent residual, thin VanData/4Upfit demand, NetSuite/Koble scale-only, overlay-kill pass); lowvoltops REJECT Closed (Jetbuilt Install+Stock liked 4.6/23 + LowVoltageOps owns Harbor ops SoR + D-Tools SI). HOLD taxidermyops+backflowops unchanged. Powdercoatops HOLD \u00b7 ShopWorks WATCH \u00b7 HOLD\u00d74 prior \u00b7 Closed\u00d77 crowding untouched. Active Ventures remain Setaside Operating + Latch Paused. No Wren; no memo; $0. Quiet toward Thomas."
+  "headline": "Calder LOCKED — upfitops ACT Cheap Test only; lowvoltops REJECT Closed; ACT=1; quiet toward Thomas; next Scout weekday",
+  "currentStatus": "Calder LOCKED Thu 2026-09-24: upfitops ACT Cheap Test only; lowvoltops REJECT Closed. HOLD taxidermyops+backflowops+Powdercoatops+HOLD×4 unchanged; ShopWorks WATCH; Closed×7 untouched. Quiet toward Thomas; next useful item is the Friday weekday Scout hunt."
 }
