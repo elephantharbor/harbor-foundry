@@ -1,11 +1,11 @@
 {
-  "mission": "Find dated paid software customers dislike, validate a modern replacement destination, and build independent ventures only where evidence warrants substantial durable economic value.",
-  "lastUpdated": "2026-09-24T09:03:00-05:00",
+  "mission": "Create substantial software companies from weak or dated incumbent markets: hunt voraciously, test intelligently, bring decision-ready proposals to Thomas, and execute immediately after approval. Kill rigor stays; appetite rises.",
+  "lastUpdated": "2026-09-24T16:50:00-05:00",
   "cycle": "Cycle 3",
   "metrics": {
     "researching": 0,
     "underChallenge": 0,
-    "awaitingApproval": 0,
+    "awaitingApproval": 2,
     "activeSprints": 0,
     "building": 0,
     "operatingVentures": 1,
@@ -14,11 +14,18 @@
     "cheapTestsClosed": 20,
     "cheapTestsWatch": 1,
     "cheapTestsPending": 0,
-    "cheapTestsHold": 7
+    "cheapTestsHold": 7,
+    "proposalsPendingThomas": 2,
+    "daysSinceLastRealWorldValidation": "n/a",
+    "opportunitiesScreenedWeek": 64,
+    "foundrySpend": "$0"
   },
-  "needsHumanAttention": [],
-  "currentObjective": "Advance past the Calder lock on the Scout execute pair: await the next Scout weekday, with a light crowding watch on upfitops only. upfitops is ACT in Cheap Test only; lowvoltops is REJECT Closed. HOLD taxidermyops+backflowops, Powdercoatops, and HOLD×4 prior. No Wren, no memo, no outreach; Latch paused; $0; quiet toward Thomas.",
-  "currentStatus": "Calder LOCKED Thu 2026-09-24 TEST SMALL pair: upfitops ACT (Cheap Test only; Upfit Insider independent residual, thin VanData/4Upfit demand, NetSuite/Koble scale-only, overlay-kill pass); lowvoltops REJECT Closed (Jetbuilt Install+Stock liked 4.6/23 + LowVoltageOps exact Harbor ops SoR + D-Tools SI). HOLD taxidermyops+backflowops+Powdercoatops+HOLD×4 prior unchanged. ShopWorks WATCH; Closed×7 untouched. No Wren; no memo; no outreach; $0. Quiet toward Thomas.",
+  "needsHumanAttention": [
+    "Review Upfit validation proposal (advance-or-die) — ops/proposal-upfit-validation-2026-09-24.md",
+    "Review Setaside turnaround proposal — ops/proposal-setaside-turnaround-2026-09-24.md"
+  ],
+  "currentObjective": "Execute the appetite-reset sequence: get Thomas decisions on the Upfit validation proposal and the Setaside turnaround proposal; run expanded Scout hunts (12–20 screen as floor); keep Latch paused; surface motion/execution metrics on the desk — not rejects alone.",
+  "currentStatus": "Foundry appetite reset locked — create companies, not only avoid bad ones. Approval gate remains. Latch paused. Upfit + Setaside proposals are ready for Thomas review (advance-or-die on upfitops ACT; Setaside turnaround pending approval). ACT Cheap Tests=1 (upfitops); lowvoltops REJECT Closed; HOLD taxidermyops+backflowops+Powdercoatops+HOLD×4 prior; ShopWorks WATCH; Closed×7 untouched. $0 until approval.",
   "pipelineStages": [
     {
       "id": "scout",
@@ -83,14 +90,14 @@
       "name": "Van / work-truck upfit shop ops SoR",
       "incumbent": "Excel / whiteboard / 'ask Mike' + QB invoice",
       "stage": "cheapTest",
-      "status": "ACT — Cheap Test only (Calder lock confirmed)",
+      "status": "ACT — Cheap Test only (advance-or-die pending Thomas)",
       "summary": "Scout ACT: Upfit Insider Excel/whiteboard residual; thin VanData/4Upfit demand; Fernwork portal leftover; NetSuite/Koble medium+ only. Bay board+parts-short passes overlay-kill.",
       "owner": "Nico",
       "updated": "2026-09-24",
       "recommendation": "ACT",
       "packetDoc": "ops/scout-cheaptest-upfitops-2026-09-24.md",
       "decision": "ACT",
-      "note": "Calder lock confirmed: ACT Cheap Test only. Independent Upfit Insider residual; thin VanData/4Upfit demand; Fernwork portal leftover; NetSuite/Koble scale-only. Bay board+parts-short passes overlay-kill. $0. No Wren, no memo.",
+      "note": "Appetite reset: advance-or-die. Proposal ready for Thomas (ops/proposal-upfit-validation-2026-09-24.md). Cheap Test ACT stands; no Wren/memo/spend until approval. Latch stays Paused.",
       "resultDoc": "ops/cheaptest-result-upfitops-2026-09-24.md"
     },
     {
@@ -1546,6 +1553,11 @@
   },
   "evidenceDecisions": [
     {
+      "date": "2026-09-24",
+      "title": "Foundry appetite reset — Thomas OPERATING RESET",
+      "decision": "LOCKED: create companies, not only avoid bad ones. Approval gate remains. Latch paused. Escalate with needsHumanAction when proposals warrant. Upfit advance-or-die + Setaside turnaround proposals filed for Thomas review."
+    },
+    {
       "id": "cheaptest-2026-09-24-calder-lock-confirmed",
       "title": "Calder lock confirmed — Thu Scout TEST SMALL execute pair",
       "evidence": "Nico $0 execute results and lock docs: Upfit Insider independent residual; thin VanData/4Upfit demand; NetSuite/Koble scale-only; Jetbuilt GetApp 4.6/23 Install+Stock; LowVoltageOps Harbor ops SoR; D-Tools SI lifecycle.",
@@ -1981,19 +1993,31 @@
   "nextUp": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-24T09:03:00-05:00",
+    "lastUpdated": "2026-09-24T16:50:00-05:00",
     "items": [
       {
-        "title": "Advance past Calder lock — next Scout weekday; light crowding watch on upfitops only",
-        "nextRunAt": "2026-09-25T08:09:00-05:00",
-        "scheduleLabel": "Weekdays 8:09 AM CT (next Fri); Calder lock complete; no Wren",
-        "owner": "Nico (Harbor Scout) / Calder (watch)"
+        "title": "Thomas review Upfit proposal — advance-or-die validation ask",
+        "nextRunAt": "2026-09-24T17:00:00-05:00",
+        "scheduleLabel": "Pending Thomas decision; proposal ready",
+        "owner": "Thomas / Calder (Harbor Foundry - CEO)"
       },
       {
-        "title": "Powdercoatops HOLD — watch only; no Wren or memo",
+        "title": "Thomas review Setaside proposal — turnaround / experiment ask",
+        "nextRunAt": "2026-09-24T17:00:00-05:00",
+        "scheduleLabel": "Pending Thomas decision; proposal ready",
+        "owner": "Thomas / Calder (Harbor Foundry - CEO) / Sable"
+      },
+      {
+        "title": "Expanded Scout hunt — 12–20 screen as floor; multi-lane breadth",
         "nextRunAt": "2026-09-25T08:09:00-05:00",
-        "scheduleLabel": "With the next weekday Scout hunt",
-        "owner": "Calder (Harbor Foundry - CEO)"
+        "scheduleLabel": "Weekdays 8:09 AM CT (next Fri); appetite-reset hunt intensity",
+        "owner": "Nico (Harbor Scout) / Calder"
+      },
+      {
+        "title": "Desk motion metrics live — proposals, validation lag, weekly screens",
+        "nextRunAt": "2026-09-24T16:50:00-05:00",
+        "scheduleLabel": "Live on segment summary + snapshot after this publish",
+        "owner": "Calder (Harbor Foundry - CEO) / Fernando (Ops)"
       },
       {
         "title": "Foundry morning brief",
@@ -2002,9 +2026,9 @@
         "owner": "Calder (Harbor Foundry - CEO)"
       },
       {
-        "title": "Setaside shop health check",
+        "title": "Setaside shop health check — until turnaround decision",
         "nextRunAt": "2026-09-25T09:00:00-05:00",
-        "scheduleLabel": "Weekdays 9:00 AM CT",
+        "scheduleLabel": "Weekdays 9:00 AM CT; turnaround proposal pending",
         "owner": "Sable (Harbor Foundry - Setaside)"
       }
     ]
@@ -2012,8 +2036,14 @@
   "sessionLog": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-24T09:03:00-05:00",
+    "lastUpdated": "2026-09-24T16:50:00-05:00",
     "entries": [
+      {
+        "at": "2026-09-24T16:50:00-05:00",
+        "actor": "Calder (Harbor Foundry - CEO)",
+        "summary": "Foundry appetite reset locked — create companies, not only avoid bad ones. Approval gate remains. Latch paused. Upfit validation + Setaside turnaround proposals ready for Thomas (needsHumanAction=true). upfitops ACT advance-or-die pending decision; Setaside Operating with turnaround pending approval. Desk motion metrics added (proposals pending, days since real-world validation, weekly screens). Quiet-toward-Thomas-as-goal retired.",
+        "deskChanges": "Updated segment-summary, snapshot (headline/status/objective/metrics/needsHumanAttention/upfitops note/AV note), next-up (Thomas proposal reviews first), active-ventures (Setaside turnaround pending), session log; motion KPI fields on overview; portfolio mirror on publish."
+      },
       {
         "at": "2026-09-24T09:03:00-05:00",
         "actor": "Calder (Harbor Foundry - CEO)",
@@ -2378,7 +2408,7 @@
   "recentHunt": {
     "date": "2026-09-24",
     "type": "CHEAP_TEST_RESULTS",
-    "summary": "Calder LOCKED: upfitops ACT (Cheap Test only); lowvoltops REJECT Closed. HOLD taxidermyops+backflowops+Powdercoatops+HOLD×4 unchanged; ShopWorks WATCH; Closed×7 untouched. ACT Cheap Tests=1. Advance past the Calder lock to the next weekday Scout hunt with a light upfitops crowding watch. $0; no Wren; no memo; quiet toward Thomas.",
+    "summary": "Appetite reset locked 2026-09-24 PM: create companies, not only avoid bad ones. Prior Thu lock stands (upfitops ACT; lowvoltops REJECT). Next: Thomas decisions on Upfit + Setaside proposals; expanded Scout hunt (12–20 floor). Latch paused; $0 until approval.",
     "docs": [
       "ops/cheaptest-result-upfitops-2026-09-24.md",
       "ops/cheaptest-result-lowvoltops-2026-09-24.md",
@@ -2398,7 +2428,7 @@
   "activeVentures": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-24T09:03:00-05:00",
+    "lastUpdated": "2026-09-24T16:50:00-05:00",
     "empty": false,
     "emptyReason": null,
     "items": [
@@ -2412,28 +2442,28 @@
         "startDate": "2026-08-28",
         "owner": "Sable",
         "exposure": "$24 · $0 sales",
-        "performance": "0 orders",
-        "nextMilestone": "First sale",
+        "performance": "0 orders · turnaround proposal pending",
+        "nextMilestone": "Turnaround proposal pending Thomas approval",
         "detailLink": "https://www.etsy.com/listing/4564421940/2026-self-employed-bookkeeping",
-        "lastUpdated": "2026-09-24T09:03:00-05:00"
+        "lastUpdated": "2026-09-24T16:50:00-05:00"
       },
       {
         "id": "latch",
         "title": "Latch (Bullhorn)",
         "segment": "foundry",
         "submarket": "Validation sprint",
-        "description": "Paused approved sprint.",
+        "description": "Paused approved sprint — do not auto-resume.",
         "status": "Paused",
         "startDate": "2026-09-03",
         "owner": "Wren",
         "exposure": "$0",
         "performance": "Paused",
-        "nextMilestone": "Explicit resume",
+        "nextMilestone": "Explicit resume only (appetite reset: stay Paused)",
         "detailLink": "https://elephantharbor.github.io/harbor-foundry/#ventures",
-        "lastUpdated": "2026-09-24T09:03:00-05:00"
+        "lastUpdated": "2026-09-24T16:50:00-05:00"
       }
     ],
-    "note": "Active = Operating Setaside + paused Latch. ACT Cheap Tests=1 (upfitops only; Cheap Test pipeline, not Active Venture / Sprint); lowvoltops REJECT Closed; HOLD taxidermyops+backflowops+powdercoatops+HOLD×4 stay off Active Ventures.",
+    "note": "Active = Operating Setaside + paused Latch. Setaside turnaround proposal pending Thomas approval. ACT Cheap Tests=1 (upfitops only — advance-or-die pending Thomas decision; Cheap Test pipeline, not Active Venture / Sprint); lowvoltops REJECT Closed; HOLD taxidermyops+backflowops+Powdercoatops+HOLD×4 stay off Active Ventures. Appetite reset locked: create companies, not only avoid bad ones.",
     "recentlyClosed": [
       {
         "id": "lowvoltops",
@@ -2497,5 +2527,5 @@
       }
     ]
   },
-  "headline": "Calder LOCKED — upfitops ACT Cheap Test only; lowvoltops REJECT Closed; ACT=1; quiet toward Thomas; next Scout weekday"
+  "headline": "Foundry appetite reset locked — create companies, not only avoid bad ones. Approval gate remains. Latch paused."
 }

@@ -1,7 +1,7 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-24T09:03:00-05:00",
+  "lastUpdated": "2026-09-24T16:50:00-05:00",
   "empty": false,
   "emptyReason": null,
   "items": [
@@ -15,28 +15,28 @@
       "startDate": "2026-08-28",
       "owner": "Sable",
       "exposure": "$24 · $0 sales",
-      "performance": "0 orders",
-      "nextMilestone": "First sale",
+      "performance": "0 orders · turnaround proposal pending",
+      "nextMilestone": "Turnaround proposal pending Thomas approval",
       "detailLink": "https://www.etsy.com/listing/4564421940/2026-self-employed-bookkeeping",
-      "lastUpdated": "2026-09-24T09:03:00-05:00"
+      "lastUpdated": "2026-09-24T16:50:00-05:00"
     },
     {
       "id": "latch",
       "title": "Latch (Bullhorn)",
       "segment": "foundry",
       "submarket": "Validation sprint",
-      "description": "Paused approved sprint.",
+      "description": "Paused approved sprint — do not auto-resume.",
       "status": "Paused",
       "startDate": "2026-09-03",
       "owner": "Wren",
       "exposure": "$0",
       "performance": "Paused",
-      "nextMilestone": "Explicit resume",
+      "nextMilestone": "Explicit resume only (appetite reset: stay Paused)",
       "detailLink": "https://elephantharbor.github.io/harbor-foundry/#ventures",
-      "lastUpdated": "2026-09-24T09:03:00-05:00"
+      "lastUpdated": "2026-09-24T16:50:00-05:00"
     }
   ],
-  "note": "Active = Operating Setaside + paused Latch. ACT Cheap Tests=1 (upfitops only; Cheap Test pipeline, not Active Venture / Sprint); lowvoltops REJECT Closed; taxidermyops+backflowops+Powdercoatops+HOLD×4 stay off Active Ventures. Quiet toward Thomas.",
+  "note": "Active = Operating Setaside + paused Latch. Setaside turnaround proposal pending Thomas approval. ACT Cheap Tests=1 (upfitops only — advance-or-die pending Thomas decision; Cheap Test pipeline, not Active Venture / Sprint); lowvoltops REJECT Closed; HOLD taxidermyops+backflowops+Powdercoatops+HOLD×4 stay off Active Ventures. Appetite reset locked: create companies, not only avoid bad ones.",
   "recentlyClosed": [
     {
       "id": "lowvoltops",

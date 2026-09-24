@@ -157,11 +157,16 @@ function renderOverview(s) {
       <div class="kpi-row">
         <div class="kpi"><div class="label">Researching</div><div class="val">${esc(m.researching)}</div><div class="hint">Active Scout nominations</div></div>
         <div class="kpi"><div class="label">Under challenge</div><div class="val">${esc(m.underChallenge)}</div><div class="hint">Open red-team packets</div></div>
-        <div class="kpi"><div class="label">Awaiting approval</div><div class="val">${esc(m.awaitingApproval)}</div><div class="hint">Memos for Thomas</div></div>
+        <div class="kpi"><div class="label">Awaiting approval</div><div class="val">${esc(m.awaitingApproval)}</div><div class="hint">Proposals / memos for Thomas</div></div>
         <div class="kpi"><div class="label">Active sprints</div><div class="val">${esc(m.activeSprints)}</div><div class="hint">Staffed validation</div></div>
         <div class="kpi"><div class="label">Operating ventures</div><div class="val">${esc(m.operatingVentures)}</div><div class="hint">Live products</div></div>
         <div class="kpi"><div class="label">Setaside sales</div><div class="val">${esc(m.setasideSales)}</div><div class="hint">Cash received</div></div>
         <div class="kpi"><div class="label">Non-sprint builds</div><div class="val">${esc(m.building)}</div><div class="hint">Builds outside active validation sprints</div></div>
+        <div class="kpi"><div class="label">Proposals pending</div><div class="val">${esc(m.proposalsPendingThomas ?? m.awaitingApproval ?? "—")}</div><div class="hint">Decision-ready for Thomas</div></div>
+        <div class="kpi"><div class="label">Days since real-world validation</div><div class="val">${esc(m.daysSinceLastRealWorldValidation ?? "n/a")}</div><div class="hint">Buyer contact / field evidence</div></div>
+        <div class="kpi"><div class="label">Opportunities screened (week)</div><div class="val">${esc(m.opportunitiesScreenedWeek ?? "pending hunt")}</div><div class="hint">Scout screens this week</div></div>
+        <div class="kpi"><div class="label">Foundry spend</div><div class="val">${esc(m.foundrySpend ?? "$0")}</div><div class="hint">Cash out this trial</div></div>
+        <div class="kpi"><div class="label">Cheap Tests active</div><div class="val">${esc(m.cheapTestsActive ?? "—")}</div><div class="hint">Live ACT Cheap Tests</div></div>
       </div>
       ${renderNextUp(s.nextUp)}
       ${renderActiveVentures(s.activeVentures)}

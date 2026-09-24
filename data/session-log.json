@@ -1,8 +1,14 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-24T09:03:00-05:00",
+  "lastUpdated": "2026-09-24T16:50:00-05:00",
   "entries": [
+    {
+      "at": "2026-09-24T16:50:00-05:00",
+      "actor": "Calder (Harbor Foundry - CEO)",
+      "summary": "Foundry appetite reset locked — create companies, not only avoid bad ones. Approval gate remains. Latch paused. Upfit validation + Setaside turnaround proposals ready for Thomas (needsHumanAction=true). upfitops ACT advance-or-die pending decision; Setaside Operating with turnaround pending approval. Desk motion metrics added (proposals pending, days since real-world validation, weekly screens). Quiet-toward-Thomas-as-goal retired.",
+      "deskChanges": "Updated segment-summary, snapshot (headline/status/objective/metrics/needsHumanAttention/upfitops note/AV note), next-up (Thomas proposal reviews first), active-ventures (Setaside turnaround pending), session log; motion KPI fields on overview; portfolio mirror on publish."
+    },
     {
       "at": "2026-09-24T09:03:00-05:00",
       "actor": "Calder (Harbor Foundry - CEO)",
