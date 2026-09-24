@@ -1,25 +1,19 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-23T09:47:00-05:00",
+  "lastUpdated": "2026-09-24T07:52:00-05:00",
   "items": [
-    {
-      "title": "Nico's next weekday Scout hunt \u2014 apply crowding kill themes",
-      "nextRunAt": "2026-09-24T08:09:00-05:00",
-      "scheduleLabel": "Weekdays 8:09 AM CT (routine resumed)",
-      "owner": "Nico (Harbor Scout)"
-    },
-    {
-      "title": "Powdercoatops HOLD \u2014 watch only; no Wren or memo",
-      "nextRunAt": "2026-09-24T08:09:00-05:00",
-      "scheduleLabel": "With the next weekday Scout hunt",
-      "owner": "Calder (Harbor Foundry - CEO)"
-    },
     {
       "title": "Foundry morning brief",
       "nextRunAt": "2026-09-24T08:02:00-05:00",
       "scheduleLabel": "Weekdays 8:02 AM CT",
       "owner": "Calder (Harbor Foundry - CEO)"
+    },
+    {
+      "title": "Harbor Scout weekday hunt",
+      "nextRunAt": "2026-09-24T08:09:00-05:00",
+      "scheduleLabel": "Weekdays 8:09 AM CT (resumed)",
+      "owner": "Nico (Harbor Scout)"
     },
     {
       "title": "Setaside shop health check",
