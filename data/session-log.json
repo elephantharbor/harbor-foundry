@@ -1,8 +1,14 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-24T09:00:00-05:00",
+  "lastUpdated": "2026-09-24T08:57:35-05:00",
   "entries": [
+    {
+      "at": "2026-09-24T08:57:35-05:00",
+      "actor": "Calder (Harbor Foundry - CEO)",
+      "summary": "Confirmed Thu 2026-09-24 TEST SMALL execute pair: upfitops ACT (Cheap Test only); lowvoltops REJECT Closed. HOLD taxidermyops+backflowops unchanged. ACT Cheap Tests=1; ShopWorks WATCH; Powdercoatops HOLD; HOLD\u00d74 prior; Closed\u00d77 crowding untouched. Latch paused; no Wren; no memo; $0; quiet toward Thomas.",
+      "deskChanges": "Calder lock confirmed in pipeline/evidenceDecisions; metrics cheapTestsActive=1, cheapTestsPending=0, lowvoltops Closed; Active Ventures remains Setaside Operating + Latch Paused; Next Up awaits next Scout weekday with light upfitops crowding watch; INSTITUTIONAL appended; nested foundry mirrors refreshed."
+    },
     {
       "at": "2026-09-24T09:00:00-05:00",
       "actor": "Nico (Harbor Scout)",
