@@ -1,7 +1,7 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-24T16:50:00-05:00",
+  "lastUpdated": "2026-09-24T16:55:00-05:00",
   "empty": false,
   "emptyReason": null,
   "items": [
@@ -15,10 +15,10 @@
       "startDate": "2026-08-28",
       "owner": "Sable",
       "exposure": "$24 · $0 sales",
-      "performance": "0 orders · turnaround proposal pending",
-      "nextMilestone": "Turnaround proposal pending Thomas approval",
+      "performance": "0 orders · turnaround proposal deferred",
+      "nextMilestone": "Turnaround proposal deferred — Thomas when ready",
       "detailLink": "https://www.etsy.com/listing/4564421940/2026-self-employed-bookkeeping",
-      "lastUpdated": "2026-09-24T16:50:00-05:00"
+      "lastUpdated": "2026-09-24T16:55:00-05:00"
     },
     {
       "id": "latch",
@@ -33,10 +33,10 @@
       "performance": "Paused",
       "nextMilestone": "Explicit resume only (appetite reset: stay Paused)",
       "detailLink": "https://elephantharbor.github.io/harbor-foundry/#ventures",
-      "lastUpdated": "2026-09-24T16:50:00-05:00"
+      "lastUpdated": "2026-09-24T16:55:00-05:00"
     }
   ],
-  "note": "Active = Operating Setaside + paused Latch. Setaside turnaround proposal pending Thomas approval. ACT Cheap Tests=1 (upfitops only — advance-or-die pending Thomas decision; Cheap Test pipeline, not Active Venture / Sprint); lowvoltops REJECT Closed; HOLD taxidermyops+backflowops+Powdercoatops+HOLD×4 stay off Active Ventures. Appetite reset locked: create companies, not only avoid bad ones.",
+  "note": "Active = Operating Setaside + paused Latch. Setaside turnaround proposal deferred (Thomas skipped). ACT Cheap Tests=4 (upfitops + dentallabops + landscapeyardops + kitchenhoodops — Cheap Test pipeline, not Active Venture / Sprint); HOLD=9 incl. petcremops+pianotechops stay off Active Ventures. No Upfit outreach/spend until Thomas path pick.",
   "recentlyClosed": [
     {
       "id": "lowvoltops",

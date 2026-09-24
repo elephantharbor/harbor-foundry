@@ -1,8 +1,14 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-24T16:50:00-05:00",
+  "lastUpdated": "2026-09-24T16:55:00-05:00",
   "entries": [
+    {
+      "at": "2026-09-24T16:55:00-05:00",
+      "actor": "Calder (Harbor Foundry - CEO)",
+      "summary": "Calder lock 2026-09-24b: ACT Cheap Tests=4 (upfitops + dentallabops + landscapeyardops + kitchenhoodops). New ACT×3 running $0 census with 14d escalate-or-kill. HOLD petcremops (vendor-only HARD) + pianotechops (thinnest TAM) — HOLD count=9. Upfit+Setaside proposals still deferred (no outreach/spend). Powdercoatops HOLD; ShopWorks WATCH; Closed×7+lowvoltops untouched. Latch paused; Setaside Operating; $0; no Wren.",
+      "deskChanges": "pipeline prepend dentallabops/landscapeyardops/kitchenhoodops ACT + petcremops/pianotechops HOLD; metrics cheapTestsActive=4 cheapTestsHold=9 opportunitiesScreenedWeek=82; needsHumanAction + humanAction; recentHunt 2026-09-24b; Next Up census deadline + deferred proposals; segment-summary + snapshot + mirrors."
+    },
     {
       "at": "2026-09-24T16:50:00-05:00",
       "actor": "Calder (Harbor Foundry - CEO)",

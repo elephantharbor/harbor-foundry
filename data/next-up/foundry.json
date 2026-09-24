@@ -1,31 +1,31 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-24T16:50:00-05:00",
+  "lastUpdated": "2026-09-24T16:55:00-05:00",
   "items": [
     {
-      "title": "Thomas review Upfit proposal — advance-or-die validation ask",
-      "nextRunAt": "2026-09-24T17:00:00-05:00",
-      "scheduleLabel": "Pending Thomas decision; proposal ready",
+      "title": "Thomas review deferred Upfit proposal — when ready (no outreach until decision)",
+      "nextRunAt": "2026-09-25T09:00:00-05:00",
+      "scheduleLabel": "Deferred; proposal ready; no Upfit spend/outreach",
       "owner": "Thomas / Calder (Harbor Foundry - CEO)"
     },
     {
-      "title": "Thomas review Setaside proposal — turnaround / experiment ask",
-      "nextRunAt": "2026-09-24T17:00:00-05:00",
-      "scheduleLabel": "Pending Thomas decision; proposal ready",
+      "title": "Thomas review deferred Setaside turnaround — when ready",
+      "nextRunAt": "2026-09-25T09:00:00-05:00",
+      "scheduleLabel": "Deferred; proposal ready; experiments pending approval",
       "owner": "Thomas / Calder (Harbor Foundry - CEO) / Sable"
+    },
+    {
+      "title": "Cheap Test census — dentallabops / landscapeyardops / kitchenhoodops ($0; 14d)",
+      "nextRunAt": "2026-10-08T17:00:00-05:00",
+      "scheduleLabel": "Escalate or kill by ~2026-10-08; $0 census only",
+      "owner": "Nico (Harbor Scout) / Calder"
     },
     {
       "title": "Expanded Scout hunt — 12–20 screen as floor; multi-lane breadth",
       "nextRunAt": "2026-09-25T08:09:00-05:00",
       "scheduleLabel": "Weekdays 8:09 AM CT (next Fri); appetite-reset hunt intensity",
       "owner": "Nico (Harbor Scout) / Calder"
-    },
-    {
-      "title": "Desk motion metrics live — proposals, validation lag, weekly screens",
-      "nextRunAt": "2026-09-24T16:50:00-05:00",
-      "scheduleLabel": "Live on segment summary + snapshot after this publish",
-      "owner": "Calder (Harbor Foundry - CEO) / Fernando (Ops)"
     },
     {
       "title": "Foundry morning brief",
@@ -36,7 +36,7 @@
     {
       "title": "Setaside shop health check — until turnaround decision",
       "nextRunAt": "2026-09-25T09:00:00-05:00",
-      "scheduleLabel": "Weekdays 9:00 AM CT; turnaround proposal pending",
+      "scheduleLabel": "Weekdays 9:00 AM CT; turnaround proposal deferred",
       "owner": "Sable (Harbor Foundry - Setaside)"
     }
   ]
