@@ -1,7 +1,7 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-24T16:55:00-05:00",
+  "lastUpdated": "2026-09-24T17:00:00-05:00",
   "empty": false,
   "emptyReason": null,
   "items": [
@@ -14,18 +14,18 @@
       "status": "Operating",
       "startDate": "2026-08-28",
       "owner": "Sable",
-      "exposure": "$24 · $0 sales",
-      "performance": "0 orders · turnaround proposal deferred",
-      "nextMilestone": "Turnaround proposal deferred — Thomas when ready",
+      "exposure": "$24 \u00b7 $0 sales",
+      "performance": "0 orders \u00b7 turnaround proposal deferred",
+      "nextMilestone": "Turnaround proposal deferred \u2014 Thomas when ready",
       "detailLink": "https://www.etsy.com/listing/4564421940/2026-self-employed-bookkeeping",
-      "lastUpdated": "2026-09-24T16:55:00-05:00"
+      "lastUpdated": "2026-09-24T17:00:00-05:00"
     },
     {
       "id": "latch",
       "title": "Latch (Bullhorn)",
       "segment": "foundry",
       "submarket": "Validation sprint",
-      "description": "Paused approved sprint — do not auto-resume.",
+      "description": "Paused approved sprint \u2014 do not auto-resume.",
       "status": "Paused",
       "startDate": "2026-09-03",
       "owner": "Wren",
@@ -33,70 +33,70 @@
       "performance": "Paused",
       "nextMilestone": "Explicit resume only (appetite reset: stay Paused)",
       "detailLink": "https://elephantharbor.github.io/harbor-foundry/#ventures",
-      "lastUpdated": "2026-09-24T16:55:00-05:00"
+      "lastUpdated": "2026-09-24T17:00:00-05:00"
     }
   ],
-  "note": "Active = Operating Setaside + paused Latch. Setaside turnaround proposal deferred (Thomas skipped). ACT Cheap Tests=4 (upfitops + dentallabops + landscapeyardops + kitchenhoodops — Cheap Test pipeline, not Active Venture / Sprint); HOLD=9 incl. petcremops+pianotechops stay off Active Ventures. No Upfit outreach/spend until Thomas path pick.",
+  "note": "Active = Operating Setaside + paused Latch. Setaside turnaround proposal deferred (Thomas skipped). ACT Cheap Tests=4 keep-alive (upfitops + dentallabops + landscapeyardops + kitchenhoodops \u2014 Cheap Test pipeline, not Active Venture / Sprint); HOLD=9 incl. petcremops+pianotechops stay off Active Ventures. Modest spend pending Thomas on NEW\u00d73; $0 executed. No Upfit outreach/spend until Thomas path pick.",
   "recentlyClosed": [
     {
       "id": "lowvoltops",
       "title": "Lowvoltops",
       "closed": "2026-09-24",
-      "reason": "REJECT — Jetbuilt Install/Stock + LowVoltageOps own ops SoR"
+      "reason": "REJECT \u2014 Jetbuilt Install/Stock + LowVoltageOps own ops SoR"
     },
     {
       "id": "cabinetmillops",
       "title": "Cabinetmillops",
       "closed": "2026-09-23",
-      "reason": "REJECT — Cabneo owns centre/day board"
+      "reason": "REJECT \u2014 Cabneo owns centre/day board"
     },
     {
       "id": "surveyops",
       "title": "SurveyOps",
       "closed": "2026-09-23",
-      "reason": "REJECT — KudurruStone/Job Book own crew board"
+      "reason": "REJECT \u2014 KudurruStone/Job Book own crew board"
     },
     {
       "id": "signshop",
       "title": "Signshop",
       "closed": "2026-09-23",
-      "reason": "REJECT — shopVOX absorbs EstiMate residual"
+      "reason": "REJECT \u2014 shopVOX absorbs EstiMate residual"
     },
     {
       "id": "snowops",
       "title": "Snowops",
       "closed": "2026-09-23",
-      "reason": "REJECT — Yeti/Plowdesk/LMN own storm SoR"
+      "reason": "REJECT \u2014 Yeti/Plowdesk/LMN own storm SoR"
     },
     {
       "id": "fenceops",
       "title": "Fenceops",
       "closed": "2026-09-23",
-      "reason": "REJECT — QuoteIQ/Fence Cloud/FenceTracer"
+      "reason": "REJECT \u2014 QuoteIQ/Fence Cloud/FenceTracer"
     },
     {
       "id": "pavingops",
       "title": "Pavingops",
       "closed": "2026-09-23",
-      "reason": "REJECT — Bitumio/OneCrew"
+      "reason": "REJECT \u2014 Bitumio/OneCrew"
     },
     {
       "id": "concreteops",
       "title": "Concreteops",
       "closed": "2026-09-23",
-      "reason": "REJECT — Planning Ops pour board"
+      "reason": "REJECT \u2014 Planning Ops pour board"
     },
     {
       "id": "monumentops",
       "title": "Monumentops",
       "closed": "2026-09-23",
-      "reason": "REJECT — vendor-only + occupied destination"
+      "reason": "REJECT \u2014 vendor-only + occupied destination"
     },
     {
       "id": "upholsteryops",
       "title": "Upholsteryops",
       "closed": "2026-09-23",
-      "reason": "REJECT — StitchDesk migrate absorb"
+      "reason": "REJECT \u2014 StitchDesk migrate absorb"
     }
   ]
 }

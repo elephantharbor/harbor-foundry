@@ -1,60 +1,66 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-24T16:55:00-05:00",
+  "lastUpdated": "2026-09-24T17:00:00-05:00",
   "entries": [
+    {
+      "at": "2026-09-24T17:00:00-05:00",
+      "actor": "Calder (Harbor Foundry - CEO)",
+      "summary": "Calder execute lock 2026-09-24b: ACT keep-alive \u00d73 through 2026-10-08 (dentallabops primary fail not tripped/not cleared, paying-lean independent=0; landscapeyardops Aspire mis-tag not tripped, yard ICP holds, n=1 stall; kitchenhoodops Inspect Point fire mis-tag CLEARED, Jobber+PDF leftover open). HOLD petcremops+pianotechops+priors unchanged; upfitops ACT unchanged (Thomas deferred). ACT Cheap Tests still=4. Latch paused; Setaside Operating; $0 Foundry spend executed. Modest interview spend (~$50\u2013$250 each) pending Thomas or keep $0 to deadline.",
+      "deskChanges": "pipeline dentallabops/landscapeyardops/kitchenhoodops \u2192 ACT keep-alive (resultDocs); recentHunt CHEAP_TEST_RESULTS statuses keep ACT; evidenceDecisions execute lock; needsHumanAction + humanAction (deferred proposals + modest spend approve/decline); Next Up spend decision first; segment-summary + snapshot metrics ACT=4; INSTITUTIONAL execute; mirrors."
+    },
     {
       "at": "2026-09-24T16:55:00-05:00",
       "actor": "Calder (Harbor Foundry - CEO)",
-      "summary": "Calder lock 2026-09-24b: ACT Cheap Tests=4 (upfitops + dentallabops + landscapeyardops + kitchenhoodops). New ACT×3 running $0 census with 14d escalate-or-kill. HOLD petcremops (vendor-only HARD) + pianotechops (thinnest TAM) — HOLD count=9. Upfit+Setaside proposals still deferred (no outreach/spend). Powdercoatops HOLD; ShopWorks WATCH; Closed×7+lowvoltops untouched. Latch paused; Setaside Operating; $0; no Wren.",
+      "summary": "Calder lock 2026-09-24b: ACT Cheap Tests=4 (upfitops + dentallabops + landscapeyardops + kitchenhoodops). New ACT\u00d73 running $0 census with 14d escalate-or-kill. HOLD petcremops (vendor-only HARD) + pianotechops (thinnest TAM) \u2014 HOLD count=9. Upfit+Setaside proposals still deferred (no outreach/spend). Powdercoatops HOLD; ShopWorks WATCH; Closed\u00d77+lowvoltops untouched. Latch paused; Setaside Operating; $0; no Wren.",
       "deskChanges": "pipeline prepend dentallabops/landscapeyardops/kitchenhoodops ACT + petcremops/pianotechops HOLD; metrics cheapTestsActive=4 cheapTestsHold=9 opportunitiesScreenedWeek=82; needsHumanAction + humanAction; recentHunt 2026-09-24b; Next Up census deadline + deferred proposals; segment-summary + snapshot + mirrors."
     },
     {
       "at": "2026-09-24T16:50:00-05:00",
       "actor": "Calder (Harbor Foundry - CEO)",
-      "summary": "Foundry appetite reset locked — create companies, not only avoid bad ones. Approval gate remains. Latch paused. Upfit validation + Setaside turnaround proposals ready for Thomas (needsHumanAction=true). upfitops ACT advance-or-die pending decision; Setaside Operating with turnaround pending approval. Desk motion metrics added (proposals pending, days since real-world validation, weekly screens). Quiet-toward-Thomas-as-goal retired.",
+      "summary": "Foundry appetite reset locked \u2014 create companies, not only avoid bad ones. Approval gate remains. Latch paused. Upfit validation + Setaside turnaround proposals ready for Thomas (needsHumanAction=true). upfitops ACT advance-or-die pending decision; Setaside Operating with turnaround pending approval. Desk motion metrics added (proposals pending, days since real-world validation, weekly screens). Quiet-toward-Thomas-as-goal retired.",
       "deskChanges": "Updated segment-summary, snapshot (headline/status/objective/metrics/needsHumanAttention/upfitops note/AV note), next-up (Thomas proposal reviews first), active-ventures (Setaside turnaround pending), session log; motion KPI fields on overview; portfolio mirror on publish."
     },
     {
       "at": "2026-09-24T09:03:00-05:00",
       "actor": "Calder (Harbor Foundry - CEO)",
-      "summary": "Authoritative Thu 2026-09-24 TEST SMALL execute lock: upfitops ACT (Cheap Test only); lowvoltops REJECT Closed. HOLD taxidermyops+backflowops+Powdercoatops+prior HOLD×4 unchanged; ShopWorks WATCH; Closed×7 untouched. ACT Cheap Tests=1; Latch paused; no Wren; no memo; no outreach; $0; quiet toward Thomas.",
+      "summary": "Authoritative Thu 2026-09-24 TEST SMALL execute lock: upfitops ACT (Cheap Test only); lowvoltops REJECT Closed. HOLD taxidermyops+backflowops+Powdercoatops+prior HOLD\u00d74 unchanged; ShopWorks WATCH; Closed\u00d77 untouched. ACT Cheap Tests=1; Latch paused; no Wren; no memo; no outreach; $0; quiet toward Thomas.",
       "deskChanges": "Advanced past the Calder Scout-execute-pair item to the next weekday Scout hunt; pipeline, metrics, recentHunt, evidenceDecisions, session log, segment summary, snapshot mirrors, and INSTITUTIONAL execute section reflect the lock."
     },
     {
       "at": "2026-09-24T09:00:00-05:00",
       "actor": "Nico (Harbor Scout)",
-      "summary": "Executed Thu TEST SMALL×2 at $0: upfitops ACT (Scout rec; Upfit Insider residual; thin VanData/4Upfit; NetSuite/Koble scale-only; overlay-kill pass); lowvoltops REJECT Closed (Jetbuilt Install+Stock liked 4.6/23 + LowVoltageOps owns ops SoR; leftover-feature). HOLD taxidermyops+backflowops unchanged. Powdercoatops HOLD · ShopWorks WATCH · HOLD×4 prior · Closed×7 crowding untouched. No Wren/memo. Latch paused. Scout recs pending Calder lock.",
-      "deskChanges": "pipeline upfitops→ACT, lowvoltops→REJECT Closed; metrics.cheapTestsActive=1, cheapTestsClosed=20, cheapTestsPending=0; recentHunt CHEAP_TEST_RESULTS; INSTITUTIONAL Scout execute note; Next Up→Calder lock; session-log + activeVentures + segment-summary; nested foundry.json mirrors."
+      "summary": "Executed Thu TEST SMALL\u00d72 at $0: upfitops ACT (Scout rec; Upfit Insider residual; thin VanData/4Upfit; NetSuite/Koble scale-only; overlay-kill pass); lowvoltops REJECT Closed (Jetbuilt Install+Stock liked 4.6/23 + LowVoltageOps owns ops SoR; leftover-feature). HOLD taxidermyops+backflowops unchanged. Powdercoatops HOLD \u00b7 ShopWorks WATCH \u00b7 HOLD\u00d74 prior \u00b7 Closed\u00d77 crowding untouched. No Wren/memo. Latch paused. Scout recs pending Calder lock.",
+      "deskChanges": "pipeline upfitops\u2192ACT, lowvoltops\u2192REJECT Closed; metrics.cheapTestsActive=1, cheapTestsClosed=20, cheapTestsPending=0; recentHunt CHEAP_TEST_RESULTS; INSTITUTIONAL Scout execute note; Next Up\u2192Calder lock; session-log + activeVentures + segment-summary; nested foundry.json mirrors."
     },
     {
       "at": "2026-09-24T08:57:35-05:00",
       "actor": "Calder (Harbor Foundry - CEO)",
-      "summary": "Confirmed Thu 2026-09-24 TEST SMALL execute pair: upfitops ACT (Cheap Test only); lowvoltops REJECT Closed. HOLD taxidermyops+backflowops unchanged. ACT Cheap Tests=1; ShopWorks WATCH; Powdercoatops HOLD; HOLD×4 prior; Closed×7 crowding untouched. Latch paused; no Wren; no memo; $0; quiet toward Thomas.",
+      "summary": "Confirmed Thu 2026-09-24 TEST SMALL execute pair: upfitops ACT (Cheap Test only); lowvoltops REJECT Closed. HOLD taxidermyops+backflowops unchanged. ACT Cheap Tests=1; ShopWorks WATCH; Powdercoatops HOLD; HOLD\u00d74 prior; Closed\u00d77 crowding untouched. Latch paused; no Wren; no memo; $0; quiet toward Thomas.",
       "deskChanges": "Calder lock confirmed in pipeline/evidenceDecisions; metrics cheapTestsActive=1, cheapTestsPending=0, lowvoltops Closed; Active Ventures remains Setaside Operating + Latch Paused; Next Up awaits next Scout weekday with light upfitops crowding watch; INSTITUTIONAL appended; nested foundry mirrors refreshed."
     },
     {
       "at": "2026-09-24T08:50:00-05:00",
       "actor": "Calder (Harbor Foundry - CEO)",
-      "summary": "Thu Scout NOT EMPTY: deepened 4; locked TEST SMALL×2 (upfitops, lowvoltops) pending Nico execute; HOLD×2 (taxidermyops vendor-only risk; backflowops prefer EMPTY if hollow). ACT=0 still. Powdercoatops HOLD · ShopWorks WATCH · HOLD×4 prior · Closed×7 crowding untouched. Latch paused; Setaside Operating; $0; quiet toward Thomas. No Wren, no memo.",
+      "summary": "Thu Scout NOT EMPTY: deepened 4; locked TEST SMALL\u00d72 (upfitops, lowvoltops) pending Nico execute; HOLD\u00d72 (taxidermyops vendor-only risk; backflowops prefer EMPTY if hollow). ACT=0 still. Powdercoatops HOLD \u00b7 ShopWorks WATCH \u00b7 HOLD\u00d74 prior \u00b7 Closed\u00d77 crowding untouched. Latch paused; Setaside Operating; $0; quiet toward Thomas. No Wren, no memo.",
       "deskChanges": "pipelineItems prepend upfitops/lowvoltops/taxidermyops/backflowops; metrics pending=2 hold=7 active=0; recentHunt CHEAP_TEST_HUNT; evidenceDecisions lock; Next Up + session log + segment-summary."
     },
     {
       "at": "2026-09-24T08:48:00-05:00",
       "actor": "Nico (Harbor Foundry - Scout)",
-      "summary": "Thursday OS v2 Cheap Test hunt (first weekday after Thomas reopen): screened 16 across E/C/B/V; deepened 4 (upfitops, lowvoltops, taxidermyops, backflowops); early E/C zero → same-cycle deepen B+V. TEST SMALL×4 pending Calder (ACT=0; no crowding cap). Taxidermyops vendor-only HARD. Do not staff. $0.",
+      "summary": "Thursday OS v2 Cheap Test hunt (first weekday after Thomas reopen): screened 16 across E/C/B/V; deepened 4 (upfitops, lowvoltops, taxidermyops, backflowops); early E/C zero \u2192 same-cycle deepen B+V. TEST SMALL\u00d74 pending Calder (ACT=0; no crowding cap). Taxidermyops vendor-only HARD. Do not staff. $0.",
       "deskChanges": "ops/scout-screen-2026-09-24.md + scout-hunt + ranked + four scout-cheaptest packets; INSTITUTIONAL hunt section; emptyScreens HUNT 24; recentHunt CHEAP_TEST_NOMINATED; pipeline +4 TEST SMALL pending; metrics cheapTestsPending=4; Next Up Calder lock; session log."
     },
     {
       "at": "2026-09-24T08:28:00-05:00",
       "actor": "Calder (Harbor Foundry - CEO)",
-      "summary": "Thu morning brief quiet: nothing material overnight vs Wed 2026-09-23 ~9:47 CT reopen lock. Pipeline/AV unchanged (ACT=0; REJECT×7 Closed; Powdercoatops HOLD; ShopWorks WATCH; HOLD×4 prior). Latch paused; Setaside Operating $24/$0; books $0/$38.21/$261.79; $0 spend. Capital privately ~16d to Oct 10; Foundry window ~3d to Sep 27. Next Up + session log refreshed; Scout hunt still unpublished at brief time.",
+      "summary": "Thu morning brief quiet: nothing material overnight vs Wed 2026-09-23 ~9:47 CT reopen lock. Pipeline/AV unchanged (ACT=0; REJECT\u00d77 Closed; Powdercoatops HOLD; ShopWorks WATCH; HOLD\u00d74 prior). Latch paused; Setaside Operating $24/$0; books $0/$38.21/$261.79; $0 spend. Capital privately ~16d to Oct 10; Foundry window ~3d to Sep 27. Next Up + session log refreshed; Scout hunt still unpublished at brief time.",
       "deskChanges": "data/next-up/foundry.json + flat next-up.json + snapshot.nextUp + segment-summary.nextUp + session-log. No pipeline/AV/Results rewrite."
     },
     {
       "at": "2026-09-24T07:52:00-05:00",
       "actor": "Fernando Harbor Foundry Ops",
-      "summary": "Weekday HQ pre-brief Thu: books $0/$38.21/$261.79 unchanged; no sale/spend since 2026-09-02; Setaside Operating; Latch Paused; Presence Active (Tello $9.01); no open blockers. Desk already true from Wed Calder lock (ACT Cheap Tests=0 after REJECT×7; Powdercoatops HOLD; Scout hunts resumed for Thu 8:09 CT). Notion HQ snapshot refreshed from Sep 21 stale line. Advanced Next Up past this pre-brief.",
+      "summary": "Weekday HQ pre-brief Thu: books $0/$38.21/$261.79 unchanged; no sale/spend since 2026-09-02; Setaside Operating; Latch Paused; Presence Active (Tello $9.01); no open blockers. Desk already true from Wed Calder lock (ACT Cheap Tests=0 after REJECT\u00d77; Powdercoatops HOLD; Scout hunts resumed for Thu 8:09 CT). Notion HQ snapshot refreshed from Sep 21 stale line. Advanced Next Up past this pre-brief.",
       "deskChanges": "Notion HQ snapshot line; data/next-up/foundry.json + flat next-up.json + snapshot.nextUp + segment-summary.nextUp + session-log. No Results/Resources/AV/pipeline writes."
     },
     {
@@ -66,80 +72,80 @@
     {
       "at": "2026-09-23T09:45:00-05:00",
       "actor": "Nico (Harbor Scout)",
-      "summary": "Crowding pressure on 8 ACT Cheap Tests complete. Scout REJECT×7 (Cabinetmillops, SurveyOps, Signshop, Snowops, Fenceops, Pavingops, Concreteops); HOLD×1 Powdercoatops; ACT×0. Pending Calder lock. Kill themes: named vertical SoR owns Harbor wedge; QuoteIQ multi-vertical+specialist; EstiMate→shopVOX; takeoff≠ops once pour/crew SoR exists. $0; no Wren; no memo; hunts stay paused.",
-      "deskChanges": "pipelineItems 8→Scout REJECT×7/HOLD×1; metrics.cheapTestsActive=1, cheapTestsPending=7; INSTITUTIONAL crowding append; Next Up→Calder lock; session-log."
+      "summary": "Crowding pressure on 8 ACT Cheap Tests complete. Scout REJECT\u00d77 (Cabinetmillops, SurveyOps, Signshop, Snowops, Fenceops, Pavingops, Concreteops); HOLD\u00d71 Powdercoatops; ACT\u00d70. Pending Calder lock. Kill themes: named vertical SoR owns Harbor wedge; QuoteIQ multi-vertical+specialist; EstiMate\u2192shopVOX; takeoff\u2260ops once pour/crew SoR exists. $0; no Wren; no memo; hunts stay paused.",
+      "deskChanges": "pipelineItems 8\u2192Scout REJECT\u00d77/HOLD\u00d71; metrics.cheapTestsActive=1, cheapTestsPending=7; INSTITUTIONAL crowding append; Next Up\u2192Calder lock; session-log."
     },
     {
       "at": "2026-09-23T09:25:00-05:00",
       "actor": "Nico (Harbor Foundry - Scout)",
-      "summary": "Wednesday OS v2 Cheap Test hunt: screened 16 across A/D/F/G/W; deepened 2 (cabinetmillops, monumentops); early A/D/F zero → same-cycle deepen G+W. TEST SMALL×2 under ACT crowding cap (7 ACTs). Do not staff. $0.",
+      "summary": "Wednesday OS v2 Cheap Test hunt: screened 16 across A/D/F/G/W; deepened 2 (cabinetmillops, monumentops); early A/D/F zero \u2192 same-cycle deepen G+W. TEST SMALL\u00d72 under ACT crowding cap (7 ACTs). Do not staff. $0.",
       "deskChanges": "ops/scout-screen-2026-09-23.md + scout-hunt + two scout-cheaptest packets; INSTITUTIONAL hunt section; emptyScreens HUNT 23; recentHunt CHEAP_TEST_NOMINATED; Next Up + session-log + segment-summary."
     },
     {
       "at": "2026-09-23T09:24:31-05:00",
       "actor": "Calder (Harbor Foundry - CEO)",
-      "summary": "Locked crowding pressure: REJECT×7 ACT Cheap Tests; Powdercoatops HOLD; ACT stack cleared to 0. Scout hunts remain paused. Lesson: occupancy-as-kill-under-crowding.",
+      "summary": "Locked crowding pressure: REJECT\u00d77 ACT Cheap Tests; Powdercoatops HOLD; ACT stack cleared to 0. Scout hunts remain paused. Lesson: occupancy-as-kill-under-crowding.",
       "deskChanges": "pipelineItems + metrics + Active Ventures + evidenceDecisions + lessons + Session Log."
     },
     {
       "at": "2026-09-23T09:20:06-05:00",
       "actor": "Calder (Harbor Foundry - CEO)",
-      "summary": "Thomas paused weekday Scout hunts. Focus window: Nico crowding-pressure pass on 8 ACT Cheap Tests (narrow to 1–2 or kill). Hunt routine paused until Calder reopens.",
+      "summary": "Thomas paused weekday Scout hunts. Focus window: Nico crowding-pressure pass on 8 ACT Cheap Tests (narrow to 1\u20132 or kill). Hunt routine paused until Calder reopens.",
       "deskChanges": "currentStatus/Objective + Next Up (Scout hunt off list) + Session Log."
     },
     {
       "at": "2026-09-23T09:15:00-05:00",
       "actor": "Nico (Harbor Foundry - Scout)",
-      "summary": "Executed Wed TEST SMALL×2 at $0: cabinetmillops ACT (Scout rec; Ellis falsifiers not hard-tripped; ACT crowding 7→8); monumentops REJECT Closed (Ellis vendor-only/fake-pain FAIL; TributeIQ live Free/$49/$99/$249; MB ProBuild/StoneSpot occupy; AI leftover adjacency). Tue Calder lock stands (powdercoatops ACT; upholsteryops REJECT). HOLD×4. ShopWorks WATCH. No Wren/memo. Latch paused. Scout recs pending Calder lock on Wed pair.",
-      "deskChanges": "pipeline cabinetmillops→ACT, monumentops→REJECT Closed; metrics.cheapTestsActive=8, cheapTestsClosed=12, cheapTestsPending=0; recentHunt CHEAP_TEST_RESULTS; INSTITUTIONAL Scout execute note + Tue Calder lock; Next Up + session-log + activeVentures + segment-summary; nested foundry.json mirrors."
+      "summary": "Executed Wed TEST SMALL\u00d72 at $0: cabinetmillops ACT (Scout rec; Ellis falsifiers not hard-tripped; ACT crowding 7\u21928); monumentops REJECT Closed (Ellis vendor-only/fake-pain FAIL; TributeIQ live Free/$49/$99/$249; MB ProBuild/StoneSpot occupy; AI leftover adjacency). Tue Calder lock stands (powdercoatops ACT; upholsteryops REJECT). HOLD\u00d74. ShopWorks WATCH. No Wren/memo. Latch paused. Scout recs pending Calder lock on Wed pair.",
+      "deskChanges": "pipeline cabinetmillops\u2192ACT, monumentops\u2192REJECT Closed; metrics.cheapTestsActive=8, cheapTestsClosed=12, cheapTestsPending=0; recentHunt CHEAP_TEST_RESULTS; INSTITUTIONAL Scout execute note + Tue Calder lock; Next Up + session-log + activeVentures + segment-summary; nested foundry.json mirrors."
     },
     {
       "at": "2026-09-23T09:13:11-05:00",
       "actor": "Calder (Harbor Foundry - CEO)",
-      "summary": "Locked Wed TEST SMALL: cabinetmillops ACT (8th Cheap Test); monumentops REJECT Closed (vendor-only FAIL). ACT crowding reinforced. HOLD×4 unchanged.",
+      "summary": "Locked Wed TEST SMALL: cabinetmillops ACT (8th Cheap Test); monumentops REJECT Closed (vendor-only FAIL). ACT crowding reinforced. HOLD\u00d74 unchanged.",
       "deskChanges": "pipelineItems + metrics + evidenceDecisions + Active Ventures refresh."
     },
     {
       "at": "2026-09-23T09:07:09-05:00",
       "actor": "Calder (Harbor Foundry - CEO)",
-      "summary": "Locked Tue TEST SMALL: powdercoatops ACT; upholsteryops REJECT. Locked Wed hunt TEST SMALL×2: cabinetmillops + monumentops ($0) at ACT-crowding cap. Nico execute; Ellis parallel.",
+      "summary": "Locked Tue TEST SMALL: powdercoatops ACT; upholsteryops REJECT. Locked Wed hunt TEST SMALL\u00d72: cabinetmillops + monumentops ($0) at ACT-crowding cap. Nico execute; Ellis parallel.",
       "deskChanges": "pipelineItems + metrics + evidenceDecisions + Active Ventures; Session Log."
     },
     {
       "at": "2026-09-23T09:05:00-05:00",
       "actor": "Nico (Harbor Foundry - Scout)",
-      "summary": "Executed Tue TEST SMALL×2 at $0: powdercoatops ACT (Scout rec; ACT crowding 6→7); upholsteryops REJECT Closed (StitchDesk Dunham→migrate absorb + thin body / calculator leftover). HOLD awningops/sprayfoamops/glazingops/blindsops unchanged. ShopWorks WATCH untouched. No Wren/memo. Latch paused. Scout recommendations pending Calder lock.",
-      "deskChanges": "pipeline powdercoatops→ACT, upholsteryops→REJECT Closed; metrics.cheapTestsActive=7, cheapTestsClosed=11; recentHunt CHEAP_TEST_RESULTS; INSTITUTIONAL Scout execute note; Next Up + session-log + activeVentures + segment-summary; nested foundry.json mirrors."
+      "summary": "Executed Tue TEST SMALL\u00d72 at $0: powdercoatops ACT (Scout rec; ACT crowding 6\u21927); upholsteryops REJECT Closed (StitchDesk Dunham\u2192migrate absorb + thin body / calculator leftover). HOLD awningops/sprayfoamops/glazingops/blindsops unchanged. ShopWorks WATCH untouched. No Wren/memo. Latch paused. Scout recommendations pending Calder lock.",
+      "deskChanges": "pipeline powdercoatops\u2192ACT, upholsteryops\u2192REJECT Closed; metrics.cheapTestsActive=7, cheapTestsClosed=11; recentHunt CHEAP_TEST_RESULTS; INSTITUTIONAL Scout execute note; Next Up + session-log + activeVentures + segment-summary; nested foundry.json mirrors."
     },
     {
       "at": "2026-09-23T08:44:00-05:00",
       "actor": "Calder (Harbor Foundry - CEO)",
-      "summary": "Wed morning brief: nothing material overnight vs Tue Scout desk lock. Tue already on desk — Concreteops+Snowops ACT; powdercoatops+upholsteryops TEST SMALL pending; HOLD awningops/sprayfoamops (+glazingops/blindsops); SurveyOps+Fenceops+Pavingops+Signshop+Concreteops+Snowops ACT; ShopWorks WATCH; Latch paused; Setaside $24/$0; books $0/$38.21/$261.79; $0 spend. Quiet toward Thomas. Capital clock privately ~17 days to Oct 10; Foundry window ends ~2026-09-27 (~4 days).",
+      "summary": "Wed morning brief: nothing material overnight vs Tue Scout desk lock. Tue already on desk \u2014 Concreteops+Snowops ACT; powdercoatops+upholsteryops TEST SMALL pending; HOLD awningops/sprayfoamops (+glazingops/blindsops); SurveyOps+Fenceops+Pavingops+Signshop+Concreteops+Snowops ACT; ShopWorks WATCH; Latch paused; Setaside $24/$0; books $0/$38.21/$261.79; $0 spend. Quiet toward Thomas. Capital clock privately ~17 days to Oct 10; Foundry window ends ~2026-09-27 (~4 days).",
       "deskChanges": "data/next-up/foundry.json + flat mirror + snapshot.nextUp + session-log; github.io next-up/session-log/segment mirrors. No pipeline/AV truth change vs Tue Calder lock (441b256)."
     },
     {
       "at": "2026-09-23T08:02:00-05:00",
       "actor": "Fernando Harbor Foundry Ops",
-      "summary": "Weekday HQ pre-brief Wed: advanced Next Up past completed pre-brief (commit 984b82d). Pipeline/AV truth unchanged vs Tue Calder Scout lock. Latch Paused; TEST SMALL×2 powdercoatops+upholsteryops still pending; no open blockers noted on desk.",
+      "summary": "Weekday HQ pre-brief Wed: advanced Next Up past completed pre-brief (commit 984b82d). Pipeline/AV truth unchanged vs Tue Calder Scout lock. Latch Paused; TEST SMALL\u00d72 powdercoatops+upholsteryops still pending; no open blockers noted on desk.",
       "deskChanges": "data/next-up/foundry.json + flat mirror + snapshot.nextUp + segment-summary.nextUp only. No Results/Resources/AV/pipeline writes."
     },
     {
       "at": "2026-09-22T09:10:00-05:00",
       "actor": "Calder (Harbor Foundry - CEO)",
-      "summary": "Tue Scout+results lock: Concreteops ACT; Snowops ACT (Mon cohort executed). Tue hunt E/C/B/V screened 16 deepened 4 — TEST SMALL×2 powdercoatops+upholsteryops; HOLD awningops+sprayfoamops under ACT-crowding cap (6 ACTs). Ellis don’t-know-yet. Latch paused; $0; no Wren; no memo. Quiet toward Thomas.",
-      "deskChanges": "pipeline concreteops+snowops→ACT; +powdercoatops+upholsteryops TEST SMALL; metrics.cheapTestsActive=8; recentHunt CHEAP_TEST_NOMINATED; INSTITUTIONAL+locks; Next Up + session-log; act-crowding-cap reinforced.",
+      "summary": "Tue Scout+results lock: Concreteops ACT; Snowops ACT (Mon cohort executed). Tue hunt E/C/B/V screened 16 deepened 4 \u2014 TEST SMALL\u00d72 powdercoatops+upholsteryops; HOLD awningops+sprayfoamops under ACT-crowding cap (6 ACTs). Ellis don\u2019t-know-yet. Latch paused; $0; no Wren; no memo. Quiet toward Thomas.",
+      "deskChanges": "pipeline concreteops+snowops\u2192ACT; +powdercoatops+upholsteryops TEST SMALL; metrics.cheapTestsActive=8; recentHunt CHEAP_TEST_NOMINATED; INSTITUTIONAL+locks; Next Up + session-log; act-crowding-cap reinforced.",
       "lessonId": "act-crowding-cap"
     },
     {
       "at": "2026-09-22T09:00:00-05:00",
       "actor": "Nico (Harbor Foundry - Scout)",
-      "summary": "Tuesday OS v2 Cheap Test hunt: screened 16 across E/C/B/V; deepened 4 (powdercoatops, upholsteryops, awningops, sprayfoamops); early E/C zero → same-cycle deepen B+V. Also executed Mon TEST SMALL → Concreteops ACT; Snowops ACT recommendations. Do not staff.",
+      "summary": "Tuesday OS v2 Cheap Test hunt: screened 16 across E/C/B/V; deepened 4 (powdercoatops, upholsteryops, awningops, sprayfoamops); early E/C zero \u2192 same-cycle deepen B+V. Also executed Mon TEST SMALL \u2192 Concreteops ACT; Snowops ACT recommendations. Do not staff.",
       "deskChanges": "ops/scout-screen-2026-09-22.md + ranked + four packets; cheaptest-result-concreteops/snowops + cohort; challenge files."
     },
     {
       "at": "2026-09-22T08:26:00-05:00",
       "actor": "Calder (Harbor Foundry - CEO)",
-      "summary": "Tue morning brief: nothing material overnight vs Mon desk lock. Mon already on desk — Fri Cheap Tests executed (Pavingops+Signshop ACT; Deckops+Windowdoor REJECT); Mon Scout TEST SMALL×2 (concreteops, snowops) + HOLD glazingops/blindsops under ACT-crowding cap; SurveyOps+Fenceops+Pavingops+Signshop ACT; ShopWorks WATCH; Latch paused; Setaside $24/$0; books $0/$38.21/$261.79; $0 spend. Portfolio 6:00 AM brief already covered Mon Foundry. Quiet toward Thomas. Capital clock privately ~18 days to Oct 10; Foundry window ends ~2026-09-27 (~5 days).",
+      "summary": "Tue morning brief: nothing material overnight vs Mon desk lock. Mon already on desk \u2014 Fri Cheap Tests executed (Pavingops+Signshop ACT; Deckops+Windowdoor REJECT); Mon Scout TEST SMALL\u00d72 (concreteops, snowops) + HOLD glazingops/blindsops under ACT-crowding cap; SurveyOps+Fenceops+Pavingops+Signshop ACT; ShopWorks WATCH; Latch paused; Setaside $24/$0; books $0/$38.21/$261.79; $0 spend. Portfolio 6:00 AM brief already covered Mon Foundry. Quiet toward Thomas. Capital clock privately ~18 days to Oct 10; Foundry window ends ~2026-09-27 (~5 days).",
       "deskChanges": "data/next-up/foundry.json + flat mirror + snapshot.nextUp + session-log; github.io next-up/session-log/segment mirrors. No pipeline/AV truth change vs Mon Calder lock (099ccd2)."
     },
     {
@@ -151,13 +157,13 @@
     {
       "at": "2026-09-21T09:15:00-05:00",
       "actor": "Calder (Harbor Foundry - CEO)",
-      "summary": "Advanced fourth OS v2 Cheap Test cohort under ACT-crowding cap: concreteops + snowops TEST SMALL at $0; glazingops + blindsops HOLD (not Closed). Nico executes two; Ellis red-teams parallel (don’t-know-yet). SurveyOps+Fenceops+Pavingops+Signshop ACT continue; ShopWorks WATCH; Closed REJECT stay closed; Latch paused. No Wren, no memo. Lesson act-crowding-cap Testing.",
+      "summary": "Advanced fourth OS v2 Cheap Test cohort under ACT-crowding cap: concreteops + snowops TEST SMALL at $0; glazingops + blindsops HOLD (not Closed). Nico executes two; Ellis red-teams parallel (don\u2019t-know-yet). SurveyOps+Fenceops+Pavingops+Signshop ACT continue; ShopWorks WATCH; Closed REJECT stay closed; Latch paused. No Wren, no memo. Lesson act-crowding-cap Testing.",
       "deskChanges": "pipelineItems +2 cheapTest TEST SMALL; metrics.cheapTestsActive=6; recentHunt CHEAP_TEST_NOMINATED; evidenceDecisions + calder-lock + challenge ops files; INSTITUTIONAL Calder lock; Next Up refresh; lesson act-crowding-cap."
     },
     {
       "at": "2026-09-21T09:05:00-05:00",
       "actor": "Nico (Harbor Foundry - Scout)",
-      "summary": "Monday OS v2 Cheap Test hunt: screened 16 across A/D/G/W; deepened 4 (concreteops, snowops, glazingops, blindsops); early A/D zero → same-cycle deepen on W+G. SurveyOps/Fenceops/Pavingops/Signshop/ShopWorks not re-nominated. Ranked + screen + packets written. Do not staff.",
+      "summary": "Monday OS v2 Cheap Test hunt: screened 16 across A/D/G/W; deepened 4 (concreteops, snowops, glazingops, blindsops); early A/D zero \u2192 same-cycle deepen on W+G. SurveyOps/Fenceops/Pavingops/Signshop/ShopWorks not re-nominated. Ranked + screen + packets written. Do not staff.",
       "deskChanges": "ops/scout-screen-2026-09-21.md + scout-ranked-cheaptest + four scout-cheaptest packets; INSTITUTIONAL hunt section."
     },
     {
@@ -170,42 +176,42 @@
       "at": "2026-09-21T08:45:00-05:00",
       "actor": "Nico (Harbor Foundry - Scout)",
       "summary": "Executed OS v2 Cheap Tests ($0) for pavingops, signshop, deckops, windowdoor (Fri packets; Mon CT execution). Recommendations: Pavingops ACT; Signshop ACT; Deckops REJECT; Windowdoor REJECT. SurveyOps ACT + Fenceops ACT + ShopWorks WATCH untouched. Wrote ops/cheaptest-result-*-2026-09-18.md + cohort. No Wren; Latch paused.",
-      "deskChanges": "pipelineItems pavingops→ACT, signshop→ACT, deckops→REJECT Closed, windowdoor→REJECT Closed; metrics.cheapTestsActive=5, cheapTestsClosed=8; recentHunt CHEAP_TEST_RESULTS; segment-summary + session-log + activeVentures updated; INSTITUTIONAL results appended."
+      "deskChanges": "pipelineItems pavingops\u2192ACT, signshop\u2192ACT, deckops\u2192REJECT Closed, windowdoor\u2192REJECT Closed; metrics.cheapTestsActive=5, cheapTestsClosed=8; recentHunt CHEAP_TEST_RESULTS; segment-summary + session-log + activeVentures updated; INSTITUTIONAL results appended."
     },
     {
       "at": "2026-09-21T08:35:00-05:00",
       "actor": "Calder (Harbor Foundry - CEO)",
-      "summary": "Mon morning brief: material vs Fri AM brief — Fri post-brief Scout locked TEST SMALL×4 (pavingops, signshop, deckops, windowdoor) at $0; Ellis don’t-know-yet. Weekend quiet; Fri cohort still TEST SMALL (no result files). SurveyOps+Fenceops ACT / ShopWorks WATCH / Closed REJECT unchanged. Latch paused; Setaside $24/$0; books $0/$38.21/$261.79; $0 spend. Fernando Mon pre-brief verified. Notion Tasks missing Fri TEST SMALL rows (flag). Quiet toward Thomas.",
+      "summary": "Mon morning brief: material vs Fri AM brief \u2014 Fri post-brief Scout locked TEST SMALL\u00d74 (pavingops, signshop, deckops, windowdoor) at $0; Ellis don\u2019t-know-yet. Weekend quiet; Fri cohort still TEST SMALL (no result files). SurveyOps+Fenceops ACT / ShopWorks WATCH / Closed REJECT unchanged. Latch paused; Setaside $24/$0; books $0/$38.21/$261.79; $0 spend. Fernando Mon pre-brief verified. Notion Tasks missing Fri TEST SMALL rows (flag). Quiet toward Thomas.",
       "deskChanges": "data/next-up/foundry.json + flat mirror + snapshot.nextUp + session-log. No pipeline/AV truth change vs Fri Calder lock (351ac7d)."
     },
     {
       "at": "2026-09-21T08:05:00-05:00",
       "actor": "Fernando Harbor Foundry Ops",
-      "summary": "Weekday HQ pre-brief Mon: books $0/$38.21/$261.79 unchanged; no new sale/spend since 2026-09-02; Latch Paused; no open blockers. Cheap Test aligned to Fri desk — SurveyOps+Fenceops ACT; TEST SMALL×4 (pavingops/signshop/deckops/windowdoor); ShopWorks WATCH; four REJECT Closed. Notion Tasks missing Fri TEST SMALL rows (flag Nico/Calder). Advanced Next Up.",
+      "summary": "Weekday HQ pre-brief Mon: books $0/$38.21/$261.79 unchanged; no new sale/spend since 2026-09-02; Latch Paused; no open blockers. Cheap Test aligned to Fri desk \u2014 SurveyOps+Fenceops ACT; TEST SMALL\u00d74 (pavingops/signshop/deckops/windowdoor); ShopWorks WATCH; four REJECT Closed. Notion Tasks missing Fri TEST SMALL rows (flag Nico/Calder). Advanced Next Up.",
       "deskChanges": "Notion HQ snapshot line refreshed; data/next-up/foundry.json + flat mirror + snapshot.nextUp + session-log. No Results/Resources/AV/pipeline writes (desk already true from Fri Calder)."
     },
     {
       "at": "2026-09-18T08:54:00-05:00",
       "actor": "Calder (Harbor Foundry - CEO)",
-      "summary": "Advanced third OS v2 Cheap Test cohort: pavingops, signshop, deckops, windowdoor. All TEST SMALL at $0. Nico executes; Ellis red-teams parallel (don’t-know-yet). SurveyOps ACT + Fenceops ACT continue; ShopWorks WATCH; Closed REJECT stay closed; Latch paused. No Wren, no memo.",
+      "summary": "Advanced third OS v2 Cheap Test cohort: pavingops, signshop, deckops, windowdoor. All TEST SMALL at $0. Nico executes; Ellis red-teams parallel (don\u2019t-know-yet). SurveyOps ACT + Fenceops ACT continue; ShopWorks WATCH; Closed REJECT stay closed; Latch paused. No Wren, no memo.",
       "deskChanges": "pipelineItems +4 cheapTest TEST SMALL; metrics.cheapTestsActive=6; recentHunt CHEAP_TEST_NOMINATED; evidenceDecisions + calder-lock + challenge ops files; INSTITUTIONAL Calder lock; Next Up refresh."
     },
     {
       "at": "2026-09-18T08:52:00-05:00",
       "actor": "Nico (Harbor Foundry - Scout)",
-      "summary": "Friday OS v2 Cheap Test hunt: screened 16 across E/C/B/F; deepened 4 Cheap Test packets (pavingops, signshop, deckops, windowdoor); 12 drops (closed AMS, PHI, vendor-own successor, oem-wall-dms, crowded overlays, soft CRM). Early C/E zero → same-cycle deepen on F+B. SurveyOps/Fenceops/ShopWorks not re-nominated. Ranked + screen files written. Do not staff.",
+      "summary": "Friday OS v2 Cheap Test hunt: screened 16 across E/C/B/F; deepened 4 Cheap Test packets (pavingops, signshop, deckops, windowdoor); 12 drops (closed AMS, PHI, vendor-own successor, oem-wall-dms, crowded overlays, soft CRM). Early C/E zero \u2192 same-cycle deepen on F+B. SurveyOps/Fenceops/ShopWorks not re-nominated. Ranked + screen files written. Do not staff.",
       "deskChanges": "ops/scout-screen-2026-09-18.md + scout-ranked-cheaptest + four scout-cheaptest packets; INSTITUTIONAL hunt section."
     },
     {
       "at": "2026-09-18T08:41:00-05:00",
       "actor": "Calder (Harbor Foundry - CEO)",
-      "summary": "Fri morning brief: material vs Thu AM — Thu post-brief Cheap Test cohort locked Fenceops ACT / ShopWorks WATCH / ServiceCore+Watertreat REJECT; SurveyOps ACT continues. Sep 18 Scout no ops output yet as of ~8:41 CT. Latch paused; Setaside $24/$0; $0 spend. Advanced Next Up after this run.",
+      "summary": "Fri morning brief: material vs Thu AM \u2014 Thu post-brief Cheap Test cohort locked Fenceops ACT / ShopWorks WATCH / ServiceCore+Watertreat REJECT; SurveyOps ACT continues. Sep 18 Scout no ops output yet as of ~8:41 CT. Latch paused; Setaside $24/$0; $0 spend. Advanced Next Up after this run.",
       "deskChanges": "data/next-up/foundry.json + flat mirror + snapshot.nextUp + session-log; github.io next-up/session-log/segment mirrors. No pipeline/AV truth change today (locked Thu)."
     },
     {
       "at": "2026-09-18T07:50:00-05:00",
       "actor": "Fernando Harbor Foundry Ops",
-      "summary": "Weekday HQ pre-brief: Notion HQ verified — books $0/$38.21/$261.79 unchanged; no new sale/spend; Latch Paused; Cheap Test SurveyOps+Fenceops ACT / ShopWorks WATCH / ServiceCore+Watertreat REJECT. Advanced Next Up after this run.",
+      "summary": "Weekday HQ pre-brief: Notion HQ verified \u2014 books $0/$38.21/$261.79 unchanged; no new sale/spend; Latch Paused; Cheap Test SurveyOps+Fenceops ACT / ShopWorks WATCH / ServiceCore+Watertreat REJECT. Advanced Next Up after this run.",
       "deskChanges": "data/next-up/foundry.json + flat mirror + snapshot.nextUp; HQ home snapshot line refreshed in Notion. No Results/Resources/AV writes."
     },
     {
@@ -226,12 +232,12 @@
       "at": "2026-09-17T08:58:00-05:00",
       "actor": "Nico (Harbor Foundry - Scout)",
       "summary": "Executed OS v2 Cheap Tests ($0) for ShopWorks, fenceops, ServiceCore, watertreat-ops. Recommendations: Fenceops ACT; ShopWorks WATCH; ServiceCore REJECT; Watertreat-ops REJECT. SurveyOps ACT untouched. Wrote ops/cheaptest-result-*-2026-09-17.md + cohort. No Wren; Latch paused.",
-      "deskChanges": "pipelineItems fenceops→ACT, shopworks→WATCH, servicecore→REJECT Closed, watertreat-ops→REJECT Closed; metrics.cheapTestsActive=3, cheapTestsClosed=4; recentHunt CHEAP_TEST_RESULTS; segment-summary + session-log + activeVentures updated; INSTITUTIONAL results appended."
+      "deskChanges": "pipelineItems fenceops\u2192ACT, shopworks\u2192WATCH, servicecore\u2192REJECT Closed, watertreat-ops\u2192REJECT Closed; metrics.cheapTestsActive=3, cheapTestsClosed=4; recentHunt CHEAP_TEST_RESULTS; segment-summary + session-log + activeVentures updated; INSTITUTIONAL results appended."
     },
     {
       "at": "2026-09-17T08:50:00-05:00",
       "actor": "Calder (Harbor Foundry - CEO)",
-      "summary": "Advanced second OS v2 Cheap Test cohort: ShopWorks, fence ops, ServiceCore, water-treatment dealer ops. All TEST SMALL at $0. Nico executes; Ellis red-teams in parallel (don’t-know-yet). SurveyOps ACT continues; Lightspeed/Ajera stay REJECT Closed; Latch paused. No Wren, no memo.",
+      "summary": "Advanced second OS v2 Cheap Test cohort: ShopWorks, fence ops, ServiceCore, water-treatment dealer ops. All TEST SMALL at $0. Nico executes; Ellis red-teams in parallel (don\u2019t-know-yet). SurveyOps ACT continues; Lightspeed/Ajera stay REJECT Closed; Latch paused. No Wren, no memo.",
       "deskChanges": "pipelineItems +4 cheapTest TEST SMALL; metrics.cheapTestsActive=5; recentHunt CHEAP_TEST_NOMINATED; evidenceDecisions + calder-lock + challenge ops files; INSTITUTIONAL Calder lock."
     },
     {
@@ -257,7 +263,7 @@
       "at": "2026-09-16T18:15:00-05:00",
       "actor": "Nico (Harbor Foundry - Scout)",
       "summary": "Executed OS v2 Cheap Tests ($0) for SurveyOps, Lightspeed DMS, Deltek Ajera. Recommendations: SurveyOps ACT; Lightspeed REJECT; Ajera REJECT. Wrote ops/cheaptest-result-*-2026-09-16.md + cohort brief. No Wren; no outreach; Latch paused.",
-      "deskChanges": "pipelineItems surveyops→ACT, lightspeed-dms→REJECT, ajera→REJECT (all remain stage cheapTest); recentHunt CHEAP_TEST_RESULTS; currentStatus/objective updated; segment-summary + session-log mirrored."
+      "deskChanges": "pipelineItems surveyops\u2192ACT, lightspeed-dms\u2192REJECT, ajera\u2192REJECT (all remain stage cheapTest); recentHunt CHEAP_TEST_RESULTS; currentStatus/objective updated; segment-summary + session-log mirrored."
     },
     {
       "at": "2026-09-16T17:27:51-05:00",
