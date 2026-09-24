@@ -1,13 +1,13 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-24T08:50:00-05:00",
+  "lastUpdated": "2026-09-24T09:00:00-05:00",
   "items": [
     {
-      "title": "Nico execute TEST SMALL×2 (upfitops, lowvoltops) at $0",
-      "nextRunAt": "2026-09-24T10:00:00-05:00",
-      "scheduleLabel": "Today / soon (pending Cheap Test execute)",
-      "owner": "Nico (Harbor Scout)"
+      "title": "Calder lock on Scout execute pair (upfitops ACT / lowvoltops REJECT)",
+      "nextRunAt": "2026-09-24T12:00:00-05:00",
+      "scheduleLabel": "Today / soon (pending Calder lock)",
+      "owner": "Calder (Harbor Foundry - CEO)"
     },
     {
       "title": "Harbor Scout weekday hunt",
@@ -16,7 +16,7 @@
       "owner": "Nico (Harbor Scout)"
     },
     {
-      "title": "Powdercoatops HOLD — watch only; no Wren or memo",
+      "title": "Powdercoatops HOLD \u2014 watch only; no Wren or memo",
       "nextRunAt": "2026-09-25T08:09:00-05:00",
       "scheduleLabel": "With the next weekday Scout hunt",
       "owner": "Calder (Harbor Foundry - CEO)"
