@@ -33,19 +33,10 @@
   ],
   "freshnessNote": "Manual Foundry ops feed. Refresh owner: Calder (CEO) / Fernando (Ops). lastUpdated = last Foundry publish of this summary.",
   "nextUp": {
+    "areaId": "foundry",
+    "areaName": "Harbor Foundry",
+    "lastUpdated": "2026-09-24T07:52:00-05:00",
     "items": [
-      {
-        "title": "Nico's next weekday Scout hunt \u2014 apply crowding kill themes",
-        "nextRunAt": "2026-09-24T08:09:00-05:00",
-        "scheduleLabel": "Weekdays 8:09 AM CT (routine resumed)",
-        "owner": "Nico (Harbor Scout)"
-      },
-      {
-        "title": "Powdercoatops HOLD \u2014 watch only; no Wren or memo",
-        "nextRunAt": "2026-09-24T08:09:00-05:00",
-        "scheduleLabel": "With the next weekday Scout hunt",
-        "owner": "Calder (Harbor Foundry - CEO)"
-      },
       {
         "title": "Foundry morning brief",
         "nextRunAt": "2026-09-24T08:02:00-05:00",
@@ -53,13 +44,18 @@
         "owner": "Calder (Harbor Foundry - CEO)"
       },
       {
+        "title": "Harbor Scout weekday hunt",
+        "nextRunAt": "2026-09-24T08:09:00-05:00",
+        "scheduleLabel": "Weekdays 8:09 AM CT (resumed)",
+        "owner": "Nico (Harbor Scout)"
+      },
+      {
         "title": "Setaside shop health check",
         "nextRunAt": "2026-09-24T09:00:00-05:00",
         "scheduleLabel": "Weekdays 9:00 AM CT",
         "owner": "Sable (Harbor Foundry - Setaside)"
       }
-    ],
-    "lastUpdated": "2026-09-23T09:47:00-05:00"
+    ]
   },
   "headline": "Weekday Scout hunts resumed \u2014 REJECT\u00d77 / HOLD Powdercoatops / ACT=0",
   "currentStatus": "Thomas reopened weekday Scout hunts. Calder resumed the routine Harbor Scout hunt; next normal weekday fire is Thu 2026-09-24 at 8:09 AM CT, with no same-day catch-up hunt. REJECT Closed\u00d77 (Cabinetmillops, SurveyOps, Signshop, Snowops, Fenceops, Pavingops, Concreteops). Powdercoatops HOLD (watch only); ACT=0. ShopWorks WATCH. HOLD\u00d74 prior untouched. Latch Paused. Setaside Operating. $0."
