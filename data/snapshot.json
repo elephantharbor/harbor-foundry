@@ -1,6 +1,6 @@
 {
   "mission": "Create substantial software companies from weak or dated incumbent markets: hunt voraciously, test intelligently, bring decision-ready proposals to Thomas, and execute immediately after approval. Kill rigor stays; appetite rises.",
-  "lastUpdated": "2026-09-25T08:35:00-05:00",
+  "lastUpdated": "2026-09-25T08:40:00-05:00",
   "cycle": "Cycle 3",
   "metrics": {
     "researching": 0,
@@ -11,9 +11,9 @@
     "operatingVentures": 1,
     "setasideSales": "$0",
     "cheapTestsActive": 4,
-    "cheapTestsClosed": 20,
+    "cheapTestsClosed": 22,
     "cheapTestsWatch": 1,
-    "cheapTestsPending": 2,
+    "cheapTestsPending": 0,
     "cheapTestsHold": 12,
     "proposalsPendingThomas": 2,
     "daysSinceLastRealWorldValidation": "n/a",
@@ -24,8 +24,8 @@
     "Deferred Upfit + Setaside proposals still open (ops/proposal-upfit-validation-2026-09-24.md, ops/proposal-setaside-turnaround-2026-09-24.md) \u2014 Thomas skipped Thu; do not re-ask immediately; prefer agent-executable learning when he picks a path",
     "ACT\u00d73 (dentallabops / landscapeyardops / kitchenhoodops) standing $0 public evidence only through 2026-10-08 per Thomas deferral; escalate later only with an agent-run instrument if warranted"
   ],
-  "currentObjective": "Nico $0 census on TEST SMALL beerlineops + motorops (14d ~2026-10-09); keep ACT\u00d74 $0 keep-alive through 2026-10-08; Upfit+Setaside deferred (no re-ask); Latch paused; no Wren/memo/spend without approval.",
-  "currentStatus": "Calder lock 2026-09-25 Fri Scout: NOT EMPTY \u2014 screened 18 (C/E/B/V; early C/E\u21920 same-run deepen V+B); deepened 5; TEST SMALL\u00d72 (beerlineops, motorops) pending Nico $0 census; HOLD\u00d73 new (fleetwashops, sportsfieldops, scaleops) under ACT crowding cap. ACT Cheap Tests still=4 keep-alive through 2026-10-08. HOLD total=12. ShopWorks WATCH. Latch paused; Setaside Operating; $0. Ellis all don\u2019t-know-yet. No immediate Thomas proposal; no Upfit re-ask.",
+  "currentObjective": "Keep ACT\u00d74 on $0 keep-alive through 2026-10-08; Mon Scout + Foundry brief; Upfit+Setaside deferred (no re-ask); Latch paused; no Wren/memo/spend without approval.",
+  "currentStatus": "Calder execute lock 2026-09-25: Fri TEST SMALL beerlineops + motorops both REJECT Closed (occupancy-as-kill \u2014 Tap Trackers; IQMotorBase). ACT Cheap Tests still=4 keep-alive through 2026-10-08. HOLD=12 (incl. fleetwashops/sportsfieldops/scaleops). ShopWorks WATCH. Latch paused; Setaside Operating; $0. No Thomas proposal; Upfit+Setaside stay deferred (no re-ask).",
   "pipelineStages": [
     {
       "id": "scout",
@@ -89,29 +89,31 @@
       "id": "beerlineops",
       "name": "Draft beer line-clean ops SoR",
       "incumbent": "Excel / index cards / paper route sheets + QB",
-      "stage": "cheapTest",
-      "status": "TEST SMALL \u2014 pending Nico $0 census (through ~2026-10-09)",
-      "summary": "Line registry \u2192 QR clean proof \u2192 brewery report beachhead. \u2260 kitchenhoodops. Falsifier: Tap Trackers/Draftline absorb + Jobber leftover.",
+      "stage": "closed",
+      "status": "REJECT \u2014 Closed (occupancy-as-kill: Tap Trackers)",
+      "summary": "Execute: Tap Trackers ships line registry \u2192 QR proof \u2192 brewery report \u2192 route \u2192 QB. Absorb TRIPPED. Prefer EMPTY. \u2260 kitchenhoodops.",
       "owner": "Nico",
       "updated": "2026-09-25",
-      "recommendation": "TEST_SMALL",
+      "recommendation": "REJECT",
       "packetDoc": "ops/scout-cheaptest-beerlineops-2026-09-25.md",
-      "decision": "TEST_SMALL",
-      "note": "Calder lock 2026-09-25: TEST SMALL under ACT crowding \u22642. Ellis don\u2019t-know-yet. No spend/outreach. Latch paused."
+      "decision": "REJECT",
+      "note": "Calder execute lock 2026-09-25: REJECT Closed. Do not reopen without absorption-fail thesis.",
+      "resultDoc": "ops/cheaptest-result-beerlineops-2026-09-25.md"
     },
     {
       "id": "motorops",
       "name": "Motor rewind shop ops SoR",
       "incumbent": "Spreadsheet travelers / sticky notes / paper + QB",
-      "stage": "cheapTest",
-      "status": "TEST SMALL \u2014 pending Nico $0 census (through ~2026-10-09)",
-      "summary": "Job Write-Up \u2192 rewind board + motor history beachhead. \u2260 JobBOSS. Falsifier: Spring Point MotorBase absorb for small-shop ICP.",
+      "stage": "closed",
+      "status": "REJECT \u2014 Closed (occupancy-as-kill: IQMotorBase)",
+      "summary": "Execute: IQMotorBase $349/mo ships Job Write-Up \u2192 board + motor history + QBO. Occupancy-as-kill. Spring Point absorb still open/opaque. Prefer EMPTY. \u2260 JobBOSS.",
       "owner": "Nico",
       "updated": "2026-09-25",
-      "recommendation": "TEST_SMALL",
+      "recommendation": "REJECT",
       "packetDoc": "ops/scout-cheaptest-motorops-2026-09-25.md",
-      "decision": "TEST_SMALL",
-      "note": "Calder lock 2026-09-25: TEST SMALL under ACT crowding \u22642. Ellis don\u2019t-know-yet. No spend/outreach. Latch paused."
+      "decision": "REJECT",
+      "note": "Calder execute lock 2026-09-25: REJECT Closed. Do not reopen without absorption-fail thesis.",
+      "resultDoc": "ops/cheaptest-result-motorops-2026-09-25.md"
     },
     {
       "id": "fleetwashops",
@@ -1696,6 +1698,18 @@
   },
   "evidenceDecisions": [
     {
+      "id": "cheaptest-2026-09-25-calder-execute-lock",
+      "date": "2026-09-25",
+      "title": "Calder lock \u2014 execute results 2026-09-25 (REJECT\u00d72)",
+      "evidence": "Nico $0 census: beerlineops Tap Trackers ships Harbor beachhead (absorb TRIPPED); motorops IQMotorBase $349 ships Job Write-Up\u2192board (occupancy-as-kill). Prefer EMPTY-over-overlays under ACT crowding.",
+      "decision": "beerlineops REJECT Closed; motorops REJECT Closed; ACT=4 unchanged; HOLD=12; pending=0; no Wren/memo/spend; Latch paused; no Thomas proposal",
+      "docs": [
+        "ops/calder-lock-execute-2026-09-25.md",
+        "ops/cheaptest-result-beerlineops-2026-09-25.md",
+        "ops/cheaptest-result-motorops-2026-09-25.md"
+      ]
+    },
+    {
       "id": "cheaptest-2026-09-25-calder-lock",
       "date": "2026-09-25",
       "title": "Calder lock \u2014 Fri Scout Cheap Test cohort 2026-09-25",
@@ -2166,14 +2180,8 @@
   "nextUp": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-25T08:35:00-05:00",
+    "lastUpdated": "2026-09-25T08:40:00-05:00",
     "items": [
-      {
-        "title": "Nico $0 census \u2014 TEST SMALL beerlineops + motorops",
-        "nextRunAt": "2026-09-25T12:00:00-05:00",
-        "scheduleLabel": "Same-day / next execute window; 14d escalate-or-kill ~2026-10-09",
-        "owner": "Nico (Harbor Scout) / Calder"
-      },
       {
         "title": "Foundry morning brief",
         "nextRunAt": "2026-09-28T08:02:00-05:00",
@@ -2191,6 +2199,12 @@
         "nextRunAt": "2026-10-08T17:00:00-05:00",
         "scheduleLabel": "$0 public evidence only through 2026-10-08 (Thomas deferred)",
         "owner": "Calder (Harbor Foundry - CEO) / Nico"
+      },
+      {
+        "title": "Foundry evaluation window (~2026-09-27)",
+        "nextRunAt": "2026-09-27T17:00:00-05:00",
+        "scheduleLabel": "If needed after 2026-09-27 per Scout routine",
+        "owner": "Calder (Harbor Foundry - CEO)"
       }
     ]
   },
@@ -2199,6 +2213,12 @@
     "areaName": "Harbor Foundry",
     "lastUpdated": "2026-09-25T08:35:00-05:00",
     "entries": [
+      {
+        "date": "2026-09-25",
+        "time": "08:40 CT",
+        "summary": "Calder execute lock Fri TEST SMALL\u00d72: beerlineops REJECT Closed (Tap Trackers occupancy-as-kill); motorops REJECT Closed (IQMotorBase occupancy-as-kill). ACT Cheap Tests still=4 keep-alive through 2026-10-08; HOLD=12; pending=0; ShopWorks WATCH. Latch paused; $0; no Wren/memo; no Thomas proposal; Upfit+Setaside stay deferred.",
+        "deskChanges": "pipeline beerlineops/motorops \u2192 REJECT Closed; metrics pending=0 cheapTestsClosed+=2; recentHunt CHEAP_TEST_RESULTS; evidenceDecisions execute lock; Next Up \u2192 Mon brief/Scout + Oct 8 keep-alive + Sep 27 eval window; INSTITUTIONAL execute; mirrors."
+      },
       {
         "date": "2026-09-25",
         "time": "08:35 CT",
@@ -2598,70 +2618,16 @@
   },
   "recentHunt": {
     "date": "2026-09-25",
-    "type": "CHEAP_TEST_HUNT",
-    "summary": "Fri Scout NOT EMPTY: lanes C/E/B/V; screened 18; deepened 5; early C/E\u21920 same-cycle deepen V+B. Calder lock TEST SMALL\u00d72 (beerlineops, motorops) pending Nico $0 census; HOLD\u00d73 (fleetwashops QuoteIQ/FSM; sportsfieldops Aspire HARD; scaleops densest occupancy). ACT=4 unchanged; HOLD=12. Ellis don\u2019t-know-yet\u00d75. No Wren/memo/spend. Latch paused. No immediate Thomas proposal.",
+    "type": "CHEAP_TEST_RESULTS",
+    "summary": "Calder execute lock 2026-09-25: beerlineops REJECT Closed (Tap Trackers ships beachhead); motorops REJECT Closed (IQMotorBase ships Job Write-Up\u2192board). Occupancy-as-kill. ACT=4 unchanged; HOLD=12; pending=0. Ellis don\u2019t-know-yet stood. $0 executed. Latch paused. No Thomas proposal.",
     "docs": [
-      "ops/scout-screen-2026-09-25.md",
-      "ops/scout-hunt-2026-09-25.md",
-      "ops/scout-ranked-cheaptest-2026-09-25.md",
-      "ops/scout-cheaptest-beerlineops-2026-09-25.md",
-      "ops/scout-cheaptest-motorops-2026-09-25.md",
-      "ops/scout-cheaptest-fleetwashops-2026-09-25.md",
-      "ops/scout-cheaptest-sportsfieldops-2026-09-25.md",
-      "ops/scout-cheaptest-scaleops-2026-09-25.md",
-      "ops/challenge-cheaptest-2026-09-25.md",
-      "ops/calder-lock-cheaptest-2026-09-25.md"
-    ],
-    "candidates": [
-      {
-        "name": "beerlineops",
-        "what": "Draft beer line-clean ops SoR",
-        "why": "Tap Trackers Excel/index-card residual; thin lean SoR; \u2260 kitchenhoodops",
-        "status": "TEST_SMALL",
-        "lane": "C/E/V"
-      },
-      {
-        "name": "motorops",
-        "what": "Motor rewind shop ops SoR",
-        "why": "IQMotorBase vs spreadsheets; Spring Point absorption falsifier; \u2260 JobBOSS",
-        "status": "TEST_SMALL",
-        "lane": "B/V"
-      },
-      {
-        "name": "fleetwashops",
-        "what": "Mobile fleet wash ops SoR",
-        "why": "Sprayzapp clipboard residual; QuoteIQ/FSM falsifier",
-        "status": "HOLD",
-        "lane": "E/V"
-      },
-      {
-        "name": "sportsfieldops",
-        "what": "Sports turf / athletic field ops SoR",
-        "why": "SportsFieldOps spreadsheet residual; Aspire mis-tag HARD",
-        "status": "HOLD",
-        "lane": "V"
-      },
-      {
-        "name": "scaleops",
-        "what": "Scale calibration service ops SoR",
-        "why": "Miracle/ScaleSuite class; densest occupancy",
-        "status": "HOLD",
-        "lane": "B/V"
-      }
-    ],
-    "lanes": [
-      "C",
-      "E",
-      "B",
-      "V"
-    ],
-    "motion": {
-      "screened": 18,
-      "deepened": 5,
-      "testSmall": 2,
-      "hold": 3,
-      "empty": false
-    }
+      "ops/calder-lock-execute-2026-09-25.md",
+      "ops/cheaptest-result-beerlineops-2026-09-25.md",
+      "ops/cheaptest-result-motorops-2026-09-25.md",
+      "ops/cheaptest-cohort-2026-09-25-results.md",
+      "ops/calder-lock-cheaptest-2026-09-25.md",
+      "ops/challenge-cheaptest-2026-09-25.md"
+    ]
   },
   "activeVentures": {
     "areaId": "foundry",
@@ -2765,5 +2731,5 @@
       }
     ]
   },
-  "headline": "Fri Scout NOT EMPTY \u2014 TEST SMALL beerlineops + motorops; ACT=4; HOLD=12; $0."
+  "headline": "Fri execute: beerlineops + motorops REJECT Closed; ACT=4; HOLD=12; $0."
 }

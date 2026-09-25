@@ -1,8 +1,14 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-25T08:35:00-05:00",
+  "lastUpdated": "2026-09-25T08:40:00-05:00",
   "entries": [
+    {
+      "date": "2026-09-25",
+      "time": "08:40 CT",
+      "summary": "Calder execute lock Fri TEST SMALL\u00d72: beerlineops REJECT Closed (Tap Trackers occupancy-as-kill); motorops REJECT Closed (IQMotorBase occupancy-as-kill). ACT Cheap Tests still=4 keep-alive through 2026-10-08; HOLD=12; pending=0; ShopWorks WATCH. Latch paused; $0; no Wren/memo; no Thomas proposal; Upfit+Setaside stay deferred.",
+      "deskChanges": "pipeline beerlineops/motorops \u2192 REJECT Closed; metrics pending=0 cheapTestsClosed+=2; recentHunt CHEAP_TEST_RESULTS; evidenceDecisions execute lock; Next Up \u2192 Mon brief/Scout + Oct 8 keep-alive + Sep 27 eval window; INSTITUTIONAL execute; mirrors."
+    },
     {
       "date": "2026-09-25",
       "time": "08:35 CT",

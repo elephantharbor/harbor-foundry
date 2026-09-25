@@ -1,14 +1,8 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-25T08:35:00-05:00",
+  "lastUpdated": "2026-09-25T08:40:00-05:00",
   "items": [
-    {
-      "title": "Nico $0 census \u2014 TEST SMALL beerlineops + motorops",
-      "nextRunAt": "2026-09-25T12:00:00-05:00",
-      "scheduleLabel": "Same-day / next execute window; 14d escalate-or-kill ~2026-10-09",
-      "owner": "Nico (Harbor Scout) / Calder"
-    },
     {
       "title": "Foundry morning brief",
       "nextRunAt": "2026-09-28T08:02:00-05:00",
@@ -26,6 +20,12 @@
       "nextRunAt": "2026-10-08T17:00:00-05:00",
       "scheduleLabel": "$0 public evidence only through 2026-10-08 (Thomas deferred)",
       "owner": "Calder (Harbor Foundry - CEO) / Nico"
+    },
+    {
+      "title": "Foundry evaluation window (~2026-09-27)",
+      "nextRunAt": "2026-09-27T17:00:00-05:00",
+      "scheduleLabel": "If needed after 2026-09-27 per Scout routine",
+      "owner": "Calder (Harbor Foundry - CEO)"
     }
   ]
 }
