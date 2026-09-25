@@ -1,8 +1,14 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-24T17:00:00-05:00",
+  "lastUpdated": "2026-09-25T07:40:00-05:00",
   "entries": [
+    {
+      "at": "2026-09-25T07:40:00-05:00",
+      "actor": "Fernando Harbor Foundry Ops",
+      "summary": "Weekday HQ pre-brief Fri: books $0/$38.21/$261.79 unchanged; no sale/spend since 2026-09-02; Setaside Operating; Latch Paused; Presence Active (Tello $9.01). Desk already true from Calder execute lock 2026-09-24b (ACT Cheap Tests=4 keep-alive through 2026-10-08; HOLD=9; ShopWorks WATCH; $0 Foundry spend; needsHumanAction=true for modest spend + deferred Upfit/Setaside). Notion HQ snapshot refreshed from stale ACT=1 line; created Tasks for dentallabops/landscapeyardops/kitchenhoodops; refreshed upfitops Task. Advanced Next Up past this pre-brief.",
+      "deskChanges": "Notion HQ snapshot line; Notion Tasks \u00d73 ACT keep-alive + upfitops Result refresh; data/next-up/foundry.json + flat next-up.json + snapshot.nextUp + segment-summary.nextUp + session-log. No Results/Resources/AV/pipeline writes (desk already true from Calder)."
+    },
     {
       "at": "2026-09-24T17:00:00-05:00",
       "actor": "Calder (Harbor Foundry - CEO)",

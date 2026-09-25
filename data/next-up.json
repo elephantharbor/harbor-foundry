@@ -1,7 +1,7 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-24T17:00:00-05:00",
+  "lastUpdated": "2026-09-25T07:40:00-05:00",
   "items": [
     {
       "title": "Thomas: approve/decline modest Cheap Test interview spend (dental / yard / hood) or keep $0 to 2026-10-08",
@@ -10,40 +10,16 @@
       "owner": "Thomas / Calder (Harbor Foundry - CEO)"
     },
     {
-      "title": "Thomas review deferred Upfit proposal \u2014 when ready (no outreach until decision)",
-      "nextRunAt": "2026-09-25T09:00:00-05:00",
-      "scheduleLabel": "Deferred; proposal ready; no Upfit spend/outreach",
-      "owner": "Thomas / Calder (Harbor Foundry - CEO)"
-    },
-    {
-      "title": "Thomas review deferred Setaside turnaround \u2014 when ready",
-      "nextRunAt": "2026-09-25T09:00:00-05:00",
-      "scheduleLabel": "Deferred; proposal ready; experiments pending approval",
-      "owner": "Thomas / Calder (Harbor Foundry - CEO) / Sable"
-    },
-    {
-      "title": "Cheap Test keep-alive \u2014 dentallabops / landscapeyardops / kitchenhoodops (escalate-or-kill)",
-      "nextRunAt": "2026-10-08T17:00:00-05:00",
-      "scheduleLabel": "ACT keep-alive through ~2026-10-08; $0 until spend approved",
-      "owner": "Nico (Harbor Scout) / Calder"
-    },
-    {
-      "title": "Expanded Scout hunt \u2014 12\u201320 screen as floor; multi-lane breadth",
-      "nextRunAt": "2026-09-25T08:09:00-05:00",
-      "scheduleLabel": "Weekdays 8:09 AM CT (next Fri); appetite-reset hunt intensity",
-      "owner": "Nico (Harbor Scout) / Calder"
-    },
-    {
       "title": "Foundry morning brief",
       "nextRunAt": "2026-09-25T08:02:00-05:00",
       "scheduleLabel": "Weekdays 8:02 AM CT",
       "owner": "Calder (Harbor Foundry - CEO)"
     },
     {
-      "title": "Setaside shop health check \u2014 until turnaround decision",
-      "nextRunAt": "2026-09-25T09:00:00-05:00",
-      "scheduleLabel": "Weekdays 9:00 AM CT; turnaround proposal deferred",
-      "owner": "Sable (Harbor Foundry - Setaside)"
+      "title": "Expanded Scout hunt \u2014 12\u201320 screen as floor; multi-lane breadth",
+      "nextRunAt": "2026-09-25T08:09:00-05:00",
+      "scheduleLabel": "Weekdays 8:09 AM CT",
+      "owner": "Nico (Harbor Scout) / Calder"
     }
   ]
 }
