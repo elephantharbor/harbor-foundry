@@ -4,13 +4,17 @@
   "description": "Software venture creation \u2014 create companies, not only avoid bad ones.",
   "mission": "Create substantial software companies from weak or dated incumbent markets: hunt voraciously, test intelligently, bring decision-ready proposals to Thomas, and execute immediately after approval. Kill rigor stays; appetite rises.",
   "status": "Operating",
-  "statusDetail": "Calder execute lock 2026-09-24b. ACT keep-alive \u00d73 through 2026-10-08 at $0 only (Thomas deferred spend). upfitops ACT unchanged (deferred). HOLD=9. ACT Cheap Tests=4. Latch paused. Setaside Operating (experiments deferred). $0 spend. No Wren.",
+  "statusDetail": "Calder lock 2026-09-25. ACT Cheap Tests=4 keep-alive through 2026-10-08. TEST SMALL pending=2 (beerlineops, motorops). HOLD=12. ShopWorks WATCH. Latch paused. Setaside Operating (experiments deferred). $0 spend. No Wren.",
   "owner": "Calder (Harbor Foundry - CEO)",
-  "lastUpdated": "2026-09-25T08:05:00-05:00",
+  "lastUpdated": "2026-09-25T08:35:00-05:00",
   "headlineMetrics": [
     {
       "label": "Cheap Tests active",
       "value": "4"
+    },
+    {
+      "label": "TEST SMALL pending",
+      "value": "2"
     },
     {
       "label": "Proposals pending Thomas",
@@ -30,18 +34,18 @@
     },
     {
       "label": "Opportunities screened (week)",
-      "value": "82"
+      "value": "100"
     }
   ],
-  "currentObjective": "Fri Scout hunt (12\u201320 floor) then keep ACT\u00d74 on $0 keep-alive through 2026-10-08; Upfit+Setaside proposals stay deferred (no re-ask); Latch paused; no Wren/memo/spend without approval.",
-  "currentStatusBrief": "needsHumanAction: deferred Upfit/Setaside (no re-ask). ACT=4 keep-alive $0 to 2026-10-08. Fri Scout next.",
+  "currentObjective": "Nico $0 census on TEST SMALL beerlineops + motorops (14d ~2026-10-09); keep ACT\u00d74 $0 keep-alive through 2026-10-08; Upfit+Setaside deferred (no re-ask); Latch paused; no Wren/memo/spend without approval.",
+  "currentStatusBrief": "Fri Scout NOT EMPTY \u2014 TEST SMALL beerline+motor pending census; ACT=4; HOLD=12; deferred Upfit/Setaside (no re-ask).",
   "latestLesson": {
     "id": "occupancy-as-kill-under-crowding",
     "title": "Named vertical SoR that ships our wedge is a kill under crowding pressure",
     "summary": "lowvoltops confirm: LowVoltageOps + Jetbuilt Install/Stock ship Harbor wedge \u2192 REJECT. upfitops thin claimants \u2260 ownership \u2192 ACT still allowed. Keep Confirmed."
   },
   "needsHumanAction": true,
-  "humanAction": "(1) Deferred Upfit + Setaside proposals still open \u2014 Thomas skipped Thu; do not re-ask immediately; agent-executable path when he picks up. (2) ACT\u00d73 standing $0 through 2026-10-08 (Thomas deferred modest spend); escalate later only with agent-run instrument if warranted.",
+  "humanAction": "(1) Deferred Upfit + Setaside proposals still open \u2014 Thomas skipped Thu; do not re-ask immediately; agent-executable path when he picks up. (2) ACT\u00d73 standing $0 through 2026-10-08; escalate later only with agent-run instrument if warranted.",
   "dashboardUrl": "https://elephantharbor.github.io/harbor-foundry/",
   "dashboardState": "live",
   "publicLinks": [
@@ -54,12 +58,12 @@
   "nextUp": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-25T08:05:00-05:00",
+    "lastUpdated": "2026-09-25T08:35:00-05:00",
     "items": [
       {
-        "title": "Expanded Scout hunt \u2014 12\u201320 screen as floor; multi-lane breadth",
-        "nextRunAt": "2026-09-25T08:09:00-05:00",
-        "scheduleLabel": "Weekdays 8:09 AM CT",
+        "title": "Nico $0 census \u2014 TEST SMALL beerlineops + motorops",
+        "nextRunAt": "2026-09-25T12:00:00-05:00",
+        "scheduleLabel": "Same-day / next execute window; 14d escalate-or-kill ~2026-10-09",
         "owner": "Nico (Harbor Scout) / Calder"
       },
       {
@@ -69,6 +73,12 @@
         "owner": "Calder (Harbor Foundry - CEO)"
       },
       {
+        "title": "Expanded Scout hunt \u2014 12\u201320 screen as floor; multi-lane breadth",
+        "nextRunAt": "2026-09-28T08:09:00-05:00",
+        "scheduleLabel": "Weekdays 8:09 AM CT",
+        "owner": "Nico (Harbor Scout) / Calder"
+      },
+      {
         "title": "ACT\u00d73 keep-alive \u2014 escalate-or-kill (dental / yard / hood)",
         "nextRunAt": "2026-10-08T17:00:00-05:00",
         "scheduleLabel": "$0 public evidence only through 2026-10-08 (Thomas deferred)",
@@ -76,6 +86,6 @@
       }
     ]
   },
-  "headline": "Calder execute lock 2026-09-24b \u2014 ACT keep-alive \u00d73 to 2026-10-08; modest spend pending Thomas; ACT=4; $0 executed.",
-  "currentStatus": "Calder execute lock 2026-09-24b: ACT keep-alive \u00d73 through 2026-10-08 (dentallabops \u2014 primary fail not tripped/not cleared, paying-lean independent=0; landscapeyardops \u2014 Aspire mis-tag not tripped, yard ICP holds, n=1 stall; kitchenhoodops \u2014 Inspect Point fire mis-tag CLEARED, Jobber+PDF leftover open). upfitops ACT unchanged (Thomas deferred). HOLD petcremops+pianotechops+prior HOLDs unchanged. ACT Cheap Tests still=4. Latch paused; Setaside Operating; $0 Foundry spend executed. Modest spend pending Thomas."
+  "headline": "Fri Scout NOT EMPTY \u2014 TEST SMALL beerlineops + motorops; ACT=4; HOLD=12; $0.",
+  "currentStatus": "Calder lock 2026-09-25 Fri Scout: NOT EMPTY \u2014 screened 18 (C/E/B/V; early C/E\u21920 same-run deepen V+B); deepened 5; TEST SMALL\u00d72 (beerlineops, motorops) pending Nico $0 census; HOLD\u00d73 new (fleetwashops, sportsfieldops, scaleops) under ACT crowding cap. ACT Cheap Tests still=4 keep-alive through 2026-10-08. HOLD total=12. ShopWorks WATCH. Latch paused; Setaside Operating; $0. Ellis all don\u2019t-know-yet. No immediate Thomas proposal; no Upfit re-ask."
 }

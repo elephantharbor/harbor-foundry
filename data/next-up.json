@@ -1,12 +1,12 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-25T08:05:00-05:00",
+  "lastUpdated": "2026-09-25T08:35:00-05:00",
   "items": [
     {
-      "title": "Expanded Scout hunt \u2014 12\u201320 screen as floor; multi-lane breadth",
-      "nextRunAt": "2026-09-25T08:09:00-05:00",
-      "scheduleLabel": "Weekdays 8:09 AM CT",
+      "title": "Nico $0 census \u2014 TEST SMALL beerlineops + motorops",
+      "nextRunAt": "2026-09-25T12:00:00-05:00",
+      "scheduleLabel": "Same-day / next execute window; 14d escalate-or-kill ~2026-10-09",
       "owner": "Nico (Harbor Scout) / Calder"
     },
     {
@@ -14,6 +14,12 @@
       "nextRunAt": "2026-09-28T08:02:00-05:00",
       "scheduleLabel": "Weekdays 8:02 AM CT",
       "owner": "Calder (Harbor Foundry - CEO)"
+    },
+    {
+      "title": "Expanded Scout hunt \u2014 12\u201320 screen as floor; multi-lane breadth",
+      "nextRunAt": "2026-09-28T08:09:00-05:00",
+      "scheduleLabel": "Weekdays 8:09 AM CT",
+      "owner": "Nico (Harbor Scout) / Calder"
     },
     {
       "title": "ACT\u00d73 keep-alive \u2014 escalate-or-kill (dental / yard / hood)",

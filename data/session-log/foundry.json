@@ -1,8 +1,14 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-25T08:05:00-05:00",
+  "lastUpdated": "2026-09-25T08:35:00-05:00",
   "entries": [
+    {
+      "date": "2026-09-25",
+      "time": "08:35 CT",
+      "summary": "Fri Scout hunt NOT EMPTY under FOUNDATION RESET: screened 18 across C/E/B/V; deepened 5; early C/E\u21920 same-run deepen V+B. Calder lock TEST SMALL\u00d72 (beerlineops, motorops) pending Nico $0 census; HOLD\u00d73 (fleetwashops, sportsfieldops, scaleops) under ACT crowding cap. ACT Cheap Tests still=4; HOLD=12; ShopWorks WATCH. Ellis don\u2019t-know-yet\u00d75. No Wren/memo/spend. Latch paused. No immediate Thomas proposal; Upfit+Setaside stay deferred (no re-ask).",
+      "deskChanges": "pipeline prepend beerlineops/motorops TEST SMALL + fleetwashops/sportsfieldops/scaleops HOLD; metrics pending=2 hold=12 opportunitiesScreenedWeek=100; recentHunt CHEAP_TEST_HUNT 2026-09-25; evidenceDecisions lock; Next Up \u2192 Nico census then Mon brief/Scout; INSTITUTIONAL hunt+lock; segment-summary + mirrors."
+    },
     {
       "at": "2026-09-25T08:05:00-05:00",
       "actor": "Calder (Harbor Foundry - CEO)",
