@@ -1,25 +1,25 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-25T07:40:00-05:00",
+  "lastUpdated": "2026-09-25T08:05:00-05:00",
   "items": [
-    {
-      "title": "Thomas: approve/decline modest Cheap Test interview spend (dental / yard / hood) or keep $0 to 2026-10-08",
-      "nextRunAt": "2026-09-25T09:00:00-05:00",
-      "scheduleLabel": "Bands ~$50\u2013$250 each; stall clear \u2014 or keep $0 to deadline",
-      "owner": "Thomas / Calder (Harbor Foundry - CEO)"
-    },
-    {
-      "title": "Foundry morning brief",
-      "nextRunAt": "2026-09-25T08:02:00-05:00",
-      "scheduleLabel": "Weekdays 8:02 AM CT",
-      "owner": "Calder (Harbor Foundry - CEO)"
-    },
     {
       "title": "Expanded Scout hunt \u2014 12\u201320 screen as floor; multi-lane breadth",
       "nextRunAt": "2026-09-25T08:09:00-05:00",
       "scheduleLabel": "Weekdays 8:09 AM CT",
       "owner": "Nico (Harbor Scout) / Calder"
+    },
+    {
+      "title": "Foundry morning brief",
+      "nextRunAt": "2026-09-28T08:02:00-05:00",
+      "scheduleLabel": "Weekdays 8:02 AM CT",
+      "owner": "Calder (Harbor Foundry - CEO)"
+    },
+    {
+      "title": "ACT\u00d73 keep-alive \u2014 escalate-or-kill (dental / yard / hood)",
+      "nextRunAt": "2026-10-08T17:00:00-05:00",
+      "scheduleLabel": "$0 public evidence only through 2026-10-08 (Thomas deferred)",
+      "owner": "Calder (Harbor Foundry - CEO) / Nico"
     }
   ]
 }

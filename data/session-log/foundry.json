@@ -1,8 +1,14 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-25T07:40:00-05:00",
+  "lastUpdated": "2026-09-25T08:05:00-05:00",
   "entries": [
+    {
+      "at": "2026-09-25T08:05:00-05:00",
+      "actor": "Calder (Harbor Foundry - CEO)",
+      "summary": "Fri morning brief: briefed Thomas on Foundry. Desk still Calder execute lock 2026-09-24b \u2014 ACT Cheap Tests=4 keep-alive through 2026-10-08 (upfitops deferred path + dentallabops/landscapeyardops/kitchenhoodops $0 only); HOLD=9; ShopWorks WATCH; Latch paused; Setaside Operating (experiments deferred); $0 Foundry spend. needsHumanAction remains true for deferred Upfit+Setaside (no re-ask today). Motion: ~82 screens this week; proposals pending=2 deferred; no real-world validation in flight. Advanced Next Up past this brief to today\u2019s Scout hunt, Mon brief, Oct 8 keep-alive.",
+      "deskChanges": "data/next-up/foundry.json + flat next-up.json + snapshot.nextUp + segment-summary.nextUp/humanAction alignment (interview-spend re-ask retired per Thomas deferral + agent-executable preference); session-log append. No pipeline/AV rewrite."
+    },
     {
       "at": "2026-09-25T07:40:00-05:00",
       "actor": "Fernando Harbor Foundry Ops",

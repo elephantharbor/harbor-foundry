@@ -1,6 +1,6 @@
 {
   "mission": "Create substantial software companies from weak or dated incumbent markets: hunt voraciously, test intelligently, bring decision-ready proposals to Thomas, and execute immediately after approval. Kill rigor stays; appetite rises.",
-  "lastUpdated": "2026-09-24T17:00:00-05:00",
+  "lastUpdated": "2026-09-25T08:05:00-05:00",
   "cycle": "Cycle 3",
   "metrics": {
     "researching": 0,
@@ -21,11 +21,11 @@
     "foundrySpend": "$0"
   },
   "needsHumanAttention": [
-    "Deferred Upfit + Setaside proposals still open (ops/proposal-upfit-validation-2026-09-24.md, ops/proposal-setaside-turnaround-2026-09-24.md)",
-    "Approve or decline modest interview spend to clear stall on dental lab / landscape yard / kitchen hood Cheap Tests (bands ~$50\u2013$250 each) or keep $0 to 2026-10-08"
+    "Deferred Upfit + Setaside proposals still open (ops/proposal-upfit-validation-2026-09-24.md, ops/proposal-setaside-turnaround-2026-09-24.md) \u2014 Thomas skipped Thu; do not re-ask immediately; prefer agent-executable learning when he picks a path",
+    "ACT\u00d73 (dentallabops / landscapeyardops / kitchenhoodops) standing $0 public evidence only through 2026-10-08 per Thomas deferral; escalate later only with an agent-run instrument if warranted"
   ],
-  "currentObjective": "Await Thomas on modest interview spend (~$50\u2013$250 each) for dentallabops / landscapeyardops / kitchenhoodops or keep $0 to 2026-10-08 escalate-or-kill; keep Upfit+Setaside proposals ready; Fri Scout hunt (12\u201320 floor); Latch paused; no Wren/memo/spend without approval.",
-  "currentStatus": "Calder execute lock 2026-09-24b: ACT keep-alive \u00d73 through 2026-10-08 (dentallabops \u2014 primary fail not tripped/not cleared, paying-lean independent=0; landscapeyardops \u2014 Aspire mis-tag not tripped, yard ICP holds, n=1 stall; kitchenhoodops \u2014 Inspect Point fire mis-tag CLEARED, Jobber+PDF leftover open). upfitops ACT unchanged (Thomas deferred). HOLD petcremops+pianotechops+prior HOLDs unchanged. ACT Cheap Tests still=4. Latch paused; Setaside Operating; $0 Foundry spend executed. Modest spend pending Thomas.",
+  "currentObjective": "Fri Scout hunt (12\u201320 floor) then keep ACT\u00d74 on $0 keep-alive through 2026-10-08; Upfit+Setaside proposals stay deferred (no re-ask); Latch paused; no Wren/memo/spend without approval.",
+  "currentStatus": "Calder execute lock 2026-09-24b still authoritative. ACT Cheap Tests=4 keep-alive through 2026-10-08 (dentallabops / landscapeyardops / kitchenhoodops at $0 only \u2014 Thomas deferred modest spend; upfitops ACT unchanged, deferred path). HOLD=9; ShopWorks WATCH; Latch paused; Setaside Operating (experiments deferred); $0 Foundry spend executed. needsHumanAction: deferred Upfit+Setaside only (no interview re-ask). Fri morning brief delivered.",
   "pipelineStages": [
     {
       "id": "scout",
@@ -2084,33 +2084,39 @@
   "nextUp": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-25T07:40:00-05:00",
+    "lastUpdated": "2026-09-25T08:05:00-05:00",
     "items": [
-      {
-        "title": "Thomas: approve/decline modest Cheap Test interview spend (dental / yard / hood) or keep $0 to 2026-10-08",
-        "nextRunAt": "2026-09-25T09:00:00-05:00",
-        "scheduleLabel": "Bands ~$50\u2013$250 each; stall clear \u2014 or keep $0 to deadline",
-        "owner": "Thomas / Calder (Harbor Foundry - CEO)"
-      },
-      {
-        "title": "Foundry morning brief",
-        "nextRunAt": "2026-09-25T08:02:00-05:00",
-        "scheduleLabel": "Weekdays 8:02 AM CT",
-        "owner": "Calder (Harbor Foundry - CEO)"
-      },
       {
         "title": "Expanded Scout hunt \u2014 12\u201320 screen as floor; multi-lane breadth",
         "nextRunAt": "2026-09-25T08:09:00-05:00",
         "scheduleLabel": "Weekdays 8:09 AM CT",
         "owner": "Nico (Harbor Scout) / Calder"
+      },
+      {
+        "title": "Foundry morning brief",
+        "nextRunAt": "2026-09-28T08:02:00-05:00",
+        "scheduleLabel": "Weekdays 8:02 AM CT",
+        "owner": "Calder (Harbor Foundry - CEO)"
+      },
+      {
+        "title": "ACT\u00d73 keep-alive \u2014 escalate-or-kill (dental / yard / hood)",
+        "nextRunAt": "2026-10-08T17:00:00-05:00",
+        "scheduleLabel": "$0 public evidence only through 2026-10-08 (Thomas deferred)",
+        "owner": "Calder (Harbor Foundry - CEO) / Nico"
       }
     ]
   },
   "sessionLog": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-25T07:40:00-05:00",
+    "lastUpdated": "2026-09-25T08:05:00-05:00",
     "entries": [
+      {
+        "at": "2026-09-25T08:05:00-05:00",
+        "actor": "Calder (Harbor Foundry - CEO)",
+        "summary": "Fri morning brief: briefed Thomas on Foundry. Desk still Calder execute lock 2026-09-24b \u2014 ACT Cheap Tests=4 keep-alive through 2026-10-08 (upfitops deferred path + dentallabops/landscapeyardops/kitchenhoodops $0 only); HOLD=9; ShopWorks WATCH; Latch paused; Setaside Operating (experiments deferred); $0 Foundry spend. needsHumanAction remains true for deferred Upfit+Setaside (no re-ask today). Motion: ~82 screens this week; proposals pending=2 deferred; no real-world validation in flight. Advanced Next Up past this brief to today\u2019s Scout hunt, Mon brief, Oct 8 keep-alive.",
+        "deskChanges": "data/next-up/foundry.json + flat next-up.json + snapshot.nextUp + segment-summary.nextUp/humanAction alignment (interview-spend re-ask retired per Thomas deferral + agent-executable preference); session-log append. No pipeline/AV rewrite."
+      },
       {
         "at": "2026-09-25T07:40:00-05:00",
         "actor": "Fernando Harbor Foundry Ops",
