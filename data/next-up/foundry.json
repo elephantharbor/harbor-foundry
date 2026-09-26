@@ -1,7 +1,7 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-09-25T08:40:00-05:00",
+  "lastUpdated": "2026-09-26T10:30:00-05:00",
   "items": [
     {
       "title": "Foundry morning brief",
@@ -10,15 +10,15 @@
       "owner": "Calder (Harbor Foundry - CEO)"
     },
     {
-      "title": "Expanded Scout hunt \u2014 12\u201320 screen as floor; multi-lane breadth",
+      "title": "Expanded Scout hunt — 12–20 screen as floor; multi-lane breadth",
       "nextRunAt": "2026-09-28T08:09:00-05:00",
       "scheduleLabel": "Weekdays 8:09 AM CT",
       "owner": "Nico (Harbor Scout) / Calder"
     },
     {
-      "title": "ACT\u00d73 keep-alive \u2014 escalate-or-kill (dental / yard / hood)",
+      "title": "ACT×4 SPK gate — Scale / Pivot / Kill (upfit / dental / yard / hood)",
       "nextRunAt": "2026-10-08T17:00:00-05:00",
-      "scheduleLabel": "$0 public evidence only through 2026-10-08 (Thomas deferred)",
+      "scheduleLabel": "SPK decision date 2026-10-08 ($0 keep-alive; sooner if primary fail clears)",
       "owner": "Calder (Harbor Foundry - CEO) / Nico"
     },
     {

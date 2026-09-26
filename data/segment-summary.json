@@ -1,12 +1,12 @@
 {
   "segmentId": "foundry",
   "segmentName": "Harbor Foundry",
-  "description": "Software venture creation \u2014 create companies, not only avoid bad ones.",
+  "description": "Software venture creation — create companies, not only avoid bad ones.",
   "mission": "Create substantial software companies from weak or dated incumbent markets: hunt voraciously, test intelligently, bring decision-ready proposals to Thomas, and execute immediately after approval. Kill rigor stays; appetite rises.",
   "status": "Operating",
-  "statusDetail": "Calder execute lock 2026-09-25. Fri TEST SMALL beerlineops+motorops REJECT Closed. ACT Cheap Tests=4 keep-alive through 2026-10-08. HOLD=12. ShopWorks WATCH. Latch paused. Setaside Operating (experiments deferred). $0. No Wren.",
+  "statusDetail": "Calder SPK lock 2026-09-26. ACT Cheap Tests=4 keep-alive through 2026-10-08 with explicit Scale/Pivot/Kill criteria locked (ops/spk-foundry-act-cheaptests-2026-09-26.md). Fri REJECT Closed beerlineops+motorops stands. HOLD=12. ShopWorks WATCH. Latch paused. Setaside Operating (experiments deferred). $0. No Wren. No re-ask Upfit/Setaside.",
   "owner": "Calder (Harbor Foundry - CEO)",
-  "lastUpdated": "2026-09-25T08:40:00-05:00",
+  "lastUpdated": "2026-09-26T10:30:00-05:00",
   "headlineMetrics": [
     {
       "label": "Cheap Tests active",
@@ -37,15 +37,15 @@
       "value": "100"
     }
   ],
-  "currentObjective": "Keep ACT\u00d74 on $0 keep-alive through 2026-10-08; Mon Scout + Foundry brief; Upfit+Setaside deferred (no re-ask); Latch paused; no Wren/memo/spend without approval.",
-  "currentStatusBrief": "Fri execute REJECT\u00d72 (beerline/motor occupancy-as-kill). ACT=4; HOLD=12; deferred Upfit/Setaside (no re-ask).",
+  "currentObjective": "SPK criteria locked for ACT×4 through 2026-10-08 (Scale/Pivot/Kill); $0 keep-alive; Mon Scout + Foundry brief; Upfit+Setaside deferred (no re-ask); Latch paused; no Wren/memo/spend without approval.",
+  "currentStatusBrief": "SPK packet locked for ACT×4 (Oct 8 gate). Fri REJECT×2 stands. HOLD=12; deferred Upfit/Setaside (no re-ask).",
   "latestLesson": {
     "id": "occupancy-as-kill-under-crowding",
     "title": "Named vertical SoR that ships our wedge is a kill under crowding pressure",
-    "summary": "lowvoltops confirm: LowVoltageOps + Jetbuilt Install/Stock ship Harbor wedge \u2192 REJECT. upfitops thin claimants \u2260 ownership \u2192 ACT still allowed. Keep Confirmed."
+    "summary": "lowvoltops confirm: LowVoltageOps + Jetbuilt Install/Stock ship Harbor wedge → REJECT. upfitops thin claimants ≠ ownership → ACT still allowed. Keep Confirmed."
   },
   "needsHumanAction": true,
-  "humanAction": "(1) Deferred Upfit + Setaside proposals still open \u2014 Thomas skipped Thu; do not re-ask immediately; agent-executable path when he picks up. (2) ACT\u00d73 standing $0 through 2026-10-08; escalate later only with agent-run instrument if warranted.",
+  "humanAction": "Deferred Upfit + Setaside proposals still open — Thomas skipped Thu; do not re-ask; agent-executable path (landing/waitlist preferred for Upfit) when he picks up.",
   "dashboardUrl": "https://elephantharbor.github.io/harbor-foundry/",
   "dashboardState": "live",
   "publicLinks": [
@@ -58,7 +58,7 @@
   "nextUp": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-25T08:40:00-05:00",
+    "lastUpdated": "2026-09-26T10:30:00-05:00",
     "items": [
       {
         "title": "Foundry morning brief",
@@ -67,15 +67,15 @@
         "owner": "Calder (Harbor Foundry - CEO)"
       },
       {
-        "title": "Expanded Scout hunt \u2014 12\u201320 screen as floor; multi-lane breadth",
+        "title": "Expanded Scout hunt — 12–20 screen as floor; multi-lane breadth",
         "nextRunAt": "2026-09-28T08:09:00-05:00",
         "scheduleLabel": "Weekdays 8:09 AM CT",
         "owner": "Nico (Harbor Scout) / Calder"
       },
       {
-        "title": "ACT\u00d73 keep-alive \u2014 escalate-or-kill (dental / yard / hood)",
+        "title": "ACT×4 SPK gate — Scale / Pivot / Kill (upfit / dental / yard / hood)",
         "nextRunAt": "2026-10-08T17:00:00-05:00",
-        "scheduleLabel": "$0 public evidence only through 2026-10-08 (Thomas deferred)",
+        "scheduleLabel": "SPK decision date 2026-10-08 ($0 keep-alive; sooner if primary fail clears)",
         "owner": "Calder (Harbor Foundry - CEO) / Nico"
       },
       {
@@ -86,6 +86,6 @@
       }
     ]
   },
-  "headline": "Fri execute: beerlineops + motorops REJECT Closed; ACT=4; HOLD=12; $0.",
-  "currentStatus": "Calder execute lock 2026-09-25: Fri TEST SMALL beerlineops + motorops both REJECT Closed (occupancy-as-kill \u2014 Tap Trackers; IQMotorBase). ACT Cheap Tests still=4 keep-alive through 2026-10-08. HOLD=12 (incl. fleetwashops/sportsfieldops/scaleops). ShopWorks WATCH. Latch paused; Setaside Operating; $0. No Thomas proposal; Upfit+Setaside stay deferred (no re-ask)."
+  "headline": "SPK locked for ACT×4 through 2026-10-08; Fri REJECT×2 stands; $0.",
+  "currentStatus": "Calder SPK lock 2026-09-26: Scale/Pivot/Kill criteria locked for ACT Cheap Tests set (upfitops · dentallabops · landscapeyardops · kitchenhoodops) — decision date 2026-10-08 or sooner if primary fail clears. Packet: ops/spk-foundry-act-cheaptests-2026-09-26.md. Fri execute REJECT Closed beerlineops+motorops unchanged. ACT=4; HOLD=12; ShopWorks WATCH; Latch paused; Setaside Operating; $0. needsHumanAction: deferred Upfit+Setaside only (no re-ask)."
 }
