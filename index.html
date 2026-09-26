@@ -21,7 +21,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Harbor Foundry — Operating dashboard</title>
   <meta name="description" content="Harbor Foundry operating dashboard — venture pipeline, evidence, and lessons." />
-  <link rel="stylesheet" href="https://elephantharbor.github.io/shared/eh-console.css?v=20260911av" />
+  <link rel="stylesheet" href="https://elephantharbor.github.io/shared/eh-console.css?v=20260926wide1" />
+  <script src="https://elephantharbor.github.io/shared/eh-wayhome.js?v=20260926way1"></script>
   <script>(function(){try{var t=localStorage.getItem('eh-console-theme');document.documentElement.setAttribute('data-theme',(t==='light'||t==='dark')?t:'dark');}catch(e){document.documentElement.setAttribute('data-theme','dark');}})();</script>
   <link rel="stylesheet" href="static/segment.css" />
 </head>
@@ -41,14 +42,7 @@
   </header>
 
   <a class="skip-link" href="#app">Skip to content</a>
-  <nav class="wayhome" aria-label="Elephant Harbor">
-    <a data-segment="portfolio" href="https://console.elephantharbor.com/">Elephant Harbor / Portfolio</a>
-    <span class="sep" aria-hidden="true">/</span>
-    <a data-segment="capital" href="https://console.elephantharbor.com/harbor-capital-desk/">Capital</a>
-    <a data-segment="presence" href="https://console.elephantharbor.com/harbor-presence/">Presence</a>
-    <a data-segment="foundry" href="https://console.elephantharbor.com/harbor-foundry/" class="active" aria-current="page">Foundry</a>
-    <a data-segment="local" href="https://console.elephantharbor.com/harbor-local/">Local</a>
-  </nav>
+  <nav class="wayhome" aria-label="Elephant Harbor" data-segment="foundry"></nav>
 
   <nav class="nav" id="nav" aria-label="Primary views">
     <button type="button" data-view="overview" class="active">Overview</button>
@@ -72,6 +66,18 @@
   <script src="https://elephantharbor.github.io/shared/eh-session-log.js?v=20260911av"></script>
   <script src="https://elephantharbor.github.io/shared/eh-active-ventures.js?v=20260911av"></script>
 
+  <script>
+  (function () {
+    function mountWayhome() {
+      var nav = document.querySelector("nav.wayhome");
+      if (!nav || !window.EH) return;
+      if (typeof EH.mountWayhome === "function") EH.mountWayhome(nav);
+      else if (EH.wayhome && typeof EH.wayhome.mount === "function") EH.wayhome.mount(nav);
+    }
+    if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", mountWayhome);
+    else mountWayhome();
+  })();
+  </script>
   <script src="static/app.js?v=20260911av"></script>
 </body>
 </html>
