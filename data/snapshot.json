@@ -1,6 +1,6 @@
 {
   "mission": "Create substantial software companies from weak or dated incumbent markets: hunt voraciously, test intelligently, bring decision-ready proposals to Thomas, and execute immediately after approval. Kill rigor stays; appetite rises.",
-  "lastUpdated": "2026-09-28T05:40:00-05:00",
+  "lastUpdated": "2026-10-03T08:50:00-05:00",
   "cycle": "Cycle 3",
   "metrics": {
     "researching": 0,
@@ -21,10 +21,11 @@
     "foundrySpend": "$0"
   },
   "needsHumanAttention": [
-    "TOKEN CONSERVATION pause active through ~2026-10-04 \u2014 no Thomas re-ask on deferred Upfit+Setaside"
+    "Deferred Upfit + Setaside proposals still open \u2014 do not re-ask immediately",
+    "ACT\u00d74 SPK gate 2026-10-08"
   ],
-  "currentObjective": "Paused for portfolio token conservation through ~2026-10-04. Oct 8 SPK remains dated; no keep-alive churn. Do not re-ask Thomas on deferred Upfit/Setaside.",
-  "currentStatus": "Hayes TOKEN CONSERVATION: Foundry morning brief + Scout weekday hunt paused. No proactive Scout/Cheap-Test/Challenge/Setaside-health burn until ~2026-10-04 resume review. ACT=4 SPK gate 2026-10-08 calendar-only. HOLD=12. Latch paused. Setaside Operating (experiments deferred). Upfit+Setaside Deferred (no re-ask). $0.",
+  "currentObjective": "Normal Foundry cadence restored. ACT\u00d74 SPK gate 2026-10-08. Upfit+Setaside stay Deferred (no re-ask). Next weekday brief + Scout Mon 8:02/8:09 CT.",
+  "currentStatus": "Token freeze lifted 2026-10-03. Morning brief + Scout hunt resumed. ACT Cheap Tests=4 through 2026-10-08 SPK. HOLD=12. Latch paused. Setaside Operating (experiments deferred). Upfit+Setaside Deferred (no re-ask). $0. No Wren.",
   "pipelineStages": [
     {
       "id": "scout",

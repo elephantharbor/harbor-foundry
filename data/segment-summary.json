@@ -4,9 +4,9 @@
   "description": "Software venture creation \u2014 create companies, not only avoid bad ones.",
   "mission": "Create substantial software companies from weak or dated incumbent markets: hunt voraciously, test intelligently, bring decision-ready proposals to Thomas, and execute immediately after approval. Kill rigor stays; appetite rises.",
   "status": "Operating",
-  "statusDetail": "TOKEN CONSERVATION pause (Hayes): morning brief + Scout hunt routines paused until ~2026-10-04 resume review. ACT\u00d74 SPK gate 2026-10-08 on calendar only \u2014 no daily burn. Upfit+Setaside Deferred (no re-ask). Latch paused. $0.",
+  "statusDetail": "Token freeze lifted 2026-10-03. Morning brief + Scout hunt routines resumed (weekday). ACT Cheap Tests=4 keep-alive through 2026-10-08 SPK. HOLD=12. Latch paused. Setaside Operating (experiments deferred). $0. No Wren.",
   "owner": "Calder (Harbor Foundry - CEO)",
-  "lastUpdated": "2026-09-28T05:40:00-05:00",
+  "lastUpdated": "2026-10-03T08:50:00-05:00",
   "headlineMetrics": [
     {
       "label": "Cheap Tests active",
@@ -37,15 +37,15 @@
       "value": "100"
     }
   ],
-  "currentObjective": "Paused for portfolio token conservation through ~2026-10-04. Oct 8 SPK remains dated; no keep-alive churn. Do not re-ask Thomas on deferred Upfit/Setaside.",
-  "currentStatusBrief": "Routines paused; proactive Foundry burn off until Hayes/Calder resume.",
+  "currentObjective": "Normal Foundry cadence restored. ACT\u00d74 SPK gate 2026-10-08. Upfit+Setaside stay Deferred (no re-ask). Next weekday brief + Scout Mon 8:02/8:09 CT.",
+  "currentStatusBrief": "Freeze lifted. Stack unchanged: ACT=4, HOLD=12, $0.",
   "latestLesson": {
     "id": "occupancy-as-kill-under-crowding",
     "title": "Named vertical SoR that ships our wedge is a kill under crowding pressure",
     "summary": "lowvoltops confirm: LowVoltageOps + Jetbuilt Install/Stock ship Harbor wedge \u2192 REJECT. upfitops thin claimants \u2260 ownership \u2192 ACT still allowed. Keep Confirmed."
   },
   "needsHumanAction": true,
-  "humanAction": "None while paused \u2014 deferred Upfit+Setaside stay deferred (no re-ask).",
+  "humanAction": "(1) Deferred Upfit + Setaside proposals still open \u2014 do not re-ask. (2) ACT\u00d74 SPK on 2026-10-08.",
   "dashboardUrl": "https://elephantharbor.github.io/harbor-foundry/",
   "dashboardState": "live",
   "publicLinks": [
