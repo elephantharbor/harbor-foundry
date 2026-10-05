@@ -1,8 +1,15 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-10-05T07:45:00-05:00",
+  "lastUpdated": "2026-10-05T08:25:00-05:00",
   "entries": [
+    {
+      "date": "2026-10-05",
+      "time": "08:25 CT",
+      "actor": "Calder",
+      "summary": "Mon morning brief (first after freeze lift): briefed Thomas. Nothing new since the 10-03 lock: 4 live Cheap Tests (upfit / dental lab / landscape yard / kitchen hood) face the Thu Oct 8 Scale/Pivot/Kill decision; 12 on hold; no screens since Fri 9-25 until today's Scout hunt (running now); no real-world validation yet ($0 sales, no outside buyer signal); $0 spend, no spend ask; Latch paused; Upfit + Setaside still deferred (no re-ask).",
+      "deskChanges": "Next Up advanced to Tue 10-06 brief/Scout + Thu Oct 8 SPK; session log updated."
+    },
     {
       "date": "2026-10-05",
       "time": "07:45 CT",

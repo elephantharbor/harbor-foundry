@@ -1,6 +1,6 @@
 {
   "mission": "Create substantial software companies from weak or dated incumbent markets: hunt voraciously, test intelligently, bring decision-ready proposals to Thomas, and execute immediately after approval. Kill rigor stays; appetite rises.",
-  "lastUpdated": "2026-10-05T07:45:00-05:00",
+  "lastUpdated": "2026-10-05T08:25:00-05:00",
   "cycle": "Cycle 3",
   "metrics": {
     "researching": 0,
@@ -24,7 +24,7 @@
     "Deferred Upfit + Setaside proposals still open \u2014 do not re-ask immediately",
     "ACT\u00d74 SPK gate 2026-10-08"
   ],
-  "currentObjective": "Normal Foundry cadence restored. ACT\u00d74 SPK gate 2026-10-08. Upfit+Setaside stay Deferred (no re-ask). Next weekday brief + Scout Mon 8:02/8:09 CT.",
+  "currentObjective": "Normal Foundry cadence restored. ACT\u00d74 SPK decision Thu 2026-10-08. Upfit+Setaside stay Deferred (no re-ask). Next weekday brief + Scout Tue 8:02/8:09 CT.",
   "currentStatus": "Token freeze lifted 2026-10-03. Morning brief + Scout hunt resumed. ACT Cheap Tests=4 through 2026-10-08 SPK. HOLD=12. Latch paused. Setaside Operating (experiments deferred). Upfit+Setaside Deferred (no re-ask). $0. No Wren.",
   "pipelineStages": [
     {
@@ -2180,24 +2180,24 @@
   "nextUp": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-10-05T07:45:00-05:00",
+    "lastUpdated": "2026-10-05T08:25:00-05:00",
     "items": [
       {
         "title": "Foundry morning brief",
-        "nextRunAt": "2026-10-05T08:02:00-05:00",
+        "nextRunAt": "2026-10-06T08:02:00-05:00",
         "scheduleLabel": "Weekdays 8:02 AM CT",
         "owner": "Calder (Harbor Foundry - CEO)"
       },
       {
         "title": "Expanded Scout hunt \u2014 12\u201320 screen as floor; multi-lane breadth",
-        "nextRunAt": "2026-10-05T08:09:00-05:00",
-        "scheduleLabel": "Weekdays 8:09 AM CT",
+        "nextRunAt": "2026-10-06T08:09:00-05:00",
+        "scheduleLabel": "Weekdays 8:09 AM CT (Mon 10-05 hunt in progress)",
         "owner": "Nico (Harbor Scout) / Calder"
       },
       {
         "title": "ACT\u00d74 SPK gate \u2014 Scale / Pivot / Kill (upfit / dental / yard / hood)",
         "nextRunAt": "2026-10-08T17:00:00-05:00",
-        "scheduleLabel": "SPK decision date 2026-10-08 ($0 keep-alive; sooner if primary fail clears)",
+        "scheduleLabel": "SPK decision Thu 2026-10-08 ($0 keep-alive; sooner if primary fail clears)",
         "owner": "Calder (Harbor Foundry - CEO) / Nico"
       }
     ]
@@ -2205,8 +2205,15 @@
   "sessionLog": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-10-05T07:45:00-05:00",
+    "lastUpdated": "2026-10-05T08:25:00-05:00",
     "entries": [
+      {
+        "date": "2026-10-05",
+        "time": "08:25 CT",
+        "actor": "Calder",
+        "summary": "Mon morning brief (first after freeze lift): briefed Thomas. Nothing new since the 10-03 lock: 4 live Cheap Tests (upfit / dental lab / landscape yard / kitchen hood) face the Thu Oct 8 Scale/Pivot/Kill decision; 12 on hold; no screens since Fri 9-25 until today's Scout hunt (running now); no real-world validation yet ($0 sales, no outside buyer signal); $0 spend, no spend ask; Latch paused; Upfit + Setaside still deferred (no re-ask).",
+        "deskChanges": "Next Up advanced to Tue 10-06 brief/Scout + Thu Oct 8 SPK; session log updated."
+      },
       {
         "date": "2026-10-05",
         "time": "07:45 CT",
