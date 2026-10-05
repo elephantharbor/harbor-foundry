@@ -1,14 +1,8 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-10-05T08:35:00-05:00",
+  "lastUpdated": "2026-10-05T08:40:00-05:00",
   "items": [
-    {
-      "title": "Nico $0 census — pawnops · bookstoreops",
-      "nextRunAt": "2026-10-19T17:00:00-05:00",
-      "scheduleLabel": "TEST SMALL deadline ~2026-10-19 (escalate or kill)",
-      "owner": "Nico (Harbor Foundry - Scout) / Calder"
-    },
     {
       "title": "Foundry morning brief",
       "nextRunAt": "2026-10-06T08:02:00-05:00",

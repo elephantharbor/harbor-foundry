@@ -1,6 +1,6 @@
 {
   "mission": "Create substantial software companies from weak or dated incumbent markets: hunt voraciously, test intelligently, bring decision-ready proposals to Thomas, and execute immediately after approval. Kill rigor stays; appetite rises.",
-  "lastUpdated": "2026-10-05T08:35:00-05:00",
+  "lastUpdated": "2026-10-05T08:40:00-05:00",
   "cycle": "Cycle 3",
   "metrics": {
     "researching": 0,
@@ -11,9 +11,9 @@
     "operatingVentures": 1,
     "setasideSales": "$0",
     "cheapTestsActive": 4,
-    "cheapTestsClosed": 22,
+    "cheapTestsClosed": 24,
     "cheapTestsWatch": 1,
-    "cheapTestsPending": 2,
+    "cheapTestsPending": 0,
     "cheapTestsHold": 15,
     "proposalsPendingThomas": 2,
     "daysSinceLastRealWorldValidation": "n/a",
@@ -24,8 +24,8 @@
     "Deferred Upfit + Setaside proposals still open — do not re-ask immediately",
     "ACT×4 SPK gate 2026-10-08"
   ],
-  "currentObjective": "Nico $0 census on pawnops + bookstoreops (~Oct 19). ACT×4 SPK gate 2026-10-08. Do not re-ask Upfit/Setaside. Latch paused. $0.",
-  "currentStatus": "Mon 2026-10-05 Calder lock: TEST SMALL×2 pawnops + bookstoreops ($0 census ~2026-10-19). HOLD×3 musicvenueops/cideryops/abstractorops (stack HOLD=15). ACT Cheap Tests=4 keep-alive through 2026-10-08 SPK. ShopWorks WATCH. Latch paused. Upfit+Setaside Deferred (no re-ask). $0. No Wren.",
+  "currentObjective": "ACT×4 SPK gate 2026-10-08. Do not re-ask Upfit/Setaside. Latch paused. $0.",
+  "currentStatus": "Mon 2026-10-05 Calder execute lock: pawnops + bookstoreops REJECT Closed (occupancy / Square leftover). TEST SMALL pending=0. HOLD=15 (musicvenueops/cideryops/abstractorops + prior×12). ACT Cheap Tests=4 keep-alive through 2026-10-08 SPK. ShopWorks WATCH. Latch paused. Upfit+Setaside Deferred (no re-ask). $0. No Wren.",
   "pipelineStages": [
     {
       "id": "scout",
@@ -90,7 +90,7 @@
       "name": "Pawn shop ops SoR (PawnMaster → Bravo)",
       "incumbent": "PawnMaster sunset / Bravo forced migrate + police/compliance desk",
       "stage": "cheapTest",
-      "status": "TEST SMALL — Calder locked ($0 census ~2026-10-19; FFL Harbor-path HARD)",
+      "status": "REJECT Closed — PawnMate/PawnSnap occupancy-as-kill",
       "summary": "Forced PawnMaster sunset; Reddit Bravo hate; PawnMate/PawnSnap claim migrate-off. Beachhead loan book→due/lapse+police. Falsifiers: Bravo absorb, PawnMate occupancy, FFL Harbor-path (coreWARE Closed adjacency). ≠ FFL-only software.",
       "owner": "Nico",
       "updated": "2026-10-05",
@@ -98,14 +98,14 @@
       "packetDoc": "ops/scout-cheaptest-pawnops-2026-10-05.md",
       "decision": "TEST SMALL",
       "note": "Scout recommendation — not Calder lock. ACT crowding ≤2. Deadline ~2026-10-19 if advanced.",
-      "lastUpdated": "2026-10-05T08:35:00-05:00"
+      "lastUpdated": "2026-10-05T08:40:00-05:00"
     },
     {
       "id": "bookstoreops",
       "name": "Independent bookstore ops SoR (Bookmanager waitlist)",
       "incumbent": "Bookmanager waitlist / Square-Shopify interim / spreadsheets",
       "stage": "cheapTest",
-      "status": "TEST SMALL — Calder locked ($0 census ~2026-10-19; Square leftover HARD)",
+      "status": "REJECT Closed — Square leftover HARD + Basil/Omnibus",
       "summary": "Bookmanager waitlist closed ~2027; Basil from $245/mo bookstore-native. Beachhead ISBN+special-order/Ingram. Falsifiers: Square/Shopify leftover HARD (vendor’s own interim advice), Basil/Booklog occupancy.",
       "owner": "Nico",
       "updated": "2026-10-05",
@@ -113,7 +113,7 @@
       "packetDoc": "ops/scout-cheaptest-bookstoreops-2026-10-05.md",
       "decision": "TEST SMALL",
       "note": "Scout recommendation — not Calder lock. Prefer EMPTY if census shows Square-enough.",
-      "lastUpdated": "2026-10-05T08:35:00-05:00"
+      "lastUpdated": "2026-10-05T08:40:00-05:00"
     },
     {
       "id": "musicvenueops",
@@ -2401,14 +2401,8 @@
   "nextUp": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-10-05T08:35:00-05:00",
+    "lastUpdated": "2026-10-05T08:40:00-05:00",
     "items": [
-      {
-        "title": "Nico $0 census — pawnops · bookstoreops",
-        "nextRunAt": "2026-10-19T17:00:00-05:00",
-        "scheduleLabel": "TEST SMALL deadline ~2026-10-19 (escalate or kill)",
-        "owner": "Nico (Harbor Foundry - Scout) / Calder"
-      },
       {
         "title": "Foundry morning brief",
         "nextRunAt": "2026-10-06T08:02:00-05:00",
@@ -2432,8 +2426,15 @@
   "sessionLog": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-10-05T08:35:00-05:00",
+    "lastUpdated": "2026-10-05T08:40:00-05:00",
     "entries": [
+      {
+        "date": "2026-10-05",
+        "time": "08:40 CT",
+        "actor": "Calder (Harbor Foundry - CEO)",
+        "summary": "Calder execute lock Mon TEST SMALL census: pawnops + bookstoreops REJECT Closed (PawnMate/PawnSnap occupancy; Square leftover + Basil/Omnibus). TEST SMALL pending=0. HOLD=15 unchanged. ACT×4 through Oct 8 SPK untouched. $0; no Wren/memo; Upfit+Setaside Deferred no re-ask; Latch paused.",
+        "deskChanges": "Live stack TEST SMALL→0; pipeline Closed×2; Next Up drops census deadline; INSTITUTIONAL + calder-lock-execute-2026-10-05.md."
+      },
       {
         "date": "2026-10-05",
         "time": "08:35 CT",
@@ -3001,5 +3002,5 @@
       }
     ]
   },
-  "headline": "Calder lock Mon: TEST SMALL×2 pawnops+bookstoreops; ACT=4 to Oct 8; HOLD=15; $0."
+  "headline": "Mon census: pawnops+bookstoreops REJECT Closed; ACT=4 to Oct 8; HOLD=15; $0."
 }

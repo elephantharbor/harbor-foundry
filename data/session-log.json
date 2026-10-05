@@ -1,8 +1,15 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-10-05T08:35:00-05:00",
+  "lastUpdated": "2026-10-05T08:40:00-05:00",
   "entries": [
+    {
+      "date": "2026-10-05",
+      "time": "08:40 CT",
+      "actor": "Calder (Harbor Foundry - CEO)",
+      "summary": "Calder execute lock Mon TEST SMALL census: pawnops + bookstoreops REJECT Closed (PawnMate/PawnSnap occupancy; Square leftover + Basil/Omnibus). TEST SMALL pending=0. HOLD=15 unchanged. ACT×4 through Oct 8 SPK untouched. $0; no Wren/memo; Upfit+Setaside Deferred no re-ask; Latch paused.",
+      "deskChanges": "Live stack TEST SMALL→0; pipeline Closed×2; Next Up drops census deadline; INSTITUTIONAL + calder-lock-execute-2026-10-05.md."
+    },
     {
       "date": "2026-10-05",
       "time": "08:35 CT",
