@@ -1,6 +1,6 @@
 {
   "mission": "Create substantial software companies from weak or dated incumbent markets: hunt voraciously, test intelligently, bring decision-ready proposals to Thomas, and execute immediately after approval. Kill rigor stays; appetite rises.",
-  "lastUpdated": "2026-10-05T08:40:00-05:00",
+  "lastUpdated": "2026-10-05T08:50:00-05:00",
   "cycle": "Cycle 3",
   "metrics": {
     "researching": 0,
@@ -11,21 +11,21 @@
     "operatingVentures": 1,
     "setasideSales": "$0",
     "cheapTestsActive": 4,
-    "cheapTestsClosed": 24,
+    "cheapTestsClosed": 26,
     "cheapTestsWatch": 1,
     "cheapTestsPending": 0,
     "cheapTestsHold": 15,
     "proposalsPendingThomas": 2,
     "daysSinceLastRealWorldValidation": "n/a",
-    "opportunitiesScreenedWeek": 118,
+    "opportunitiesScreenedWeek": 149,
     "foundrySpend": "$0"
   },
   "needsHumanAttention": [
     "Deferred Upfit + Setaside proposals still open — do not re-ask immediately",
     "ACT×4 SPK gate 2026-10-08"
   ],
-  "currentObjective": "ACT×4 SPK gate 2026-10-08. Do not re-ask Upfit/Setaside. Latch paused. $0.",
-  "currentStatus": "Mon 2026-10-05 Calder execute lock: pawnops + bookstoreops REJECT Closed (occupancy / Square leftover). TEST SMALL pending=0. HOLD=15 (musicvenueops/cideryops/abstractorops + prior×12). ACT Cheap Tests=4 keep-alive through 2026-10-08 SPK. ShopWorks WATCH. Latch paused. Upfit+Setaside Deferred (no re-ask). $0. No Wren.",
+  "currentObjective": "ACT×4 SPK gate 2026-10-08. Next Scout Tue 2026-10-06 8:09 CT. Upfit+Setaside stay Deferred (no re-ask). Latch paused. $0.",
+  "currentStatus": "Mon 2026-10-05 two Scout passes, both Calder-locked and executed at $0. AM: 18 screened → pawnops + bookstoreops REJECT Closed; HOLD×3 musicvenueops/cideryops/abstractorops. Second pass (b): 31 screened → prequalops TEST SMALL census → REJECT Closed (consultant desks + PrequalPilot + Avetta Vetify occupy); dbeops REJECT Closed (DBE Narrative Pro). ACT Cheap Tests=4 keep-alive through 2026-10-08 SPK (upfitops · dentallabops · landscapeyardops · kitchenhoodops). TEST SMALL pending=0. HOLD=15. ShopWorks WATCH. Latch paused. Upfit+Setaside Deferred (no re-ask). $0. No Wren. No Thomas proposal.",
   "pipelineStages": [
     {
       "id": "scout",
@@ -85,6 +85,37 @@
     }
   ],
   "pipelineItems": [
+    {
+      "id": "prequalops",
+      "name": "Contractor-side prequalification desk (ISNetworld / Avetta / Veriforce)",
+      "incumbent": "ISNetworld / Avetta / Veriforce pay-to-play networks + consultant desks",
+      "stage": "cheapTest",
+      "status": "REJECT Closed — consultant desks + PrequalPilot + Avetta Vetify occupy the wedge",
+      "summary": "Small industrial contractors pay to be judged on ISN/Avetta/Veriforce and lose hours to RAVS, questionnaires and grade drops. $0 census: pain real (admin-burden + hired-consultant ≥ fee-only) and ISN terms allow third-party users — but flat-rate multi-network desks already sell it ($99–$350/mo: Cornerstone, On-Track, Precision EHS; peer-recommended OnePoint/JJ Safety), AI-native PrequalPilot ($69–$299/mo) targets the same small shops, and Avetta sells its own managed desk (Vetify). Occupancy-as-kill under crowding. ≠ COI Closed.",
+      "owner": "Calder / Nico",
+      "updated": "2026-10-05",
+      "recommendation": "TEST SMALL",
+      "packetDoc": "ops/scout-cheaptest-prequalops-2026-10-05b.md",
+      "resultDoc": "ops/cheaptest-result-prequalops-2026-10-05b.md",
+      "decision": "REJECT Closed",
+      "note": "Calder lock TEST SMALL 2026-10-05b → $0 census same run → REJECT Closed. Re-open only if PrequalPilot-class fails visibly and desks show capacity failure, or a new network-mandated work wave appears.",
+      "lastUpdated": "2026-10-05T08:50:00-05:00"
+    },
+    {
+      "id": "dbeops",
+      "name": "DBE/ACDBE reevaluation desk (personal narrative + net-worth statement)",
+      "incumbent": "DOT DBE final rule 2026-09-25 / UCP recertification paperwork",
+      "stage": "cheapTest",
+      "status": "REJECT Closed — DBE Narrative Pro occupies; firms exiting",
+      "summary": "DOT rule makes every DBE owner file a personal narrative + PNW by 2027-03-24. DBE Narrative Pro already sells the wedge and expansion ($79; $35/mo membership); GERC $59 kits; majority non-response in PA/AZ/WI; goals cut. One-shot window.",
+      "owner": "Calder / Nico",
+      "updated": "2026-10-05",
+      "recommendation": "REJECT Closed",
+      "packetDoc": "ops/scout-cheaptest-dbeops-2026-10-05b.md",
+      "decision": "REJECT Closed",
+      "note": "Calder lock 2026-10-05b confirms Scout kill at deepen. Re-open only on goals-reinstated + absorption-fail thesis.",
+      "lastUpdated": "2026-10-05T08:50:00-05:00"
+    },
     {
       "id": "pawnops",
       "name": "Pawn shop ops SoR (PawnMaster → Bravo)",
@@ -745,6 +776,69 @@
       "reason": "Closed. SAP is shipping NextGen / new report UI; Harbor is not running a T&E replacement against that vendor modernization. Do not recycle."
     },
     "emptyScreens": [
+      {
+        "id": "2026-10-05b",
+        "label": "HUNT 05b",
+        "date": "2026-10-05",
+        "outcome": "NOT EMPTY — CHEAP_TEST_EXECUTED → REJECT×2",
+        "status": "prequalops TEST SMALL → REJECT Closed; dbeops REJECT Closed",
+        "synopsis": "2026-10-05 Monday second Scout pass screened 31 names across hated incumbents, AI-automatable processes, AI-native, productized services and Excel-first verticals. The Excel-first fallback came up empty (13 of 13 already had two or more purpose-built products), so Scout changed the universe the same run to small firms that must pass someone else's paid review to keep working. Two deepened; both closed after free public research.",
+        "why": "Pain on ISNetworld/Avetta is real, but the paperwork desk is already sold by many flat-rate consultants, an AI-native product and Avetta itself. DBE recertification is already productized at $79 and firms are leaving the program.",
+        "lanes": [
+          "hated incumbents",
+          "AI-automatable processes",
+          "AI-native / agentic",
+          "productized services / workflow hybrids",
+          "workflow automation / Excel-first verticals"
+        ],
+        "names": [
+          "PrequalOps",
+          "DBEOps",
+          "Teleflora/FTD florist wire",
+          "Limo Anywhere",
+          "Caterease",
+          "ArbiterSports",
+          "RDN repossession",
+          "RB9 court reporting",
+          "Part 145 MRO",
+          "AuctionFlex",
+          "IEEPA CAPE refund desk",
+          "USMCA origin certs",
+          "BPP tax rendition",
+          "HVAC rebate processing",
+          "OS/OW permit desk",
+          "AI RAVS generator",
+          "AI nursery order intake",
+          "Rep vendor credentialing",
+          "EcoVadis desk",
+          "Multifamily vendor credentialing",
+          "Food supplier portals",
+          "Mobile shredding",
+          "ITAD recycler",
+          "Driving school",
+          "Crane inspection",
+          "NDT inspection",
+          "Elevator contractor",
+          "CMT lab",
+          "Livestock auction",
+          "Seafood dealer",
+          "Hardwood sawmill tally"
+        ],
+        "candidates": [
+          {
+            "name": "PrequalOps",
+            "what": "Lane A/G — always-on compliance desk for small industrial contractors on ISNetworld / Avetta / Veriforce",
+            "why": "Real multi-year pain; but flat-rate consultant desks, PrequalPilot ($69–$299/mo) and Avetta Vetify already sell it",
+            "status": "REJECT Closed — after $0 census"
+          },
+          {
+            "name": "DBEOps",
+            "what": "Lane D/G — DBE/ACDBE personal-narrative + net-worth recertification desk",
+            "why": "DBE Narrative Pro ($79 / $35 mo) occupies; majority non-response; goals cut; window ends 2027-03-24",
+            "status": "REJECT Closed — at deepen"
+          }
+        ]
+      },
       {
         "id": "2026-10-05",
         "label": "HUNT 05",
@@ -1919,6 +2013,30 @@
   },
   "evidenceDecisions": [
     {
+      "id": "cheaptest-2026-10-05b-calder-execute-lock",
+      "date": "2026-10-05",
+      "title": "Calder lock — execute results 2026-10-05b (prequalops REJECT)",
+      "evidence": "$0 census: pain real (admin-burden + hired-consultant ≥ fee-only; PissedConsumer/Reddit/LinkedIn), ISN user agreement allows independent-contractor users. But Cornerstone $250–$350/mo multi-network desk, On-Track $99–$175/mo, Precision EHS, peer-recommended OnePoint/JJ Safety; PrequalPilot AI-native $69–$299/mo same ICP; Avetta Vetify network-own managed desk.",
+      "decision": "prequalops REJECT Closed (occupancy-as-kill under crowding); ACT=4; HOLD=15; pending=0; no spend flag; no Wren/memo; no Thomas proposal",
+      "docs": [
+        "ops/calder-lock-execute-2026-10-05b.md",
+        "ops/cheaptest-result-prequalops-2026-10-05b.md",
+        "ops/cheaptest-cohort-2026-10-05b-results.md"
+      ]
+    },
+    {
+      "id": "cheaptest-2026-10-05b-calder-lock",
+      "date": "2026-10-05",
+      "title": "Calder lock — Mon second-pass Scout 2026-10-05b",
+      "evidence": "Scout screened 31 / deepened 2 (A/D/F/G/W; Excel-first 13/13 dead → universe change to pay-to-be-qualified networks). Ellis-style challenge: prequalops don't-know-yet; dbeops demonstrably weak.",
+      "decision": "prequalops TEST SMALL ($0 census same run); dbeops REJECT Closed (DBE Narrative Pro occupancy; demand exit); crowding 1 of ≤2",
+      "docs": [
+        "ops/calder-lock-cheaptest-2026-10-05b.md",
+        "ops/challenge-cheaptest-2026-10-05b.md",
+        "ops/scout-hunt-2026-10-05b.md"
+      ]
+    },
+    {
       "id": "cheaptest-2026-09-25-calder-execute-lock",
       "date": "2026-09-25",
       "title": "Calder lock — execute results 2026-09-25 (REJECT×2)",
@@ -2343,6 +2461,22 @@
       "learning": "Prefer EMPTY over weak overlays. Do not invent sales, interviews, or Proceed/Retarget/Kill.",
       "change": "Public tiles bind to verified rows only; unknowns stay unknown.",
       "originationDate": "2026-09-04"
+    },
+    {
+      "id": "concurrent-run-filename-guard",
+      "title": "A second same-day run must never overwrite the first run's files",
+      "body": "2026-10-05b Scout pass overwrote the AM scout-screen file at ~08:37 CT (restored as a stub; per-row evidence lost). Same failure on 2026-09-25 (butcherops second pass).",
+      "originationDate": "2026-10-05",
+      "behavioralChange": "Before writing any same-date scout/challenge/lock file, check it exists; if so, use a b/c suffix. Earlier files are read-only to later passes.",
+      "status": "Testing"
+    },
+    {
+      "id": "microsaas-saturation",
+      "title": "Excel-first niche gaps are mostly already filled by small purpose-built products",
+      "body": "2026-10-05b: 13 of 13 Excel-first niches already had ≥2 purpose-built products (many sub-$300/mo, some AI-native); prequalops desk also had an AI-native entrant. Matches 09-23 crowding cohort.",
+      "originationDate": "2026-10-05",
+      "behavioralChange": "Stop using Excel-first verticals as the default fallback; check for a cheap AI-native occupant at screen time; for deadline-driven ideas check whether the deadline drives compliance or exit.",
+      "status": "Testing"
     }
   ],
   "docs": {
@@ -2401,7 +2535,7 @@
   "nextUp": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-10-05T08:40:00-05:00",
+    "lastUpdated": "2026-10-05T08:50:00-05:00",
     "items": [
       {
         "title": "Foundry morning brief",
@@ -2412,7 +2546,7 @@
       {
         "title": "Expanded Scout hunt — 12–20 screen as floor; multi-lane breadth",
         "nextRunAt": "2026-10-06T08:09:00-05:00",
-        "scheduleLabel": "Weekdays 8:09 AM CT",
+        "scheduleLabel": "Weekdays 8:09 AM CT (next Tue)",
         "owner": "Nico (Harbor Scout) / Calder"
       },
       {
@@ -2426,8 +2560,15 @@
   "sessionLog": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-10-05T08:40:00-05:00",
+    "lastUpdated": "2026-10-05T08:50:00-05:00",
     "entries": [
+      {
+        "date": "2026-10-05",
+        "time": "08:50 CT",
+        "actor": "Calder (Harbor Foundry - CEO)",
+        "summary": "Second Scout pass today (31 ideas screened). Calder confirmed: DBE recertification desk closed (a $79 AI product already does it; most firms are leaving the program). Ran a free desk check on a paperwork desk for small contractors stuck on ISNetworld/Avetta — pain is real, but consultants ($99–$350/mo), an AI product (PrequalPilot) and Avetta itself already sell it, so it is closed too. Four active cheap tests continue to the Oct 8 decision; 15 on hold; nothing pending; $0 spent; nothing needs Thomas.",
+        "deskChanges": "Pipeline +prequalops/dbeops (REJECT Closed); metrics Closed 24→26, screened week 118→149, pending 0; recentHunt RESULTS 2026-10-05b; evidenceDecisions +2; lessons +2 Testing (concurrent-run-filename-guard, microsaas-saturation); Next Up Scout → Tue 8:09; INSTITUTIONAL + calder-lock-cheaptest/execute-2026-10-05b.md + cheaptest-result-prequalops-2026-10-05b.md."
+      },
       {
         "date": "2026-10-05",
         "time": "08:40 CT",
@@ -2886,19 +3027,38 @@
   },
   "recentHunt": {
     "date": "2026-10-05",
-    "type": "CHEAP_TEST_HUNT",
-    "summary": "Mon Scout hunt (first post-freeze) NOT EMPTY under FOUNDATION RESET: screened 18 across A/D/F/G/Data (rotated off Fri C/E/B/V; widened outside trade -ops). Deepened 5; Scout rec TEST SMALL×2 (pawnops, bookstoreops) pending Calder; HOLD×3 (musicvenueops Prism densest, cideryops vendor-only HARD, abstractorops SoftPro Harbor-path) under ACT crowding. ACT=4 keep-alive untouched through Oct 8 SPK; HOLD=12 prior; ShopWorks WATCH. Ellis challenge don’t-know-yet drafted. $0; no Wren/memo; no Upfit re-ask. Latch paused.",
+    "id": "2026-10-05b",
+    "type": "RESULTS",
+    "summary": "Mon second Scout pass (2026-10-05b) NOT EMPTY after a same-run universe change: screened 31 across A/D/F/G/W. Excel-first niche fallback 13/13 dead on purpose-built occupancy → switched to pay-to-be-qualified networks + regulatory-deadline desks. Deepened 2: prequalops (Calder TEST SMALL → $0 census → REJECT Closed: consultant desks $99–$350/mo + AI-native PrequalPilot + Avetta Vetify own managed desk) and dbeops (REJECT Closed: DBE Narrative Pro $79 occupies; firms exiting). 29 screen drops (micro-SaaS saturation 13, network wall 5, crowded compliance 4, other 7). ACT=4 untouched through Oct 8 SPK; HOLD=15; pending 0; $0; no Wren/memo; no Thomas proposal.",
+    "candidates": [
+      {
+        "name": "PrequalOps",
+        "what": "Lane A/G — always-on compliance desk for small industrial contractors on ISNetworld / Avetta / Veriforce",
+        "why": "Real multi-year pain; but flat-rate consultant desks, PrequalPilot ($69–$299/mo) and Avetta Vetify already sell it",
+        "status": "REJECT Closed — after $0 census"
+      },
+      {
+        "name": "DBEOps",
+        "what": "Lane D/G — DBE/ACDBE personal-narrative + net-worth recertification desk",
+        "why": "DBE Narrative Pro ($79 / $35 mo) occupies; majority non-response; goals cut; window ends 2027-03-24",
+        "status": "REJECT Closed — at deepen"
+      }
+    ],
     "docs": [
-      "ops/scout-screen-2026-10-05.md",
-      "ops/scout-hunt-2026-10-05.md",
-      "ops/scout-ranked-cheaptest-2026-10-05.md",
-      "ops/challenge-cheaptest-2026-10-05.md",
-      "ops/scout-cheaptest-pawnops-2026-10-05.md",
-      "ops/scout-cheaptest-bookstoreops-2026-10-05.md",
-      "ops/scout-cheaptest-musicvenueops-2026-10-05.md",
-      "ops/scout-cheaptest-cideryops-2026-10-05.md",
-      "ops/scout-cheaptest-abstractorops-2026-10-05.md"
-    ]
+      "ops/scout-hunt-2026-10-05b.md",
+      "ops/scout-screen-2026-10-05b.md",
+      "ops/scout-ranked-cheaptest-2026-10-05b.md",
+      "ops/scout-cheaptest-prequalops-2026-10-05b.md",
+      "ops/scout-cheaptest-dbeops-2026-10-05b.md",
+      "ops/challenge-cheaptest-2026-10-05b.md",
+      "ops/calder-lock-cheaptest-2026-10-05b.md",
+      "ops/cheaptest-result-prequalops-2026-10-05b.md",
+      "ops/cheaptest-cohort-2026-10-05b-results.md",
+      "ops/calder-lock-execute-2026-10-05b.md"
+    ],
+    "status": "NOT EMPTY — 2 deepened → both REJECT Closed",
+    "candidateCount": 31,
+    "synopsis": "Second Scout pass Monday looked at 31 ideas. Most small 'still on spreadsheets' niches already have two or more software products, so Scout switched to small firms that must pass someone else's paid review to keep working. Two ideas were checked for free and both closed: a paperwork desk for small contractors on ISNetworld/Avetta (consultants, an AI product and Avetta itself already sell it) and a DBE recertification desk (a $79 AI product already does it; firms are leaving the program). Four active cheap tests continue to the Oct 8 decision. $0 spent; nothing needs Thomas."
   },
   "activeVentures": {
     "areaId": "foundry",
@@ -3002,5 +3162,5 @@
       }
     ]
   },
-  "headline": "Mon census: pawnops+bookstoreops REJECT Closed; ACT=4 to Oct 8; HOLD=15; $0."
+  "headline": "Mon-b: prequalops + dbeops REJECT Closed; ACT=4 to Oct 8; HOLD=15; pending 0; $0."
 }

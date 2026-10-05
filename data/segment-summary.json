@@ -4,9 +4,9 @@
   "description": "Software venture creation — create companies, not only avoid bad ones.",
   "mission": "Create substantial software companies from weak or dated incumbent markets: hunt voraciously, test intelligently, bring decision-ready proposals to Thomas, and execute immediately after approval. Kill rigor stays; appetite rises.",
   "status": "Operating",
-  "statusDetail": "ACT Cheap Tests=4 keep-alive through 2026-10-08 SPK. TEST SMALL pending=0 (pawnops+bookstoreops REJECT Closed Mon). HOLD=15. Latch paused. Setaside Operating (experiments deferred). $0. No Wren.",
+  "statusDetail": "ACT Cheap Tests=4 keep-alive through 2026-10-08 SPK. TEST SMALL pending=0 (Mon pawnops+bookstoreops and Mon-b prequalops+dbeops all REJECT Closed). HOLD=15. Latch paused. Setaside Operating (experiments deferred). $0. No Wren.",
   "owner": "Calder (Harbor Foundry - CEO)",
-  "lastUpdated": "2026-10-05T08:40:00-05:00",
+  "lastUpdated": "2026-10-05T08:50:00-05:00",
   "headlineMetrics": [
     {
       "label": "Cheap Tests active",
@@ -29,12 +29,12 @@
       "value": "$0"
     }
   ],
-  "currentObjective": "ACT×4 SPK gate 2026-10-08. Upfit+Setaside stay Deferred (no re-ask).",
-  "currentStatusBrief": "Mon census: pawnops+bookstoreops REJECT Closed; ACT=4 to Oct 8; HOLD=15; $0.",
+  "currentObjective": "ACT×4 SPK gate 2026-10-08. Next Scout Tue 8:09 CT. Upfit+Setaside stay Deferred (no re-ask).",
+  "currentStatusBrief": "Mon-b: prequalops + dbeops REJECT Closed; ACT=4 to Oct 8; HOLD=15; pending 0; $0.",
   "latestLesson": {
     "id": "occupancy-as-kill-under-crowding",
-    "title": "Named vertical SoR that ships our wedge is a kill under crowding pressure",
-    "summary": "lowvoltops confirm: LowVoltageOps + Jetbuilt Install/Stock ship Harbor wedge → REJECT. upfitops thin claimants ≠ ownership → ACT still allowed. Keep Confirmed."
+    "title": "Named product or desk that already ships our wedge is a kill under crowding pressure",
+    "summary": "Mon 2026-10-05: pawnops, bookstoreops, prequalops, dbeops all closed on it. New Testing: microsaas-saturation + concurrent-run-filename-guard. Keep Confirmed."
   },
   "needsHumanAction": true,
   "humanAction": "(1) Deferred Upfit + Setaside proposals still open — do not re-ask. (2) ACT×4 SPK on 2026-10-08.",
@@ -57,7 +57,7 @@
     {
       "title": "Expanded Scout hunt — 12–20 screen as floor; multi-lane breadth",
       "nextRunAt": "2026-10-06T08:09:00-05:00",
-      "scheduleLabel": "Weekdays 8:09 AM CT",
+      "scheduleLabel": "Weekdays 8:09 AM CT (next Tue)",
       "owner": "Nico (Harbor Scout) / Calder"
     },
     {
@@ -67,6 +67,6 @@
       "owner": "Calder (Harbor Foundry - CEO) / Nico"
     }
   ],
-  "headline": "Mon census: pawnops+bookstoreops REJECT Closed; ACT=4 to Oct 8; HOLD=15; $0.",
-  "currentStatus": "Mon 2026-10-05 Scout hunt (first post-freeze) NOT EMPTY: screened 18 across A/D/F/G/Data (outside trade -ops); deepened 5; Scout rec TEST SMALL×2 pawnops+bookstoreops pending Calder; HOLD×3 musicvenueops/cideryops/abstractorops under ACT crowding. ACT Cheap Tests=4 keep-alive through 2026-10-08 SPK (upfitops · dentallabops · landscapeyardops · kitchenhoodops) at $0. HOLD=12 prior. ShopWorks WATCH. Latch paused. Upfit+Setaside Deferred (no re-ask). $0. No Wren. Scout recommendation — not Calder lock."
+  "headline": "Mon-b: prequalops + dbeops REJECT Closed; ACT=4 to Oct 8; HOLD=15; pending 0; $0.",
+  "currentStatus": "Mon 2026-10-05 two Scout passes, both Calder-locked and executed at $0. AM: 18 screened → pawnops + bookstoreops REJECT Closed; HOLD×3 musicvenueops/cideryops/abstractorops. Second pass (b): 31 screened → prequalops TEST SMALL census → REJECT Closed (consultant desks + PrequalPilot + Avetta Vetify occupy); dbeops REJECT Closed (DBE Narrative Pro). ACT Cheap Tests=4 keep-alive through 2026-10-08 SPK (upfitops · dentallabops · landscapeyardops · kitchenhoodops). TEST SMALL pending=0. HOLD=15. ShopWorks WATCH. Latch paused. Upfit+Setaside Deferred (no re-ask). $0. No Wren. No Thomas proposal."
 }

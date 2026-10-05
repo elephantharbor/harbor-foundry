@@ -1,8 +1,15 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-10-05T08:40:00-05:00",
+  "lastUpdated": "2026-10-05T08:50:00-05:00",
   "entries": [
+    {
+      "date": "2026-10-05",
+      "time": "08:50 CT",
+      "actor": "Calder (Harbor Foundry - CEO)",
+      "summary": "Second Scout pass today (31 ideas screened). Calder confirmed: DBE recertification desk closed (a $79 AI product already does it; most firms are leaving the program). Ran a free desk check on a paperwork desk for small contractors stuck on ISNetworld/Avetta — pain is real, but consultants ($99–$350/mo), an AI product (PrequalPilot) and Avetta itself already sell it, so it is closed too. Four active cheap tests continue to the Oct 8 decision; 15 on hold; nothing pending; $0 spent; nothing needs Thomas.",
+      "deskChanges": "Pipeline +prequalops/dbeops (REJECT Closed); metrics Closed 24→26, screened week 118→149, pending 0; recentHunt RESULTS 2026-10-05b; evidenceDecisions +2; lessons +2 Testing (concurrent-run-filename-guard, microsaas-saturation); Next Up Scout → Tue 8:09; INSTITUTIONAL + calder-lock-cheaptest/execute-2026-10-05b.md + cheaptest-result-prequalops-2026-10-05b.md."
+    },
     {
       "date": "2026-10-05",
       "time": "08:40 CT",
