@@ -1,8 +1,14 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-10-05T08:25:00-05:00",
+  "lastUpdated": "2026-10-05T08:35:00-05:00",
   "items": [
+    {
+      "title": "Nico $0 census — pawnops · bookstoreops",
+      "nextRunAt": "2026-10-19T17:00:00-05:00",
+      "scheduleLabel": "TEST SMALL deadline ~2026-10-19 (escalate or kill)",
+      "owner": "Nico (Harbor Foundry - Scout) / Calder"
+    },
     {
       "title": "Foundry morning brief",
       "nextRunAt": "2026-10-06T08:02:00-05:00",
@@ -10,13 +16,13 @@
       "owner": "Calder (Harbor Foundry - CEO)"
     },
     {
-      "title": "Expanded Scout hunt \u2014 12\u201320 screen as floor; multi-lane breadth",
+      "title": "Expanded Scout hunt — 12–20 screen as floor; multi-lane breadth",
       "nextRunAt": "2026-10-06T08:09:00-05:00",
-      "scheduleLabel": "Weekdays 8:09 AM CT (Mon 10-05 hunt in progress)",
+      "scheduleLabel": "Weekdays 8:09 AM CT",
       "owner": "Nico (Harbor Scout) / Calder"
     },
     {
-      "title": "ACT\u00d74 SPK gate \u2014 Scale / Pivot / Kill (upfit / dental / yard / hood)",
+      "title": "ACT×4 SPK gate — Scale / Pivot / Kill (upfit / dental / yard / hood)",
       "nextRunAt": "2026-10-08T17:00:00-05:00",
       "scheduleLabel": "SPK decision Thu 2026-10-08 ($0 keep-alive; sooner if primary fail clears)",
       "owner": "Calder (Harbor Foundry - CEO) / Nico"
