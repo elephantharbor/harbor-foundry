@@ -6,7 +6,7 @@
   "status": "Operating",
   "statusDetail": "Token freeze lifted 2026-10-03. Morning brief + Scout hunt routines resumed (weekday). ACT Cheap Tests=4 keep-alive through 2026-10-08 SPK. HOLD=12. Latch paused. Setaside Operating (experiments deferred). $0. No Wren.",
   "owner": "Calder (Harbor Foundry - CEO)",
-  "lastUpdated": "2026-10-03T08:50:00-05:00",
+  "lastUpdated": "2026-10-05T07:45:00-05:00",
   "headlineMetrics": [
     {
       "label": "Cheap Tests active",
@@ -58,17 +58,17 @@
   "nextUp": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-09-26T10:30:00-05:00",
+    "lastUpdated": "2026-10-05T07:45:00-05:00",
     "items": [
       {
         "title": "Foundry morning brief",
-        "nextRunAt": "2026-09-28T08:02:00-05:00",
+        "nextRunAt": "2026-10-05T08:02:00-05:00",
         "scheduleLabel": "Weekdays 8:02 AM CT",
         "owner": "Calder (Harbor Foundry - CEO)"
       },
       {
         "title": "Expanded Scout hunt \u2014 12\u201320 screen as floor; multi-lane breadth",
-        "nextRunAt": "2026-09-28T08:09:00-05:00",
+        "nextRunAt": "2026-10-05T08:09:00-05:00",
         "scheduleLabel": "Weekdays 8:09 AM CT",
         "owner": "Nico (Harbor Scout) / Calder"
       },
@@ -77,12 +77,6 @@
         "nextRunAt": "2026-10-08T17:00:00-05:00",
         "scheduleLabel": "SPK decision date 2026-10-08 ($0 keep-alive; sooner if primary fail clears)",
         "owner": "Calder (Harbor Foundry - CEO) / Nico"
-      },
-      {
-        "title": "Foundry evaluation window (~2026-09-27)",
-        "nextRunAt": "2026-09-27T17:00:00-05:00",
-        "scheduleLabel": "If needed after 2026-09-27 per Scout routine",
-        "owner": "Calder (Harbor Foundry - CEO)"
       }
     ]
   },

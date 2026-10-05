@@ -1,8 +1,15 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-10-03T08:50:00-05:00",
+  "lastUpdated": "2026-10-05T07:45:00-05:00",
   "entries": [
+    {
+      "date": "2026-10-05",
+      "time": "07:45 CT",
+      "actor": "Fernando",
+      "summary": "Mon HQ pre-brief (first full run after freeze lift). Stack unchanged from Calder 2026-10-03 lock: ACT Cheap Tests=4 (upfit/dental/yard/hood) to Oct 8 SPK; HOLD=12; ShopWorks WATCH; Foundry spend $0; Setaside Operating ($0 sales); Latch Paused. Books realized unchanged $0 in / $38.21 out / $261.79 left; Tello line renewal $6.04 authorized 2026-10-02 on the Privacy operating card, pending settle (would make $44.25 out / $255.75 left). No new Thomas decisions; Upfit+Setaside stay Deferred.",
+      "deskChanges": "Next Up advanced to Mon 10-05 brief/Scout + Oct 8 SPK (stale 09-27 eval window dropped); snapshot.sessionLog resynced; LEDGER pending Tello row; Notion HQ snapshot refreshed to 10-05."
+    },
     {
       "date": "2026-10-03",
       "time": "08:50 CT",
