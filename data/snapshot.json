@@ -1,6 +1,6 @@
 {
   "mission": "Create substantial software companies from weak or dated incumbent markets: hunt voraciously, test intelligently, bring decision-ready proposals to Thomas, and execute immediately after approval. Kill rigor stays; appetite rises.",
-  "lastUpdated": "2026-10-05T08:50:00-05:00",
+  "lastUpdated": "2026-10-06T09:05:00-05:00",
   "cycle": "Cycle 3",
   "metrics": {
     "researching": 0,
@@ -11,21 +11,27 @@
     "operatingVentures": 1,
     "setasideSales": "$0",
     "cheapTestsActive": 4,
-    "cheapTestsClosed": 26,
+    "cheapTestsClosed": 28,
     "cheapTestsWatch": 1,
     "cheapTestsPending": 0,
     "cheapTestsHold": 15,
     "proposalsPendingThomas": 2,
     "daysSinceLastRealWorldValidation": "n/a",
-    "opportunitiesScreenedWeek": 149,
-    "foundrySpend": "$0"
+    "opportunitiesScreenedWeek": 183,
+    "foundrySpend": "$0",
+    "lastHuntDate": "2026-10-06",
+    "lastHuntScreened": 34,
+    "lastHuntDeepened": 2,
+    "lastHuntTestSmall": 1,
+    "lastHuntCensusRun": 1,
+    "lastHuntDecisions": "ACT 0 / HOLD 0 / REJECT Closed 2"
   },
   "needsHumanAttention": [
     "Deferred Upfit + Setaside proposals still open — do not re-ask immediately",
     "ACT×4 SPK gate 2026-10-08"
   ],
-  "currentObjective": "ACT×4 SPK gate 2026-10-08. Next Scout Tue 2026-10-06 8:09 CT. Upfit+Setaside stay Deferred (no re-ask). Latch paused. $0.",
-  "currentStatus": "Mon 2026-10-05 two Scout passes, both Calder-locked and executed at $0. AM: 18 screened → pawnops + bookstoreops REJECT Closed; HOLD×3 musicvenueops/cideryops/abstractorops. Second pass (b): 31 screened → prequalops TEST SMALL census → REJECT Closed (consultant desks + PrequalPilot + Avetta Vetify occupy); dbeops REJECT Closed (DBE Narrative Pro). ACT Cheap Tests=4 keep-alive through 2026-10-08 SPK (upfitops · dentallabops · landscapeyardops · kitchenhoodops). TEST SMALL pending=0. HOLD=15. ShopWorks WATCH. Latch paused. Upfit+Setaside Deferred (no re-ask). $0. No Wren. No Thomas proposal.",
+  "currentObjective": "ACT×4 SPK gate 2026-10-08. Next Scout Wed 2026-10-07 8:09 CT. Upfit+Setaside stay Deferred (no re-ask). Latch paused. $0.",
+  "currentStatus": "Tue 2026-10-06 Scout hunt, Calder-locked and executed at $0. 34 screened across M/E/B/U/C/Data/G + universe change to carrier-imposed requirements (K); EMPTY three times mid-run, universe changed each time. Deepened 2: lossrecops (TEST SMALL → $0 census → REJECT Closed: Breasy ships the exact insurance-inspection + repair + carrier-ready photo package; brokers do closeout free; carrier portals) and wcauditops (REJECT Closed at deepen: ClassCheck $249 + contingency consultants). ACT Cheap Tests=4 keep-alive through 2026-10-08 SPK (upfitops · dentallabops · landscapeyardops · kitchenhoodops). TEST SMALL pending=0. HOLD=15. ShopWorks WATCH. Latch paused. Upfit+Setaside Deferred (no re-ask). $0. No Wren. No Thomas proposal.",
   "pipelineStages": [
     {
       "id": "scout",
@@ -85,6 +91,38 @@
     }
   ],
   "pipelineItems": [
+    {
+      "id": "lossrecops",
+      "name": "Insured-side carrier loss-control requirement closeout desk",
+      "incumbent": "Brokers (free service) + Breasy + contractors + carrier portals (Tokio Marine LC360)",
+      "stage": "cheapTest",
+      "status": "REJECT Closed — Breasy ships wedge; brokers free; carrier portals",
+      "summary": "Small multifamily / condo / HOA owners get carrier loss-control letters with ~30-day deadlines and non-renewal risk. $0 census: Breasy sells insurance inspections with deficiency repairs, carrier-formatted photo reports and per-property compliance tracking; brokers position closeout as free value-add; carriers run response portals; an independent facilities director self-served without a consultant; expansion lands in Closed HOA/PM SoR / COI / brokerage.",
+      "owner": "Calder / Nico",
+      "updated": "2026-10-06",
+      "recommendation": "TEST SMALL",
+      "packetDoc": "ops/scout-cheaptest-lossrecops-2026-10-06.md",
+      "resultDoc": "ops/cheaptest-result-lossrecops-2026-10-06.md",
+      "decision": "REJECT Closed",
+      "note": "Calder lock TEST SMALL 2026-10-06 → $0 census same run → REJECT Closed. Re-open only on independent paid-closeout evidence or broker white-label demand.",
+      "lastUpdated": "2026-10-06T09:05:00-05:00"
+    },
+    {
+      "id": "wcauditops",
+      "name": "Workers' comp premium-audit dispute desk",
+      "incumbent": "ClassCheck + contingency audit consultants + brokers",
+      "stage": "cheapTest",
+      "status": "REJECT Closed — ClassCheck $249 + consultants occupy",
+      "summary": "Small employers hit by year-end WC audit reclassification. At deepen: ClassCheck ships free AI class-code checks + $249 human-reviewed Full Audit Review (NCCI 35+ states); Premiumaudit.io, Workers Compensation Consultants, SMP Consulting, Cytron, workcompaudit.com sell contingency disputes.",
+      "owner": "Calder / Nico",
+      "updated": "2026-10-06",
+      "recommendation": "REJECT",
+      "packetDoc": "ops/scout-cheaptest-wcauditops-2026-10-06.md",
+      "resultDoc": "ops/scout-cheaptest-wcauditops-2026-10-06.md",
+      "decision": "REJECT Closed",
+      "note": "Killed at deepen 2026-10-06. Re-open only on an unserved-segment thesis (e.g., monopolistic state funds) with paid demand.",
+      "lastUpdated": "2026-10-06T09:05:00-05:00"
+    },
     {
       "id": "prequalops",
       "name": "Contractor-side prequalification desk (ISNetworld / Avetta / Veriforce)",
@@ -776,6 +814,77 @@
       "reason": "Closed. SAP is shipping NextGen / new report UI; Harbor is not running a T&E replacement against that vendor modernization. Do not recycle."
     },
     "emptyScreens": [
+      {
+        "id": "2026-10-06",
+        "label": "HUNT 10-06",
+        "date": "2026-10-06",
+        "outcome": "NOT EMPTY — CHEAP_TEST_EXECUTED → REJECT×2",
+        "status": "lossrecops TEST SMALL → REJECT Closed; wcauditops REJECT Closed",
+        "synopsis": "2026-10-06 Tuesday Scout screened 34 names across mandated-outcome deadlines, complaint threads, forced migrations, underserved verticals, back-office pain, data products and productized services. Each of the first three universes came up empty (every desk already had named products, often new AI-built apps), so Scout changed the universe to requirements insurers impose on the insured. Two deepened; both closed after free public research.",
+        "why": "Insurer requirement letters are real pain, but brokers close them out free, Breasy already sells the exact service and carriers have their own portals. Workers' comp audit disputes are already sold by ClassCheck ($249) and contingency consultants.",
+        "lanes": [
+          "mandated-outcome / pay-to-be-qualified",
+          "review/forum complaint chorus",
+          "neglected paid / forced migration",
+          "underserved verticals",
+          "job-posting / back-office pain",
+          "data products",
+          "productized services",
+          "carrier/lender-imposed requirements (universe change)"
+        ],
+        "names": [
+          "LossRecOps",
+          "WCAuditOps",
+          "US packaging EPR",
+          "Minnesota PFAS reporting",
+          "CPSC eFiling",
+          "TSCA PFAS 8(a)(7)",
+          "Unclaimed property SMB",
+          "Charitable solicitation registration",
+          "Legionella WMP",
+          "10DLC rejection desk",
+          "MoCRA listing",
+          "FCC BDC filings",
+          "BEAD subgrantee compliance",
+          "HoneyBook refugees",
+          "FareHarbor refugees",
+          "BoldTrail/kvCORE",
+          "Harvest price hike",
+          "Microsoft Publisher retirement",
+          "Sage BusinessVision EOL",
+          "Clockwise shutdown",
+          "FileTrac",
+          "Produce wholesale ERP",
+          "Billboard operators",
+          "Grain elevators",
+          "Bail bond agencies",
+          "Interpreting agencies",
+          "Logging contractors",
+          "SPA / ship-and-debit claims",
+          "Borrowing-base prep",
+          "UI claims response",
+          "Liquor-license data",
+          "Building-permit data",
+          "Commercial property-tax appeal",
+          "Tenant insurance tracking"
+        ],
+        "candidates": [
+          {
+            "name": "LossRecOps",
+            "what": "Lane K — closeout desk for carrier loss-control requirement letters (small multifamily / condo / co-op / HOA owners)",
+            "why": "30-day fix-or-lose-coverage letters are real, but brokers do closeout free, Breasy already sells inspection + repair + carrier-ready photo report, and carriers run their own portals",
+            "status": "REJECT Closed — after $0 census",
+            "lane": "K — carrier/lender-imposed requirements"
+          },
+          {
+            "name": "WCAuditOps",
+            "what": "Lane M/G — workers' comp premium-audit dispute desk for small employers",
+            "why": "ClassCheck ships free AI class-code check + $249 human-reviewed audit review; contingency consultants occupy",
+            "status": "REJECT Closed — at deepen",
+            "lane": "M/G — mandated-outcome / productized service"
+          }
+        ]
+      },
       {
         "id": "2026-10-05b",
         "label": "HUNT 05b",
@@ -2013,6 +2122,31 @@
   },
   "evidenceDecisions": [
     {
+      "id": "cheaptest-2026-10-06-calder-execute-lock",
+      "date": "2026-10-06",
+      "title": "Calder lock — execute results 2026-10-06 (lossrecops REJECT)",
+      "evidence": "$0 census: pain real (Mackoul, Serhey Davidson, ABI PDX, Tradesman Electric, BiggerPockets — 30-day requirement letters, non-renewal). But Breasy sells inspection + deficiency repair + carrier-formatted photo report + per-property compliance tracking; brokers do closeout free; Tokio Marine LC360 policyholder portal; LifeSafetyWiki facilities director self-served without a consultant; job postings carrier-side only.",
+      "decision": "lossrecops REJECT Closed; ACT=4; HOLD=15; pending=0; no spend flag; no Wren/memo; no Thomas proposal",
+      "docs": [
+        "ops/calder-lock-execute-2026-10-06.md",
+        "ops/cheaptest-result-lossrecops-2026-10-06.md",
+        "ops/cheaptest-cohort-2026-10-06-results.md"
+      ]
+    },
+    {
+      "id": "scout-2026-10-06-hunt",
+      "date": "2026-10-06",
+      "title": "Tue Scout hunt 2026-10-06 — 34 screened, 2 deepened, 1 TEST SMALL",
+      "evidence": "Scout screened 34 / deepened 2 (M/E/B/U/C/Data/G; EMPTY ×3 → universe change to carrier-imposed requirements). Mandate desks 10/12 occupied by named products. Ellis challenge: lossrecops don't-know-yet (broker-free, Breasy, thin voice testable). wcauditops: ClassCheck $249 exact wedge.",
+      "decision": "lossrecops TEST SMALL (executed same run → REJECT Closed); wcauditops REJECT Closed at deepen",
+      "docs": [
+        "ops/scout-hunt-2026-10-06.md",
+        "ops/scout-screen-2026-10-06.md",
+        "ops/scout-ranked-cheaptest-2026-10-06.md",
+        "ops/challenge-cheaptest-2026-10-06.md"
+      ]
+    },
+    {
       "id": "cheaptest-2026-10-05b-calder-execute-lock",
       "date": "2026-10-05",
       "title": "Calder lock — execute results 2026-10-05b (prequalops REJECT)",
@@ -2351,6 +2485,14 @@
   ],
   "lessons": [
     {
+      "id": "occupancy-traction-check",
+      "title": "Searchable pain is occupied pain — check occupant traction before killing",
+      "body": "Mandated-outcome desks (the fallback suggested 10-05) were 10/12 occupied at screen time on 2026-10-06, often by 2026-dated AI-built micro-SaaS that appeared within weeks of the deadline (CPSC eFiling, MN PFAS, Publisher retirement, Harvest exodus). Across 10-05b + 10-06, 65 screens → 0 ACT, and some kills rested on occupants with no visible customers. Web-search sourcing is biased toward already-occupied markets, and occupancy-as-kill without a traction check will suppress every idea.",
+      "originationDate": "2026-10-06",
+      "behavioralChange": "At screen, run a '<pain> software / alternatives 2026' occupancy probe first. At deepen, grade each occupant on traction (reviews, named customers, team, age, live pricing); if only phantom occupants exist, treat as an open race and test distribution/demand instead of killing. Weight sourcing toward pain with structural barriers to solo micro-SaaS (licensure, physical ops, counterparty acceptance, distribution).",
+      "status": "Testing"
+    },
+    {
       "id": "occupancy-as-kill-under-crowding",
       "title": "Named vertical SoR that ships our wedge is a kill under crowding pressure",
       "body": "First ACT may treat modern vertical products as demand proof. On crowding pass, if Cabneo/KudurruStone/shopVOX/Yeti/QuoteIQ+Fence Cloud/Bitumio/Planning Ops already is the Harbor-shaped board, REJECT — do not keep ACT on residual Excel alone.",
@@ -2535,19 +2677,19 @@
   "nextUp": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-10-06T08:20:00-05:00",
+    "lastUpdated": "2026-10-06T09:05:00-05:00",
     "items": [
-      {
-        "title": "Expanded Scout hunt — 12–20 screen as floor; multi-lane breadth",
-        "nextRunAt": "2026-10-06T08:09:00-05:00",
-        "scheduleLabel": "Weekdays 8:09 AM CT (Tue run due now)",
-        "owner": "Nico (Harbor Scout) / Calder"
-      },
       {
         "title": "Foundry morning brief",
         "nextRunAt": "2026-10-07T08:02:00-05:00",
         "scheduleLabel": "Weekdays 8:02 AM CT (next Wed)",
         "owner": "Calder (Harbor Foundry - CEO)"
+      },
+      {
+        "title": "Expanded Scout hunt — 12–20 screen as floor; multi-lane breadth",
+        "nextRunAt": "2026-10-07T08:09:00-05:00",
+        "scheduleLabel": "Weekdays 8:09 AM CT (next Wed)",
+        "owner": "Nico (Harbor Scout) / Calder"
       },
       {
         "title": "ACT×4 SPK gate — Scale / Pivot / Kill (upfit / dental / yard / hood)",
@@ -2560,8 +2702,15 @@
   "sessionLog": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-10-06T08:20:00-05:00",
+    "lastUpdated": "2026-10-06T09:05:00-05:00",
     "entries": [
+      {
+        "date": "2026-10-06",
+        "time": "09:05 CT",
+        "actor": "Calder (Harbor Foundry - CEO) / Nico / Ellis",
+        "summary": "Tue Scout hunt. Looked at 34 ideas, mostly paperwork small businesses are forced to do (new filing deadlines, insurer demands, software shutting down or raising prices); nearly all already had several companies selling a fix, often brand-new apps launched within weeks of the deadline. One idea — helping small building owners and condo boards finish the repair list their insurer demands within 30 days (lossrecops) — got a free deeper check and was closed: brokers do it free, Breasy already sells that exact service, and insurers have their own upload portals. A workers' comp audit-dispute desk (wcauditops) was closed too (ClassCheck sells it for $249). $0 spent; nobody contacted; nothing for Thomas to approve.",
+        "deskChanges": "Pipeline +lossrecops +wcauditops (both REJECT Closed); Closed 26→28; screened week 149→183; HOLD 15 and ACT×4 unchanged; new Testing lesson occupancy-traction-check; Next Up rolled to Wed 8:02 brief / Wed 8:09 Scout / Thu Oct 8 SPK."
+      },
       {
         "date": "2026-10-06",
         "time": "08:20 CT",
@@ -3040,39 +3189,40 @@
     ]
   },
   "recentHunt": {
-    "date": "2026-10-05",
-    "id": "2026-10-05b",
+    "date": "2026-10-06",
+    "id": "2026-10-06",
     "type": "RESULTS",
-    "summary": "Mon second Scout pass (2026-10-05b) NOT EMPTY after a same-run universe change: screened 31 across A/D/F/G/W. Excel-first niche fallback 13/13 dead on purpose-built occupancy → switched to pay-to-be-qualified networks + regulatory-deadline desks. Deepened 2: prequalops (Calder TEST SMALL → $0 census → REJECT Closed: consultant desks $99–$350/mo + AI-native PrequalPilot + Avetta Vetify own managed desk) and dbeops (REJECT Closed: DBE Narrative Pro $79 occupies; firms exiting). 29 screen drops (micro-SaaS saturation 13, network wall 5, crowded compliance 4, other 7). ACT=4 untouched through Oct 8 SPK; HOLD=15; pending 0; $0; no Wren/memo; no Thomas proposal.",
+    "summary": "Tue Scout hunt NOT EMPTY after three same-run universe changes: screened 34 across M/E/B/U/C/Data/G, then carrier-imposed requirements (K). Mandate desks 10/12 already occupied (often new AI-built apps). Deepened 2: lossrecops (TEST SMALL → $0 census → REJECT Closed: Breasy ships the wedge, brokers free, carrier portals) and wcauditops (REJECT Closed at deepen: ClassCheck $249 + consultants). ACT=4 untouched through Oct 8 SPK; HOLD=15; pending 0; $0; no Wren/memo; no Thomas proposal.",
     "candidates": [
       {
-        "name": "PrequalOps",
-        "what": "Lane A/G — always-on compliance desk for small industrial contractors on ISNetworld / Avetta / Veriforce",
-        "why": "Real multi-year pain; but flat-rate consultant desks, PrequalPilot ($69–$299/mo) and Avetta Vetify already sell it",
-        "status": "REJECT Closed — after $0 census"
+        "name": "LossRecOps",
+        "what": "Lane K — closeout desk for carrier loss-control requirement letters (small multifamily / condo / co-op / HOA owners)",
+        "why": "30-day fix-or-lose-coverage letters are real, but brokers do closeout free, Breasy already sells inspection + repair + carrier-ready photo report, and carriers run their own portals",
+        "status": "REJECT Closed — after $0 census",
+        "lane": "K — carrier/lender-imposed requirements"
       },
       {
-        "name": "DBEOps",
-        "what": "Lane D/G — DBE/ACDBE personal-narrative + net-worth recertification desk",
-        "why": "DBE Narrative Pro ($79 / $35 mo) occupies; majority non-response; goals cut; window ends 2027-03-24",
-        "status": "REJECT Closed — at deepen"
+        "name": "WCAuditOps",
+        "what": "Lane M/G — workers' comp premium-audit dispute desk for small employers",
+        "why": "ClassCheck ships free AI class-code check + $249 human-reviewed audit review; contingency consultants occupy",
+        "status": "REJECT Closed — at deepen",
+        "lane": "M/G — mandated-outcome / productized service"
       }
     ],
     "docs": [
-      "ops/scout-hunt-2026-10-05b.md",
-      "ops/scout-screen-2026-10-05b.md",
-      "ops/scout-ranked-cheaptest-2026-10-05b.md",
-      "ops/scout-cheaptest-prequalops-2026-10-05b.md",
-      "ops/scout-cheaptest-dbeops-2026-10-05b.md",
-      "ops/challenge-cheaptest-2026-10-05b.md",
-      "ops/calder-lock-cheaptest-2026-10-05b.md",
-      "ops/cheaptest-result-prequalops-2026-10-05b.md",
-      "ops/cheaptest-cohort-2026-10-05b-results.md",
-      "ops/calder-lock-execute-2026-10-05b.md"
+      "ops/scout-hunt-2026-10-06.md",
+      "ops/scout-screen-2026-10-06.md",
+      "ops/scout-ranked-cheaptest-2026-10-06.md",
+      "ops/scout-cheaptest-lossrecops-2026-10-06.md",
+      "ops/scout-cheaptest-wcauditops-2026-10-06.md",
+      "ops/challenge-cheaptest-2026-10-06.md",
+      "ops/cheaptest-result-lossrecops-2026-10-06.md",
+      "ops/cheaptest-cohort-2026-10-06-results.md",
+      "ops/calder-lock-execute-2026-10-06.md"
     ],
     "status": "NOT EMPTY — 2 deepened → both REJECT Closed",
-    "candidateCount": 31,
-    "synopsis": "Second Scout pass Monday looked at 31 ideas. Most small 'still on spreadsheets' niches already have two or more software products, so Scout switched to small firms that must pass someone else's paid review to keep working. Two ideas were checked for free and both closed: a paperwork desk for small contractors on ISNetworld/Avetta (consultants, an AI product and Avetta itself already sell it) and a DBE recertification desk (a $79 AI product already does it; firms are leaving the program). Four active cheap tests continue to the Oct 8 decision. $0 spent; nothing needs Thomas."
+    "candidateCount": 34,
+    "synopsis": "2026-10-06 Tuesday Scout screened 34 names across mandated-outcome deadlines, complaint threads, forced migrations, underserved verticals, back-office pain, data products and productized services. Each of the first three universes came up empty (every desk already had named products, often new AI-built apps), so Scout changed the universe to requirements insurers impose on the insured. Two deepened; both closed after free public research."
   },
   "activeVentures": {
     "areaId": "foundry",
@@ -3176,5 +3326,5 @@
       }
     ]
   },
-  "headline": "Mon-b: prequalops + dbeops REJECT Closed; ACT=4 to Oct 8; HOLD=15; pending 0; $0."
+  "headline": "Tue: 34 screened; lossrecops + wcauditops REJECT Closed; ACT=4 to Oct 8; HOLD=15; pending 0; $0."
 }

@@ -1,8 +1,15 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-10-06T08:20:00-05:00",
+  "lastUpdated": "2026-10-06T09:05:00-05:00",
   "entries": [
+    {
+      "date": "2026-10-06",
+      "time": "09:05 CT",
+      "actor": "Calder (Harbor Foundry - CEO) / Nico / Ellis",
+      "summary": "Tue Scout hunt. Looked at 34 ideas, mostly paperwork small businesses are forced to do (new filing deadlines, insurer demands, software shutting down or raising prices); nearly all already had several companies selling a fix, often brand-new apps launched within weeks of the deadline. One idea — helping small building owners and condo boards finish the repair list their insurer demands within 30 days (lossrecops) — got a free deeper check and was closed: brokers do it free, Breasy already sells that exact service, and insurers have their own upload portals. A workers' comp audit-dispute desk (wcauditops) was closed too (ClassCheck sells it for $249). $0 spent; nobody contacted; nothing for Thomas to approve.",
+      "deskChanges": "Pipeline +lossrecops +wcauditops (both REJECT Closed); Closed 26→28; screened week 149→183; HOLD 15 and ACT×4 unchanged; new Testing lesson occupancy-traction-check; Next Up rolled to Wed 8:02 brief / Wed 8:09 Scout / Thu Oct 8 SPK."
+    },
     {
       "date": "2026-10-06",
       "time": "08:20 CT",
