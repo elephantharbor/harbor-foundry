@@ -1,8 +1,15 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-10-06T07:40:00-05:00",
+  "lastUpdated": "2026-10-06T08:20:00-05:00",
   "entries": [
+    {
+      "date": "2026-10-06",
+      "time": "08:20 CT",
+      "actor": "Calder (Harbor Foundry - CEO)",
+      "summary": "Tue morning brief to Thomas. Since Monday's brief, the second Scout pass closed two more ideas (contractor prequalification paperwork desk; DBE recertification desk) at $0. Four cheap tests (van upfit shops, dental labs, landscape supply yards, kitchen hood cleaners) run to Thursday's keep/change/kill decision; 15 on hold; nothing pending; $0 spent. No real-world test has run yet: every Foundry test so far is desk research. Setaside: one $24 listing, $0 sales. Latch paused. Upfit and Setaside proposals stay deferred (not re-asked).",
+      "deskChanges": "Next Up reordered by soonest (Tue Scout due now, Wed 8:02 brief, Thu Oct 8 SPK). Pipeline and metrics unchanged."
+    },
     {
       "date": "2026-10-06",
       "time": "07:40 CT",
