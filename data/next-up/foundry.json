@@ -1,18 +1,18 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-10-06T09:05:00-05:00",
+  "lastUpdated": "2026-10-07T08:20:00-05:00",
   "items": [
     {
       "title": "Foundry morning brief",
-      "nextRunAt": "2026-10-07T08:02:00-05:00",
-      "scheduleLabel": "Weekdays 8:02 AM CT (next Wed)",
+      "nextRunAt": "2026-10-08T08:02:00-05:00",
+      "scheduleLabel": "Weekdays 8:02 AM CT (next Thu)",
       "owner": "Calder (Harbor Foundry - CEO)"
     },
     {
       "title": "Expanded Scout hunt — 12–20 screen as floor; multi-lane breadth",
-      "nextRunAt": "2026-10-07T08:09:00-05:00",
-      "scheduleLabel": "Weekdays 8:09 AM CT (next Wed)",
+      "nextRunAt": "2026-10-08T08:09:00-05:00",
+      "scheduleLabel": "Weekdays 8:09 AM CT (next Thu; Wed run in progress)",
       "owner": "Nico (Harbor Scout) / Calder"
     },
     {
