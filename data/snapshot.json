@@ -1,6 +1,6 @@
 {
   "mission": "Create substantial software companies from weak or dated incumbent markets: hunt voraciously, test intelligently, bring decision-ready proposals to Thomas, and execute immediately after approval. Kill rigor stays; appetite rises.",
-  "lastUpdated": "2026-10-07T08:45:00-05:00",
+  "lastUpdated": "2026-10-07T08:40:00-05:00",
   "cycle": "Cycle 3",
   "metrics": {
     "researching": 0,
@@ -11,7 +11,7 @@
     "operatingVentures": 1,
     "setasideSales": "$0",
     "cheapTestsActive": 4,
-    "cheapTestsClosed": 28,
+    "cheapTestsClosed": 30,
     "cheapTestsWatch": 1,
     "cheapTestsPending": 0,
     "cheapTestsHold": 15,
@@ -27,11 +27,12 @@
     "lastHuntDecisions": "ACT 0 / HOLD 0 / REJECT at deepen 2 (Scout rec, awaiting Calder lock)"
   },
   "needsHumanAttention": [
+    "Post-Oct-8: $100–$250 agent-run landing + search-ads demand test (survivors or HOLDs) — awaiting Thomas",
     "Deferred Upfit + Setaside proposals still open — do not re-ask immediately",
     "ACT×4 SPK gate 2026-10-08"
   ],
-  "currentObjective": "ACT×4 SPK gate Thu 2026-10-08. Calder to lock Wed EMPTY hunt (2 deepen REJECTs) and decide on the Scout spend flag ($100–$250 paid demand test, Thomas approval). Next Scout Thu 2026-10-08 8:09 CT. Upfit+Setaside stay Deferred (no re-ask). Latch paused. $0.",
-  "currentStatus": "Wed 2026-10-07 Scout hunt filed EMPTY (Scout rec, awaiting Calder lock) at $0. 27 screened across six universes not run in the last two hunts — platform policy (P), structural-barrier work (H), rural/outdoor verticals (V), neglected-product/acquisition (N), fresh rules (R), non-US mandates (I); EMPTY after each, universe changed each time. Deepened 2, both REJECT at deepen: outfitterops (HuntDocs ships booking + harvest + NF/BLM reports with named outfitters; Hunt Outfitter undercuts) and amzdgops (Amazon owns the DG-review bottleneck; Comply PRO+/Listara/Amazon MYC occupy the record). Structural barriers did not protect against occupancy (11/12 H rows occupied, incl. funded hybrids). 92 screens over 10-05b/10-06/10-07 → 0 ACT; Scout flags a $100–$250 paid demand test for Calder to propose. ACT Cheap Tests=4 keep-alive through 2026-10-08 SPK (upfitops · dentallabops · landscapeyardops · kitchenhoodops). TEST SMALL pending=0. HOLD=15. ShopWorks WATCH. Latch paused. Setaside Operating. No Wren; no memo; $0.",
+  "currentObjective": "ACT×4 SPK gate 2026-10-08 tomorrow. Propose $100–$250 agent-run demand test after SPK. Do not re-ask Upfit/Setaside. Latch paused. $0.",
+  "currentStatus": "Wed 2026-10-07 Calder lock: Scout EMPTY. outfitterops + amzdgops REJECT Closed. ACT×4 through Oct 8 SPK. HOLD=15. pending=0. Process: after 3 EMPTY universes → occupant-weakness pass. Spend escalate pending Thomas ($100–$250 demand test post-SPK). Latch paused. Upfit+Setaside Deferred. $0. No Wren.",
   "pipelineStages": [
     {
       "id": "scout",
@@ -96,7 +97,7 @@
       "name": "Hunting/fishing outfitter ops SoR (booking, guides, tags, harvest, NF/BLM use reports)",
       "incumbent": "HuntDocs ($125/mo) + Hunt Outfitter ($0–$179) + OutBookX + FareHarbor-class booking",
       "stage": "cheapTest",
-      "status": "REJECT at deepen — Scout rec, awaiting Calder lock",
+      "status": "REJECT Closed",
       "summary": "Licensed outfitters juggle bookings, waivers, guide pay, tags, harvest records and federal-land actual-use reports. At deepen: HuntDocs already ships operating plans, actual-use reports and permit documents for NF/BLM with named outfitters (Deltana AK, Dry Creek Ranch CO, Old Sage MT); Hunt Outfitter (9 US states + CA/MX/ZA) undercuts it at $79 with a free tier. Real occupant traction.",
       "owner": "Nico / Calder",
       "updated": "2026-10-07",
@@ -105,14 +106,14 @@
       "resultDoc": "ops/scout-deepen-2026-10-07.md",
       "decision": "REJECT (Scout rec; awaiting Calder lock)",
       "note": "Re-open only on evidence of HuntDocs churn or NF/BLM reporting still done by hand among its users.",
-      "lastUpdated": "2026-10-07T08:45:00-05:00"
+      "lastUpdated": "2026-10-07T08:40:00-05:00"
     },
     {
       "id": "amzdgops",
       "name": "Amazon dangerous-goods review desk → seller product-compliance record",
       "incumbent": "Amazon (owns review queue; free Manage Your Compliance) + Comply PRO+ + Listara + SDS/exemption-sheet services",
       "stage": "cheapTest",
-      "status": "REJECT at deepen — Scout rec, awaiting Calder lock",
+      "status": "REJECT Closed",
       "summary": "FBA sellers stuck weeks in 'Unable to classify' DG review (forum: 'Day 51', 'two months', 'huge losses'). The slow step is inside Amazon (platform wall; reasons undisclosed). Fix-it services are thin (FastTrack Hazmat site 404), but the expansion record is shipped by Comply PRO+ and Listara, and Amazon MYC does free bulk upload.",
       "owner": "Nico / Calder",
       "updated": "2026-10-07",
@@ -121,7 +122,7 @@
       "resultDoc": "ops/scout-deepen-2026-10-07.md",
       "decision": "REJECT (Scout rec; awaiting Calder lock)",
       "note": "Re-open only on seller evidence that prepared-document desks materially cut DG review time.",
-      "lastUpdated": "2026-10-07T08:45:00-05:00"
+      "lastUpdated": "2026-10-07T08:40:00-05:00"
     },
     {
       "id": "lossrecops",
@@ -2792,33 +2793,40 @@
   "nextUp": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-10-07T08:45:00-05:00",
+    "lastUpdated": "2026-10-07T08:40:00-05:00",
     "items": [
-      {
-        "title": "Foundry morning brief",
-        "nextRunAt": "2026-10-08T08:02:00-05:00",
-        "scheduleLabel": "Weekdays 8:02 AM CT (next Thu)",
-        "owner": "Calder (Harbor Foundry - CEO)"
-      },
-      {
-        "title": "Expanded Scout hunt — 12–20 screen as floor; multi-lane breadth",
-        "nextRunAt": "2026-10-08T08:09:00-05:00",
-        "scheduleLabel": "Weekdays 8:09 AM CT (next Thu; Wed run filed EMPTY)",
-        "owner": "Nico (Harbor Scout) / Calder"
-      },
       {
         "title": "ACT×4 SPK gate — Scale / Pivot / Kill (upfit / dental / yard / hood)",
         "nextRunAt": "2026-10-08T17:00:00-05:00",
-        "scheduleLabel": "SPK decision Thu 2026-10-08 ($0 keep-alive; sooner if primary fail clears)",
+        "scheduleLabel": "SPK decision Thu 2026-10-08",
         "owner": "Calder (Harbor Foundry - CEO) / Nico"
+      },
+      {
+        "title": "Foundry morning brief",
+        "nextRunAt": "2026-10-08T08:02:00-05:00",
+        "scheduleLabel": "Weekdays 8:02 AM CT",
+        "owner": "Calder (Harbor Foundry - CEO)"
+      },
+      {
+        "title": "Expanded Scout hunt — 3-EMPTY → occupant-weakness pass",
+        "nextRunAt": "2026-10-08T08:09:00-05:00",
+        "scheduleLabel": "Weekdays 8:09 AM CT",
+        "owner": "Nico (Harbor Scout) / Calder"
       }
     ]
   },
   "sessionLog": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-10-07T08:45:00-05:00",
+    "lastUpdated": "2026-10-07T08:40:00-05:00",
     "entries": [
+      {
+        "date": "2026-10-07",
+        "time": "08:40 CT",
+        "actor": "Calder (Harbor Foundry - CEO)",
+        "summary": "Calder lock Wed Scout EMPTY: outfitterops + amzdgops REJECT Closed. Adopted 3-EMPTY→occupant-weakness process. Escalating $100–$250 agent-run demand-test spend ask to Thomas after Oct 8 SPK. ACT×4 / HOLD=15 / pending=0 unchanged. $0; Latch paused; Upfit+Setaside Deferred no re-ask.",
+        "deskChanges": "Live stack Closed+2; process lock; needsHumanAction includes demand-test spend; Next Up → Oct 8 SPK + brief + Scout; INSTITUTIONAL + calder-lock-execute-2026-10-07.md; push Scout commit 012f2b5 + this lock."
+      },
       {
         "date": "2026-10-07",
         "time": "08:45 CT",
@@ -3457,5 +3465,5 @@
       }
     ]
   },
-  "headline": "Wed: 27 screened, six universes → EMPTY; 2 deepen REJECTs (Scout rec); ACT=4 to Oct 8; HOLD=15; $0."
+  "headline": "Wed Scout EMPTY: outfitterops+amzdgops Closed; ACT=4 SPK tomorrow; $0."
 }

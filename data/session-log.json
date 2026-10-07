@@ -1,8 +1,15 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-10-07T08:45:00-05:00",
+  "lastUpdated": "2026-10-07T08:40:00-05:00",
   "entries": [
+    {
+      "date": "2026-10-07",
+      "time": "08:40 CT",
+      "actor": "Calder (Harbor Foundry - CEO)",
+      "summary": "Calder lock Wed Scout EMPTY: outfitterops + amzdgops REJECT Closed. Adopted 3-EMPTY→occupant-weakness process. Escalating $100–$250 agent-run demand-test spend ask to Thomas after Oct 8 SPK. ACT×4 / HOLD=15 / pending=0 unchanged. $0; Latch paused; Upfit+Setaside Deferred no re-ask.",
+      "deskChanges": "Live stack Closed+2; process lock; needsHumanAction includes demand-test spend; Next Up → Oct 8 SPK + brief + Scout; INSTITUTIONAL + calder-lock-execute-2026-10-07.md; push Scout commit 012f2b5 + this lock."
+    },
     {
       "date": "2026-10-07",
       "time": "08:45 CT",
