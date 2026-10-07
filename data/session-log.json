@@ -1,8 +1,15 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-10-06T09:05:00-05:00",
+  "lastUpdated": "2026-10-07T07:40:00-05:00",
   "entries": [
+    {
+      "date": "2026-10-07",
+      "time": "07:40 CT",
+      "actor": "Fernando",
+      "summary": "Wed HQ pre-brief. Desk true from Calder's Tue lock (Tue 09:05 CT): Tue Scout hunt screened 34 and closed 2 at $0 (lossrecops, wcauditops); ACT Cheap Tests=4 (upfit/dental/yard/hood) to Thu Oct 8 SPK; HOLD=15; TEST SMALL pending 0; Closed to date 28; ShopWorks WATCH; screened this week 183; Foundry spend $0; Setaside Operating ($0 sales); Latch Paused. Books realized unchanged $0 in / $38.21 out / $261.79 left; Tello renewal $6.04 still authorized-not-settled. No new Thomas decisions; Upfit+Setaside stay Deferred.",
+      "deskChanges": "Notion HQ snapshot refreshed to Wed 10-07 (Tue closures, Closed 26→28, screened week 149→183). Next Up already current (Wed 8:02 brief, 8:09 Scout, Oct 8 SPK) — not republished."
+    },
     {
       "date": "2026-10-06",
       "time": "09:05 CT",
