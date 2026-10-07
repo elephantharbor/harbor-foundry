@@ -1,8 +1,15 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-10-07T07:40:00-05:00",
+  "lastUpdated": "2026-10-07T08:45:00-05:00",
   "entries": [
+    {
+      "date": "2026-10-07",
+      "time": "08:45 CT",
+      "actor": "Nico (Harbor Scout)",
+      "summary": "Wed Scout hunt (Scout rec, awaiting Calder lock). Looked at 27 ideas in six new places: problems Amazon/Microsoft push onto small sellers; jobs that need a license, physical work or an outside party's sign-off; rural/outdoor businesses; buying a neglected product; brand-new rules; UK/Australia rules. Every one already had someone selling a fix — often a funded company or a new small app, even behind a license barrier. Two got a closer look and were closed: hunting-outfitter software (HuntDocs already sells it to named outfitters; a cheaper rival undercuts it) and help for Amazon sellers stuck in hazardous-goods review (the slow part is inside Amazon; other tools keep the paperwork). EMPTY after six universes. No test, nothing for Thomas, $0, nobody contacted. Flag for Calder: 92 ideas over three days → no live idea; a $100–$250 paid demand test (Thomas approval) would likely teach more than more free screening.",
+      "deskChanges": "emptyScreens +2026-10-07 (EMPTY); recentHunt → 2026-10-07; pipeline +outfitterops +amzdgops (REJECT at deepen, Scout rec — Closed count left at 28 pending Calder lock); screened week 183→210; new Candidate lesson structural-barrier-not-moat; Next Up rolled to Thu 8:02 brief / Thu 8:09 Scout / Thu Oct 8 SPK. ACT×4, HOLD 15, ShopWorks WATCH unchanged."
+    },
     {
       "date": "2026-10-07",
       "time": "07:40 CT",

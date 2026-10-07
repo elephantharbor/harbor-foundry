@@ -4,9 +4,9 @@
   "description": "Software venture creation — create companies, not only avoid bad ones.",
   "mission": "Create substantial software companies from weak or dated incumbent markets: hunt voraciously, test intelligently, bring decision-ready proposals to Thomas, and execute immediately after approval. Kill rigor stays; appetite rises.",
   "status": "Operating",
-  "statusDetail": "ACT Cheap Tests=4 keep-alive through 2026-10-08 SPK. TEST SMALL pending=0 (Tue lossrecops census + wcauditops deepen both REJECT Closed). HOLD=15. Latch paused. Setaside Operating (experiments deferred). $0. No Wren.",
+  "statusDetail": "ACT Cheap Tests=4 keep-alive through 2026-10-08 SPK. TEST SMALL pending=0 (Wed hunt EMPTY; outfitterops + amzdgops REJECT at deepen, Scout rec awaiting Calder lock). HOLD=15. Latch paused. Setaside Operating (experiments deferred). $0. No Wren.",
   "owner": "Calder (Harbor Foundry - CEO)",
-  "lastUpdated": "2026-10-06T09:05:00-05:00",
+  "lastUpdated": "2026-10-07T08:45:00-05:00",
   "headlineMetrics": [
     {
       "label": "Cheap Tests active",
@@ -29,12 +29,12 @@
       "value": "$0"
     }
   ],
-  "currentObjective": "ACT×4 SPK gate 2026-10-08. Next Scout Wed 2026-10-07 8:09 CT. Upfit+Setaside stay Deferred (no re-ask). Latch paused. $0.",
-  "currentStatusBrief": "Tue: 34 screened; lossrecops + wcauditops REJECT Closed; ACT=4 to Oct 8; HOLD=15; pending 0; $0.",
+  "currentObjective": "ACT×4 SPK gate Thu 2026-10-08. Calder to lock Wed EMPTY hunt + decide on Scout spend flag ($100–$250 paid demand test, Thomas approval). Next Scout Thu 8:09 CT. Upfit+Setaside Deferred (no re-ask). Latch paused. $0.",
+  "currentStatusBrief": "Wed: 27 screened across six new universes → EMPTY; 2 deepen REJECTs (Scout rec); ACT=4 to Oct 8; HOLD=15; pending 0; $0.",
   "latestLesson": {
-    "id": "occupancy-traction-check",
-    "title": "Searchable pain is occupied pain — check occupant traction before killing",
-    "summary": "Tue 2026-10-06: mandate desks 10/12 occupied at screen; grade occupant traction before an occupancy kill; weight sourcing toward pain with structural barriers. Testing; strengthens microsaas-saturation."
+    "id": "structural-barrier-not-moat",
+    "title": "Licence / physical / counterparty barriers are not a moat signal",
+    "summary": "Wed 2026-10-07: 11/12 barrier-protected screens already occupied (funded hybrids + new apps). 92 screens over 3 hunts → 0 ACT. Candidate: switch to occupant-weakness sourcing; propose a small paid demand test."
   },
   "needsHumanAction": true,
   "humanAction": "(1) Deferred Upfit + Setaside proposals still open — do not re-ask. (2) ACT×4 SPK on 2026-10-08.",
@@ -50,14 +50,14 @@
   "nextUp": [
     {
       "title": "Foundry morning brief",
-      "nextRunAt": "2026-10-07T08:02:00-05:00",
-      "scheduleLabel": "Weekdays 8:02 AM CT (next Wed)",
+      "nextRunAt": "2026-10-08T08:02:00-05:00",
+      "scheduleLabel": "Weekdays 8:02 AM CT (next Thu)",
       "owner": "Calder (Harbor Foundry - CEO)"
     },
     {
       "title": "Expanded Scout hunt — 12–20 screen as floor; multi-lane breadth",
-      "nextRunAt": "2026-10-07T08:09:00-05:00",
-      "scheduleLabel": "Weekdays 8:09 AM CT (next Wed)",
+      "nextRunAt": "2026-10-08T08:09:00-05:00",
+      "scheduleLabel": "Weekdays 8:09 AM CT (next Thu; Wed run filed EMPTY)",
       "owner": "Nico (Harbor Scout) / Calder"
     },
     {
@@ -67,6 +67,6 @@
       "owner": "Calder (Harbor Foundry - CEO) / Nico"
     }
   ],
-  "headline": "Tue: 34 screened; lossrecops + wcauditops REJECT Closed; ACT=4 to Oct 8; HOLD=15; pending 0; $0.",
-  "currentStatus": "Tue 2026-10-06 Scout hunt, Calder-locked and executed at $0. 34 screened across M/E/B/U/C/Data/G + universe change to carrier-imposed requirements (K); EMPTY three times mid-run, universe changed each time. Deepened 2: lossrecops (TEST SMALL → $0 census → REJECT Closed: Breasy ships the exact insurance-inspection + repair + carrier-ready photo package; brokers do closeout free; carrier portals) and wcauditops (REJECT Closed at deepen: ClassCheck $249 + contingency consultants). ACT Cheap Tests=4 keep-alive through 2026-10-08 SPK (upfitops · dentallabops · landscapeyardops · kitchenhoodops). TEST SMALL pending=0. HOLD=15. ShopWorks WATCH. Latch paused. Upfit+Setaside Deferred (no re-ask). $0. No Wren. No Thomas proposal."
+  "headline": "Wed: 27 screened across six new universes → EMPTY; 2 deepen REJECTs (Scout rec); ACT=4 to Oct 8; HOLD=15; pending 0; $0.",
+  "currentStatus": "Wed 2026-10-07 Scout hunt filed EMPTY (Scout rec, awaiting Calder lock) at $0. 27 screened across six universes not run in the last two hunts — platform policy (P), structural-barrier work (H), rural/outdoor verticals (V), neglected-product/acquisition (N), fresh rules (R), non-US mandates (I); EMPTY after each, universe changed each time. Deepened 2, both REJECT at deepen: outfitterops (HuntDocs ships booking + harvest + NF/BLM reports with named outfitters; Hunt Outfitter undercuts) and amzdgops (Amazon owns the DG-review bottleneck; Comply PRO+/Listara/Amazon MYC occupy the record). Structural barriers did not protect against occupancy (11/12 H rows occupied, incl. funded hybrids). 92 screens over 10-05b/10-06/10-07 → 0 ACT; Scout flags a $100–$250 paid demand test for Calder to propose. ACT Cheap Tests=4 keep-alive through 2026-10-08 SPK (upfitops · dentallabops · landscapeyardops · kitchenhoodops). TEST SMALL pending=0. HOLD=15. ShopWorks WATCH. Latch paused. Setaside Operating. No Wren; no memo; $0."
 }

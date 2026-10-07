@@ -1,6 +1,6 @@
 {
   "mission": "Create substantial software companies from weak or dated incumbent markets: hunt voraciously, test intelligently, bring decision-ready proposals to Thomas, and execute immediately after approval. Kill rigor stays; appetite rises.",
-  "lastUpdated": "2026-10-06T09:05:00-05:00",
+  "lastUpdated": "2026-10-07T08:45:00-05:00",
   "cycle": "Cycle 3",
   "metrics": {
     "researching": 0,
@@ -17,21 +17,21 @@
     "cheapTestsHold": 15,
     "proposalsPendingThomas": 2,
     "daysSinceLastRealWorldValidation": "n/a",
-    "opportunitiesScreenedWeek": 183,
+    "opportunitiesScreenedWeek": 210,
     "foundrySpend": "$0",
-    "lastHuntDate": "2026-10-06",
-    "lastHuntScreened": 34,
+    "lastHuntDate": "2026-10-07",
+    "lastHuntScreened": 27,
     "lastHuntDeepened": 2,
-    "lastHuntTestSmall": 1,
-    "lastHuntCensusRun": 1,
-    "lastHuntDecisions": "ACT 0 / HOLD 0 / REJECT Closed 2"
+    "lastHuntTestSmall": 0,
+    "lastHuntCensusRun": 0,
+    "lastHuntDecisions": "ACT 0 / HOLD 0 / REJECT at deepen 2 (Scout rec, awaiting Calder lock)"
   },
   "needsHumanAttention": [
     "Deferred Upfit + Setaside proposals still open — do not re-ask immediately",
     "ACT×4 SPK gate 2026-10-08"
   ],
-  "currentObjective": "ACT×4 SPK gate 2026-10-08. Next Scout Wed 2026-10-07 8:09 CT. Upfit+Setaside stay Deferred (no re-ask). Latch paused. $0.",
-  "currentStatus": "Tue 2026-10-06 Scout hunt, Calder-locked and executed at $0. 34 screened across M/E/B/U/C/Data/G + universe change to carrier-imposed requirements (K); EMPTY three times mid-run, universe changed each time. Deepened 2: lossrecops (TEST SMALL → $0 census → REJECT Closed: Breasy ships the exact insurance-inspection + repair + carrier-ready photo package; brokers do closeout free; carrier portals) and wcauditops (REJECT Closed at deepen: ClassCheck $249 + contingency consultants). ACT Cheap Tests=4 keep-alive through 2026-10-08 SPK (upfitops · dentallabops · landscapeyardops · kitchenhoodops). TEST SMALL pending=0. HOLD=15. ShopWorks WATCH. Latch paused. Upfit+Setaside Deferred (no re-ask). $0. No Wren. No Thomas proposal.",
+  "currentObjective": "ACT×4 SPK gate Thu 2026-10-08. Calder to lock Wed EMPTY hunt (2 deepen REJECTs) and decide on the Scout spend flag ($100–$250 paid demand test, Thomas approval). Next Scout Thu 2026-10-08 8:09 CT. Upfit+Setaside stay Deferred (no re-ask). Latch paused. $0.",
+  "currentStatus": "Wed 2026-10-07 Scout hunt filed EMPTY (Scout rec, awaiting Calder lock) at $0. 27 screened across six universes not run in the last two hunts — platform policy (P), structural-barrier work (H), rural/outdoor verticals (V), neglected-product/acquisition (N), fresh rules (R), non-US mandates (I); EMPTY after each, universe changed each time. Deepened 2, both REJECT at deepen: outfitterops (HuntDocs ships booking + harvest + NF/BLM reports with named outfitters; Hunt Outfitter undercuts) and amzdgops (Amazon owns the DG-review bottleneck; Comply PRO+/Listara/Amazon MYC occupy the record). Structural barriers did not protect against occupancy (11/12 H rows occupied, incl. funded hybrids). 92 screens over 10-05b/10-06/10-07 → 0 ACT; Scout flags a $100–$250 paid demand test for Calder to propose. ACT Cheap Tests=4 keep-alive through 2026-10-08 SPK (upfitops · dentallabops · landscapeyardops · kitchenhoodops). TEST SMALL pending=0. HOLD=15. ShopWorks WATCH. Latch paused. Setaside Operating. No Wren; no memo; $0.",
   "pipelineStages": [
     {
       "id": "scout",
@@ -91,6 +91,38 @@
     }
   ],
   "pipelineItems": [
+    {
+      "id": "outfitterops",
+      "name": "Hunting/fishing outfitter ops SoR (booking, guides, tags, harvest, NF/BLM use reports)",
+      "incumbent": "HuntDocs ($125/mo) + Hunt Outfitter ($0–$179) + OutBookX + FareHarbor-class booking",
+      "stage": "cheapTest",
+      "status": "REJECT at deepen — Scout rec, awaiting Calder lock",
+      "summary": "Licensed outfitters juggle bookings, waivers, guide pay, tags, harvest records and federal-land actual-use reports. At deepen: HuntDocs already ships operating plans, actual-use reports and permit documents for NF/BLM with named outfitters (Deltana AK, Dry Creek Ranch CO, Old Sage MT); Hunt Outfitter (9 US states + CA/MX/ZA) undercuts it at $79 with a free tier. Real occupant traction.",
+      "owner": "Nico / Calder",
+      "updated": "2026-10-07",
+      "recommendation": "REJECT",
+      "packetDoc": "ops/scout-deepen-2026-10-07.md",
+      "resultDoc": "ops/scout-deepen-2026-10-07.md",
+      "decision": "REJECT (Scout rec; awaiting Calder lock)",
+      "note": "Re-open only on evidence of HuntDocs churn or NF/BLM reporting still done by hand among its users.",
+      "lastUpdated": "2026-10-07T08:45:00-05:00"
+    },
+    {
+      "id": "amzdgops",
+      "name": "Amazon dangerous-goods review desk → seller product-compliance record",
+      "incumbent": "Amazon (owns review queue; free Manage Your Compliance) + Comply PRO+ + Listara + SDS/exemption-sheet services",
+      "stage": "cheapTest",
+      "status": "REJECT at deepen — Scout rec, awaiting Calder lock",
+      "summary": "FBA sellers stuck weeks in 'Unable to classify' DG review (forum: 'Day 51', 'two months', 'huge losses'). The slow step is inside Amazon (platform wall; reasons undisclosed). Fix-it services are thin (FastTrack Hazmat site 404), but the expansion record is shipped by Comply PRO+ and Listara, and Amazon MYC does free bulk upload.",
+      "owner": "Nico / Calder",
+      "updated": "2026-10-07",
+      "recommendation": "REJECT",
+      "packetDoc": "ops/scout-deepen-2026-10-07.md",
+      "resultDoc": "ops/scout-deepen-2026-10-07.md",
+      "decision": "REJECT (Scout rec; awaiting Calder lock)",
+      "note": "Re-open only on seller evidence that prepared-document desks materially cut DG review time.",
+      "lastUpdated": "2026-10-07T08:45:00-05:00"
+    },
     {
       "id": "lossrecops",
       "name": "Insured-side carrier loss-control requirement closeout desk",
@@ -814,6 +846,68 @@
       "reason": "Closed. SAP is shipping NextGen / new report UI; Harbor is not running a T&E replacement against that vendor modernization. Do not recycle."
     },
     "emptyScreens": [
+      {
+        "id": "2026-10-07",
+        "label": "HUNT 10-07",
+        "date": "2026-10-07",
+        "outcome": "EMPTY — six same-run universe changes; 2 deepened → REJECT at deepen (Scout rec)",
+        "status": "outfitterops REJECT at deepen; amzdgops REJECT at deepen — awaiting Calder lock",
+        "synopsis": "2026-10-07 Wednesday Scout screened 27 ideas in six places not searched in the last two hunts: work that platforms like Amazon and Microsoft push onto small sellers; jobs that need a license, physical work or sign-off from a big outside party; rural/outdoor businesses; buying a neglected product; brand-new rules; and UK/Australia rules. Each universe came up empty, so Scout changed universe five times in the same run. Two ideas got a closer look (hunting-outfitter software; Amazon hazardous-goods review help) and both were closed. Honest EMPTY.",
+        "why": "Every screen already had someone selling the fix — funded hybrids and new small apps even behind license/permit barriers. HuntDocs owns outfitter software with named customers; Amazon owns the hazardous-goods review bottleneck.",
+        "lanes": [
+          "platform / marketplace policy (new)",
+          "structural-barrier work — licensure / physical / counterparty (new)",
+          "vertical SoR gaps — rural/outdoor/civic",
+          "neglected-product / acquisition-style (new)",
+          "fresh-rule window (universe change)",
+          "non-US mandates (universe change)"
+        ],
+        "names": [
+          "OutfitterOps",
+          "AmzDGOps",
+          "FBA prep exit",
+          "De minimis entries",
+          "SMTP AUTH scan-to-email",
+          "Utility interconnection desk",
+          "DSCSA small dispenser",
+          "Small public water systems (Pipekeep dead)",
+          "Asbestos abatement",
+          "Radon mitigation",
+          "Union fringe remittance",
+          "HEAR rebate desk",
+          "CPSI playground inspections",
+          "FCC RMD recertification",
+          "Duty drawback",
+          "IEEPA tariff refunds",
+          "Nonprofit property-tax exemption",
+          "County fairs / livestock shows",
+          "Pallet recyclers",
+          "Shooting ranges",
+          "Tribal housing",
+          "Retiring-owner vendor buy",
+          "Acquire micro-listings",
+          "Roll-up stranding",
+          "Sept 2026 final rules",
+          "UK MTD ITSA",
+          "AU Payday Super"
+        ],
+        "candidates": [
+          {
+            "name": "OutfitterOps",
+            "what": "Lane V — ops software for licensed hunting/fishing outfitters (booking, guides, tags, harvest, NF/BLM use reports)",
+            "why": "HuntDocs ($125/mo) already ships the wedge + expansion with named outfitters (AK/CO/MT); Hunt Outfitter undercuts at $79 with a free tier",
+            "status": "REJECT at deepen — Scout rec, awaiting Calder lock",
+            "lane": "V — vertical SoR gaps (rural/outdoor)"
+          },
+          {
+            "name": "AmzDGOps",
+            "what": "Lane P — desk for Amazon sellers stuck in dangerous-goods (hazmat) review → seller product-compliance record",
+            "why": "Pain real (seller threads: 'Day 51', 'huge losses') but the bottleneck is inside Amazon (platform wall); Comply PRO+, Listara and Amazon Manage Your Compliance occupy the record",
+            "status": "REJECT at deepen — Scout rec, awaiting Calder lock",
+            "lane": "P — platform / marketplace policy"
+          }
+        ]
+      },
       {
         "id": "2026-10-06",
         "label": "HUNT 10-06",
@@ -2122,6 +2216,19 @@
   },
   "evidenceDecisions": [
     {
+      "id": "scout-2026-10-07-hunt",
+      "date": "2026-10-07",
+      "title": "Wed Scout hunt 2026-10-07 — 27 screened, 2 deepened, EMPTY (Scout rec)",
+      "evidence": "27 screened across P/H/V/N/R/I; H lane 11/12 occupied incl. funded hybrids (GreenLancer, WorkHero, Eli, LaborAid, LumberFi) and 4 AI-native small-water apps. HuntDocs fetched: NF/BLM actual-use reports + named outfitters, $125/mo; Hunt Outfitter $79 undercut. Amazon DG: seller-forum pain real; Amazon-internal queue; Comply PRO+ / Listara / Amazon MYC.",
+      "decision": "Scout rec: outfitterops REJECT at deepen; amzdgops REJECT at deepen; no TEST SMALL; spend flag ($100–$250 paid demand test) for Calder to consider proposing to Thomas. Awaiting Calder lock.",
+      "docs": [
+        "ops/scout-hunt-2026-10-07.md",
+        "ops/scout-screen-2026-10-07.md",
+        "ops/scout-deepen-2026-10-07.md",
+        "ops/scout-ranked-cheaptest-2026-10-07.md"
+      ]
+    },
+    {
       "id": "cheaptest-2026-10-06-calder-execute-lock",
       "date": "2026-10-06",
       "title": "Calder lock — execute results 2026-10-06 (lossrecops REJECT)",
@@ -2485,6 +2592,14 @@
   ],
   "lessons": [
     {
+      "id": "structural-barrier-not-moat",
+      "title": "Licence / physical / counterparty barriers are not a moat signal — topic web-search sourcing is exhausted",
+      "body": "Tested the 10-06 advice to source behind structural barriers: 11/12 H-lane screens on 2026-10-07 were already occupied — by funded hybrids (GreenLancer, WorkHero, Eli, LaborAid, LumberFi), vertical specialists (Ecesis, RadonReports) and AI-native apps even behind a licence barrier (4 small-water apps since 2026-08-30; outfitter apps with NF/BLM reporting). 92 screens over 10-05b/10-06/10-07 → 0 ACT, with traction-graded, evidence-based kills: the bottleneck is sourcing, not kill rigor.",
+      "originationDate": "2026-10-07",
+      "behavioralChange": "Proposed for Calder: after 3 EMPTY universes in one run, stop adding topic universes and run an occupant-weakness pass (occupants with traction + documented customer anger/churn); escalate one approval-gated $100–$250 landing + small-ads demand test on an already-researched idea instead of more $0 screening; keep traction grading at deepen.",
+      "status": "Candidate"
+    },
+    {
       "id": "occupancy-traction-check",
       "title": "Searchable pain is occupied pain — check occupant traction before killing",
       "body": "Mandated-outcome desks (the fallback suggested 10-05) were 10/12 occupied at screen time on 2026-10-06, often by 2026-dated AI-built micro-SaaS that appeared within weeks of the deadline (CPSC eFiling, MN PFAS, Publisher retirement, Harvest exodus). Across 10-05b + 10-06, 65 screens → 0 ACT, and some kills rested on occupants with no visible customers. Web-search sourcing is biased toward already-occupied markets, and occupancy-as-kill without a traction check will suppress every idea.",
@@ -2677,7 +2792,7 @@
   "nextUp": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-10-07T08:20:00-05:00",
+    "lastUpdated": "2026-10-07T08:45:00-05:00",
     "items": [
       {
         "title": "Foundry morning brief",
@@ -2688,7 +2803,7 @@
       {
         "title": "Expanded Scout hunt — 12–20 screen as floor; multi-lane breadth",
         "nextRunAt": "2026-10-08T08:09:00-05:00",
-        "scheduleLabel": "Weekdays 8:09 AM CT (next Thu; Wed run in progress)",
+        "scheduleLabel": "Weekdays 8:09 AM CT (next Thu; Wed run filed EMPTY)",
         "owner": "Nico (Harbor Scout) / Calder"
       },
       {
@@ -2702,8 +2817,15 @@
   "sessionLog": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-10-07T08:20:00-05:00",
+    "lastUpdated": "2026-10-07T08:45:00-05:00",
     "entries": [
+      {
+        "date": "2026-10-07",
+        "time": "08:45 CT",
+        "actor": "Nico (Harbor Scout)",
+        "summary": "Wed Scout hunt (Scout rec, awaiting Calder lock). Looked at 27 ideas in six new places: problems Amazon/Microsoft push onto small sellers; jobs that need a license, physical work or an outside party's sign-off; rural/outdoor businesses; buying a neglected product; brand-new rules; UK/Australia rules. Every one already had someone selling a fix — often a funded company or a new small app, even behind a license barrier. Two got a closer look and were closed: hunting-outfitter software (HuntDocs already sells it to named outfitters; a cheaper rival undercuts it) and help for Amazon sellers stuck in hazardous-goods review (the slow part is inside Amazon; other tools keep the paperwork). EMPTY after six universes. No test, nothing for Thomas, $0, nobody contacted. Flag for Calder: 92 ideas over three days → no live idea; a $100–$250 paid demand test (Thomas approval) would likely teach more than more free screening.",
+        "deskChanges": "emptyScreens +2026-10-07 (EMPTY); recentHunt → 2026-10-07; pipeline +outfitterops +amzdgops (REJECT at deepen, Scout rec — Closed count left at 28 pending Calder lock); screened week 183→210; new Candidate lesson structural-barrier-not-moat; Next Up rolled to Thu 8:02 brief / Thu 8:09 Scout / Thu Oct 8 SPK. ACT×4, HOLD 15, ShopWorks WATCH unchanged."
+      },
       {
         "date": "2026-10-07",
         "time": "08:20 CT",
@@ -3203,40 +3325,35 @@
     ]
   },
   "recentHunt": {
-    "date": "2026-10-06",
-    "id": "2026-10-06",
-    "type": "RESULTS",
-    "summary": "Tue Scout hunt NOT EMPTY after three same-run universe changes: screened 34 across M/E/B/U/C/Data/G, then carrier-imposed requirements (K). Mandate desks 10/12 already occupied (often new AI-built apps). Deepened 2: lossrecops (TEST SMALL → $0 census → REJECT Closed: Breasy ships the wedge, brokers free, carrier portals) and wcauditops (REJECT Closed at deepen: ClassCheck $249 + consultants). ACT=4 untouched through Oct 8 SPK; HOLD=15; pending 0; $0; no Wren/memo; no Thomas proposal.",
+    "date": "2026-10-07",
+    "id": "2026-10-07",
+    "type": "EMPTY",
+    "summary": "Wed Scout hunt EMPTY after six same-run universe changes (P/H/V/N/R/I; 27 screened). Deepened 2: outfitterops (HuntDocs ships the wedge with named outfitters) and amzdgops (Amazon platform wall; Comply PRO+/Listara occupy) — both REJECT at deepen, Scout rec awaiting Calder lock. Structural barriers did not protect against occupancy. Spend flag to Calder: $100–$250 paid demand test (Thomas approval). ACT=4 untouched through Oct 8 SPK; HOLD=15; pending 0; $0.",
     "candidates": [
       {
-        "name": "LossRecOps",
-        "what": "Lane K — closeout desk for carrier loss-control requirement letters (small multifamily / condo / co-op / HOA owners)",
-        "why": "30-day fix-or-lose-coverage letters are real, but brokers do closeout free, Breasy already sells inspection + repair + carrier-ready photo report, and carriers run their own portals",
-        "status": "REJECT Closed — after $0 census",
-        "lane": "K — carrier/lender-imposed requirements"
+        "name": "OutfitterOps",
+        "what": "Lane V — ops software for licensed hunting/fishing outfitters (booking, guides, tags, harvest, NF/BLM use reports)",
+        "why": "HuntDocs ($125/mo) already ships the wedge + expansion with named outfitters (AK/CO/MT); Hunt Outfitter undercuts at $79 with a free tier",
+        "status": "REJECT at deepen — Scout rec, awaiting Calder lock",
+        "lane": "V — vertical SoR gaps (rural/outdoor)"
       },
       {
-        "name": "WCAuditOps",
-        "what": "Lane M/G — workers' comp premium-audit dispute desk for small employers",
-        "why": "ClassCheck ships free AI class-code check + $249 human-reviewed audit review; contingency consultants occupy",
-        "status": "REJECT Closed — at deepen",
-        "lane": "M/G — mandated-outcome / productized service"
+        "name": "AmzDGOps",
+        "what": "Lane P — desk for Amazon sellers stuck in dangerous-goods (hazmat) review → seller product-compliance record",
+        "why": "Pain real (seller threads: 'Day 51', 'huge losses') but the bottleneck is inside Amazon (platform wall); Comply PRO+, Listara and Amazon Manage Your Compliance occupy the record",
+        "status": "REJECT at deepen — Scout rec, awaiting Calder lock",
+        "lane": "P — platform / marketplace policy"
       }
     ],
     "docs": [
-      "ops/scout-hunt-2026-10-06.md",
-      "ops/scout-screen-2026-10-06.md",
-      "ops/scout-ranked-cheaptest-2026-10-06.md",
-      "ops/scout-cheaptest-lossrecops-2026-10-06.md",
-      "ops/scout-cheaptest-wcauditops-2026-10-06.md",
-      "ops/challenge-cheaptest-2026-10-06.md",
-      "ops/cheaptest-result-lossrecops-2026-10-06.md",
-      "ops/cheaptest-cohort-2026-10-06-results.md",
-      "ops/calder-lock-execute-2026-10-06.md"
+      "ops/scout-hunt-2026-10-07.md",
+      "ops/scout-screen-2026-10-07.md",
+      "ops/scout-deepen-2026-10-07.md",
+      "ops/scout-ranked-cheaptest-2026-10-07.md"
     ],
-    "status": "NOT EMPTY — 2 deepened → both REJECT Closed",
-    "candidateCount": 34,
-    "synopsis": "2026-10-06 Tuesday Scout screened 34 names across mandated-outcome deadlines, complaint threads, forced migrations, underserved verticals, back-office pain, data products and productized services. Each of the first three universes came up empty (every desk already had named products, often new AI-built apps), so Scout changed the universe to requirements insurers impose on the insured. Two deepened; both closed after free public research."
+    "status": "EMPTY — 2 deepened → REJECT at deepen (Scout rec, awaiting Calder lock)",
+    "candidateCount": 27,
+    "synopsis": "2026-10-07 Wednesday Scout screened 27 ideas in six places not searched in the last two hunts: work that platforms like Amazon and Microsoft push onto small sellers; jobs that need a license, physical work or sign-off from a big outside party; rural/outdoor businesses; buying a neglected product; brand-new rules; and UK/Australia rules. Each universe came up empty, so Scout changed universe five times in the same run. Two ideas got a closer look (hunting-outfitter software; Amazon hazardous-goods review help) and both were closed. Honest EMPTY."
   },
   "activeVentures": {
     "areaId": "foundry",
@@ -3340,5 +3457,5 @@
       }
     ]
   },
-  "headline": "Tue: 34 screened; lossrecops + wcauditops REJECT Closed; ACT=4 to Oct 8; HOLD=15; pending 0; $0."
+  "headline": "Wed: 27 screened, six universes → EMPTY; 2 deepen REJECTs (Scout rec); ACT=4 to Oct 8; HOLD=15; $0."
 }
