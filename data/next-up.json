@@ -1,31 +1,31 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-10-08T09:30:00-05:00",
+  "lastUpdated": "2026-10-08T09:20:00-05:00",
   "items": [
-    {
-      "title": "Thomas decision — $150–$250 stormwater-desk landing + search-ad test (runs only if Oct 14 check passes)",
-      "nextRunAt": "2026-10-14T09:00:00-05:00",
-      "scheduleLabel": "Awaiting Thomas (proposal filed 2026-10-08)",
-      "owner": "Thomas / Calder (Harbor Foundry - CEO)"
-    },
     {
       "title": "Foundry morning brief",
       "nextRunAt": "2026-10-09T08:02:00-05:00",
-      "scheduleLabel": "Weekdays 8:02 AM CT (next Fri)",
+      "scheduleLabel": "Weekdays 8:02 AM CT (Fri)",
       "owner": "Calder (Harbor Foundry - CEO)"
     },
     {
-      "title": "Scout hunt — 12–20 floor; occupant-weakness after 3 EMPTY",
+      "title": "Scout hunt \u2014 occupant-weakness / regulator-data Candidate",
       "nextRunAt": "2026-10-09T08:09:00-05:00",
-      "scheduleLabel": "Weekdays 8:09 AM CT (next Fri)",
+      "scheduleLabel": "Weekdays 8:09 AM CT (Fri)",
       "owner": "Nico (Harbor Scout) / Calder"
     },
     {
-      "title": "igpops $0 census deadline — Advance / Kill (stormwater desk)",
+      "title": "igpops $0 census deadline \u2014 then demand-test if Thomas approved",
       "nextRunAt": "2026-10-14T17:00:00-05:00",
-      "scheduleLabel": "Wed 2026-10-14 (TEST SMALL deadline)",
-      "owner": "Nico (Harbor Scout) / Calder"
+      "scheduleLabel": "Census due Wed 2026-10-14",
+      "owner": "Nico / Calder"
+    },
+    {
+      "title": "Proposal to Thomas \u2014 $150\u2013$250 igpops landing + search ads",
+      "nextRunAt": "2026-10-08T12:00:00-05:00",
+      "scheduleLabel": "Awaiting Thomas (conditional on Oct 14 census)",
+      "owner": "Thomas / Calder"
     }
   ]
 }

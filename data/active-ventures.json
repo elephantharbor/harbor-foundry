@@ -1,7 +1,7 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-10-08T09:30:00-05:00",
+  "lastUpdated": "2026-10-08T09:20:00-05:00",
   "empty": false,
   "emptyReason": null,
   "items": [
@@ -36,8 +36,32 @@
       "lastUpdated": "2026-09-24T17:00:00-05:00"
     }
   ],
-  "note": "Active = Operating Setaside + paused Latch. Setaside turnaround proposal deferred (no re-ask). ACT Cheap Tests=0 after Oct 8 SPK (all four REJECT Closed); TEST SMALL pending=1 (igpops, census to 2026-10-14) — Cheap Test pipeline, not Active Venture / Sprint. HOLD=15. No Wren; no memo; $0.",
+  "note": "Active = Operating Setaside + paused Latch. Setaside turnaround proposal deferred (no re-ask). ACT Cheap Tests=0 after Oct 8 SPK (all four REJECT Closed). TEST SMALL pending=0; igpops live TEST SMALL (census to 2026-10-14) — Cheap Test pipeline, not Active Venture / Sprint. HOLD=15. Demand-test proposal awaiting Thomas. No Wren; no memo; $0.",
   "recentlyClosed": [
+    {
+      "id": "dentallabops",
+      "title": "Dentallabops",
+      "closed": "2026-10-08",
+      "reason": "REJECT — SimpleLabOS $29/mo owns board+dentist portal"
+    },
+    {
+      "id": "landscapeyardops",
+      "title": "Landscapeyardops",
+      "closed": "2026-10-08",
+      "reason": "REJECT — FlintPOS $99/mo owns load ticket+dispatch"
+    },
+    {
+      "id": "kitchenhoodops",
+      "title": "Kitchenhoodops",
+      "closed": "2026-10-08",
+      "reason": "REJECT — HoodOps ships auto NFPA 96 cert"
+    },
+    {
+      "id": "upfitops",
+      "title": "Upfitops",
+      "closed": "2026-10-08",
+      "reason": "REJECT — advance-or-die; deferred landing not re-asked"
+    },
     {
       "id": "lowvoltops",
       "title": "Lowvoltops",
