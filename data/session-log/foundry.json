@@ -1,8 +1,15 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-10-08T08:40:00-05:00",
+  "lastUpdated": "2026-10-08T09:30:00-05:00",
   "entries": [
+    {
+      "date": "2026-10-08",
+      "time": "09:30 CT",
+      "actor": "Calder (Harbor Foundry - CEO)",
+      "summary": "Thu Scout + Scale/Pivot/Kill review (one run: Nico → Ellis → Calder). (1) Yesterday's unfinished idea, a flat-price stormwater paperwork service for small California industrial sites, is kept alive as a free desk check to Wed Oct 14 with stricter pass/fail rules from the red team. (2) The four ideas watched since Sep 24 were all closed: cheap new software now sells what we planned for dental labs ($29/mo), landscape-supply yards ($99/mo, built by a yard owner) and hood cleaners ($99/mo, built by a certified cleaner); upfit shops had to move forward or close, and their only next step was the test Thomas set aside, so closed (reopens if Thomas picks it). (3) 30 new ideas checked, including the first angry-customer pass; none passed. (4) Proposal to Thomas: $150–$250 landing page + one week of Google search ads on the stormwater idea, only if the Oct 14 check passes. Nothing spent, published or contacted.",
+      "deskChanges": "ACT 4→0 (Closed +4: dentallabops, landscapeyardops, kitchenhoodops, upfitops; Closed 30→34); TEST SMALL pending 1 (igpops locked TEST SMALL, deadline 2026-10-14); HOLD 15; emptyScreens +2026-10-08; recentHunt → 2026-10-08 (30 screened, 0 nominees); evidenceDecisions +SPK +igpops +hunt; needsHumanAttention → demand-test proposal; proposals pending Thomas 2 (demand test + deferred Setaside); Next Up → Thomas decision, Fri brief/Scout, Oct 14 census. No new lesson."
+    },
     {
       "date": "2026-10-08",
       "time": "08:40 CT",

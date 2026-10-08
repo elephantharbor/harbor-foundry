@@ -1,24 +1,30 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-10-08T08:40:00-05:00",
+  "lastUpdated": "2026-10-08T09:30:00-05:00",
   "items": [
     {
-      "title": "ACT×4 SPK gate — Scale / Pivot / Kill (upfit / dental / yard / hood)",
-      "nextRunAt": "2026-10-08T17:00:00-05:00",
-      "scheduleLabel": "SPK decision Thu 2026-10-08 (today)",
-      "owner": "Calder (Harbor Foundry - CEO) / Nico"
+      "title": "Thomas decision — $150–$250 stormwater-desk landing + search-ad test (runs only if Oct 14 check passes)",
+      "nextRunAt": "2026-10-14T09:00:00-05:00",
+      "scheduleLabel": "Awaiting Thomas (proposal filed 2026-10-08)",
+      "owner": "Thomas / Calder (Harbor Foundry - CEO)"
     },
     {
       "title": "Foundry morning brief",
       "nextRunAt": "2026-10-09T08:02:00-05:00",
-      "scheduleLabel": "Weekdays 8:02 AM CT",
+      "scheduleLabel": "Weekdays 8:02 AM CT (next Fri)",
       "owner": "Calder (Harbor Foundry - CEO)"
     },
     {
-      "title": "Scout hunt — occupant-weakness pass",
+      "title": "Scout hunt — 12–20 floor; occupant-weakness after 3 EMPTY",
       "nextRunAt": "2026-10-09T08:09:00-05:00",
-      "scheduleLabel": "Weekdays 8:09 AM CT",
+      "scheduleLabel": "Weekdays 8:09 AM CT (next Fri)",
+      "owner": "Nico (Harbor Scout) / Calder"
+    },
+    {
+      "title": "igpops $0 census deadline — Advance / Kill (stormwater desk)",
+      "nextRunAt": "2026-10-14T17:00:00-05:00",
+      "scheduleLabel": "Wed 2026-10-14 (TEST SMALL deadline)",
       "owner": "Nico (Harbor Scout) / Calder"
     }
   ]

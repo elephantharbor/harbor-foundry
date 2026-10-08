@@ -1,6 +1,6 @@
 {
   "mission": "Create substantial software companies from weak or dated incumbent markets: hunt voraciously, test intelligently, bring decision-ready proposals to Thomas, and execute immediately after approval. Kill rigor stays; appetite rises.",
-  "lastUpdated": "2026-10-08T08:40:00-05:00",
+  "lastUpdated": "2026-10-08T09:30:00-05:00",
   "cycle": "Cycle 3",
   "metrics": {
     "researching": 0,
@@ -10,29 +10,31 @@
     "building": 0,
     "operatingVentures": 1,
     "setasideSales": "$0",
-    "cheapTestsActive": 4,
-    "cheapTestsClosed": 30,
+    "cheapTestsActive": 0,
+    "cheapTestsClosed": 34,
     "cheapTestsWatch": 1,
     "cheapTestsPending": 1,
     "cheapTestsHold": 15,
     "proposalsPendingThomas": 2,
     "daysSinceLastRealWorldValidation": "n/a",
-    "opportunitiesScreenedWeek": 210,
+    "opportunitiesScreenedWeek": 240,
     "foundrySpend": "$0",
-    "lastHuntDate": "2026-10-07",
-    "lastHuntScreened": 27,
-    "lastHuntDeepened": 2,
+    "lastHuntDate": "2026-10-08",
+    "lastHuntScreened": 30,
+    "lastHuntDeepened": 1,
     "lastHuntTestSmall": 0,
     "lastHuntCensusRun": 0,
-    "lastHuntDecisions": "ACT 0 / HOLD 0 / REJECT at deepen 2 (Scout rec, awaiting Calder lock)"
+    "lastHuntDecisions": "New: 0 TEST SMALL / 0 HOLD / 0 Closed (30 screen drops). Carry-over igpops → TEST SMALL. SPK: 4 Kill → REJECT Closed. Proposals to Thomas: 1.",
+    "lastHuntEmptyUniverses": 3,
+    "lastHuntOccupantWeaknessPass": true
   },
   "needsHumanAttention": [
-    "Post-Oct-8: $100–$250 agent-run landing + search-ads demand test (survivors or HOLDs) — awaiting Thomas",
-    "Deferred Upfit + Setaside proposals still open — do not re-ask immediately",
-    "ACT×4 SPK gate 2026-10-08"
+    "Approve / decline: $150–$250 landing page + 7–10 days of California Google search ads for the stormwater paperwork desk (igpops) — runs only if the free Oct 14 desk check passes (ops/proposal-demand-test-igpops-2026-10-08.md)",
+    "Deferred Setaside proposal still on file — not re-asked",
+    "Upfit closed at Oct 8 review; reopens only if Thomas picks the deferred Upfit path"
   ],
-  "currentObjective": "ACT×4 SPK gate 2026-10-08 tomorrow. Propose $100–$250 agent-run demand test after SPK. Do not re-ask Upfit/Setaside. Latch paused. $0.",
-  "currentStatus": "Thu 2026-10-08 brief: ACT×4 (upfit/dental/yard/hood) Scale/Pivot/Kill decision due today. Wed second Scout pass (10-07b) nominated igpops — a flat-price service that handles California industrial stormwater filings for small single-site facilities — as TEST SMALL ($0 public-data census, proposed deadline Oct 14); Ellis red-teamed it (no hard stops; paying pool ~5,200 sampling sites, NES/CDMS consultants already sell memberships). Awaiting Calder lock (pending=1). HOLD=15. Spend ask ($100–$250 demand test) comes to Thomas after today's decision. Latch paused. Upfit+Setaside Deferred. $0. No Wren.",
+  "currentObjective": "igpops $0 census to Wed 2026-10-14 (Advance → run the paid test if Thomas approves; Kill → REJECT Closed). Thomas decision on the $150–$250 demand test. Next Scout Fri 2026-10-09 8:09 CT. Latch paused. Setaside deferred. $0.",
+  "currentStatus": "Thu 2026-10-08 at $0. Scale/Pivot/Kill review done: all four Cheap Tests Killed → REJECT Closed — dentallabops (SimpleLabOS $29/mo + My Lab Board ship the small-lab board + dentist portal), landscapeyardops (FlintPOS $99/mo, yard-operator built, + HardscapeOS + BulkTrackPro), kitchenhoodops (HoodOps now ships auto NFPA 96 certificates + scheduling + invoicing at $99–$399/mo), upfitops (advance-or-die; only rung deferred by Thomas; reopens on his pick). igpops (CA industrial stormwater paperwork desk, from the 10-07 second pass) reconciled → TEST SMALL, $0 census due 2026-10-14 with red-team kill criteria. Thu hunt: 30 screened across PD/F2/U2 + first occupant-weakness pass → EMPTY. Proposal to Thomas: $150–$250 landing + search-ad test on igpops, conditional on the Oct 14 census. ACT=0 · TEST SMALL pending=1 · HOLD=15 · ShopWorks WATCH · Latch paused · Setaside Operating · no Wren · no memo.",
   "pipelineStages": [
     {
       "id": "scout",
@@ -92,6 +94,22 @@
     }
   ],
   "pipelineItems": [
+    {
+      "id": "igpops",
+      "name": "California industrial stormwater paperwork desk (single-site IGP facilities)",
+      "incumbent": "Quote-only local consultants (~$2.5–10k), NES/CDMS memberships, industry compliance groups",
+      "stage": "cheapTest",
+      "status": "TEST SMALL — $0 census due 2026-10-14 (Calder lock 2026-10-08)",
+      "summary": "State SMARTS data: 5,231 single-site sampling permit holders; 1,451 with violations since Jul 2024; 606 late on the 2024-25 annual report; 336 penalties, median $9,000. Red team: smaller pool than the headline, NES membership exists, groups halve sampling, late filers may not pay. None kills it. Flat $149–$249/mo desk; expansion to CA hazardous-materials filings and WA/OR stormwater.",
+      "owner": "Nico / Calder",
+      "updated": "2026-10-08",
+      "recommendation": "TEST SMALL",
+      "packetDoc": "ops/scout-cheaptest-igpops-2026-10-07b.md",
+      "resultDoc": "ops/calder-lock-igpops-2026-10-08.md",
+      "decision": "TEST SMALL (Calder 2026-10-08) — Advance → paid demand test if Thomas approves; Kill → REJECT Closed",
+      "note": "Kill criteria (a) price floor, (b) self-serve traction occupant, (c) payer void, (d) size <1,500 + CERS unverified. Paid test proposal: ops/proposal-demand-test-igpops-2026-10-08.md.",
+      "lastUpdated": "2026-10-08T09:30:00-05:00"
+    },
     {
       "id": "outfitterops",
       "name": "Hunting/fishing outfitter ops SoR (booking, guides, tags, harvest, NF/BLM use reports)",
@@ -339,45 +357,48 @@
       "name": "Small dental lab ops SoR",
       "incumbent": "Whiteboard / sticky notes / Excel + QB after LabStar/3Shape LMS reject",
       "stage": "cheapTest",
-      "status": "ACT keep-alive — Cheap Test only (through 2026-10-08; modest spend pending Thomas)",
-      "summary": "Execute: primary fail (LabStar→3Shape absorb) not tripped/not cleared; paying-lean independent=0. Case→due/stage + dentist status beachhead still open. Stall → modest (~$50–$150) pending Thomas.",
+      "status": "REJECT Closed — SPK Kill 2026-10-08",
+      "summary": "SPK Kill: SimpleLabOS sells the 1–10 lab case board + free doctor portal + invoicing from $29/mo; My Lab Board $99+; paying-lean never found.",
       "owner": "Nico",
-      "updated": "2026-09-24",
-      "recommendation": "ACT",
+      "updated": "2026-10-08",
+      "recommendation": "REJECT",
       "packetDoc": "ops/scout-cheaptest-dentallabops-2026-09-24b.md",
-      "decision": "ACT",
-      "note": "Calder execute lock 2026-09-24b: ACT keep-alive to 2026-10-08. $0 census stalled on paying-lean. Modest interview spend pending Thomas or keep $0. No Wren/memo. No outreach until spend approved.",
-      "resultDoc": "ops/cheaptest-result-dentallabops-2026-09-24b.md"
+      "decision": "REJECT Closed (SPK 2026-10-08)",
+      "note": "Re-open only on independent evidence that small labs reject the $29–$99 boards.",
+      "resultDoc": "ops/spk-decision-2026-10-08.md",
+      "lastUpdated": "2026-10-08T09:30:00-05:00"
     },
     {
       "id": "landscapeyardops",
       "name": "Landscape supply yard ops SoR",
       "incumbent": "Excel + QuickBooks + phone/radio (+ thin FlintPOS/BulkDelivery class)",
       "stage": "cheapTest",
-      "status": "ACT keep-alive — Cheap Test only (through 2026-10-08; modest spend pending Thomas)",
-      "summary": "Execute: Aspire/Jobber mis-tag not tripped; yard ICP holds. Independent yard n=1 stall. Load ticket + truck board beachhead open. Modest (~$75–$200) pending Thomas.",
+      "status": "REJECT Closed — SPK Kill 2026-10-08",
+      "summary": "SPK Kill: FlintPOS Core $99/mo (built by a yard operator) moves orders to dispatch; HardscapeOS ships day board + load tickets; BulkTrackPro; yard-payer body n=1.",
       "owner": "Nico",
-      "updated": "2026-09-24",
-      "recommendation": "ACT",
+      "updated": "2026-10-08",
+      "recommendation": "REJECT",
       "packetDoc": "ops/scout-cheaptest-landscapeyardops-2026-09-24b.md",
-      "decision": "ACT",
-      "note": "Calder execute lock 2026-09-24b: ACT keep-alive to 2026-10-08. Yard ICP confirmed ≠ landscaper FSM. Modest yard interviews pending Thomas or keep $0. No Wren/memo.",
-      "resultDoc": "ops/cheaptest-result-landscapeyardops-2026-09-24b.md"
+      "decision": "REJECT Closed (SPK 2026-10-08)",
+      "note": "Re-open only on yard-tagged evidence that FlintPOS/HardscapeOS users still dispatch by hand.",
+      "resultDoc": "ops/spk-decision-2026-10-08.md",
+      "lastUpdated": "2026-10-08T09:30:00-05:00"
     },
     {
       "id": "kitchenhoodops",
       "name": "Kitchen hood / NFPA 96 cleaning ops SoR",
       "incumbent": "Spreadsheet NFPA frequency + paper/PDF certificates (+ Jobber stitch)",
       "stage": "cheapTest",
-      "status": "ACT keep-alive — Cheap Test only (through 2026-10-08; modest spend pending Thomas)",
-      "summary": "Execute: Inspect Point fire mis-tag CLEARED. Jobber+PDF / QuoteIQ leftover open (not tripped, not cleared). Auto NFPA 96 certificate beachhead. Modest (~$100–$250 IKECA) pending Thomas.",
+      "status": "REJECT Closed — SPK Kill 2026-10-08",
+      "summary": "SPK Kill: HoodOps (IKECA CECS operator) now ships auto NFPA 96 report + certificate, frequency scheduling, routing, invoicing at $99–$399/mo.",
       "owner": "Nico",
-      "updated": "2026-09-24",
-      "recommendation": "ACT",
+      "updated": "2026-10-08",
+      "recommendation": "REJECT",
       "packetDoc": "ops/scout-cheaptest-kitchenhoodops-2026-09-24b.md",
-      "decision": "ACT",
-      "note": "Calder execute lock 2026-09-24b: ACT keep-alive to 2026-10-08. Fire mis-tag cleared; leftover open. Modest IKECA interviews pending Thomas or keep $0. No Wren/memo.",
-      "resultDoc": "ops/cheaptest-result-kitchenhoodops-2026-09-24b.md"
+      "decision": "REJECT Closed (SPK 2026-10-08)",
+      "note": "Re-open only if HoodOps fails visibly and cleaners still assemble certificates by hand.",
+      "resultDoc": "ops/spk-decision-2026-10-08.md",
+      "lastUpdated": "2026-10-08T09:30:00-05:00"
     },
     {
       "id": "petcremops",
@@ -412,15 +433,16 @@
       "name": "Van / work-truck upfit shop ops SoR",
       "incumbent": "Excel / whiteboard / 'ask Mike' + QB invoice",
       "stage": "cheapTest",
-      "status": "ACT — Cheap Test only (Thomas deferred path; no outreach/spend)",
-      "summary": "Scout ACT: Upfit Insider Excel/whiteboard residual; thin VanData/4Upfit demand; Fernwork portal leftover; NetSuite/Koble medium+ only. Bay board+parts-short passes overlay-kill.",
+      "status": "REJECT Closed — SPK Kill 2026-10-08 (reopen on Thomas path pick)",
+      "summary": "SPK Kill (advance-or-die): no $0 rung left; the only next rung is the deferred Upfit landing test (not re-asked); 4Upfit claims 500+ upfitters.",
       "owner": "Nico",
-      "updated": "2026-09-24",
-      "recommendation": "ACT",
+      "updated": "2026-10-08",
+      "recommendation": "REJECT",
       "packetDoc": "ops/scout-cheaptest-upfitops-2026-09-24.md",
-      "decision": "ACT",
-      "note": "Calder lock 2026-09-24b: ACT stands. Thomas deferred Upfit+Setaside path (skipped, not declined). Do NOT propose Upfit outreach, landing spend, or buyer experiments. Proposal still on file. No Wren/memo. Latch stays Paused.",
-      "resultDoc": "ops/cheaptest-result-upfitops-2026-09-24.md"
+      "decision": "REJECT Closed (SPK 2026-10-08)",
+      "note": "Reopens only if Thomas picks the deferred Upfit path (ops/proposal-upfit-validation-2026-09-24.md).",
+      "resultDoc": "ops/spk-decision-2026-10-08.md",
+      "lastUpdated": "2026-10-08T09:30:00-05:00"
     },
     {
       "id": "lowvoltops",
@@ -847,6 +869,90 @@
       "reason": "Closed. SAP is shipping NextGen / new report UI; Harbor is not running a T&E replacement against that vendor modernization. Do not recycle."
     },
     "emptyScreens": [
+      {
+        "id": "2026-10-08",
+        "label": "HUNT 10-08",
+        "date": "2026-10-08",
+        "outcome": "EMPTY — 3 EMPTY universes (PD/F2/U2) → occupant-weakness pass (10) → 0 nominees",
+        "status": "30 screened; 1 deepened (vendor-contract desk, dropped); igpops carry-over → TEST SMALL",
+        "synopsis": "2026-10-08 Thursday Scout checked 30 ideas: 13 kinds of government-required paperwork found through public records, 4 back-office jobs small firms pay people to do, 3 niche trades that file with the state, then 10 well-known software companies with angry customers. Every paperwork and niche idea already had sellers (often $29–$99/month apps). After three empty groups, Scout switched to the angry-customer list, and cheaper rivals were already winning those customers. Honest EMPTY: 0 new ideas.",
+        "why": "Government-paperwork and niche-trade ideas already had $29–$99/month apps or priced services; angry-customer incumbents already have cheaper rivals winning their customers.",
+        "lanes": [
+          "PD — regulator / public-data long tails (new datasets)",
+          "F2 — AI-native done-for-you back-office",
+          "U2 — underserved verticals that file with the state",
+          "O — occupant-weakness pass (first run, 3-EMPTY rule)"
+        ],
+        "names": [
+          "FDA food facility renewal",
+          "Pet-food state registrations",
+          "Prop 65 notices",
+          "FIFRA 25(b) state registrations",
+          "OSHA ITA 300A",
+          "EPA TRI Form R",
+          "WA industrial stormwater (folded into igpops)",
+          "MoCRA cosmetic listings",
+          "EPCRA Tier II",
+          "UST gas-station compliance",
+          "Dental X-ray registration",
+          "DOT driver files",
+          "Restaurant grease (FOG) programs",
+          "Unclaimed-property reports",
+          "Business personal property tax",
+          "LTL freight claims",
+          "Commercial property-tax appeals",
+          "Water-well drillers",
+          "Pet crematories (HOLD re-check)",
+          "Septic pumpers",
+          "Printavo alternative",
+          "Brycer fire-report fees",
+          "Skimmer alternative",
+          "Campspot alternative",
+          "LCPtracker certified payroll",
+          "Vendor-contract renewal desk",
+          "Waste-hauler bill audit",
+          "GolfNow alternative",
+          "Dockwa alternative",
+          "Housecall Pro alternative"
+        ],
+        "candidates": [
+          {
+            "name": "igpops",
+            "what": "Flat-price California industrial stormwater paperwork desk for single-site facilities (scrap, auto parts, plating, trucking yards, wineries)",
+            "why": "State records: 5,231 single-site sampling permit holders, 1,451 with violations since Jul 2024, median fine $9,000; today's option is a quote-only consultant",
+            "status": "TEST SMALL — $0 census to 2026-10-14 (reconciled from 10-07b); paid demand-test proposal to Thomas",
+            "lane": "X/P — regulator public data (10-07b)"
+          },
+          {
+            "name": "Vendor-contract renewal/exit desk",
+            "what": "Track and exit small-business auto-renew contracts (uniform rental, waste, alarm)",
+            "why": "Cintas anger is real (BBB/ComplaintsBoard), but RenewAlert/Lumipact/AllureTrak/Renewly trackers + expense-reduction franchises + UniformBright already serve it; exit is one-shot",
+            "status": "Dropped at deepen (not Closed)",
+            "lane": "O — occupant-weakness"
+          },
+          {
+            "name": "UST tank compliance",
+            "what": "Monthly underground-tank compliance for single-store gas stations",
+            "why": "TankBinder and USTPilot already sell it at $39/site/month",
+            "status": "Dropped at screen",
+            "lane": "PD — regulator/public data"
+          },
+          {
+            "name": "Printavo alternative",
+            "what": "Shop system for apparel decorators leaving Printavo after price hikes",
+            "why": "YoPrint, Teesom, shopVOX, DecoNetwork already take switchers",
+            "status": "Dropped at screen",
+            "lane": "O — occupant-weakness"
+          },
+          {
+            "name": "Fire-report upload desk",
+            "what": "Batch uploads for fire contractors paying Brycer per-report fees",
+            "why": "City-contracted portal; contractors can't route around it",
+            "status": "Dropped at screen",
+            "lane": "O — occupant-weakness"
+          }
+        ]
+      },
       {
         "id": "2026-10-07",
         "label": "HUNT 10-07",
@@ -2217,6 +2323,50 @@
   },
   "evidenceDecisions": [
     {
+      "id": "proposal-demand-test-2026-10-08",
+      "date": "2026-10-08",
+      "title": "Proposal to Thomas — $150–$250 stormwater-desk landing + search-ad test",
+      "evidence": "SPK left no survivors; HOLDs sit in cheap-app-saturated trades; igpops occupant is quote-only consultants and buyers search at a notice/deadline moment.",
+      "decision": "Escalated (needsHumanAction). Runs only if Oct 14 census clears. Success ≥8 facility-ID submissions incl. ≥5 valid sampling-permit IDs + ≥3 price clicks at ≤$30/valid ID; kill <3 valid IDs.",
+      "docs": [
+        "ops/proposal-demand-test-igpops-2026-10-08.md"
+      ]
+    },
+    {
+      "id": "spk-2026-10-08",
+      "date": "2026-10-08",
+      "title": "Scale/Pivot/Kill — ACT×4 (upfit / dental lab / landscape yard / hood cleaning)",
+      "evidence": "Same-day public refresh: SimpleLabOS $29/mo + My Lab Board; FlintPOS $99/mo + HardscapeOS + BulkTrackPro; HoodOps $99–$399/mo shipping auto NFPA 96 certs; 4Upfit claims 500+ upfitters; upfit's only rung deferred by Thomas.",
+      "decision": "All four Kill → REJECT Closed. Scale none; Pivot none. Upfit reopens on Thomas path pick.",
+      "docs": [
+        "ops/spk-decision-2026-10-08.md"
+      ]
+    },
+    {
+      "id": "igpops-lock-2026-10-08",
+      "date": "2026-10-08",
+      "title": "igpops reconciled (10-07b nominee never locked)",
+      "evidence": "Nico packet + Ellis red team 10-07b (5,231 single-site NOI; NES membership; groups halve sampling; delinquent-pay unknown) + WA cost study + consultant price room.",
+      "decision": "TEST SMALL — $0 census to 2026-10-14 with sharpened kill criteria (a)–(d).",
+      "docs": [
+        "ops/calder-lock-igpops-2026-10-08.md",
+        "ops/challenge-cheaptest-2026-10-07b.md"
+      ]
+    },
+    {
+      "id": "scout-2026-10-08-hunt",
+      "date": "2026-10-08",
+      "title": "Thu Scout hunt 2026-10-08 — 30 screened, EMPTY after occupant-weakness pass",
+      "evidence": "PD 13 / F2 4 / U2 3 all occupied (TankBinder/USTPilot $39, Tallymark $399, ExpressBPP/Aestim, DrillerDB, SepticSync…); occupant pass 10/10 already had cheaper rivals (YoPrint/Teesom, Pool Brain, ResNexus, TeeAhead, Molo, QuoteIQ…) or walls (Brycer, LCPcertified).",
+      "decision": "EMPTY; 0 new TEST SMALL; no new Closed (screen drops).",
+      "docs": [
+        "ops/scout-hunt-2026-10-08.md",
+        "ops/scout-screen-2026-10-08.md",
+        "ops/scout-ranked-cheaptest-2026-10-08.md",
+        "ops/challenge-cheaptest-2026-10-08.md"
+      ]
+    },
+    {
       "id": "scout-2026-10-07-hunt",
       "date": "2026-10-07",
       "title": "Wed Scout hunt 2026-10-07 — 27 screened, 2 deepened, EMPTY (Scout rec)",
@@ -2793,24 +2943,30 @@
   "nextUp": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-10-08T08:40:00-05:00",
+    "lastUpdated": "2026-10-08T09:30:00-05:00",
     "items": [
       {
-        "title": "ACT×4 SPK gate — Scale / Pivot / Kill (upfit / dental / yard / hood)",
-        "nextRunAt": "2026-10-08T17:00:00-05:00",
-        "scheduleLabel": "SPK decision Thu 2026-10-08 (today)",
-        "owner": "Calder (Harbor Foundry - CEO) / Nico"
+        "title": "Thomas decision — $150–$250 stormwater-desk landing + search-ad test (runs only if Oct 14 check passes)",
+        "nextRunAt": "2026-10-14T09:00:00-05:00",
+        "scheduleLabel": "Awaiting Thomas (proposal filed 2026-10-08)",
+        "owner": "Thomas / Calder (Harbor Foundry - CEO)"
       },
       {
         "title": "Foundry morning brief",
         "nextRunAt": "2026-10-09T08:02:00-05:00",
-        "scheduleLabel": "Weekdays 8:02 AM CT",
+        "scheduleLabel": "Weekdays 8:02 AM CT (next Fri)",
         "owner": "Calder (Harbor Foundry - CEO)"
       },
       {
-        "title": "Scout hunt — occupant-weakness pass",
+        "title": "Scout hunt — 12–20 floor; occupant-weakness after 3 EMPTY",
         "nextRunAt": "2026-10-09T08:09:00-05:00",
-        "scheduleLabel": "Weekdays 8:09 AM CT",
+        "scheduleLabel": "Weekdays 8:09 AM CT (next Fri)",
+        "owner": "Nico (Harbor Scout) / Calder"
+      },
+      {
+        "title": "igpops $0 census deadline — Advance / Kill (stormwater desk)",
+        "nextRunAt": "2026-10-14T17:00:00-05:00",
+        "scheduleLabel": "Wed 2026-10-14 (TEST SMALL deadline)",
         "owner": "Nico (Harbor Scout) / Calder"
       }
     ]
@@ -2818,8 +2974,15 @@
   "sessionLog": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-10-08T08:40:00-05:00",
+    "lastUpdated": "2026-10-08T09:30:00-05:00",
     "entries": [
+      {
+        "date": "2026-10-08",
+        "time": "09:30 CT",
+        "actor": "Calder (Harbor Foundry - CEO)",
+        "summary": "Thu Scout + Scale/Pivot/Kill review (one run: Nico → Ellis → Calder). (1) Yesterday's unfinished idea, a flat-price stormwater paperwork service for small California industrial sites, is kept alive as a free desk check to Wed Oct 14 with stricter pass/fail rules from the red team. (2) The four ideas watched since Sep 24 were all closed: cheap new software now sells what we planned for dental labs ($29/mo), landscape-supply yards ($99/mo, built by a yard owner) and hood cleaners ($99/mo, built by a certified cleaner); upfit shops had to move forward or close, and their only next step was the test Thomas set aside, so closed (reopens if Thomas picks it). (3) 30 new ideas checked, including the first angry-customer pass; none passed. (4) Proposal to Thomas: $150–$250 landing page + one week of Google search ads on the stormwater idea, only if the Oct 14 check passes. Nothing spent, published or contacted.",
+        "deskChanges": "ACT 4→0 (Closed +4: dentallabops, landscapeyardops, kitchenhoodops, upfitops; Closed 30→34); TEST SMALL pending 1 (igpops locked TEST SMALL, deadline 2026-10-14); HOLD 15; emptyScreens +2026-10-08; recentHunt → 2026-10-08 (30 screened, 0 nominees); evidenceDecisions +SPK +igpops +hunt; needsHumanAttention → demand-test proposal; proposals pending Thomas 2 (demand test + deferred Setaside); Next Up → Thomas decision, Fri brief/Scout, Oct 14 census. No new lesson."
+      },
       {
         "date": "2026-10-08",
         "time": "08:40 CT",
@@ -3347,35 +3510,60 @@
     ]
   },
   "recentHunt": {
-    "date": "2026-10-07",
-    "id": "2026-10-07",
+    "date": "2026-10-08",
+    "id": "2026-10-08",
     "type": "EMPTY",
-    "summary": "Wed Scout hunt EMPTY after six same-run universe changes (P/H/V/N/R/I; 27 screened). Deepened 2: outfitterops (HuntDocs ships the wedge with named outfitters) and amzdgops (Amazon platform wall; Comply PRO+/Listara occupy) — both REJECT at deepen, Scout rec awaiting Calder lock. Structural barriers did not protect against occupancy. Spend flag to Calder: $100–$250 paid demand test (Thomas approval). ACT=4 untouched through Oct 8 SPK; HOLD=15; pending 0; $0.",
+    "summary": "Thu Scout: 30 screened (PD 13 · F2 4 · U2 3 · occupant-weakness 10). 3 EMPTY universes → first occupant-weakness pass → 0. 1 light deepen (vendor-contract desk) dropped. igpops reconciled → TEST SMALL to 2026-10-14. SPK: 4 Kill. Proposal to Thomas: $150–$250 igpops landing + search-ad test (conditional on census). $0.",
     "candidates": [
       {
-        "name": "OutfitterOps",
-        "what": "Lane V — ops software for licensed hunting/fishing outfitters (booking, guides, tags, harvest, NF/BLM use reports)",
-        "why": "HuntDocs ($125/mo) already ships the wedge + expansion with named outfitters (AK/CO/MT); Hunt Outfitter undercuts at $79 with a free tier",
-        "status": "REJECT at deepen — Scout rec, awaiting Calder lock",
-        "lane": "V — vertical SoR gaps (rural/outdoor)"
+        "name": "igpops",
+        "what": "Flat-price California industrial stormwater paperwork desk for single-site facilities (scrap, auto parts, plating, trucking yards, wineries)",
+        "why": "State records: 5,231 single-site sampling permit holders, 1,451 with violations since Jul 2024, median fine $9,000; today's option is a quote-only consultant",
+        "status": "TEST SMALL — $0 census to 2026-10-14 (reconciled from 10-07b); paid demand-test proposal to Thomas",
+        "lane": "X/P — regulator public data (10-07b)"
       },
       {
-        "name": "AmzDGOps",
-        "what": "Lane P — desk for Amazon sellers stuck in dangerous-goods (hazmat) review → seller product-compliance record",
-        "why": "Pain real (seller threads: 'Day 51', 'huge losses') but the bottleneck is inside Amazon (platform wall); Comply PRO+, Listara and Amazon Manage Your Compliance occupy the record",
-        "status": "REJECT at deepen — Scout rec, awaiting Calder lock",
-        "lane": "P — platform / marketplace policy"
+        "name": "Vendor-contract renewal/exit desk",
+        "what": "Track and exit small-business auto-renew contracts (uniform rental, waste, alarm)",
+        "why": "Cintas anger is real (BBB/ComplaintsBoard), but RenewAlert/Lumipact/AllureTrak/Renewly trackers + expense-reduction franchises + UniformBright already serve it; exit is one-shot",
+        "status": "Dropped at deepen (not Closed)",
+        "lane": "O — occupant-weakness"
+      },
+      {
+        "name": "UST tank compliance",
+        "what": "Monthly underground-tank compliance for single-store gas stations",
+        "why": "TankBinder and USTPilot already sell it at $39/site/month",
+        "status": "Dropped at screen",
+        "lane": "PD — regulator/public data"
+      },
+      {
+        "name": "Printavo alternative",
+        "what": "Shop system for apparel decorators leaving Printavo after price hikes",
+        "why": "YoPrint, Teesom, shopVOX, DecoNetwork already take switchers",
+        "status": "Dropped at screen",
+        "lane": "O — occupant-weakness"
+      },
+      {
+        "name": "Fire-report upload desk",
+        "what": "Batch uploads for fire contractors paying Brycer per-report fees",
+        "why": "City-contracted portal; contractors can't route around it",
+        "status": "Dropped at screen",
+        "lane": "O — occupant-weakness"
       }
     ],
     "docs": [
-      "ops/scout-hunt-2026-10-07.md",
-      "ops/scout-screen-2026-10-07.md",
-      "ops/scout-deepen-2026-10-07.md",
-      "ops/scout-ranked-cheaptest-2026-10-07.md"
+      "ops/scout-hunt-2026-10-08.md",
+      "ops/scout-screen-2026-10-08.md",
+      "ops/scout-ranked-cheaptest-2026-10-08.md",
+      "ops/challenge-cheaptest-2026-10-08.md",
+      "ops/calder-lock-igpops-2026-10-08.md",
+      "ops/spk-decision-2026-10-08.md",
+      "ops/proposal-demand-test-igpops-2026-10-08.md",
+      "ops/calder-lock-execute-2026-10-08.md"
     ],
-    "status": "EMPTY — 2 deepened → REJECT at deepen (Scout rec, awaiting Calder lock)",
-    "candidateCount": 27,
-    "synopsis": "2026-10-07 Wednesday Scout screened 27 ideas in six places not searched in the last two hunts: work that platforms like Amazon and Microsoft push onto small sellers; jobs that need a license, physical work or sign-off from a big outside party; rural/outdoor businesses; buying a neglected product; brand-new rules; and UK/Australia rules. Each universe came up empty, so Scout changed universe five times in the same run. Two ideas got a closer look (hunting-outfitter software; Amazon hazardous-goods review help) and both were closed. Honest EMPTY."
+    "status": "EMPTY — 0 new nominees; igpops TEST SMALL carry-over; SPK 4 Kill",
+    "candidateCount": 30,
+    "synopsis": "2026-10-08 Thursday Scout checked 30 ideas: 13 kinds of government-required paperwork found through public records, 4 back-office jobs small firms pay people to do, 3 niche trades that file with the state, then 10 well-known software companies with angry customers. Every paperwork and niche idea already had sellers (often $29–$99/month apps). After three empty groups, Scout switched to the angry-customer list, and cheaper rivals were already winning those customers. Honest EMPTY: 0 new ideas."
   },
   "activeVentures": {
     "areaId": "foundry",
@@ -3479,5 +3667,5 @@
       }
     ]
   },
-  "headline": "Thu: ACT×4 Scale/Pivot/Kill decision due today; one new Scout nominee (California stormwater filings) awaiting Calder; $0."
+  "headline": "Thu: SPK closed all 4 Cheap Tests; stormwater desk kept as free test to Oct 14; 30 screened → EMPTY; $150–$250 ad test asked of Thomas; $0."
 }
