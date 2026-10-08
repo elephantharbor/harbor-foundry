@@ -2818,8 +2818,15 @@
   "sessionLog": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-10-07T08:40:00-05:00",
+    "lastUpdated": "2026-10-08T07:45:00-05:00",
     "entries": [
+      {
+        "date": "2026-10-08",
+        "time": "07:45 CT",
+        "actor": "Fernando",
+        "summary": "Thu HQ pre-brief. Desk true from Calder's Wed lock (Wed 08:40 CT): Wed Scout hunt screened 27 and closed 2 at $0 (outfitterops, amzdgops); ACT Cheap Tests=4 (upfit/dental/yard/hood) reach today's Oct 8 SPK; HOLD=15; TEST SMALL pending 0; Closed to date 30; ShopWorks WATCH; screened this week 210; Foundry spend $0; Setaside Operating ($0 sales); Latch Paused. Books realized unchanged $0 in / $38.21 out / $261.79 left; Tello renewal $6.04 still recorded as authorized-not-settled (mail check unavailable this run). Pending for Thomas after SPK: Calder's $100–$250 agent-run demand-test spend ask (Calder brings it). Upfit+Setaside stay Deferred, not re-asked.",
+        "deskChanges": "Session log only. Next Up already current (Thu 8:02 brief, 8:09 Scout, Oct 8 SPK) — not republished. Notion HQ snapshot refresh to 10-08 (Wed closures, Closed 28→30, screened week 183→210) NOT done: connectors temporarily unavailable this run; retry next run."
+      },
       {
         "date": "2026-10-07",
         "time": "08:40 CT",
