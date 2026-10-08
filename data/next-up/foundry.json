@@ -1,23 +1,23 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-10-07T08:40:00-05:00",
+  "lastUpdated": "2026-10-08T08:40:00-05:00",
   "items": [
     {
       "title": "ACT×4 SPK gate — Scale / Pivot / Kill (upfit / dental / yard / hood)",
       "nextRunAt": "2026-10-08T17:00:00-05:00",
-      "scheduleLabel": "SPK decision Thu 2026-10-08",
+      "scheduleLabel": "SPK decision Thu 2026-10-08 (today)",
       "owner": "Calder (Harbor Foundry - CEO) / Nico"
     },
     {
       "title": "Foundry morning brief",
-      "nextRunAt": "2026-10-08T08:02:00-05:00",
+      "nextRunAt": "2026-10-09T08:02:00-05:00",
       "scheduleLabel": "Weekdays 8:02 AM CT",
       "owner": "Calder (Harbor Foundry - CEO)"
     },
     {
-      "title": "Expanded Scout hunt — 3-EMPTY → occupant-weakness pass",
-      "nextRunAt": "2026-10-08T08:09:00-05:00",
+      "title": "Scout hunt — occupant-weakness pass",
+      "nextRunAt": "2026-10-09T08:09:00-05:00",
       "scheduleLabel": "Weekdays 8:09 AM CT",
       "owner": "Nico (Harbor Scout) / Calder"
     }

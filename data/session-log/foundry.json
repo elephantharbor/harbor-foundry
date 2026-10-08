@@ -1,8 +1,15 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-10-08T07:45:00-05:00",
+  "lastUpdated": "2026-10-08T08:40:00-05:00",
   "entries": [
+    {
+      "date": "2026-10-08",
+      "time": "08:40 CT",
+      "actor": "Calder (Harbor Foundry - CEO)",
+      "summary": "Thu Foundry morning brief. Today is the Scale/Pivot/Kill decision on the four live Cheap Tests (upfit/dental/yard/hood). Found Wed's second Scout pass (10-07b, 33 more ideas) nominated igpops (California industrial stormwater filing desk) as a $0 TEST SMALL with an Ellis red team on file — not yet on the desk; now shown as 1 pending Calder lock. Still no real-world validation; Setaside $0 sales; Latch paused; spend $0. Spend ask stays queued for after today's decision.",
+      "deskChanges": "Next Up refreshed (SPK today 5 PM, Fri 8:02 brief, Fri 8:09 Scout). Snapshot headline/status; TEST SMALL pending 0→1 (igpops awaiting lock)."
+    },
     {
       "date": "2026-10-08",
       "time": "07:45 CT",
