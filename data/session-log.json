@@ -1,8 +1,15 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-10-08T09:20:00-05:00",
+  "lastUpdated": "2026-10-09T09:15:00-05:00",
   "entries": [
+    {
+      "date": "2026-10-09",
+      "time": "09:15 CT",
+      "actor": "Nico (Harbor Foundry - Scout)",
+      "summary": "Fri Scout hunt EMPTY: 13 screened (N1 sunsetting accounting/practice software, N2 platform retirements, J job-posting coordinator pain) + occupant check; 2 deepened (bulletinops, licensetrackops) dropped; 0 TEST SMALL. $0.",
+      "deskChanges": "emptyScreens + recentHunt + metrics + session log; INSTITUTIONAL appended; ops/scout-{screen,hunt,ranked}-2026-10-09.md"
+    },
     {
       "date": "2026-10-08",
       "time": "09:20 CT",

@@ -1,6 +1,6 @@
 {
   "mission": "Create substantial software companies from weak or dated incumbent markets: hunt voraciously, test intelligently, bring decision-ready proposals to Thomas, and execute immediately after approval. Kill rigor stays; appetite rises.",
-  "lastUpdated": "2026-10-08T09:20:00-05:00",
+  "lastUpdated": "2026-10-09T09:15:00-05:00",
   "cycle": "Cycle 3",
   "metrics": {
     "researching": 0,
@@ -17,14 +17,14 @@
     "cheapTestsHold": 15,
     "proposalsPendingThomas": 1,
     "daysSinceLastRealWorldValidation": "n/a",
-    "opportunitiesScreenedWeek": 240,
+    "opportunitiesScreenedWeek": 253,
     "foundrySpend": "$0",
-    "lastHuntDate": "2026-10-08",
-    "lastHuntScreened": 30,
-    "lastHuntDeepened": 1,
+    "lastHuntDate": "2026-10-09",
+    "lastHuntScreened": 13,
+    "lastHuntDeepened": 2,
     "lastHuntTestSmall": 0,
     "lastHuntCensusRun": 0,
-    "lastHuntDecisions": "ACT 0 / HOLD 0 / REJECT at deepen 0; EMPTY; igpops TEST SMALL locked (carry); SPK Kill\u00d74",
+    "lastHuntDecisions": "EMPTY; 2 dropped at deepen; igpops TEST SMALL live (Calder) untouched",
     "lastHuntEmptyUniverses": 3,
     "lastHuntOccupantWeaknessPass": true
   },
@@ -868,6 +868,51 @@
       "reason": "Closed. SAP is shipping NextGen / new report UI; Harbor is not running a T&E replacement against that vendor modernization. Do not recycle."
     },
     "emptyScreens": [
+      {
+        "id": "2026-10-09",
+        "label": "HUNT 10-09",
+        "date": "2026-10-09",
+        "outcome": "EMPTY \u2014 3 EMPTY universes (N1 sunsets / N2 platform retirements / J job-posting pain) \u2192 occupant check on Publisher refugees \u2192 0 nominees",
+        "status": "13 screened; 2 deepened (bulletinops, licensetrackops \u2014 dropped); 0 TEST SMALL",
+        "synopsis": "2026-10-09 Friday Scout checked 13 ideas: software being shut down or retired (QuickBooks Desktop, Finmark, Sage BusinessVision, Microsoft Publisher, GoDaddy's AI builder and others), plus job ads where companies hire people to track paperwork in spreadsheets. Looked closely at 2. None passed: every group of stranded customers already has a replacement, either from the original vendor or from small new tools that moved in before the shutdown date. Publisher is the clearest case: church staff are angry, but three cheap tools already open old Publisher files. $0, nothing new for Thomas.",
+        "candidates": [
+          {
+            "name": "bulletinops",
+            "what": "Publisher-replacement church bulletin builder",
+            "why": "Real anger at Publisher's Oct 2026 retirement, but Korva ($49 once), Publish Media ($9.99/mo) and In The Bulletin ($20/mo) already open old Publisher files; tiny church budgets",
+            "status": "Dropped at deepen (not Closed)",
+            "lane": "N2"
+          },
+          {
+            "name": "licensetrackops",
+            "what": "Multi-state contractor license + CE renewal desk",
+            "why": "Real coordinator job ads, but CurrentState ($15/mo+), LicenseRoadmap/LicensedTrades ($199/mo), RenewBase already ship it",
+            "status": "Dropped at deepen (not Closed)",
+            "lane": "J"
+          },
+          {
+            "name": "qbd-sunset",
+            "what": "QuickBooks Desktop migration desk",
+            "why": "Intuit's own successor plus conversion shops",
+            "status": "Dropped at screen",
+            "lane": "N1"
+          },
+          {
+            "name": "sagebv-eol",
+            "what": "Sage BusinessVision end-of-life refugees",
+            "why": "Sage 50/300 vendor-own path",
+            "status": "Dropped at screen",
+            "lane": "N1"
+          },
+          {
+            "name": "coi-tracking",
+            "what": "Subcontractor insurance-certificate tracker",
+            "why": "6+ named tools already",
+            "status": "Dropped at screen",
+            "lane": "J"
+          }
+        ]
+      },
       {
         "id": "2026-10-08",
         "label": "HUNT 10-08",
@@ -2981,8 +3026,15 @@
   "sessionLog": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-10-08T09:20:00-05:00",
+    "lastUpdated": "2026-10-09T09:15:00-05:00",
     "entries": [
+      {
+        "date": "2026-10-09",
+        "time": "09:15 CT",
+        "actor": "Nico (Harbor Foundry - Scout)",
+        "summary": "Fri Scout hunt EMPTY: 13 screened (N1 sunsetting accounting/practice software, N2 platform retirements, J job-posting coordinator pain) + occupant check; 2 deepened (bulletinops, licensetrackops) dropped; 0 TEST SMALL. $0.",
+        "deskChanges": "emptyScreens + recentHunt + metrics + session log; INSTITUTIONAL appended; ops/scout-{screen,hunt,ranked}-2026-10-09.md"
+      },
       {
         "date": "2026-10-08",
         "time": "09:20 CT",
@@ -3524,17 +3576,45 @@
     ]
   },
   "recentHunt": {
-    "date": "2026-10-08",
-    "id": "2026-10-08",
+    "date": "2026-10-09",
+    "id": "2026-10-09",
     "type": "EMPTY",
-    "summary": "Thu Scout EMPTY (30 screened; 3 EMPTY universes \u2192 occupant-weakness pass 10 \u2192 0 new nominees). Calder locked igpops TEST SMALL live (census due Oct 14) and SPK-killed ACT\u00d74. Demand-test proposal to Thomas drafted. HOLD=15; pending=0; ACT=0; $0.",
+    "summary": "Fri Scout EMPTY (13 screened, 2 deepened, 0 TEST SMALL; lanes N1/N2/J + occupant check). Sunset/EOL refugees already served by vendor successors or fast followers. igpops TEST SMALL live to Oct 14 untouched. HOLD=15; ACT=0; $0.",
     "candidates": [
       {
-        "name": "igpops",
-        "what": "Flat-price CA industrial stormwater paperwork desk for single-site facilities",
-        "why": "State data: ~5,231 single-site sampling permittees, ~1,450 with violations; occupant is quote-only consultants",
-        "status": "TEST SMALL live \u2014 $0 census to 2026-10-14 (Calder locked)",
-        "lane": "X/P (carry from 10-07b)"
+        "name": "bulletinops",
+        "what": "Publisher-replacement church bulletin builder",
+        "why": "Real anger at Publisher's Oct 2026 retirement, but Korva ($49 once), Publish Media ($9.99/mo) and In The Bulletin ($20/mo) already open old Publisher files; tiny church budgets",
+        "status": "Dropped at deepen (not Closed)",
+        "lane": "N2"
+      },
+      {
+        "name": "licensetrackops",
+        "what": "Multi-state contractor license + CE renewal desk",
+        "why": "Real coordinator job ads, but CurrentState ($15/mo+), LicenseRoadmap/LicensedTrades ($199/mo), RenewBase already ship it",
+        "status": "Dropped at deepen (not Closed)",
+        "lane": "J"
+      },
+      {
+        "name": "qbd-sunset",
+        "what": "QuickBooks Desktop migration desk",
+        "why": "Intuit's own successor plus conversion shops",
+        "status": "Dropped at screen",
+        "lane": "N1"
+      },
+      {
+        "name": "sagebv-eol",
+        "what": "Sage BusinessVision end-of-life refugees",
+        "why": "Sage 50/300 vendor-own path",
+        "status": "Dropped at screen",
+        "lane": "N1"
+      },
+      {
+        "name": "coi-tracking",
+        "what": "Subcontractor insurance-certificate tracker",
+        "why": "6+ named tools already",
+        "status": "Dropped at screen",
+        "lane": "J"
       }
     ]
   },
