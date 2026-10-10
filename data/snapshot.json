@@ -1,6 +1,6 @@
 {
   "mission": "Create substantial software companies from weak or dated incumbent markets: hunt voraciously, test intelligently, bring decision-ready proposals to Thomas, and execute immediately after approval. Kill rigor stays; appetite rises.",
-  "lastUpdated": "2026-10-09T09:15:00-05:00",
+  "lastUpdated": "2026-10-10T08:10:00-05:00",
   "cycle": "Cycle 3",
   "metrics": {
     "researching": 0,
@@ -33,7 +33,7 @@
     "Deferred Upfit + Setaside proposals still on file \u2014 do not re-ask"
   ],
   "currentObjective": "igpops $0 census to Oct 14. Thomas: approve/decline $150\u2013$250 igpops demand test (conditional on census). Fri 8:02 brief / 8:09 Scout. Do not re-ask Upfit/Setaside. Latch paused. $0.",
-  "currentStatus": "Thu 2026-10-08 Calder lock: ACT\u00d74 Scale/Pivot/Kill recorded \u2014 all four Kill\u2192REJECT Closed (dental: SimpleLabOS $29/mo owns board+portal; yard: FlintPOS $99/mo owns load ticket+dispatch; hood: HoodOps ships auto NFPA 96 cert at $99\u2013$399/mo; upfit: advance-or-die with deferred landing path not re-asked). igpops LOCKED TEST SMALL live ($0 public-data census, deadline Wed Oct 14; Ellis kill criteria adopted; consultant quote-only memberships = demand not kill). TEST SMALL pending 1\u21920. HOLD=15. Today's Scout EMPTY (30 ideas). Demand-test proposal drafted for Thomas ($150\u2013$250 landing+search ads on igpops, conditional on Oct 14). Latch paused. Upfit+Setaside Deferred. $0. No Wren.",
+  "currentStatus": "Routines intentionally paused for weekly prioritization, not broken (Sat 2026-10-10 Weekly Priority Reset; no auto-resume \u2014 Oversight decides). Prior: Thu 2026-10-08 Calder lock: ACT\u00d74 Scale/Pivot/Kill recorded \u2014 all four Kill\u2192REJECT Closed (dental: SimpleLabOS $29/mo owns board+portal; yard: FlintPOS $99/mo owns load ticket+dispatch; hood: HoodOps ships auto NFPA 96 cert at $99\u2013$399/mo; upfit: advance-or-die with deferred landing path not re-asked). igpops LOCKED TEST SMALL live ($0 public-data census, deadline Wed Oct 14; Ellis kill criteria adopted; consultant quote-only memberships = demand not kill). TEST SMALL pending 1\u21920. HOLD=15. Today's Scout EMPTY (30 ideas). Demand-test proposal drafted for Thomas ($150\u2013$250 landing+search ads on igpops, conditional on Oct 14). Latch paused. Upfit+Setaside Deferred. $0. No Wren.",
   "pipelineStages": [
     {
       "id": "scout",
@@ -2995,19 +2995,13 @@
   "nextUp": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-10-08T09:20:00-05:00",
+    "lastUpdated": "2026-10-10T08:10:00-05:00",
     "items": [
       {
-        "title": "Foundry morning brief",
-        "nextRunAt": "2026-10-09T08:02:00-05:00",
-        "scheduleLabel": "Weekdays 8:02 AM CT (Fri)",
-        "owner": "Calder (Harbor Foundry - CEO)"
-      },
-      {
-        "title": "Scout hunt \u2014 occupant-weakness / regulator-data Candidate",
-        "nextRunAt": "2026-10-09T08:09:00-05:00",
-        "scheduleLabel": "Weekdays 8:09 AM CT (Fri)",
-        "owner": "Nico (Harbor Scout) / Calder"
+        "title": "Foundry routines paused",
+        "nextRunAt": null,
+        "scheduleLabel": "Routines intentionally paused for weekly prioritization, not broken \u2014 no auto-resume; Oversight decides when they return",
+        "owner": "Oversight / Fernando (Ops)"
       },
       {
         "title": "igpops $0 census deadline \u2014 then demand-test if Thomas approved",
@@ -3026,8 +3020,15 @@
   "sessionLog": {
     "areaId": "foundry",
     "areaName": "Harbor Foundry",
-    "lastUpdated": "2026-10-09T09:15:00-05:00",
+    "lastUpdated": "2026-10-10T08:10:00-05:00",
     "entries": [
+      {
+        "date": "2026-10-10",
+        "time": "08:10 CT",
+        "actor": "Fernando (Ops)",
+        "summary": "Weekly Priority Reset: all Foundry Ops routines intentionally paused for weekly prioritization \u2014 not broken, no auto-resume; Oversight decides when they come back. Scheduled brief/Scout items removed from Next Up. igpops TEST SMALL (Oct 14) held untouched; queues and experiments unchanged.",
+        "deskChanges": "snapshot headline/currentStatus + Next Up + session log"
+      },
       {
         "date": "2026-10-09",
         "time": "09:15 CT",
@@ -3744,5 +3745,5 @@
       }
     ]
   },
-  "headline": "Thu SPK: all 4 Cheap Tests Closed; igpops live free check to Oct 14; $150\u2013$250 ad ask for Thomas; $0."
+  "headline": "Routines intentionally paused for weekly prioritization, not broken. igpops TEST SMALL census held to Oct 14; $0."
 }

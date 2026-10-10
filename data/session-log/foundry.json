@@ -1,8 +1,15 @@
 {
   "areaId": "foundry",
   "areaName": "Harbor Foundry",
-  "lastUpdated": "2026-10-09T09:15:00-05:00",
+  "lastUpdated": "2026-10-10T08:10:00-05:00",
   "entries": [
+    {
+      "date": "2026-10-10",
+      "time": "08:10 CT",
+      "actor": "Fernando (Ops)",
+      "summary": "Weekly Priority Reset: all Foundry Ops routines intentionally paused for weekly prioritization \u2014 not broken, no auto-resume; Oversight decides when they come back. Scheduled brief/Scout items removed from Next Up. igpops TEST SMALL (Oct 14) held untouched; queues and experiments unchanged.",
+      "deskChanges": "snapshot headline/currentStatus + Next Up + session log"
+    },
     {
       "date": "2026-10-09",
       "time": "09:15 CT",
